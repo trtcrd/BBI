@@ -1,8 +1,26 @@
-################################################################
-# BBI : Benthic Biotic Indices calculation function
-# author : tristan cordier
-# contact : tristan.cordier [a] gmail.com
-################################################################
+#' BBI : Benthic Biotic Indices calculation function
+#' 
+#' @description The \code{BBI} package is meant to calculate Benthic Biotic Indices from
+#' composition data, obtained whether from morphotaxonomic inventories or 
+#' sequencong data. Based on reference ecological weights publicly available for 
+#' a set of commonly used marine biotic indices, such as AMBI (Borja et al., 2000)
+#' NSI and ISI indices (Rygg 2013).
+#'
+#' @param data A data frame containing samples as columns and taxa as rows, with 
+#'   species (or last taxonomic rank) in the first column \code{data}
+#'
+#' @return Function \code{BBI} returns a list of containing:
+#'   \enumerate{
+#'   \item \code{found} - the amount of taxa that matched an entry in the
+#'   database and the amount that did not
+#'   \item \code{BBI} - the BBI values per sample
+#'   \item \code{table} - the subset of composition data that contains only taxa with 
+#'   at least a match in one of the BBI
+#'   \item \code{taxa} - the list of taxa that matched an entry and the correspondant OTU, if from NGS data.
+#'
+#' @example BBI(my_table)
+#' @author Tristan Cordier
+#' @export
 
 # BBI function
 BBI <- function(data) {
@@ -10,55 +28,45 @@ BBI <- function(data) {
   require(vegan)
   # if data is not a data.frame
   data <- as.data.frame(data)
-  ## import the reference BI table
-  eco_index <- read.table("TABLE_REF/TABLE_REF_BBI.txt", header=TRUE, sep="\t", dec=",")
-  # table morpho
-  table_test <- data
-  tax_n <- table_test[,1]
+  ## import the reference BI table !!!! 
+  eco_index <- read.table("TABLE_REF/TABLE_REF.txt", header=TRUE, sep="\t", dec=",")
+  # fetch the taxa list from data
+  tax_n <- data[,1]
+  # ugly trick for indexing later
   tax_n <- cbind(as.character(tax_n), as.character(tax_n))
-
-  otu_id <- rownames(table_test)
-  
-  ## counting
+  # get the OTU id if sequencing data
+  otu_id <- rownames(data)
+  ## initiate counting stuffs
   cpt_found <- 0 
   cpt_not <- 0
   found_index <- c()
   
   # need to convert each comumns into numeric (WEIRD behaviour : check http://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-an-integer-numeric-without-a-loss-of-information)
-  if (is.factor(table_test[,2]) == T) for (i in 2:dim(table_test)[2]) table_test[,i] <- as.numeric(levels(table_test[,i])[table_test[,i]])
+  if (is.factor(data[,2]) == T) for (i in 2:dim(data)[2]) data[,i] <- as.numeric(levels(data[,i])[data[,i]])
   
-  # # if duplicate row names, the aggregate by taxa name
-  # if (dim(table_test)[1] != length(unique(tax_n[,1]))) 
-  # {
-  #   dat_dna <- aggregate(table_test[,2:dim(table_test)[2]], by = list(tax_n[,1]), FUN = "sum")
-  #   tax_n <- dat_dna[,1]
-  #   tax_n <- cbind(as.character(tax_n), as.character(tax_n))
-  #   otu_list <- grep("OTU", tax_n[,1], ignore.case = F)
-  #   tax_n <- tax_n[-otu_list,]
-  #   dat_dna <- dat_dna[-otu_list,2:dim(dat_dna)[2]]
-  #   
-  # } else {
-  # in case of correlation screening, removing OTU without correlation to speed up process
+  # in case of NGS data, removing unassigned OTU to speed up the process
   otu_list <- grep("OTU", tax_n[,1], ignore.case = F)
   if (length(otu_list) > 0) tax_n <- tax_n[-otu_list,]
-  if (length(otu_list) > 0) dat_dna <-  table_test[-otu_list,2:dim(table_test)[2]] else dat_dna <-  table_test[,2:dim(table_test)[2]]
-  # }
-  
-  # creating the OTU table with indices values binded
-  out <- as.data.frame(array(NA, c(dim(tax_n)[1],6)))
-  dimnames(out)[[2]] <- c("query","AMBI", "ITI_GROUP", "ISI_value", "NSI", "Bentix")
+  # then isolate the compositon data from taxa (dat <- composition data AND tax_n <- taxa list)
+  if (length(otu_list) > 0) 
+  {
+    dat <-  data[-otu_list,2:dim(data)[2]] 
+  } else {
+    dat <-  data[,2:dim(data)[2]]
+  }
+
+  # creating the list of taxa with reference ecological weights binded
+  out <- as.data.frame(array(NA, c(dim(tax_n)[1],7)))
+  dimnames(out)[[2]] <- c("query","AMBI", "ITI_GROUP", "ISI_value", "NSI", "NSI.group", "Bentix")
   
   for (i in 1:dim(tax_n)[1])
   {
-    # keep the last value in taxonomy assignment
-    sp <- tail(unlist(strsplit(as.character(tax_n[i,2]), split="|", fixed=TRUE)),1)
-    # if we got a species or sp. as assignement, replace "+" by " "
+    # keep the last value in taxonomy assignment (note that here ';' is used as separator)
+    sp <- tail(unlist(strsplit(as.character(tax_n[i,2]), split=";", fixed=TRUE)),1)
+    # if we got a species or sp. as assignement, replace "+" by " " and other cleaning taxa name
     sp <- gsub("+", " ", sp, fixed=TRUE)
     sp <- gsub("_", " ", sp, fixed=TRUE)
     sp <- gsub(" Cmplx.", "", sp, fixed=TRUE)
-    
-    #sp <- gsub("Capitella sp. LFR-2016", "Capitella capitata", sp, fixed=TRUE)
-    
     sp <- gsub(" environmental sample", "", sp, fixed=TRUE)
     sp <- gsub(" indet.", "", sp, fixed=TRUE)
     sp <- gsub(" indet", "", sp, fixed=TRUE)
@@ -98,11 +106,13 @@ BBI <- function(data) {
           iti  <- eco_index[y,"Iti_group"]
           isi  <- eco_index[y,"ISI.2012"]
           nsi  <- eco_index[y,"NSI.value"]
+          nsi_g  <- eco_index[y,"NSI.group"]
           ben  <- eco_index[y,"bentix"]
           out[i,"AMBI"] <- ceiling(median(as.numeric(as.vector(ambi))))  # round to the ceiling value if median is not integer
           out[i,"ITI_GROUP"] <- median(as.numeric(as.vector(iti)))
           out[i,"ISI_value"] <- median(as.numeric(as.vector(isi)))
           out[i,"NSI"] <- median(as.numeric(as.vector(nsi)))
+          out[i,"NSI.group"] <- ceiling(median(as.vector(nsi_g)))
           out[i,"Bentix"] <- ceiling(median(as.numeric(as.vector(ben))))
           print(paste("   Done - ", sp, " AMBI value ", out[i,"AMBI"], sep=""))
           cpt_found <- cpt_found + 1
@@ -119,11 +129,13 @@ BBI <- function(data) {
         iti  <- eco_index[y,"Iti_group"]
         isi  <- eco_index[y,"ISI.2012"]
         nsi  <- eco_index[y,"NSI.value"]
+        nsi_g  <- eco_index[y,"NSI.group"]
         ben  <- eco_index[y,"bentix"]
         out[i,"AMBI"] <- ceiling(median(as.numeric(as.vector(ambi))))  # round to the ceiling value if median is not integer
         out[i,"ITI_GROUP"] <- median(as.numeric(as.vector(iti)))
         out[i,"ISI_value"] <- median(as.numeric(as.vector(isi)))
         out[i,"NSI"] <- median(as.numeric(as.vector(nsi)))
+        out[i,"NSI.group"] <- ceiling(median(as.vector(nsi_g)))
         out[i,"Bentix"] <- ceiling(median(as.numeric(as.vector(ben))))
         print(paste("   Done - ", sp, " AMBI value ", out[i,"AMBI"], sep=""))
         cpt_found <- cpt_found + 1
@@ -154,11 +166,13 @@ BBI <- function(data) {
           iti  <- eco_index[y,"Iti_group"]
           isi  <- eco_index[y,"ISI.2012"]
           nsi  <- eco_index[y,"NSI.value"]
+          nsi_g  <- eco_index[y,"NSI.group"]
           ben  <- eco_index[y,"bentix"]
           out[i,"AMBI"] <- as.numeric(as.vector(ambi))
           out[i,"ITI_GROUP"] <- as.numeric(as.vector(iti))
           out[i,"ISI_value"] <- as.numeric(as.vector(isi))
           out[i,"NSI"] <- as.numeric(as.vector(nsi))
+          out[i,"NSI.group"] <- as.vector(nsi_g)
           out[i,"Bentix"] <- as.numeric(as.vector(ben))
           print(paste("   Done - ", sp, " AMBI value ", eco_index[y,"AMBI"], sep=""))
           cpt_found <- cpt_found + 1
@@ -169,11 +183,13 @@ BBI <- function(data) {
           iti  <- eco_index[y,"Iti_group"]
           isi  <- eco_index[y,"ISI.2012"]
           nsi  <- eco_index[y,"NSI.value"]
+          nsi_g  <- eco_index[y,"NSI.group"]
           ben  <- eco_index[y,"bentix"]
           out[i,"AMBI"] <- ceiling(median(as.numeric(as.vector(ambi)))) # ceiling value if not integer
           out[i,"ITI_GROUP"] <- median(as.numeric(as.vector(iti)))
           out[i,"ISI_value"] <- median(as.numeric(as.vector(isi)))
           out[i,"NSI"] <- median(as.numeric(as.vector(nsi)))
+          out[i,"NSI.group"] <- ceiling(median(as.vector(nsi_g)))
           out[i,"Bentix"] <- ceiling(median(as.numeric(as.vector(ben))))
           print(paste("   Done - ", sp, " AMBI value ", out[i,"AMBI"], sep=""))
           cpt_found <- cpt_found + 1
@@ -196,11 +212,13 @@ BBI <- function(data) {
             iti  <- eco_index[y,"Iti_group"]
             isi  <- eco_index[y,"ISI.2012"]
             nsi  <- eco_index[y,"NSI.value"]
+            nsi_g  <- eco_index[y,"NSI.group"]
             ben  <- eco_index[y,"bentix"]
             out[i,"AMBI"] <- as.numeric(as.vector(ambi))
             out[i,"ITI_GROUP"] <- as.numeric(as.vector(iti))
             out[i,"ISI_value"] <- as.numeric(as.vector(isi))
             out[i,"NSI"] <- as.numeric(as.vector(nsi))
+            out[i,"NSI.group"] <- as.vector(nsi_g)
             out[i,"Bentix"] <- as.numeric(as.vector(ben))
             print(paste("   Done - ", sp, sep=""))
             cpt_found <- cpt_found + 1
@@ -213,11 +231,13 @@ BBI <- function(data) {
         iti  <- eco_index[y,"Iti_group"]
         isi  <- eco_index[y,"ISI.2012"]
         nsi  <- eco_index[y,"NSI.value"]
+        nsi_g  <- eco_index[y,"NSI.group"]
         ben  <- eco_index[y,"bentix"]
         out[i,"AMBI"] <- as.numeric(as.vector(ambi))
         out[i,"ITI_GROUP"] <- as.numeric(as.vector(iti))
         out[i,"ISI_value"] <- as.numeric(as.vector(isi))
         out[i,"NSI"] <- as.numeric(as.vector(nsi))
+        out[i,"NSI.group"] <- as.vector(nsi_g)
         out[i,"Bentix"] <- as.numeric(as.vector(ben))
         print(paste("   Done - ", sp, " AMBI: ", eco_index[y,"AMBI"], sep=""))
         cpt_found <- cpt_found + 1
@@ -227,38 +247,39 @@ BBI <- function(data) {
     }
     out[i,"query"] <- sp
   }
-  
+  # print the results of matching search
   print(paste("==== Found match :", cpt_found, " Not found :", cpt_not, "===="))
   
-  output <- cbind(tax_n, out, dat_dna)
+  # bind all taxa, eco-weights, and composition data
+  output <- cbind(tax_n, out, dat)
   
+  # ugly trick to deal if whether or not sequencong data
   otu_id_list <- cbind(tax_n, otu_id)
   
-  ## compute shannon on taxa that got at least one value
-  tmp_sha <- t(dat_dna[,1:dim(dat_dna)[2]])
+  ## compute shannon (base 2) on taxa that got at least one value (not the best, but it is computed like that in Norway)
+  tmp_sha <- t(dat[,1:dim(dat)[2]])
   tmp_sha[is.na(tmp_sha)] <- 0
   output_shannon <- diversity(tmp_sha, index="shannon", base = 2)
   
   # to make the rownames having unique names when same species is identified... 
-  # because dimnames(output)[[1]] <- tax_n[,1] does not want it
   dimnames(output)[[1]] <- make.unique(tax_n[,1])
   
+  # to keep only the rownames (unique taxa), eco-weight, composition data
   output <- output[,4:dim(output)[2]]
   
-  print(output[,1:5])
-  
+  # subset to keep only taxa for which at least one match in on of the BI
   output <- subset(output, found_index==1)
   otu_id_list <- subset(otu_id_list, found_index==1)
   
-  ### 
-  
+  ############################################################
   ### now compute all indices.
+  ############################################################
   
   data_ <- output
   
-  indices <- as.data.frame(array(NA, c(7,dim(data_)[2]-5)))
+  indices <- as.data.frame(array(NA, c(7,dim(data_)[2]-6)))
   dimnames(indices)[[1]] <- c("AMBI", "ITI", "ISI", "NSI", "NQI1", "Bentix", "Shannon")
-  dimnames(indices)[[2]] <- dimnames(data_)[[2]][6:dim(data_)[2]]
+  dimnames(indices)[[2]] <- dimnames(data_)[[2]][7:dim(data_)[2]]
   
   indices["Shannon",] <- output_shannon
   
@@ -379,5 +400,9 @@ BBI <- function(data) {
     indices["Bentix", i] <- bentix_value
     
   }
-  return(list("taxa" = c("Found match:", cpt_found, " Not found:", cpt_not), "bi_values" = t(indices), "table_indices" = output, "OTU_list" = otu_id_list))
+  output <- list("found" = c("Found match:", cpt_found, " Not found:", cpt_not), 
+                 "BBI" = t(indices), 
+                 "table" = output, 
+                 "taxa" = otu_id_list)
+  return(output)
 }
