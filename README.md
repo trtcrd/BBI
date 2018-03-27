@@ -9,7 +9,7 @@ Composition data can be infered unsing morpho-taxonomy or DNA based assignements
 
 To be able to use the BBI package, the following is required:
 1. R or RStudio
-2. vegan package (see https://cran.r-project.org/web/packages/vegan/index.html)
+2. vegan package (install.packages("vegan"))
 3. BBI package (see the installation section below)
 4. Composition data (see below for format)
 
