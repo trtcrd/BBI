@@ -29,7 +29,7 @@ BBI <- function(data) {
   # if data is not a data.frame
   data <- as.data.frame(data)
   ## import the reference BI table !!!! 
-  eco_index <- read.table("TABLE_REF/TABLE_REF.txt", header=TRUE, sep="\t", dec=",")
+  eco_index <- read.table("inst/TABLE_REF.txt", header=TRUE, sep="\t", dec=",")
   # fetch the taxa list from data
   tax_n <- data[,1]
   # ugly trick for indexing later
