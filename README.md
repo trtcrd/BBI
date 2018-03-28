@@ -2,14 +2,17 @@
 
 BBI is a R package for Benthic Biotic Indices calculation from composition data
 
-It takes composition data with associated taxonomic assignments as input and output biotic indices values. 
-Composition data can be infered unsing morpho-taxonomy or DNA based assignements.
+It takes composition data with associated taxonomic assignments as input and output biotic indices values.
+It also return the ecological quality status for each pair of sample-BBI.
+These BBI values can be used to calculate the normalized Ecological Quality Ratio (nEQR)
+
+The composition can be derived from morpho-taxonomy or DNA based assignements.
 
 ## Requirements
 
 To be able to use the BBI package, the following is required:
 1. R or RStudio
-2. vegan package (install.packages("vegan"))
+2. vegan package
 3. BBI package (see the installation section below)
 4. Composition data (see below for format)
 
@@ -36,15 +39,66 @@ Nemertea indet.|17|0|110|15|...
 ...|...|...|...|...
 
 
-## An example of output from BBI 
+## Usage example
 
-SampleID|AMBI|ITI|ISI|NSI|NQI1|Bentix|Shannon
---- | --- | --- | --- | ---  | --- | --- | ---
-Sample1|3.179310|15.1489913|9.301250|20.90030|0.6147135|0|2.304191
-Sample2|3.466875|3.5714286|9.571429|19.93133|0.5450725|0|2.755729
-Sample3|3.269499|24.4289970|8.661667|18.00327|0.5796122|0|2.376514
-Sample4|3.810226|18.5291309|9.056000|20.73982|0.5178981|0|2.069489
-...|...|...|...|...
+There is two functions:
+BBI calculates and return for each sample the biotic indices values and their ecological quality status. 
+nEQR calculates and return for each sample the nEQR values and the associated normalized ecological quality status.
+
+```
+library(BBI)
+# calculating BBI values and ecological quality status
+my_BBI <- BBI(my_composition_data)
+# calculating nEQR values and ecological quality status
+my_nEQR <- nEQR(my_BBI)
+
+```
+
+## An example of output from BBI function
+
+```
+> my_BBI$found
+[1] "Found match:" "101"          " Not found:"  "399" 
+
+> my_BBI$BBI
+            AMBI       ISI      NSI      NQI1  Shannon        ITI    Bentix
+Sample1 3.178476  9.571429 20.81954 0.5830994 2.093312 15.0084794 2.0249856
+Sample2 3.471889  9.571429 19.93133 0.5284062 2.465243 21.4910281 2.4569632
+Sample3 3.272532  9.180000 18.35880 0.5415376 2.181589 23.0795610 2.8546545
+Sample4 4.777285  9.042857 20.92236 0.4173243 2.562996 23.3007691 2.9201504
+
+> my_BBI$BBIclass
+          AMBI        ISI         NSI        NQI1       Shannon   
+Sample1   "good"      "good"      "good"     "moderate" "moderate"
+Sample2   "moderate"  "good"      "moderate" "moderate" "moderate"
+Sample3   "good"      "good"      "moderate" "moderate" "moderate"
+Sample4   "bad"       "good"      "good"     "bad"      "moderate"
+
+```
+
+## An example of output from nEQR function
+
+```
+> my_nEQR$nEQR
+            nAMBI      nISI      nNSI     nNQI1  nShannon      nEQR
+Sample1 0.6115737 0.7342886 0.6327817 0.5329992 0.4351477 0.5893582
+Sample2 0.5656222 0.7342886 0.5972531 0.4548661 0.5027715 0.5709603
+Sample3 0.6026160 0.6995857 0.5343520 0.4736251 0.4511980 0.5522754
+Sample4 0.3204526 0.6874270 0.6368945 0.3192493 0.5205447 0.4969136
+
+> my_nEQR$nEQR_class
+        nEQR                nEQR_class
+Sample1 "0.58935817792461"  "moderate"
+Sample2 "0.570960301407608" "moderate"
+Sample3 "0.552275367599034" "moderate"
+Sample4 "0.496913603640647" "moderate"
+
+```
+
+
+
+
+
 
 
 
