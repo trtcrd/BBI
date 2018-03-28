@@ -58,7 +58,7 @@ my_nEQR <- nEQR(my_BBI)
 
 ```
 > my_BBI$found
-[1] "Found match:" "101"          " Not found:"  "399" 
+[1] "Found match:" "101"          " Not found:"  "31" 
 
 > my_BBI$BBI
             AMBI       ISI      NSI      NQI1  Shannon        ITI    Bentix
