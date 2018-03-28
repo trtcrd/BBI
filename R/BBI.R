@@ -22,7 +22,11 @@
 #' @author Tristan Cordier
 #' @export
 
-# BBI function
+# sourcing the others of functions
+source("R/nEQR.R")
+source("R/status.R")
+
+# BBI main function
 BBI <- function(data) {
   # package requirement
   require(vegan)
@@ -36,6 +40,7 @@ BBI <- function(data) {
   tax_n <- cbind(as.character(tax_n), as.character(tax_n))
   # get the OTU id if sequencing data
   otu_id <- rownames(data)
+  
   ## initiate counting stuffs
   cpt_found <- 0 
   cpt_not <- 0
@@ -278,7 +283,7 @@ BBI <- function(data) {
   data_ <- output
   
   indices <- as.data.frame(array(NA, c(7,dim(data_)[2]-6)))
-  dimnames(indices)[[1]] <- c("AMBI", "ITI", "ISI", "NSI", "NQI1", "Bentix", "Shannon")
+  dimnames(indices)[[1]] <- c("AMBI", "ISI", "NSI", "NQI1", "Shannon", "ITI", "Bentix")
   dimnames(indices)[[2]] <- dimnames(data_)[[2]][7:dim(data_)[2]]
   
   indices["Shannon",] <- output_shannon
@@ -400,8 +405,27 @@ BBI <- function(data) {
     indices["Bentix", i] <- bentix_value
     
   }
+  
+  ## now we can return the dicrete assessment for each BBI
+  tmp <- t(indices)[,c("AMBI", "ISI", "NSI", "NQI1", "Shannon")]
+  # preparing the class array
+  ind_class <- tmp
+  for (i in 1:nrow(ind_class))
+  {
+    for (j in colnames(ind_class))
+    {
+      if (j == "AMBI") ind_class[i,j] <- e$status.ambi(tmp[i,j])
+      if (j == "ISI") ind_class[i,j]  <- e$status.isi(tmp[i,j])
+      if (j == "NSI") ind_class[i,j]  <- e$status.nsi(tmp[i,j])
+      if (j == "NQI1") ind_class[i,j]  <- e$status.nqi1(tmp[i,j])
+      if (j == "Shannon") ind_class[i,j] <- e$status.shannon(tmp[i,j])
+    }
+  }
+  
+  # preparing the output
   output <- list("found" = c("Found match:", cpt_found, " Not found:", cpt_not), 
                  "BBI" = t(indices), 
+                 "BBIclass" = ind_class,
                  "table" = output, 
                  "taxa" = otu_id_list)
   return(output)
