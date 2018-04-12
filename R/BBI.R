@@ -64,10 +64,27 @@ BBI <- function(data) {
   out <- as.data.frame(array(NA, c(dim(tax_n)[1],7)))
   dimnames(out)[[2]] <- c("query","AMBI", "ITI_GROUP", "ISI_value", "NSI", "NSI.group", "Bentix")
   
+  # storing the last rank of assignements (original query) and the processed one
+  queries <- as.data.frame(array(NA, c(dim(tax_n)[1],2)))
+  colnames(queries) <- c("original","cleaned")
+  
+  # for each taxa
   for (i in 1:dim(tax_n)[1])
   {
     # keep the last value in taxonomy assignment (note that here ';' is used as separator)
     sp <- tail(unlist(strsplit(as.character(tax_n[i,2]), split=";", fixed=TRUE)),1)
+    # storing the original query 
+    queries[i,"original"] <- sp
+    ### if uncultured or unknown as last rank, get the one before
+    n=1
+    if (length(grep("uncultu", sp, ignore.case = T)) > 0 | length(grep("unknown", sp, ignore.case = T)) > 0)
+    {
+      while (length(grep("uncultu", sp, ignore.case = T)) > 0 | length(grep("unknown", sp, ignore.case = T)) > 0)
+      {
+        n = n+1
+        sp <- tail(strsplit(as.character(tax_n[i,2]), ";")[[1]], n)[1]
+      }
+    }
     # if we got a species or sp. as assignement, replace "+" by " " and other cleaning taxa name
     sp <- gsub("+", " ", sp, fixed=TRUE)
     sp <- gsub("_", " ", sp, fixed=TRUE)
@@ -88,6 +105,9 @@ BBI <- function(data) {
     {
       sp <- strsplit(sp, split=" (", fixed=TRUE)[[1]][1]
     }
+    # storing the cleaned query
+    queries[i,"cleaned"] <- sp
+    
     # check if there a value in reference eco values
     y <- grep(sp, eco_index[,"species"], ignore.case = TRUE)
     print(paste("Processing : ", sp, " - ", length(y), " match in database so far", sep=""))
@@ -424,6 +444,7 @@ BBI <- function(data) {
   
   # preparing the output
   output <- list("found" = c("Found match:", cpt_found, " Not found:", cpt_not), 
+                 "queries" = queries,
                  "BBI" = t(indices), 
                  "BBIclass" = ind_class,
                  "table" = output, 
