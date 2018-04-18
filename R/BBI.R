@@ -77,7 +77,7 @@ BBI <- function(data) {
     queries[i,"original"] <- sp
     ### if uncultured or unknown as last rank, get the one before
     n=1
-    if (length(grep("uncultu", sp, ignore.case = T)) > 0 | length(grep("unknown", sp, ignore.case = T)) > 0)
+    if (strsplit(as.character(tax_n[i,2]), ";")[[1]] > 1 & length(grep("uncultu", sp, ignore.case = T)) > 0 | length(grep("unknown", sp, ignore.case = T)) > 0)
     {
       while (length(grep("uncultu", sp, ignore.case = T)) > 0 | length(grep("unknown", sp, ignore.case = T)) > 0)
       {
