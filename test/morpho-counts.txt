@@ -22,6 +22,7 @@ Thyasira dunbari	0	0	0	0	4	0	0	0	7	13
 Leitoscoloplos mammosus	0	0	0	0	6	6	2	0	4	3
 Thyasira gouldi	0	0	0	0	11	4	0	0	0	5
 Rhodine gracilior	0	0	0	0	9	9	0	0	0	0
+Uncultured eukaryote	0	0	0	0	9	9	0	0	0	0
 Scoloplos armiger	0	0	0	0	8	7	0	0	1	1
 Phascolion strombus	0	0	0	0	1	6	0	0	3	5
 Cylichnina sp.	0	0	0	0	5	6	0	0	0	3
