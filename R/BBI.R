@@ -18,7 +18,7 @@
 #'   at least a match in one of the BBI
 #'   \item \code{taxa} - the list of taxa that matched an entry and the correspondant OTU, if from NGS data.
 #'
-#' @example BBI(my_table)
+#' @example BBI(my_table, log = FALSE)
 #' @author Tristan Cordier
 #' @export
 #' BBI()

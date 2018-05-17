@@ -3,7 +3,7 @@
 \alias{BBI}
 \title{BBI}
 \usage{
-BBI(data)
+BBI(data, log = FALSE)
 }
 
 \arguments{
