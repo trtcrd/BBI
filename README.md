@@ -27,22 +27,22 @@ install_github("trtcrd/BBI")
 ```
 
 
-## An example of composition data adequate for BBI 
+## An example of composition data adequate for BBI
 
-taxa|Sample1|Sample2|Sample3|Sample4|...  
+taxa|Sample1|Sample2|Sample3|Sample4|...
 --- | --- | --- | --- | ---  | ---
-Capitella capitata|11|204|100|299|...   
-Paramphinome jeffreysii|3|2201|100|388|...   
-Nematoda sp.|0|20|130|10|...   
-Glycera alba|147|0|0|9|... 
-Nemertea indet.|17|0|110|15|... 
+Capitella capitata|11|204|100|299|...
+Paramphinome jeffreysii|3|2201|100|388|...
+Nematoda sp.|0|20|130|10|...
+Glycera alba|147|0|0|9|...
+Nemertea indet.|17|0|110|15|...
 ...|...|...|...|...
 
 
 ## Usage example
 
 There is two functions:
-BBI calculates and return for each sample the biotic indices values and their ecological quality status. 
+BBI calculates and return for each sample the biotic indices values and their ecological quality status.
 nEQR calculates and return for each sample the nEQR values and the associated normalized ecological quality status.
 
 ```
@@ -50,7 +50,7 @@ library(BBI)
 # calculating BBI values and ecological quality status
 my_BBI <- BBI(my_composition_data)
 # calculating nEQR values and ecological quality status
-my_nEQR <- nEQR(my_BBI)
+my_nEQR <- nEQR(my_BBI$BBI)
 
 ```
 
@@ -58,7 +58,7 @@ my_nEQR <- nEQR(my_BBI)
 
 ```
 > my_BBI$found
-[1] "Found match:" "101"          " Not found:"  "31" 
+[1] "Found match:" "101"          " Not found:"  "31"
 
 > my_BBI$BBI
             AMBI       ISI      NSI      NQI1  Shannon        ITI    Bentix
@@ -68,7 +68,7 @@ Sample3 3.272532  9.180000 18.35880 0.5415376 2.181589 23.0795610 2.8546545
 Sample4 4.777285  9.042857 20.92236 0.4173243 2.562996 23.3007691 2.9201504
 
 > my_BBI$BBIclass
-          AMBI        ISI         NSI        NQI1       Shannon   
+          AMBI        ISI         NSI        NQI1       Shannon
 Sample1   "good"      "good"      "good"     "moderate" "moderate"
 Sample2   "moderate"  "good"      "moderate" "moderate" "moderate"
 Sample3   "good"      "good"      "moderate" "moderate" "moderate"
@@ -94,12 +94,3 @@ Sample3 "0.552275367599034" "moderate"
 Sample4 "0.496913603640647" "moderate"
 
 ```
-
-
-
-
-
-
-
-
-

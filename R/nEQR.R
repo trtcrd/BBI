@@ -1,5 +1,13 @@
-#### nEQR calculation from BBI values 
-## the boundaries between classes are the normalized one from each of the indices 
+#' nEQR function
+#' @param data A data frame containing samples as row and BBI values as column.
+#' @example nEQR(my_BBI$BBI)
+#' @author Tristan Cordier
+#' @export
+#' nEQR()
+
+
+#### nEQR calculation from BBI values
+## the boundaries between classes are the normalized one from each of the indices
 
 ## create a "e" environment for storing the functions
 e <-new.env()
@@ -111,10 +119,10 @@ e$nEQR.shannon <- function(z){
 
 ## and now the main function to compute nEQR across several BBI
 
-nEQR <- function (BI_val) {
+nEQR <- function (data) {
   ## if bentix indices is given (it is not included in the nEQR assessment..)
-  print("Bentix and ITI are being removed (if any), because not included in the nEQR assessment regulations")
-  BI_val <- BI_val[,!(colnames(BI_val)) %in% c("Bentix", "ITI")]
+  message("Bentix and ITI are being removed (if any), because not included in the nEQR assessment regulations")
+  BI_val <- data[,!(colnames(data)) %in% c("Bentix", "ITI")]
   ## now compute nEQR
   # preparing the output
   out_n <- cbind(BI_val, EQR = rep(0, nrow(BI_val)))
@@ -130,16 +138,15 @@ nEQR <- function (BI_val) {
   colnames(out_n) <- paste0("n", colnames(out_n))
   ## then average over the row for nEQR
   out_n[,"nEQR"] <- rowMeans(out_n[,!(colnames(out_n)) %in% c("nEQR")])
-  
+
   ## now we can return the dicrete assessment for nEQR
   neqr_class  <- out_n[,"nEQR"]
   # getting the status
   for (i in 1:length(neqr_class)) neqr_class[i] <- e$status.nEQR(out_n[i,"nEQR"])
-  
+
   ## preparing the output
-  output <- list("nEQR" = out_n, 
+  output <- list("nEQR" = out_n,
                  "nEQRclass" = cbind(nEQR = as.numeric(out_n[,"nEQR"]), nEQR_class = neqr_class))
-  
+
   return(output)
 }
-
