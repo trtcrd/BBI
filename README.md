@@ -94,3 +94,14 @@ Sample3 "0.552275367599034" "moderate"
 Sample4 "0.496913603640647" "moderate"
 
 ```
+
+
+## Version history
+
+### version 0.2.0 ###
+
+Various code cleaning and optimizations, added help pages for package functions
+
+### version 0.1.0 ###
+
+First version

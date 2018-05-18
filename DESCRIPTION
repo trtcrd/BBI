@@ -1,6 +1,6 @@
 Package: BBI
 Type: Package
-Title: Benthic Biotic Indices calculation from composition data
+Title: Benthic Biotic Indices Calculation from Composition Data
 Version: 0.2.0
 Authors@R: person("Tristan", "Cordier", email = "tristan.cordier@gmail.com",
     role = c("aut", "cre"))

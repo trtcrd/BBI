@@ -29,7 +29,7 @@ data("metab")
 data("morpho")
 ## Computing BBI indices
 BI_metab <- BBI(metab)
-BI_metab <- BBI(morpho)
+BI_morpho <- BBI(morpho)
 ## And then computing nEQR
 eqr <- nEQR(BI_metab$BBI)
 ## print nEQR values
