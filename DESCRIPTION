@@ -13,7 +13,7 @@ Description: The BBI package is meant to calculate Benthic Biotic Indices from
 	a set of commonly used marine biotic indices, such as AMBI (Borja et al., 2000)
 	NSI and ISI indices (Rygg 2013). It provides the ecological quality status of
 	the samples based on each BBI as well as the normalized Ecological Quality Ratio.
-License: GNU Affero General Public License v3.0
+License: file LICENSE
 Encoding: UTF-8
 BugReports: https://github.com/trtcrd/BBI/issues
 URL: https://github.com/trtcrd/BBI
