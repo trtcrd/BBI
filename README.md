@@ -18,7 +18,14 @@ To be able to use the BBI package, the following is required:
 
 ## Installation
 
-The BBI package can be installed in R or RStudio using the devtools package, by typing these commands in R :
+The BBI package, in its lastest stable release, is available at:
+https://cran.r-project.org/web/packages/BBI/index.html
+It can be installed using the following command within R :
+```
+install.packages("BBI")
+``
+
+Alternatively, the developpement versino can be installed by typing these commands in R :
 
 ```
 install.packages("devtools")
