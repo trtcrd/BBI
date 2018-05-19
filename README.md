@@ -23,7 +23,7 @@ https://cran.r-project.org/web/packages/BBI/index.html
 It can be installed using the following command within R :
 ```
 install.packages("BBI")
-``
+```
 
 Alternatively, the developpement versino can be installed by typing these commands in R :
 
