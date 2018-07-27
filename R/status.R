@@ -1,57 +1,39 @@
-# function for converting the continuous values into discrete assessement
+# function for converting the continuous values into discrete assessement. 
 
-e$status.ambi <- function(z){
-  if(is.na(z)) return("NA")
-  if (z < 1.2) return("very good")
-  else if (z >= 1.2 && z < 3.3)  return("good")
-  else if (z >= 3.3 && z < 4.3)  return("moderate")
-  else if (z >= 4.3 && z < 5.5)  return("bad")
-  else if (z >= 5.5)  return("very bad")
-}
+# Added an extra layer of security. Wrong values larger than possible or reasonable for an given index 
+# will appear now as 'NA' (instead to be dangerously classified as 'excelent quality').
 
-e$status.nsi <- function(z){
-  if(is.na(z)) return("NA")
-  if (z < 10) return("very bad")
-  else if (z >= 10 && z < 15) return("bad")
-  else if (z >= 15 && z < 20) return("moderate")
-  else if (z >= 20 && z < 25) return("good")
-  else if (z >= 25) return("very good")
-}
+# FIXME. Adjust better the maximum values allowed for each index if needed.
 
-e$status.nqi1 <- function(z){
-  if(is.na(z)) return("NA")
-  if (z < 0.31) return("very bad")
-  else if (z >= 0.31 && z < 0.49) return("bad")
-  else if (z >= 0.49 && z < 0.63) return("moderate")
-  else if (z >= 0.63 && z < 0.82) return("good")
-  else if (z >= 0.82) return("very good")
-}
+quality <- c("terrible","bad","moderate","good","excellent")  
+# deliberately avoiding names of levels with more than one word
 
+e$status.ambi <-function(z) {
+   if(is.na(z)) {return ("NA")}
+   else {cut(z, breaks = c(0,1.2,3.3,4.3,5.5,100), include.lowest=TRUE,labels=quality)}
+   }  # check upper limit 
 
-e$status.isi <- function(z){
-  if(is.na(z)) return("NA")
-  if (z < 4.5) return("very bad")
-  else if (z >= 4.5 && z < 6.1) return("bad")
-  else if (z >= 6.1 && z < 7.5) return("moderate")
-  else if (z >= 7.5 && z < 9.6) return("good")
-  else if (z >= 9.6) return("very good")
-}
+e$status.nsi <-function(z) {
+   if(is.na(z)) {return ("NA")}
+   else {cut(z, breaks = c(0,10,15,20,25,100), include.lowest=TRUE,labels=quality)}
+   }  # check max 
 
-e$status.shannon <- function(z){
-  if(is.na(z)) return("NA")
-  if (z < 0.9) return("very bad")
-  else if (z >= 0.9 && z < 1.9) return("bad")
-  else if (z >= 1.9 && z < 3) return("moderate")
-  else if (z >= 3 && z < 4.8) return("good")
-  else if (z >= 4.8) return("very good")
-}
+e$status.nqi1 <-function(z) {
+   if(is.na(z)) {return ("NA")}
+   else {cut(z, breaks = c(0,0.31,0.49,0.63,0.82,1), include.lowest=TRUE,labels=quality)}
+   }  # check max
 
+e$status.isi <-function(z) {
+   if(is.na(z)) {return ("NA")}
+   else {cut(z, breaks = c(0,4.5,6.1,7.5,9.6,10), include.lowest=TRUE,labels=quality)}
+   }  # check max
 
-e$status.nEQR <- function(z){
-  if(is.na(z)) return("NA")
-  if (z < 0.2) return("very bad")
-  else if (z >= 0.2 && z < 0.4) return("bad")
-  else if (z >= 0.4 && z < 0.6) return("moderate")
-  else if (z >= 0.6 && z < 0.8) return("good")
-  else if (z >= 0.8) return("very good")
-}
+e$status.shannon <-function(z) {
+   if(is.na(z)) {return ("NA")}
+   else {cut(z, breaks = c(0,0.9,1.9,3,4.8,1000000), include.lowest=TRUE,labels=quality)}
+   }  # shannon index does not have a defined upper limit. We assume than is lower than one million in any case.
+
+e$status.nEQR <-function(z) {
+   if(is.na(z)) {return ("NA")}
+   else {cut(z, breaks = c(0,0.2,0.4,0.6,0.8,1), include.lowest=TRUE,labels=quality)}
+   }  # check than max allowed = 1
