@@ -1,6 +1,6 @@
 # BBI
 
-Set of functions to calculate Benthic Biotic Indices from composition data, obtained whether from morphotaxonomic inventories or sequencing data. 
+Set of functions to calculate Benthic Biotic Indices from composition data, obtained whether from morphotaxonomic inventories or sequencing data.
 
 It takes composition data with associated taxonomic assignments as input and output biotic indices values.
 It also return the ecological quality status for each pair of sample-BBI.
@@ -107,6 +107,10 @@ Sample4 "0.496913603640647" "moderate"
 Cordier T., Pawlowski J. BBI: an R package for the computation of Benthic Biotic Indices from composition data. Metabarcoding and Metagenomics 2: e25649, doi: 10.3897/mbmg.2.25649
 
 ## Version history
+
+### version 0.3.0 ###
+
+Updated the BBI reference table
 
 ### version 0.2.0 ###
 

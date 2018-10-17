@@ -45,7 +45,7 @@ Acanthodoris rhodoceras	Acanthodoris rhodoceras	Metazoa	Mollusca	Gastropoda	Nudi
 Acanthohaustorius intermedius	Acanthohaustorius intermedius	Metazoa	Arthropoda	Malacostraca	Amphipoda	Haustoriidae	Acanthohaustorius	Acanthohaustorius intermedius	1						
 Acanthohaustorius millsi	Acanthohaustorius millsi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Haustoriidae	Acanthohaustorius	Acanthohaustorius millsi	1						
 Acanthomysis aspera 	Acanthomysis aspera 	to be checked manually	NA	NA	NA	NA	NA	Acanthomysis aspera 	2						
-Acanthoserolis schythei	Acanthoserolis schythei	Metazoa	Arthropoda	Malacostraca	Isopoda	Serolidae	Acanthoserolis	Acanthoserolis schythei	0						
+Acanthoserolis schythei	Acanthoserolis schythei	Metazoa	Arthropoda	Malacostraca	Isopoda	Serolidae	Acanthoserolis	Acanthoserolis schythei	1						
 Acanthostepheia malmgreni	Acanthostepheia malmgreni	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Acanthostepheia	Acanthostepheia malmgreni	2						
 Acasta spongites	Acastangites	to be checked manually	NA	NA	NA	NA	NA	Acasta spongites		1					
 Acaudina molpadioides	Acaudina molpadioides	Metazoa	Echinodermata	Holothuroidea	Molpadiida	Caudinidae	Acaudina	Acaudina molpadioides	2						
@@ -101,7 +101,7 @@ Acteon sp.	Acteon	Metazoa	Gastropoda	Gastropoda	Heterostropha	Acteonidae	Acteon	
 Acteon tornatilis	Acteon tornatilis	Metazoa	Gastropoda	Gastropoda	Heterostropha	Acteonidae	Acteon	Acteon tornatilis	1	3	0	16.9	27.62	1	
 Acteon vagabundus	Acteon vagabundus	Metazoa	Gastropoda	Gastropoda	Heterostropha	Acteonidae	Acteon	Acteon vagabundus	1						
 Acteonidae	ACTEONIDAE	Metazoa	Mollusca	Gastropoda	Heterostropha	Acteonidae	__	Acteonidae	1						
-Actinauge richardi	Actinauge richardi	Metazoa	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Actinauge	Actinauge richardi	0						
+Actinauge richardi	Actinauge richardi	Metazoa	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Actinauge	Actinauge richardi	1						
 Actinia equina	Actinia equina	Metazoa	Anthozoa	Anthozoa	Actiniaria	Actiniidae	Actinia	Actinia equina	1						
 Actiniaria	ACTINIARIA	Metazoa	Cnidaria	Anthozoa	Actiniaria	__	__	Actiniaria	2	3		18.98	32.17	1	
 Actiniidae	ACTINIIDAE	Metazoa	Cnidaria	Anthozoa	Actiniaria	Actiniidae	__	Actiniidae	2						
@@ -115,7 +115,7 @@ Adula diegensis	Adula diegensis	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Ad
 Adyte pellucida	Adyte pellucida	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Adyte	Adyte pellucida	2	2					1
 Adyte sp.	Adyte	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Adyte	Adyte sp.	2	2					
 Aedicira mediterranea	Aedicira mediterranea	Metazoa	Polychaeta	Polychaeta	NA	Paraonidae	Aedicira	Aedicira mediterranea	2						
-Aedicira sp.	Aedicira	Metazoa	Polychaeta	Polychaeta	NA	Paraonidae	Aedicira	Aedicira sp.	0						
+Aedicira sp.	Aedicira	Metazoa	Polychaeta	Polychaeta	NA	Paraonidae	Aedicira	Aedicira sp.	1						
 Aega	Aega	Animalia	Malacostraca	Malacostraca	Isopoda	Aegidae	Aega	Aega		3					
 Aegires albopunctatus	Aegires albopunctatus	Metazoa	Mollusca	Gastropoda	Nudibranchia	Aegiridae	Aegires	Aegires albopunctatus	1						
 Aeolidia papillosa	Aeolidia papillosa	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Aeolidiidae	Aeolidia	Aeolidia papillosa	1						
@@ -123,8 +123,8 @@ Aeolidia sp.	Aeolidia	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Aeolidiidae	Aeo
 Aequipecten opercularis	Aequipecten opercularis	Metazoa	Bivalvia	Bivalvia	Pectinida	Pectinidae	Aequipecten	Aequipecten opercularis	1	1					
 Aequipecten sp.	Aequipecten	Metazoa	Bivalvia	Bivalvia	Pectinida	Pectinidae	Aequipecten	Aequipecten sp.	1						
 Aesopus aliciae	Aesopus aliciae	to be checked manually	NA	NA	NA	NA	NA	Aesopus aliciae	1						
-Aetea anguina	Aetea anguina	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Aeteidae	Aetea	Aetea anguina	0						
-Aetea sica	Aetea sica	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Aeteidae	Aetea	Aetea sica	0						
+Aetea anguina	Aetea anguina	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Aeteidae	Aetea	Aetea anguina	1						
+Aetea sica	Aetea sica	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Aeteidae	Aetea	Aetea sica	1						
 Agladrillia fuegiensis	Agladrillia fuegiensis	to be checked manually	NA	NA	NA	NA	NA	Agladrillia fuegiensis	1						
 Aglaja ocelligera	Aglaja ocelligera	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Aglajidae	Aglaja	Aglaja ocelligera	1						
 Aglaja sp.	Aglaja	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Aglajidae	Aglaja	Aglaja sp.	1						
@@ -144,8 +144,8 @@ Aglaophamus rubella	Aglaophamus rubella	Metazoa	Annelida	Polychaeta	Phyllodocida
 Aglaophamus sinensis	Aglaophamus sinensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Aglaophamus	Aglaophamus sinensis	2						
 Aglaophamus sp.	Aglaophamus	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Aglaophamus	Aglaophamus sp.	2						
 Aglaophamus verrilli	Aglaophamus verrilli	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Aglaophamus	Aglaophamus verrilli	2						
-Aglaophenia acacia	Aglaophenia acacia	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Aglaophenia	Aglaophenia acacia	0						
-Aglaophenia pluma	Aglaophenia pluma	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Aglaophenia	Aglaophenia pluma	0						
+Aglaophenia acacia	Aglaophenia acacia	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Aglaophenia	Aglaophenia acacia	1						
+Aglaophenia pluma	Aglaophenia pluma	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Aglaophenia	Aglaophenia pluma	1						
 Agnezia septentrionalis	Agnezia septentrionalis	to be checked manually	NA	NA	NA	NA	NA	Agnezia septentrionalis	2						
 Aidanosagitta crassa	Aidanosagitta crassa	Metazoa	Arthropoda	Insecta	Lepidoptera	Oecophoridae	Crassa	Aidanosagitta crassa	1						
 Aiptasia diaphana	Aiptasia diaphana	Metazoa	Anthozoa	Anthozoa	Actiniaria	Aiptasiidae	Aiptasia	Aiptasia diaphana	3						
@@ -155,7 +155,7 @@ Akera bullata	Akera bullata	Metazoa	Gastropoda	Gastropoda	Anaspidea	Akeridae	Ake
 Akera sp.	Akera	Metazoa	Gastropoda	Gastropoda	Anaspidea	Akeridae	Akera	Akera sp.	1						
 Akeridae	AKERIDAE	Metazoa	Mollusca	Gastropoda	Anaspidea	Akeridae	__	Akeridae	1						
 Aktedrilus arcticus	Aktedrilus arcticus	Metazoa	Annelida	__	Haplotaxida	Tubificidae	Aktedrilus	Aktedrilus arcticus		4					
-Alaba incerta	Alaba incerta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Litiopidae	Alaba	Alaba incerta	0						
+Alaba incerta	Alaba incerta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Litiopidae	Alaba	Alaba incerta	1						
 Alabina phalacra	Alabina phalacra	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Litiopidae	Ala	Alabina phalacra	2						
 Albunea sp.	Albunea	Metazoa	Malacostraca	Malacostraca	Decapoda	Albuneidae	Albunea	Albunea sp.	1						
 Alcyonidioides mytili	Alcyonidioides mytili	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatida	Alcyonidiidae	Alcyonidioides	Alcyonidioides mytili	2						
@@ -166,7 +166,7 @@ Alcyonidium mytili	Alcyonidium mytili	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatid
 Alcyonidium parasiticum	Alcyonidium parasiticum	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatida	Alcyonidiidae	Alcyonidium	Alcyonidium parasiticum	2						
 Alcyonium sp.	Alcyonium	Metazoa	Anthozoa	Anthozoa	Alcyonacea	Alcyoniidae	Alcyonium	Alcyonium sp.	1	1					
 Alderia modesta	Alderia modesta	Metazoa	Mollusca	Gastropoda	Sacoglossa	Limapontiidae	Alderia	Alderia modesta	1						
-Alentia gelatinosa	Alentia gelatinosa	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Alentia	Alentia gelatinosa	0	2					
+Alentia gelatinosa	Alentia gelatinosa	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Alentia	Alentia gelatinosa	1	2					
 Alepas parasita	Alepas parasita	Animalia	Arthropoda	Maxillopoda	Pedunculata	Lepadidae	Alepas	Alepas parasita		1					
 Alia carinata	Alia carinata	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Alia	Alia carinata	2						
 Alia tuberosa	Alia tuberosa	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Alia	Alia tuberosa	2						
@@ -195,7 +195,7 @@ Alpheus japonicus	Alpheus japonicus	Metazoa	Arthropoda	Malacostraca	Decapoda	Alp
 Alpheus macrocheles	Alpheus macrocheles	Metazoa	Arthropoda	Malacostraca	Decapoda	Alpheidae	Alpheus	Alpheus macrocheles	2						
 Alpheus sivado	Alpheus sivado	Metazoa	Arthropoda	Malacostraca	Decapoda	Alpheidae	Alpheus	Alpheus sivado	2						
 Alpheus sp.	Alpheus	Metazoa	Arthropoda	Malacostraca	Decapoda	Alpheidae	Alpheus	Alpheus sp.	2						
-Alteutha sp.	Alteutha	Metazoa	NA	NA	Harpacticoida	Peltidiidae	Alteutha	Alteutha sp.	0						
+Alteutha sp.	Alteutha	Metazoa	NA	NA	Harpacticoida	Peltidiidae	Alteutha	Alteutha sp.	1						
 Alvania abyssicola	Alvania abyssicola	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Alvania	Alvania abyssicola	1						
 Alvania beanii	Alvania beanii	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Alvania	Alvania beanii	1						
 Alvania cancellata	Alvania cancellata	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Alvania	Alvania cancellata	1						
@@ -214,16 +214,16 @@ Alvania testae	Alvania testae	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoi
 Alveinus ojianus	Alveinus ojianus	to be checked manually	NA	NA	NA	NA	NA	Alveinus ojianus	1						
 Amaea trilobata	Amaea trilobata	to be checked manually	NA	NA	NA	NA	NA	Amaea trilobata	1						
 Amaeana occidentalis	Amaeana occidentalis	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Amaeana	Amaeana occidentalis	3						
-Amaeana sp.	Amaeana	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Amaeana	Amaeana sp.	0						
+Amaeana sp.	Amaeana	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Amaeana	Amaeana sp.	1						
 Amaeana trilobata	Amaeana trilobata	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Amaeana	Amaeana trilobata	1	2	0	10.04	27.42	1	
 Amaena sp.	Amaena	Metazoa	Chordata	Actinopterygii	Beryciformes	Holocentridae	Myripristis	Amaena sp.	2						
 Amage adspersa	Amage adspersa	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amage	Amage adspersa	1	2					
 Amage auricula	Amage auricula	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amage	Amage auricula	1	2	0	14.67	28.51	1	
 Amage gallasii	Amage gallasii	Animalia	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amage	Amage gallasii		2					
 Amage scotica	Amage scotica	Animalia	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amage	Amage scotica		2					
-Amakusanthura iberica	Amakusanthura iberica	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Amakusanthura	Amakusanthura iberica	0						
-Amakusanthura magnifica	Amakusanthura magnifica	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Amakusanthura	Amakusanthura magnifica	0						
-Amakusanthura sp.	Amakusanthura	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Amakusanthura	Amakusanthura sp.	0						
+Amakusanthura iberica	Amakusanthura iberica	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Amakusanthura	Amakusanthura iberica	1						
+Amakusanthura magnifica	Amakusanthura magnifica	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Amakusanthura	Amakusanthura magnifica	1						
+Amakusanthura sp.	Amakusanthura	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Amakusanthura	Amakusanthura sp.	1						
 Amathia lendigera	Amathia lendigera	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	Amathia	Amathia lendigera	1	1					
 Amathia pruvoti	Amathia pruvoti	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	Amathia	Amathia pruvoti	1						
 Amathia sp.	Amathia	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	Amathia	Amathia sp.	1						
@@ -240,11 +240,11 @@ Americamysis bigelowi	Americamysis bigelowi	Metazoa	Arthropoda	Malacostraca	Mysi
 Americamysis sp.	Americamysis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Americamysis	Americamysis sp.	2						
 Americhelidium americanum	Americhelidium americanum	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Americhelidium	Americhelidium americanum	2						
 Americhelidium sp.	Americhelidium	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Americhelidium	Americhelidium sp.	2						
-Americonuphis magna	Americonuphis magna	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Americonuphis	Americonuphis magna	0						
+Americonuphis magna	Americonuphis magna	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Americonuphis	Americonuphis magna	1						
 Americorophium sp.	Americorophium	Metazoa	Malacostraca	Malacostraca	Amphipoda	Corophiidae	Americorophium	Americorophium sp.	3						
 Ameroculodes sp.	Ameroculodes	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Ameroculodes	Ameroculodes sp.	1						
 Ammodytes marinus	Ammodytes marinus	Metazoa	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes marinus		3					
-Ammodytes tobianus	Ammodytes tobianus	Metazoa	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes tobianus	0						
+Ammodytes tobianus	Ammodytes tobianus	Metazoa	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes tobianus	1						
 Ammonicera rota	Ammonicera rota	Metazoa	Mollusca	Gastropoda	Heterostropha	Omalogyridae	Ammonicera	Ammonicera rota	2						
 Ammothea hilgendorfi	Ammothea hilgendorfi	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Ammotheidae	Ammothea	Ammothea hilgendorfi	2						
 Ammothella longipes	Ammothella longipes	to be checked manually	NA	NA	NA	NA	NA	Ammothella longipes	1						
@@ -325,8 +325,8 @@ Amphicteis floridus	Amphicteis floridus	Metazoa	Annelida	Sedentaria	Canalipalpat
 Amphicteis gunneri	Amphicteis gunneri	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis gunneri	3	2	3	5.6	20.97	3	
 Amphicteis midas	Amphicteis midas	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis midas	3	2					
 Amphicteis scaphobranchiata	Amphicteis scaphobranchiata	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis scaphobranchiata	1						
-Amphicteis sp.	Amphicteis	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis sp.	0						
-Amphicteis vestis	Amphicteis vestis	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis vestis	0						
+Amphicteis sp.	Amphicteis	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis sp.	1						
+Amphicteis vestis	Amphicteis vestis	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Amphicteis	Amphicteis vestis	1						
 Amphictene auricoma	Amphictene auricoma	Metazoa	Polychaeta	Polychaeta	Terebellida	Pectinariidae	Amphictene	Amphictene auricoma	1	3					
 Amphictene capensis	Amphictene capensis	Metazoa	Polychaeta	Polychaeta	Terebellida	Pectinariidae	Amphictene	Amphictene capensis	1						
 Amphictene sp.	Amphictene	Metazoa	Polychaeta	Polychaeta	Terebellida	Pectinariidae	Amphictene	Amphictene sp.	1						
@@ -377,7 +377,7 @@ Amphitrite gracilis	Amphitrite gracilis	Metazoa	Annelida	Sedentaria	Canalipalpat
 Amphitrite johnstoni	Amphitrite johnstoni	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Amphitrite	Amphitrite johnstoni	1						
 Amphitrite robusta	Amphitrite robusta	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Amphitrite	Amphitrite robusta	2						
 Amphitrite rubra	Amphitrite rubra	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Amphitrite	Amphitrite rubra	1						
-Amphitrite sp.	Amphitrite	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Amphitrite	Amphitrite sp.	0	2					
+Amphitrite sp.	Amphitrite	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Amphitrite	Amphitrite sp.	1	2					
 Amphitritides gracilis	Amphitritides gracilis	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Amphitritides	Amphitritides gracilis	2						
 Amphiura brachiata	Amphiura brachiata	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Amphiuridae	Amphiura	Amphiura brachiata	1	1					
 Amphiura cherbonnieri	Amphiura cherbonnieri	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Amphiuridae	Amphiura	Amphiura cherbonnieri	2						
@@ -412,12 +412,12 @@ Anachis sp.	Anachis	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Anac
 Anachis sparsa	Anachisrsa	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Anachis	Anachis sparsa	1						
 Anadara demiri	Anadara demiri	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara demiri	4						
 Anadara diluvii	Anadara diluvii	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara diluvii	1						
-Anadara floridana	Anadara floridana	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara floridana	0						
+Anadara floridana	Anadara floridana	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara floridana	1						
 Anadara gibbosa	Anadara gibbosa	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara gibbosa	1						
 Anadara inaequivalvis	Anadara inaequivalvis	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara inaequivalvis	4						
 Anadara multicostata	Anadara multicostata	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara multicostata	2						
 Anadara polii	Anadara polii	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara polii	1						
-Anadara sp.	Anadara	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara sp.	0						
+Anadara sp.	Anadara	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara sp.	1						
 Anadara transversa	Anadara transversa	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Anadara	Anadara transversa	4						
 Anaitides groenlandica	Anaitides groenlandica	Metazoa	Annelida	Errantia	Phyllodocida	Phyllodocidae	Anaitides	Anaitides groenlandica	4	3					
 Anaitides lamelligera	Anaitides lamelligera	Metazoa	Annelida	Errantia	Phyllodocida	Phyllodocidae	Anaitides	Anaitides lamelligera	2						
@@ -430,7 +430,7 @@ Anaitides papillosa	Anaitides papillosa	Metazoa	Annelida	Errantia	Phyllodocida	P
 Anaitides rosea	Anaitides rosea	Metazoa	Annelida	Errantia	Phyllodocida	Phyllodocidae	Anaitides	Anaitides rosea	2	3					
 Anaitides sp.	Anaitides	Metazoa	Annelida	Errantia	Phyllodocida	Phyllodocidae	Anaitides	Anaitides sp.	2						
 Anaitides subulifera	Anaitides subulifera	Metazoa	Annelida	Errantia	Phyllodocida	Phyllodocidae	Anaitides	Anaitides subulifera	2						
-Anamobaea oerstedi	Anamobaea oerstedi	to be checked manually	NA	NA	NA	NA	NA	Anamobaea oerstedi	0						
+Anamobaea oerstedi	Anamobaea oerstedi	to be checked manually	NA	NA	NA	NA	NA	Anamobaea oerstedi	1						
 Anapagurus bicorniger	Anapagurus bicorniger	Metazoa	Malacostraca	Malacostraca	Decapoda	Paguridae	Anapagurus	Anapagurus bicorniger	1						
 Anapagurus breviaculeatus	Anapagurus breviaculeatus	Metazoa	Malacostraca	Malacostraca	Decapoda	Paguridae	Anapagurus	Anapagurus breviaculeatus	1						1
 Anapagurus chiroacanthus	Anapagurus chiroacanthus	Metazoa	Malacostraca	Malacostraca	Decapoda	Paguridae	Anapagurus	Anapagurus chiroacanthus	1						NA
@@ -503,7 +503,7 @@ Anoplodactylus sp.	Anoplodactylus	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Phoxi
 Anoplodactylus virescens	Anoplodactylus virescens	Animalia	Arthropoda	Pycnogonida	Pantopoda	Phoxichilidiidae	Anoplodactylus	Anoplodactylus virescens		2					
 Anoplodactylus viridintestinalis	Anoplodactylus viridintestinalis	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Phoxichilidiidae	Anoplodactylus	Anoplodactylus viridintestinalis	2						
 Anoplosyllis edentula	Anoplosyllis edentula	to be checked manually	NA	NA	NA	NA	NA	Anoplosyllis edentula	2						
-Anoropallene palpida	Anoropallene palpida	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Callipallenidae	Anoropallene	Anoropallene palpida	0						
+Anoropallene palpida	Anoropallene palpida	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Callipallenidae	Anoropallene	Anoropallene palpida	1						
 Anotomastus gordiodes	Anotomastus gordiodes	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Anotomastus	Anotomastus gordiodes	2						
 Ansates pellucida	Ansates pellucida	to be checked manually	NA	NA	NA	NA	NA	Ansates pellucida	1						
 Anseropoda placenta	Anseropoda placenta	Metazoa	Echinodermata	Asteroidea	Valvatida	Asterinidae	Anseropoda	Anseropoda placenta	1						1
@@ -524,14 +524,14 @@ Antedon petasus	Antedon petasus	Animalia	Crinoidea	Crinoidea	Comatulida	Antedoni
 Antennella secundaria	Antennella secundaria	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Halopterididae	Antennella	Antennella secundaria	1						
 Antennella sp.	Antennella	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Halopterididae	Antennella	Antennella sp.	1						
 Anthopleura sp.	Anthopleura	Metazoa	Anthozoa	Anthozoa	Actiniaria	Actiniidae	Anthopleura	Anthopleura sp.	2						
-Anthothoe chilensis	Anthothoe chilensis	Metazoa	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	Anthothoe	Anthothoe chilensis	0						
+Anthothoe chilensis	Anthothoe chilensis	Metazoa	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	Anthothoe	Anthothoe chilensis	1						
 Anthozoa	ANTHOZOA	Metazoa	Cnidaria	Anthozoa	__	__	__	Anthozoa	2			8.09	28.22	1	
 Anthura gracilis	Anthura gracilis	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Anthura	Anthura gracilis	1						
 Anthuridae	ANTHURIDAE	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	__	Anthuridae	1						
 Anticoma sp.	Anticoma	Metazoa	Enoplea	Enoplea	Enoplida	Anticomidae	Anticoma	Anticoma sp.	3						
 Antinoella finmarchica	Antinoella finmarchica	to be checked manually	NA	NA	NA	NA	NA	Antinoella finmarchica	1						
 Antinoella sarsi	Antinoella sarsi	NA	NA	NA	NA	NA	NA	Antinoella sarsi	1	3					
-Anurida maritima	Anurida maritima	Metazoa	Arthropoda	Collembola	Collembola	Neanuridae	Anurida	Anurida maritima	0						
+Anurida maritima	Anurida maritima	Metazoa	Arthropoda	Collembola	Collembola	Neanuridae	Anurida	Anurida maritima	1						
 Aonidella dayi	Aonidella dayi	to be checked manually	NA	NA	NA	NA	NA	Aonidella dayi	3						
 Aonides mayaguezensis	Aonides mayaguezensis	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Aonides	Aonides mayaguezensis	3						
 Aonides oxycephala	Aonides oxycephala	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Aonides	Aonides oxycephala	3	2					1
@@ -548,7 +548,7 @@ Aoroides intermedius	Aoroides intermedius	Metazoa	Arthropoda	Malacostraca	Amphip
 Aoroides secunda	Aoroides secunda	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Aoroides	Aoroides secunda	2						
 Aoroides sp.	Aoroides	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Aoroides	Aoroides sp.	2						
 Aoroides spinosus	Aoroidesnosus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Aoroides	Aoroides spinosus	2						
-Apanthura corsica	Apanthura corsica	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Apanthura	Apanthura corsica	0						
+Apanthura corsica	Apanthura corsica	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Apanthura	Apanthura corsica	1						
 Aphelochaeta filiformis	Aphelochaeta filiformis	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Aphelochaeta	Aphelochaeta filiformis	3						
 Aphelochaeta glandaria	Aphelochaeta glandaria	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Aphelochaeta	Aphelochaeta glandaria	4						
 Aphelochaeta marioni	Aphelochaeta marioni	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Aphelochaeta	Aphelochaeta marioni	4	2		11.06	21.27	3	2
@@ -586,7 +586,7 @@ Apistobranchus sp.	Apistobranchus	Metazoa	Annelida	Sedentaria	Canalipalpata	Apis
 Apistobranchus tenuis	Apistobranchus tenuis	Metazoa	Annelida	Sedentaria	Canalipalpata	Apistobranchidae	Apistobranchus	Apistobranchus tenuis	1						
 Apistobranchus tullbergi	Apistobranchus tullbergi	Metazoa	Annelida	Sedentaria	Canalipalpata	Apistobranchidae	Apistobranchus	Apistobranchus tullbergi	1		0	11.36	26.41	2	
 Aplidium	Aplidium	Animalia	Ascidiacea	Ascidiacea	Aplousobranchia	Polyclinidae	Aplidium	Aplidium		1					
-Aplidium densum	Aplidium densum	Metazoa	Chordata	Ascidiacea	Enterogona	Polyclinidae	Aplidium	Aplidium densum	0						
+Aplidium densum	Aplidium densum	Metazoa	Chordata	Ascidiacea	Enterogona	Polyclinidae	Aplidium	Aplidium densum	1						
 Aplysia fasciata	Aplysia fasciata	Metazoa	Mollusca	Gastropoda	Anaspidea	Aplysiidae	Aplysia	Aplysia fasciata	1						
 Aplysia punctata	Aplysia punctata	Metazoa	Mollusca	Gastropoda	Anaspidea	Aplysiidae	Aplysia	Aplysia punctata	1						
 Aplysia sp.	Aplysia	Metazoa	Mollusca	Gastropoda	Anaspidea	Aplysiidae	Aplysia	Aplysia sp.	1						
@@ -610,7 +610,7 @@ Aponuphis tubicola	Aponuphis tubicola	to be checked manually	Annelida	Polychaeta
 Aponuphis willsii	Aponuphis willsii	to be checked manually	Annelida	Polychaeta	Eunicida	Onuphidae	Aponuphis	Aponuphis willsii	2						
 Apoprionospio dayi	Apoprionospio dayi	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Apoprionospio	Apoprionospio dayi	4						
 Apoprionospio pygmaea	Apoprionospio pygmaea	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Apoprionospio	Apoprionospio pygmaea	2						
-Apoprionospio sp.	Apoprionospio	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Apoprionospio	Apoprionospio sp.	0						
+Apoprionospio sp.	Apoprionospio	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Apoprionospio	Apoprionospio sp.	1						
 Aporrhaiidae	Aporrhaiidae	to be checked manually	NA	NA	NA	NA	NA	Aporrhaiidae		3					
 Aporrhais pespelecani	Aporrhais pespelecani	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Aporrhaidae	Aporrhais	Aporrhais pespelecani	1	3					
 Aporrhais serresianus	Aporrhais serresianus	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Aporrhaidae	Aporrhais	Aporrhais serresianus	1	3					
@@ -623,7 +623,7 @@ Apseudes holthuisi	Apseudes holthuisi	Metazoa	Arthropoda	Malacostraca	Tanaidacea
 Apseudes latreillei	Apseudes latreillei	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes latreillei	3						
 Apseudes latreillii	Apseudes latreillii	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes latreillii	3	2					
 Apseudes mortoni 	Apseudes mortoni 	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes mortoni 	1						
-Apseudes sp.	Apseudes	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes sp.	0						
+Apseudes sp.	Apseudes	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes sp.	1						
 Apseudes spinosus	Apseudesnosus	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes spinosus	1	2		18.81	27.84	1	
 Apseudes talpa	Apseudes talpa	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes talpa	2	2					
 Apseudes tenuimanus	Apseudes tenuimanus	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Apseudidae	Apseudes	Apseudes tenuimanus	3						
@@ -667,9 +667,9 @@ Arcturella damnoniensis	Arcturella damnoniensis	Animalia	Arthropoda	Malacostraca
 Arcturella danmoniensis	Arcturella danmoniensis	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Arcturella	Arcturella danmoniensis	2						
 Arcturella dilatata	Arcturella dilatata	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Arcturella	Arcturella dilatata	2	3					
 Arcturella sp.	Arcturella	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Arcturella	Arcturella sp.	2						
-Arcturina rhomboidalis	Arcturina rhomboidalis	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Arcturina	Arcturina rhomboidalis	0						
+Arcturina rhomboidalis	Arcturina rhomboidalis	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Arcturina	Arcturina rhomboidalis	1						
 Arcuatula senhousia	Arcuatula senhousia	to be checked manually	NA	NA	NA	NA	NA	Arcuatula senhousia	3						
-Arculfia trago	Arculfia trago	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Arculfia	Arculfia trago	0						
+Arculfia trago	Arculfia trago	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Arculfia	Arculfia trago	1						
 Arenicola brasiliensis	Arenicola brasiliensis	Metazoa	Annelida	Polychaeta	Capitellida	Arenicolidae	Arenicola	Arenicola brasiliensis	3						
 Arenicola cristata	Arenicola cristata	Metazoa	Annelida	Polychaeta	Capitellida	Arenicolidae	Arenicola	Arenicola cristata	3						
 Arenicola defodiens	Arenicola defodiens	Metazoa	Annelida	Polychaeta	Capitellida	Arenicolidae	Arenicola	Arenicola defodiens	1						
@@ -685,7 +685,7 @@ Argissa hamatipes	Argissa hamatipes	Metazoa	Malacostraca	Malacostraca	Amphipoda	
 Argissa sp.	Argissa	Metazoa	Malacostraca	Malacostraca	Amphipoda	Argissidae	Argissa	Argissa sp.	2						
 Argobuccinum pustulosum	Argobuccinum pustulosum	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Ranellidae	Argobuccinum	Argobuccinum pustulosum	3						
 Argopecten ventricosus	Argopecten ventricosus	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Argopecten	Argopecten ventricosus	1						
-Argulus versicolor	Argulus versicolor	Metazoa	Arthropoda	Maxillopoda	Arguloida	Argulidae	Argulus	Argulus versicolor	0						
+Argulus versicolor	Argulus versicolor	Metazoa	Arthropoda	Maxillopoda	Arguloida	Argulidae	Argulus	Argulus versicolor	1						
 Arhynchite rugosus	Arhynchite rugosus	Metazoa	Annelida	Sedentaria	Echiurida	Echiuridae	Arhynchite	Arhynchite rugosus	2						
 Arichlidon gathofi	Arichlidon gathofi	to be checked manually	NA	NA	NA	NA	NA	Arichlidon gathofi	1						
 Arichlidon reyssi	Arichlidon reyssi	to be checked manually	NA	NA	NA	NA	NA	Arichlidon reyssi	1						
@@ -732,7 +732,7 @@ Aricidea roberti	Aricidea roberti	Metazoa	Annelida	Sedentaria	Scolecida	Paraonid
 Aricidea rubra	Aricidea rubra	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea rubra	1						
 Aricidea simonae	Aricidea simonae	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea simonae	1						1
 Aricidea simplex	Aricidea simplex	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea simplex	2						
-Aricidea sp.	Aricidea	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea sp.	0	2		12.22	30.89	1	
+Aricidea sp.	Aricidea	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea sp.	1	2		12.22	30.89	1	
 Aricidea suecica	Aricidea suecica	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea suecica	1	2		12.62	31.24	1	
 Aricidea suecica meridionalis	Aricidea suecica meridionalis	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea suecica meridionalis	1						
 Aricidea suecica simplex	Aricidea suecica simplex	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Aricidea	Aricidea suecica simplex	2						
@@ -779,8 +779,8 @@ Ascorhynchus arenicola	Ascorhynchus arenicola	Metazoa	Pycnogonida	Pycnogonida	Pa
 Ascorhynchus arenicolum	Ascorhynchus arenicolum	Metazoa	Pycnogonida	Pycnogonida	Pantopoda	Ascorhynchidae	Ascorhynchus	Ascorhynchus arenicolum	2						
 Ascorhynchus simile	Ascorhynchus simile	Metazoa	Pycnogonida	Pycnogonida	Pantopoda	Ascorhynchidae	Ascorhynchus	Ascorhynchus simile	2						
 Ascorhynchus sp.	Ascorhynchus	Metazoa	Pycnogonida	Pycnogonida	Pantopoda	Ascorhynchidae	Ascorhynchus	Ascorhynchus sp.	2						
-Asellus aquaticus	Asellus aquaticus	Metazoa	Malacostraca	Malacostraca	Isopoda	Asellidae	Asellus	Asellus aquaticus	0						
-Asellus sp.	Asellus	Metazoa	Malacostraca	Malacostraca	Isopoda	Asellidae	Asellus	Asellus sp.	0						
+Asellus aquaticus	Asellus aquaticus	Metazoa	Malacostraca	Malacostraca	Isopoda	Asellidae	Asellus	Asellus aquaticus	1						
+Asellus sp.	Asellus	Metazoa	Malacostraca	Malacostraca	Isopoda	Asellidae	Asellus	Asellus sp.	1						
 Aspidelectra melolontha	Aspidelectra melolontha	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Aspidelectra	Aspidelectra melolontha	2						
 Aspidosiphon kovalevskii	Aspidosiphon kovalevskii	Metazoa	Phascolosomatidea	Phascolosomatidea	Aspidosiphonida	Aspidosiphonidae	Aspidosiphon	Aspidosiphon kovalevskii	1						1
 Aspidosiphon kowalevskii	Aspidosiphon kovalevskii	Metazoa	Phascolosomatidea	Phascolosomatidea	Aspidosiphonida	Aspidosiphonidae	Aspidosiphon	Aspidosiphon kowalevskii	1						1
@@ -796,7 +796,7 @@ Astacilla gorgonophila	Astacilla gorgonophila	Metazoa	Arthropoda	Malacostraca	Is
 Astacilla intermedia	Astacilla intermedia	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Astacilla	Astacilla intermedia	1						
 Astacilla longicornis	Astacilla longicornis	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Astacilla	Astacilla longicornis	1	3					
 Astacilla mediterranea	Astacilla mediterranea	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Astacilla	Astacilla mediterranea	1						
-Astacilla sp.	Astacilla	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Astacilla	Astacilla sp.	0						
+Astacilla sp.	Astacilla	Metazoa	Arthropoda	Malacostraca	Isopoda	Arcturidae	Astacilla	Astacilla sp.	1						
 Astarte acuticostata	Astarte acuticostata	Metazoa	Mollusca	Bivalvia	Veneroida	Astartidae	Astarte	Astarte acuticostata	1						
 Astarte arctica	Astarte arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Astartidae	Astarte	Astarte arctica	1						
 Astarte borealis	Astarte borealis	Metazoa	Mollusca	Bivalvia	Veneroida	Astartidae	Astarte	Astarte borealis	1						
@@ -817,7 +817,7 @@ Asterias sp.	NA	NA	NA	NA	NA	NA	NA	Asterias sp.	3
 Asterina borealis	Asterina borealis	Metazoa	Echinodermata	Asteroidea	Valvatida	Asterinidae	Asterina	Asterina borealis	1						
 Asterina gibbosa	Asterina gibbosa	Metazoa	Echinodermata	Asteroidea	Valvatida	Asterinidae	Asterina	Asterina gibbosa	1						
 Asteroidea	ASTEROIDEA	Metazoa	Echinodermata	Asteroidea	__	__	__	Asteroidea	1		0	6.41	20.6	3	
-Asterope norvegica	Asterope norvegica	NA	NA	NA	NA	NA	NA	Asterope norvegica	0						
+Asterope norvegica	Asterope norvegica	NA	NA	NA	NA	NA	NA	Asterope norvegica	1						
 Asteropella slatteryi	Asteropella slatteryi	Metazoa	Arthropoda	Ostracoda	Myodocopida	Cylindroleberididae	Asteropella	Asteropella slatteryi	1						
 Asthenognathus atlanticus	Asthenognathus atlanticus	Metazoa	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Asthenognathus	Asthenognathus atlanticus	2						
 Asthenognathus inaequipes	Asthenognathus inaequipes	Metazoa	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Asthenognathus	Asthenognathus inaequipes	2						
@@ -854,9 +854,9 @@ Athanas nitescens	Athanas nitescens	Metazoa	Malacostraca	Malacostraca	Decapoda	A
 Athanas sp.	Athanas	Metazoa	Malacostraca	Malacostraca	Decapoda	Alpheidae	Athanas	Athanas sp.	1						
 Athecata	ATHECATA	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	__	__	Athecata	1						
 Atherospio	Atherospio	Animalia	Polychaeta	Polychaeta	Spionida	Spionidae	Atherospio	Atherospio							
-Atherospio disticha	Atherospio disticha	to be checked manually	NA	NA	NA	NA	NA	Atherospio disticha	0						
+Atherospio disticha	Atherospio disticha	to be checked manually	NA	NA	NA	NA	NA	Atherospio disticha	1						
 Atherospio guillei	Atherospio guillei	to be checked manually	NA	NA	NA	NA	NA	Atherospio guillei	4						
-Atrina fragilis	Atrina fragilis	Metazoa	Mollusca	Bivalvia	Pterioida	Pinnidae	Atrina	Atrina fragilis	0						
+Atrina fragilis	Atrina fragilis	Metazoa	Mollusca	Bivalvia	Pterioida	Pinnidae	Atrina	Atrina fragilis	1						
 Atylus falcatus	Atylus falcatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Atylidae	Atylus	Atylus falcatus	1	3					
 Atylus guttatus	Atylus guttatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Atylidae	Atylus	Atylus guttatus	1	3					
 Atylus massiliensis	Atylus massiliensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Atylidae	Atylus	Atylus massiliensis	1						
@@ -867,7 +867,7 @@ Atylus tridens	Atylus tridens	Metazoa	Arthropoda	Malacostraca	Amphipoda	Atylidae
 Atylus vedlomensis	Atylus vedlomensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Atylidae	Atylus	Atylus vedlomensis	1	3		17.38	30.21	1	
 Atys caribaeus	Atys caribaeus	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Haminoeidae	Atys	Atys caribaeus	2						
 Atys macandrewi	Atys macandrewi	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Haminoeidae	Atys	Atys macandrewi	2						
-Auchenoplax crinita	Auchenoplax crinita	Metazoa	Annelida	Polychaeta	Terebellida	Ampharetidae	Auchenoplax	Auchenoplax crinita	0						
+Auchenoplax crinita	Auchenoplax crinita	Metazoa	Annelida	Polychaeta	Terebellida	Ampharetidae	Auchenoplax	Auchenoplax crinita	1						
 Audouinia sp.	Audouinia	Metazoa	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Audouinia	Audouinia sp.	4						
 Audouinia tentaculata	Audouinia tentaculata	Metazoa	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Audouinia	Audouinia tentaculata	4						
 Augeneria algida	Augeneria algida	Metazoa	Polychaeta	Polychaeta	Eunicida	Lumbrineridae	Augeneria	Augeneria algida	1						
@@ -882,7 +882,7 @@ Aulodrilus pluriseta	Aulodrilus pluriseta	Metazoa	Annelida	Oligochaeta	Tubificid
 Aulodrilus sp.	Aulodrilus	Metazoa	Annelida	Oligochaeta	Tubificida	Naididae	Aulodrilus	Aulodrilus sp.	4						
 Austrolaenilla antarctica	Austrolaenilla antarctica	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Austrolaenilla	Austrolaenilla antarctica	2						
 Austromegabalanus psittacus	Austromegabalanus psittacus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Austromegabalanus	Austromegabalanus psittacus	2						
-Austrosyrrhoe fimbriatus	Austrosyrrhoe fimbriatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Synopiidae	Austrosyrrhoe	Austrosyrrhoe fimbriatus	0						
+Austrosyrrhoe fimbriatus	Austrosyrrhoe fimbriatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Synopiidae	Austrosyrrhoe	Austrosyrrhoe fimbriatus	1						
 Autolytinae	AUTOLYTINAE	to be checked manually	NA	NA	NA	NA	NA	Autolytinae	2						
 Autolytus alexandri	Autolytus alexandri	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Autolytus	Autolytus alexandri	2						
 Autolytus aurantiacus	Autolytus aurantiacus	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Autolytus	Autolytus aurantiacus	2						
@@ -907,7 +907,7 @@ Autonoe megacheir	Autonoe megacheir	to be checked manually	Arthropoda	Malacostra
 Autonoe rubromaculatus	Autonoe rubromaculatus	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Aoridae	Autonoe	Autonoe rubromaculatus	1						
 Autonoe spiniventris	Autonoeniventris	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Aoridae	Autonoe	Autonoe spiniventris	1						
 Axarus sp.	Axarus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Axarus	Axarus sp.	1						
-Axelsonia littoralis	Axelsonia littoralis	to be checked manually	NA	NA	NA	NA	NA	Axelsonia littoralis	0						
+Axelsonia littoralis	Axelsonia littoralis	to be checked manually	NA	NA	NA	NA	NA	Axelsonia littoralis	1						
 Axinopsida orbiculata	Axinopsida orbiculata	Metazoa	Mollusca	Bivalvia	Lucinoida	Thyasiridae	Axinopsida	Axinopsida orbiculata	3						
 Axinopsida serricata	Axinopsida serricata	Metazoa	Mollusca	Bivalvia	Lucinoida	Thyasiridae	Axinopsida	Axinopsida serricata	3						
 Axinulus croulinensis	Axinulus croulinensis	to be checked manually	NA	NA	NA	NA	NA	Axinulus croulinensis	1		0	14.97	30.29	1	
@@ -922,14 +922,14 @@ Axiothella constricta	Axiothella constricta	Metazoa	Annelida	Polychaeta	NA	Malda
 Axiothella mucosa	Axiothella mucosa	Metazoa	Annelida	Polychaeta	NA	Maldanidae	Axiothella	Axiothella mucosa	1						
 Axiothella sp.	Axiothella	Metazoa	Annelida	Polychaeta	NA	Maldanidae	Axiothella	Axiothella sp.	1						
 Azorinus chamasolen	Azorinus chamasolen	to be checked manually	NA	NA	NA	NA	NA	Azorinus chamasolen	1						
-Bagatus minutus	Bagatus minutus	NA	NA	NA	NA	NA	NA	Bagatus minutus	0						
+Bagatus minutus	Bagatus minutus	NA	NA	NA	NA	NA	NA	Bagatus minutus	1						
 Balanidae	Balanidae	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	__	Balanidae		1					
 Balanoglossus clavigerus	Balanoglossus clavigerus	Metazoa	Hemichordata	Enteropneusta	__	Ptychoderidae	Balanoglossus	Balanoglossus clavigerus		2					
 Balanoglossus gigas	Balanoglossus gigas	Metazoa	Enteropneusta	Enteropneusta	[unassigned] Enteropneusta	Ptychoderidae	Balanoglossus	Balanoglossus gigas	1						
 Balanoglossus sp.	Balanoglossus	Metazoa	Enteropneusta	Enteropneusta	[unassigned] Enteropneusta	Ptychoderidae	Balanoglossus	Balanoglossus sp.	1						
 Balanoidea	BALANOIDEA	Animalia	Arthropoda	Maxillopoda	Sessilia	NA	NA	Balanoidea		1					
 Balanomorpha	BALANOMORPHA	Animalia	Arthropoda	Maxillopoda	Sessilia	NA	NA	Balanomorpha		1					
-Balanophyllia sp.	Balanophyllia	Metazoa	Anthozoa	Anthozoa	Scleractinia	Dendrophylliidae	Balanophyllia	Balanophyllia sp.	0						
+Balanophyllia sp.	Balanophyllia	Metazoa	Anthozoa	Anthozoa	Scleractinia	Dendrophylliidae	Balanophyllia	Balanophyllia sp.	1						
 Balanus amphitrite	Balanus amphitrite	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Balanus	Balanus amphitrite		1					
 Balanus balanus	Balanus balanus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Balanus	Balanus balanus		1					
 Balanus crenatus	Balanus crenatus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Balanus	Balanus crenatus		1					
@@ -941,10 +941,10 @@ Balcis alba	Balcis alba	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Ba
 Balcis devians	Balcis devians	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Balcis	Balcis devians	1						
 Balcis macrophthalmica	Balcis macrophthalmica	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Balcis	Balcis macrophthalmica	1						
 Balcis philippi	Balcis philippi	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Balcis	Balcis philippi	1						
-Barantolla sp.	Barantolla	Metazoa	Polychaeta	Polychaeta	NA	Capitellidae	Barantolla	Barantolla sp.	0						
+Barantolla sp.	Barantolla	Metazoa	Polychaeta	Polychaeta	NA	Capitellidae	Barantolla	Barantolla sp.	1						
 Barbatia bistrigata	Barbatia bistrigata	to be checked manually	NA	NA	NA	NA	NA	Barbatia bistrigata	1						
 Barbatia obliquata	Barbatia obliquata	to be checked manually	NA	NA	NA	NA	NA	Barbatia obliquata	1						
-Barentsia sp.	Barentsia	Metazoa	NA	NA	NA	Barentsiidae	Barentsia	Barentsia sp.	0						
+Barentsia sp.	Barentsia	Metazoa	NA	NA	NA	Barentsiidae	Barentsia	Barentsia sp.	1						
 Barleeia rubra	Barleeia rubra	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Barleeiidae	Barleeia	Barleeia rubra	2						
 Barleeia sp.	Barleeia	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Barleeiidae	Barleeia	Barleeia sp.	2						
 Barleeia unifasciata	Barleeia unifasciata	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Barleeiidae	Barleeia	Barleeia unifasciata	2						
@@ -957,8 +957,8 @@ Bathyarca grenophia	Bathyarca grenophia	Metazoa	Mollusca	Bivalvia	Arcoida	Arcida
 Bathyarca pectunculoides	Bathyarca pectunculoides	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Bathyarca	Bathyarca pectunculoides	1	1		20.65	33.51	1	
 Bathyarca philippiana	Bathyarca philippiana	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Bathyarca	Bathyarca philippiana	1						
 Bathyarca sp.	Bathyarca	Metazoa	Mollusca	Bivalvia	Arcoida	Arcidae	Bathyarca	Bathyarca sp.	1		0	20.65	33.51	1	
-Bathycuma brevicornis	Bathycuma brevicornis	to be checked manually	NA	NA	NA	NA	NA	Bathycuma brevicornis	0						
-Bathycuma brevirostre	Bathycuma brevirostre	to be checked manually	NA	NA	NA	NA	NA	Bathycuma brevirostre	0						
+Bathycuma brevicornis	Bathycuma brevicornis	to be checked manually	NA	NA	NA	NA	NA	Bathycuma brevicornis	1						
+Bathycuma brevirostre	Bathycuma brevirostre	to be checked manually	NA	NA	NA	NA	NA	Bathycuma brevirostre	1						
 Bathyleberis sp.	Bathyleberis	Metazoa	Ostracoda	Ostracoda	Myodocopida	Cylindroleberididae	Bathyleberis	Bathyleberis sp.	2						
 Bathymedon longimanus	Bathymedon longimanus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Bathymedon	Bathymedon longimanus	2			10.75	24.67	2	
 Bathymedon obtusifrons	Bathymedon obtusifrons	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Bathymedon	Bathymedon obtusifrons	2						
@@ -978,7 +978,7 @@ Bathyporeia tenuipes	Bathyporeia tenuipes	Metazoa	Arthropoda	Malacostraca	Amphip
 Bathyvermilia langerhansi	Bathyvermilia langerhansi	to be checked manually	NA	NA	NA	NA	NA	Bathyvermilia langerhansi	2						
 Batillaria cumingii	Batillaria cumingii	Metazoa	Mollusca	Gastropoda	__	Batillariidae	Batillaria	Batillaria cumingii	2						
 Batillaria zonalis 	Batillaria zonalis 	Metazoa	Mollusca	Gastropoda	__	Batillariidae	Batillaria	Batillaria zonalis 	2						
-Beania magellanica	Beania magellanica	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Beaniidae	Beania	Beania magellanica	0						
+Beania magellanica	Beania magellanica	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Beaniidae	Beania	Beania magellanica	1						
 Bela brachystoma	Bela brachystoma	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Mangeliidae	Bela	Bela brachystoma	1						
 Bela costulata	Bela costulata	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Mangeliidae	Bela	Bela costulata	1						
 Bela fuscata	Bela fuscata	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Mangeliidae	Bela	Bela fuscata	1						
@@ -990,12 +990,12 @@ Bela sp.	Bela	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Mangeli
 Bela zonata	Bela zonata	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Mangeliidae	Bela	Bela zonata	1						
 Bemlos macromanus	Bemlos macromanus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Aoridae	Bemlos	Bemlos macromanus	2						
 Bemlos sp.	Bemlos	Metazoa	Malacostraca	Malacostraca	Amphipoda	Aoridae	Bemlos	Bemlos sp.	2						
-Benedipora delicatula	Benedipora delicatula	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Delicatula	Benedipora delicatula	0						
+Benedipora delicatula	Benedipora delicatula	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Delicatula	Benedipora delicatula	1						
 Bentharca nodulosa	Bentharca nodulosa	Animalia	Mollusca	Bivalvia	Arcoida	Arcidae	Bentharca	Bentharca nodulosa		1					
 Beringius ossianius	Beringius ossianius	to be checked manually	NA	NA	NA	NA	NA	Beringius ossianius	1						
 Berthella plumula	Berthella plumula	Metazoa	Gastropoda	Gastropoda	Pleurobranchomorpha	Pleurobranchidae	Berthella	Berthella plumula	1						
 Berthella sp.	Berthella	Metazoa	Gastropoda	Gastropoda	Pleurobranchomorpha	Pleurobranchidae	Berthella	Berthella sp.	1						
-Berthellina sp.	Berthellina	Metazoa	Gastropoda	Gastropoda	Pleurobranchomorpha	Pleurobranchidae	Berthellina	Berthellina sp.	0						
+Berthellina sp.	Berthellina	Metazoa	Gastropoda	Gastropoda	Pleurobranchomorpha	Pleurobranchidae	Berthellina	Berthellina sp.	1						
 Betaeus ensenadensis	Betaeus ensenadensis	Metazoa	Arthropoda	Malacostraca	Decapoda	Alpheidae	Betaeus	Betaeus ensenadensis	1						
 Betaeus harrimani	Betaeus harrimani	Metazoa	Arthropoda	Malacostraca	Decapoda	Alpheidae	Betaeus	Betaeus harrimani	1						
 Betaeus longidactylus	Betaeus longidactylus	Metazoa	Arthropoda	Malacostraca	Decapoda	Alpheidae	Betaeus	Betaeus longidactylus	1						
@@ -1006,7 +1006,7 @@ Bhawania brevis	Bhawania brevis	Metazoa	Annelida	Polychaeta	Phyllodocida	Chrysop
 Bhawania goodei	Bhawania goodei	Metazoa	Annelida	Polychaeta	Phyllodocida	Chrysopetalidae	Bhawania	Bhawania goodei	1						
 Bhawania heteroseta	Bhawania heteroseta	Metazoa	Annelida	Polychaeta	Phyllodocida	Chrysopetalidae	Bhawania	Bhawania heteroseta	1						
 Bhawania reyssi	Bhawania reyssi	Metazoa	Annelida	Polychaeta	Phyllodocida	Chrysopetalidae	Bhawania	Bhawania reyssi	1						
-Bicellariella ciliata	Bicellariella ciliata	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	Bicellariella	Bicellariella ciliata	0						
+Bicellariella ciliata	Bicellariella ciliata	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	Bicellariella	Bicellariella ciliata	1						
 Bipalponephtys neotena	Bipalponephtys neotena	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Bipalponephtys	Bipalponephtys neotena	2						
 Bispira brunnea	Bispira brunnea	to be checked manually	Annelida	Polychaeta	Sabellida	Sabellidae	Bispira	Bispira brunnea	1						
 Bispira melanostigma	Bispira melanostigma	to be checked manually	Annelida	Polychaeta	Sabellida	Sabellidae	Bispira	Bispira melanostigma	1						
@@ -1041,18 +1041,18 @@ Bodotria scorpioides	Bodotria scorpioides	Metazoa	Arthropoda	Malacostraca	Cumace
 Bodotria sp.	Bodotria sp.	Metazoa	Crustacea	Malacostraca	Cumacea	Bodotridae	Bodotria	Bodotria sp.							
 Bodotriidae	Bodotriidae	Metazoa	Arthropoda	Malacostraca	Cumacea	Bodotriidae	__	Bodotriidae		2					
 Bodotriinae	Bodotriinae	Metazoa	Arthropoda	Malacostraca	Cumacea	Bodotriidae	__	Bodotriinae		2					
-Boeckosimus normani	Boeckosimus normani	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Boeckosimus	Boeckosimus normani	0						
-Bolinus brandaris	Bolinus brandaris	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Muricidae	Bolinus	Bolinus brandaris	0						
+Boeckosimus normani	Boeckosimus normani	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Boeckosimus	Boeckosimus normani	1						
+Bolinus brandaris	Bolinus brandaris	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Muricidae	Bolinus	Bolinus brandaris	1						
 Bolma rugosa	Bolma rugosa	Metazoa	Mollusca	Gastropoda	__	Turbinidae	Bolma	Bolma rugosa	1						
 Bolocera tuediae	Bolocera tuediae	Metazoa	Anthozoa	Anthozoa	Actiniaria	Actiniidae	Bolocera	Bolocera tuediae	2						
 Boltenia echinata	Boltenia echinata	Metazoa	Chordata	Ascidiacea	Stolidobranchia	Pyuridae	Boltenia	Boltenia echinata	3						
-Boonea sp.	Boonea	Metazoa	Gastropoda	Gastropoda	NA	Pyramidellidae	Boonea	Boonea sp.	0						
-Bopyrus squillarum	Bopyrus squillarum	Metazoa	Arthropoda	Malacostraca	Isopoda	Bopyridae	Bopyrus	Bopyrus squillarum	0						
-Boreocingula martyni	Boreocingula martyni	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Boreocingula	Boreocingula martyni	0						
-Boreomysis arctica	Boreomysis arctica	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Boreomysis	Boreomysis arctica	0						
+Boonea sp.	Boonea	Metazoa	Gastropoda	Gastropoda	NA	Pyramidellidae	Boonea	Boonea sp.	1						
+Bopyrus squillarum	Bopyrus squillarum	Metazoa	Arthropoda	Malacostraca	Isopoda	Bopyridae	Bopyrus	Bopyrus squillarum	1						
+Boreocingula martyni	Boreocingula martyni	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Boreocingula	Boreocingula martyni	1						
+Boreomysis arctica	Boreomysis arctica	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Boreomysis	Boreomysis arctica	1						
 Boreonymphon robustum	Boreonymphon robustum	to be checked manually	NA	NA	NA	NA	NA	Boreonymphon robustum	2						
 Boreotrophon truncatus	Boreotrophon truncatus	Metazoa	Mollusca	Gastropoda	Neogastropoda	Muricidae	Boreotrophon	Boreotrophon truncatus	1						
-Bornia geoffroyi	Bornia geoffroyi	to be checked manually	NA	NA	NA	NA	NA	Bornia geoffroyi	0						
+Bornia geoffroyi	Bornia geoffroyi	to be checked manually	NA	NA	NA	NA	NA	Bornia geoffroyi	1						
 Borniopsis tsurumaru	Borniopsis tsurumaru	to be checked manually	NA	NA	NA	NA	NA	Borniopsis tsurumaru	2						
 Boscia anglica	Boscia anglica	to be checked manually	NA	NA	NA	NA	NA	Boscia anglica		1					
 Bostrycapulus aculeatus	Bostrycapulus aculeatus	Metazoa	Mollusca	Gastropoda	__	Calyptraeidae	Bostrycapulus	Bostrycapulus aculeatus	3						
@@ -1065,9 +1065,9 @@ Bougainvillia ramosa	Bougainvillia ramosa	Metazoa	Hydrozoa	Hydrozoa	Anthoathecat
 Bowerbankia imbricata	Bowerbankia imbricata	Metazoa	Gymnolaemata	Gymnolaemata	Ctenostomatida	Vesiculariidae	Bowerbankia	Bowerbankia imbricata	2						
 Bowerbankia sp.	Bowerbankia	Metazoa	Gymnolaemata	Gymnolaemata	Ctenostomatida	Vesiculariidae	Bowerbankia	Bowerbankia sp.	2						
 Bowmaniella dissimilis	Bowmaniella dissimilis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Bowmaniella	Bowmaniella dissimilis	2						
-Brachidontes exustus	Brachidontes exustus	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Brachidontes	Brachidontes exustus	0						
+Brachidontes exustus	Brachidontes exustus	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Brachidontes	Brachidontes exustus	1						
 Brachidontes granulatus	Brachidontes granulatus	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Brachidontes	Brachidontes granulatus	2						
-Brachycuma brevicornis	Brachycuma brevicornis	to be checked manually	NA	NA	NA	NA	NA	Brachycuma brevicornis	0						
+Brachycuma brevicornis	Brachycuma brevicornis	to be checked manually	NA	NA	NA	NA	NA	Brachycuma brevicornis	1						
 Brachydiastulis resima	Brachydiastulis resima	to be checked manually	NA	NA	NA	NA	NA	Brachydiastulis resima		2					
 Brachydiastylis resima	Brachydiastylis resima	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Brachydiastylis	Brachydiastylis resima	2			12.87	24.91	2	
 Brachydiastylis sp.	Brachydiastylis	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Brachydiastylis	Brachydiastylis sp.	2						
@@ -1082,8 +1082,8 @@ Brada inhabilis	Brada inhabilis	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabe
 Brada sp.	Brada	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	Brada	Brada sp.	1			15.16	26.22	2	
 Brada villosa	Brada villosa	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	Brada	Brada villosa	1		0	9.27	24.68	2	
 Branchiocapitella abranchiata 	Branchiocapitella abranchiata 	to be checked manually	NA	NA	NA	NA	NA	Branchiocapitella abranchiata 	5						
-Branchiomaldane sp.	Branchiomaldane	Metazoa	Polychaeta	Polychaeta	Capitellida	Arenicolidae	Branchiomaldane	Branchiomaldane sp.	0						
-Branchiomaldane vincenti	Branchiomaldane vincenti	Metazoa	Polychaeta	Polychaeta	Capitellida	Arenicolidae	Branchiomaldane	Branchiomaldane vincenti	0	2					
+Branchiomaldane sp.	Branchiomaldane	Metazoa	Polychaeta	Polychaeta	Capitellida	Arenicolidae	Branchiomaldane	Branchiomaldane sp.	1						
+Branchiomaldane vincenti	Branchiomaldane vincenti	Metazoa	Polychaeta	Polychaeta	Capitellida	Arenicolidae	Branchiomaldane	Branchiomaldane vincenti	1	2					
 Branchiomma bairdi	Branchiomma bairdi	Metazoa	Annelida	Polychaeta	Sabellida	Sabellidae	Branchiomma	Branchiomma bairdi	1						
 Branchiomma bombyx	Branchiomma bombyx	Metazoa	Annelida	Polychaeta	Sabellida	Sabellidae	Branchiomma	Branchiomma bombyx	1	1					
 Branchiomma cingulata	Branchiomma cingulata	Metazoa	Annelida	Polychaeta	Sabellida	Sabellidae	Branchiomma	Branchiomma cingulata	1						
@@ -1130,8 +1130,8 @@ Buccinum hydrophanum	Buccinum hydrophanum	Metazoa	Gastropoda	Gastropoda	Neogastr
 Buccinum ovum	Buccinum ovum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Buccinidae	Buccinum	Buccinum ovum	2						
 Buccinum sp.	Buccinum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Buccinidae	Buccinum	Buccinum sp.	2						
 Buccinum undatum	Buccinum undatum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Buccinidae	Buccinum	Buccinum undatum	2	3					
-Bugula flabellata	Bugula flabellata	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bugulidae	Bugula	Bugula flabellata	0						
-Bugula sp.	Bugula	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bugulidae	Bugula	Bugula sp.	0						
+Bugula flabellata	Bugula flabellata	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bugulidae	Bugula	Bugula flabellata	1						
+Bugula sp.	Bugula	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bugulidae	Bugula	Bugula sp.	1						
 Bulbus smithii	Bulbus smithii	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Naticidae	Bulbus	Bulbus smithii	2						
 Bulla gouldiana	Bulla gouldiana	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Bullidae	Bulla	Bulla gouldiana	1						
 Bulla sp.	Bulla	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Bullidae	Bulla	Bulla sp.	2						
@@ -1171,13 +1171,13 @@ Caecum subaustrale	Caecum subaustrale	Metazoa	Mollusca	Gastropoda	Neotaeniogloss
 Caecum trachea	Caecum trachea	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Caecidae	Caecum	Caecum trachea	1						
 Caenis sp.	Caenis	Metazoa	Arthropoda	Insecta	Ephemeroptera	Caenidae	Caenis	Caenis sp.	3						
 Calanoida	CALANOIDA	Metazoa	Arthropoda	Maxillopoda	Calanoida	__	__	Calanoida		1					
-Calappa sp.	Calappa	Metazoa	Malacostraca	Malacostraca	Decapoda	Calappidae	Calappa	Calappa sp.	0						
+Calappa sp.	Calappa	Metazoa	Malacostraca	Malacostraca	Decapoda	Calappidae	Calappa	Calappa sp.	1						
 Calathura brachiata	Calathura brachiata	Metazoa	Malacostraca	Malacostraca	Isopoda	Leptanthuridae	Calathura	Calathura brachiata	2						
 Calathura norvegica	Calathura norvegica	Metazoa	Malacostraca	Malacostraca	Isopoda	Leptanthuridae	Calathura	Calathura norvegica	1			37.65	43.91	1	
 Calathura sp.	Calathura	Metazoa	Malacostraca	Malacostraca	Isopoda	Leptanthuridae	Calathura	Calathura sp.	2						
-Calcinus tubularis	Calcinus tubularis	Metazoa	Arthropoda	Malacostraca	Decapoda	Diogenidae	Calcinus	Calcinus tubularis	0						
-Califia calida	Califia calida	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Califia	Califia calida	0						
-Calliactis parasitica	Calliactis parasitica	Metazoa	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Calliactis	Calliactis parasitica	0						
+Calcinus tubularis	Calcinus tubularis	Metazoa	Arthropoda	Malacostraca	Decapoda	Diogenidae	Calcinus	Calcinus tubularis	1						
+Califia calida	Califia calida	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Califia	Califia calida	1						
+Calliactis parasitica	Calliactis parasitica	Metazoa	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Calliactis	Calliactis parasitica	1						
 Callianassa (juv.)	Callianassa (juv.)	Animalia	Malacostraca	Malacostraca	Decapoda	Callianassidae	Callianassa	Callianassa (juv.)	3	3					
 Callianassa harmandi	Callianassa harmandi	Metazoa	Arthropoda	Malacostraca	Decapoda	Callianassidae	Callianassa	Callianassa harmandi	3						
 Callianassa japonica	Callianassa japonica	Metazoa	Arthropoda	Malacostraca	Decapoda	Callianassidae	Callianassa	Callianassa japonica	3						
@@ -1189,8 +1189,8 @@ Callianassa tyrrhena	Callianassa tyrrhena	Metazoa	Arthropoda	Malacostraca	Decapo
 Callinectes sapidus	Callinectes sapidus	Metazoa	Arthropoda	Malacostraca	Decapoda	Portunidae	Callinectes	Callinectes sapidus	1						
 Callinectes similis	Callinectes similis	Metazoa	Arthropoda	Malacostraca	Decapoda	Portunidae	Callinectes	Callinectes similis	1						
 Callinectes sp.	Callinectes	Metazoa	Arthropoda	Malacostraca	Decapoda	Portunidae	Callinectes	Callinectes sp.	1						
-Calliopius laeviusculus	Calliopius laeviusculus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Calliopiidae	Calliopius	Calliopius laeviusculus	0						
-Calliopius sp.	Calliopius	Metazoa	Malacostraca	Malacostraca	Amphipoda	Calliopiidae	Calliopius	Calliopius sp.	0						
+Calliopius laeviusculus	Calliopius laeviusculus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Calliopiidae	Calliopius	Calliopius laeviusculus	1						
+Calliopius sp.	Calliopius	Metazoa	Malacostraca	Malacostraca	Amphipoda	Calliopiidae	Calliopius	Calliopius sp.	1						
 Calliostoma consimilis	Calliostoma consimilis	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Calliostomatidae	Calliostoma	Calliostoma consimilis	1						
 Calliostoma granulatum	Calliostoma granulatum	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Calliostomatidae	Calliostoma	Calliostoma granulatum	1						
 Calliostoma laugieri	Calliostoma laugieri	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Calliostomatidae	Calliostoma	Calliostoma laugieri	1						
@@ -1249,7 +1249,7 @@ Cancer edwardsii	Cancer edwardsii	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancr
 Cancer gracilis	Cancer gracilis	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancridae	Cancer	Cancer gracilis	2						
 Cancer jordani	Cancer jordani	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancridae	Cancer	Cancer jordani	2						
 Cancer pagurus	Cancer pagurus	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancridae	Cancer	Cancer pagurus	3						
-Cancer sp.	Cancer	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancridae	Cancer	Cancer sp.	0						
+Cancer sp.	Cancer	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancridae	Cancer	Cancer sp.	1						
 Cancilla salisburyi	Cancilla salisburyi	to be checked manually	NA	NA	NA	NA	NA	Cancilla salisburyi	1						
 Cantharus sp.	Cantharus	Metazoa	Actinopteri	Actinopteri	Perciformes	Kyphosidae	Cantharus	Cantharus sp.	1						
 Capitella capitata	Capitella capitata	to be checked manually	Polychaeta	Polychaeta	NA	Capitellidae	Capitella	Capitella capitata	5	4	6	1.58	6.98	5	3
@@ -1289,9 +1289,9 @@ Caprellidae	CAPRELLIDAE	Metazoa	Arthropoda	Malacostraca	Amphipoda	Caprellidae	__
 Capulidae	Capulidae	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Capulidae	__	Capulidae		1					
 Capulus intortus	Capulus intortus	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Capulidae	Capulus	Capulus intortus	1						
 Capulus ungaricus	Capulus ungaricus	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Capulidae	Capulus	Capulus ungaricus	1	1					
-Carangoliopsis spinulosa	Carangoliopsisnulosa	to be checked manually	NA	NA	NA	NA	NA	Carangoliopsis spinulosa	0						
+Carangoliopsis spinulosa	Carangoliopsisnulosa	to be checked manually	NA	NA	NA	NA	NA	Carangoliopsis spinulosa	1						
 Carazziella sp.	Carazziella	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Carazziella	Carazziella sp.	3						
-Carcinoplax vestita	Carcinoplax vestita	to be checked manually	NA	NA	NA	NA	NA	Carcinoplax vestita	0						
+Carcinoplax vestita	Carcinoplax vestita	to be checked manually	NA	NA	NA	NA	NA	Carcinoplax vestita	1						
 Carcinus aestuarii	Carcinus aestuarii	Metazoa	Arthropoda	Malacostraca	Decapoda	Carcinidae	Carcinus	Carcinus aestuarii	3						
 Carcinus maenas	Carcinus maenas	Metazoa	Arthropoda	Malacostraca	Decapoda	Carcinidae	Carcinus	Carcinus maenas	3	3					
 Carcinus sp.	Carcinus	Metazoa	Arthropoda	Malacostraca	Decapoda	Carcinidae	Carcinus	Carcinus sp.	3						
@@ -1313,16 +1313,16 @@ Cardium exiguum	Cardium exiguum	Metazoa	Bivalvia	Bivalvia	Cardiida	Cardiidae	Car
 Cardium ovale	Cardium ovale	Metazoa	Bivalvia	Bivalvia	Cardiida	Cardiidae	Cardium	Cardium ovale	1						
 Cardium papillosum	Cardium papillosum	Metazoa	Bivalvia	Bivalvia	Cardiida	Cardiidae	Cardium	Cardium papillosum	1						
 Cardium sp.	Cardium	Metazoa	Bivalvia	Bivalvia	Cardiida	Cardiidae	Cardium	Cardium sp.	3						
-Caridion gordoni	Caridion gordoni	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Caridion	Caridion gordoni	0						
+Caridion gordoni	Caridion gordoni	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Caridion	Caridion gordoni	1						
 Carinoma armandi	Carinoma armandi	Metazoa	Nemertea	Palaeonemertea	Paleonemertea	Carinomidae	Carinoma	Carinoma armandi	3						
 Carinoma tremaphoros	Carinoma tremaphoros	Metazoa	Nemertea	Palaeonemertea	Paleonemertea	Carinomidae	Carinoma	Carinoma tremaphoros	3						
-Carpias minutus	Carpias minutus	Metazoa	Arthropoda	Malacostraca	Isopoda	Janiridae	Carpias	Carpias minutus	0						
+Carpias minutus	Carpias minutus	Metazoa	Arthropoda	Malacostraca	Isopoda	Janiridae	Carpias	Carpias minutus	1						
 Caryophyllia inornata	Caryophyllia inornata	Metazoa	Anthozoa	Anthozoa	Scleractinia	Caryophylliidae	Caryophyllia	Caryophyllia inornata	1						
 Caryophyllia smithi	Caryophyllia inornata	Metazoa	Anthozoa	Anthozoa	Scleractinia	Caryophylliidae	Caryophyllia	Caryophyllia smithi	1						1
 Caryophyllia smithii	Caryophyllia smithii	Metazoa	Anthozoa	Anthozoa	Scleractinia	Caryophylliidae	Caryophyllia	Caryophyllia smithii	1						1
 Cassidinidea ovalis	Cassidinidea ovalis	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Cassidinidea	Cassidinidea ovalis	2						
 Cassidinidea sp.	Cassidinidea	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Cassidinidea	Cassidinidea sp.	2						
-Cataleptodius floridanus	Cataleptodius floridanus	Metazoa	Arthropoda	Malacostraca	Decapoda	Xanthidae	Cataleptodius	Cataleptodius floridanus	0						
+Cataleptodius floridanus	Cataleptodius floridanus	Metazoa	Arthropoda	Malacostraca	Decapoda	Xanthidae	Cataleptodius	Cataleptodius floridanus	1						
 Caudina arenicola	Caudina arenicola	Metazoa	Echinodermata	Holothuroidea	Molpadiida	Caudinidae	Caudina	Caudina arenicola	1						
 Caudofoveata indet	Caudofoveata indet	Metazoa	Mollusca	Caudofoveata	Caudofoveata XXX	Caudofoveata XXX	Caudofoveata	Caudofoveata indet				6.43	26.89	2	
 Caulleriella alata	Caulleriella alata	Metazoa	Annelida	Sedentaria	Canalipalpata	Cirratulidae	Caulleriella	Caulleriella alata	4	2					2
@@ -1343,12 +1343,12 @@ Cavernularia pusilla	Cavernularia pusilla	Metazoa	Anthozoa	Anthozoa	Pennatulacea
 Cavernularia sp.	Cavernularia	Metazoa	Anthozoa	Anthozoa	Pennatulacea	Veretillidae	Cavernularia	Cavernularia sp.	1						
 Caviphaxus jiaozhouwanensis	Caviphaxus jiaozhouwanensis	to be checked manually	NA	NA	NA	NA	NA	Caviphaxus jiaozhouwanensis	2						
 Caviphaxus longiflagellatus	Caviphaxus longiflagellatus	to be checked manually	NA	NA	NA	NA	NA	Caviphaxus longiflagellatus	2						
-Cavolinia inflexa	Cavolinia inflexa	Metazoa	Gastropoda	Gastropoda	Thecosomata	Cavoliniidae	Cavolinia	Cavolinia inflexa	0						
-Cellaria salicornioides	Cellaria salicornioides	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Cellariidae	Cellaria	Cellaria salicornioides	0						
+Cavolinia inflexa	Cavolinia inflexa	Metazoa	Gastropoda	Gastropoda	Thecosomata	Cavoliniidae	Cavolinia	Cavolinia inflexa	1						
+Cellaria salicornioides	Cellaria salicornioides	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Cellariidae	Cellaria	Cellaria salicornioides	1						
 Cellepora pumicosa	Cellepora pumicosa	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Celleporidae	Cellepora	Cellepora pumicosa	1						
 Celleporella hyalina	Celleporella hyalina	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Hippothoidae	Celleporella	Celleporella hyalina	2						
-Cenogenus brevipes	Cenogenus brevipes	to be checked manually	NA	NA	NA	NA	NA	Cenogenus brevipes	0						
-Centromedon pumilus	Centromedon pumilus	Metazoa	Brachiopoda	Rhynchonellata	Terebratulida	Kraussinidae	Pumilus	Centromedon pumilus	0						
+Cenogenus brevipes	Cenogenus brevipes	to be checked manually	NA	NA	NA	NA	NA	Cenogenus brevipes	1						
+Centromedon pumilus	Centromedon pumilus	Metazoa	Brachiopoda	Rhynchonellata	Terebratulida	Kraussinidae	Pumilus	Centromedon pumilus	1						
 Cephalaspidea	CEPHALASPIDEA	Metazoa	Mollusca	Gastropoda	Cephalaspidea	__	__	Cephalaspidea		3					
 Cephalodiscida	CEPHALODISCIDA	Metazoa	Hemichordata	Pterobranchia	Cephalodiscida	__	__	Cephalodiscida		2					
 Cephalodiscus levinseni	Cephalodiscus levinseni	Animalia	Hemichordata	Pterobranchia	NA	Cephalodiscidae	Cephalodiscus	Cephalodiscus levinseni		2					
@@ -1438,7 +1438,7 @@ Chaetozone columbiana	Chaetozone columbiana	to be checked manually	Polychaeta	Po
 Chaetozone corona	Chaetozone corona	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone corona	3						
 Chaetozone gibber	Chaetozone gibber	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone gibber	4	2					
 Chaetozone jubata	Chaetozone jubata	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone jubata	4						
-Chaetozone senticosa	Chaetozone senticosa	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone senticosa	0						
+Chaetozone senticosa	Chaetozone senticosa	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone senticosa	1						
 Chaetozone setosa	Chaetozone setosa	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone setosa	4	2	4.5	3.47	14.46	4	3
 Chaetozone sp.	Chaetozone	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone sp.	4		4.5	10.98	18.86	3	3
 Chaetozone spp.	Chaetozone	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Chaetozone	Chaetozone spp.	4		4.5	10.98	18.86	3	3
@@ -1520,8 +1520,8 @@ Chloeia rosea	Chloeia rosea	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Ch
 Chloeia venusta	Chloeia venusta	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Chloeia	Chloeia venusta	4						
 Chloeia violacea	Chloeia violacea	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Chloeia	Chloeia violacea	2						
 Chloeia viridis	Chloeia viridis	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Chloeia	Chloeia viridis	4						
-Chloenopsis atlantica	Chloenopsis atlantica	to be checked manually	NA	NA	NA	NA	NA	Chloenopsis atlantica	0						
-Chlorotocus crassicornis	Chlorotocus crassicornis	Metazoa	Arthropoda	Malacostraca	Decapoda	Pandalidae	Chlorotocus	Chlorotocus crassicornis	0						
+Chloenopsis atlantica	Chloenopsis atlantica	to be checked manually	NA	NA	NA	NA	NA	Chloenopsis atlantica	1						
+Chlorotocus crassicornis	Chlorotocus crassicornis	Metazoa	Arthropoda	Malacostraca	Decapoda	Pandalidae	Chlorotocus	Chlorotocus crassicornis	1						
 Chone 	Chone 	Animalia	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone 		1					
 Chone acustica	Chone acustica	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone acustica	2	1					1
 Chone albocincta	Chone albocincta	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone albocincta	2						
@@ -1542,7 +1542,7 @@ Chone sp.	Chone	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone
 Chone striata	Chone striata	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone striata	2						
 Chone uebelackerae	Chone uebelackerae	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone uebelackerae	2						
 Chone veleronis	Chone veleronis	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Chone	Chone veleronis	2						
-Chorizopora brongniartii	Chorizopora brongniartii	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Chorizoporidae	Chorizopora	Chorizopora brongniartii	0						
+Chorizopora brongniartii	Chorizopora brongniartii	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Chorizoporidae	Chorizopora	Chorizopora brongniartii	1						
 Choromytilus chorus	Choromytilus chorus	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Choromytilus	Choromytilus chorus	3						
 Christerius	Christerius	to be checked manually	NA	NA	NA	NA	NA	Christerius		4					
 Christerius litoralis	Christerius litoralis	to be checked manually	NA	NA	NA	NA	NA	Christerius litoralis	5	4					
@@ -1600,7 +1600,7 @@ Cirratulus sp.	Cirratulus	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae
 Cirriformia capensis	Cirriformia capensis	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia capensis	4						
 Cirriformia chrysoderma	Cirriformia chrysoderma	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia chrysoderma	4						
 Cirriformia filigera	Cirriformia filigera	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia filigera	4						
-Cirriformia punctata	Cirriformia punctata	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia punctata	0						
+Cirriformia punctata	Cirriformia punctata	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia punctata	1						
 Cirriformia sp.	Cirriformia	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia sp.	4						
 Cirriformia tentaculata	Cirriformia tentaculata	Metazoa	Annelida	Polychaeta	Canalipalpata	Cirratulidae	Cirriformia	Cirriformia tentaculata	4	2					3
 Cirripedia	CIRRIPEDIA	Metazoa	Arthropoda	Maxillopoda	__	__	__	Cirripedia		1					
@@ -1615,8 +1615,8 @@ Cistenides ehlersi	Cistenides ehlersi	Metazoa	Annelida	Sedentaria	Canalipalpata	
 Cistenides granulata	Cistenides granulata	Metazoa	Annelida	Sedentaria	Canalipalpata	Pectinariidae	Cistenides	Cistenides granulata	1						
 Cistenides hyperborea	Cistenides hyperborea	Metazoa	Annelida	Sedentaria	Canalipalpata	Pectinariidae	Cistenides	Cistenides hyperborea	1		0	12.94	19.21	3	
 Cladocera	CLADOCERA	Metazoa	Arthropoda	Branchiopoda	Diplostraca	__	__	Cladocera	3						
-Cladocoryne floccosa	Cladocoryne floccosa	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cladocorynidae	Cladocoryne	Cladocoryne floccosa	0						
-Cladopelma viridula	Cladopelma viridula	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Cladopelma	Cladopelma viridula	0						
+Cladocoryne floccosa	Cladocoryne floccosa	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cladocorynidae	Cladocoryne	Cladocoryne floccosa	1						
+Cladopelma viridula	Cladopelma viridula	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Cladopelma	Cladopelma viridula	1						
 Cladotanytarsus mancus	Cladotanytarsus mancus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Cladotanytarsus	Cladotanytarsus mancus	4						
 Cladotanytarsus sp.	Cladotanytarsus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Cladotanytarsus	Cladotanytarsus sp.	4						
 Clansinella fasciata	Clausinella (fasciata)	to be checked manually	NA	NA	NA	NA	NA	Clansinella fasciata		1					1
@@ -1625,10 +1625,10 @@ Clausinella brongniarti	Clausinella brongniarti	Metazoa	Bivalvia	Bivalvia	Veneri
 Clausinella fasciata	Clausinella fasciata	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Clausinella	Clausinella fasciata	1			14.11	28.33	1	
 Clausinella sp.	Clausinella	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Clausinella	Clausinella sp.	1						
 Clava multicornis	Clava multicornis	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Clava	Clava multicornis	1						
-Clavatula pseudopriciplis	Clavatula pseudopriciplis	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Clava	Clavatula pseudopriciplis	0						
+Clavatula pseudopriciplis	Clavatula pseudopriciplis	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Clava	Clavatula pseudopriciplis	1						
 Clavidae	CLAVIDAE	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Clavidae	__	Clavidae	1						
-Cleantioides planicauda 	Cleantioides planicauda 	Metazoa	Arthropoda	Malacostraca	Isopoda	Holognathidae	Cleantioides	Cleantioides planicauda 	0						
-Cleantis planicauda	Cleantis planicauda	Metazoa	Arthropoda	Malacostraca	Isopoda	Holognathidae	Cleantis	Cleantis planicauda	0						
+Cleantioides planicauda 	Cleantioides planicauda 	Metazoa	Arthropoda	Malacostraca	Isopoda	Holognathidae	Cleantioides	Cleantioides planicauda 	1						
+Cleantis planicauda	Cleantis planicauda	Metazoa	Arthropoda	Malacostraca	Isopoda	Holognathidae	Cleantis	Cleantis planicauda	1						
 Cleantis prismatica	Cleantis prismatica	Metazoa	Arthropoda	Malacostraca	Isopoda	Holognathidae	Cleantis	Cleantis prismatica	2						
 Clelandella miliaris	Clelandella miliaris	to be checked manually	NA	NA	NA	NA	NA	Clelandella miliaris	1						
 Clementia papyracea	Clementia papyracea	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Clementia	Clementia papyracea	1						
@@ -1652,7 +1652,7 @@ Clymene palermitana	Clymene palermitana	Metazoa	Annelida	Sedentaria	Scolecida	Ma
 Clymene praetermissa	Clymene praetermissa	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymene	Clymene praetermissa	3						
 Clymene robusta	Clymene robusta	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymene	Clymene robusta	5						
 Clymene santandarensis	Clymene santandarensis	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymene	Clymene santandarensis	1						
-Clymene sp.	Clymene	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymene	Clymene sp.	0						
+Clymene sp.	Clymene	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymene	Clymene sp.	1						
 Clymenella cincta	Clymenella cincta	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymenella	Clymenella cincta	1						
 Clymenella sp.	Clymenella	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymenella	Clymenella sp.	1						
 Clymenella torquata	Clymenella torquata	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Clymenella	Clymenella torquata	1	3					
@@ -1668,22 +1668,22 @@ Clytia linearis	Clytia linearis	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanula
 Clytia paulensis	Clytia paulensis	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Clytia	Clytia paulensis	1						
 Clytia sp.	Clytia	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Clytia	Clytia sp.	1						
 Cnemidocarpa rhizopus	Cnemidocarpa rhizopus	Fungi	Ascidiacea	Ascidiacea	Stolidobranchia	Styelidae	Cnemidocarpa	Cnemidocarpa rhizopus	3						
-Cnemidocarpa sp.	Cnemidocarpa	Fungi	Ascidiacea	Ascidiacea	Stolidobranchia	Styelidae	Cnemidocarpa	Cnemidocarpa sp.	0						
+Cnemidocarpa sp.	Cnemidocarpa	Fungi	Ascidiacea	Ascidiacea	Stolidobranchia	Styelidae	Cnemidocarpa	Cnemidocarpa sp.	1						
 Cnidaria	CNIDARIA	Metazoa	Cnidaria	__	__	__	__	Cnidaria	1						
 Cochliolepis sp.	Cochliolepis	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Tornidae	Cochliolepis	Cochliolepis sp.	2						
-Cochlodesma praetenue	Cochlodesma praetenue	Metazoa	Mollusca	Bivalvia	Pholadomyoida	Periplomatidae	Cochlodesma	Cochlodesma praetenue	0	1					
+Cochlodesma praetenue	Cochlodesma praetenue	Metazoa	Mollusca	Bivalvia	Pholadomyoida	Periplomatidae	Cochlodesma	Cochlodesma praetenue	1	1					
 Codakia decussata	Codakia decussata	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Codakia	Codakia decussata	1						
 Codakia orbicularis	Codakia orbicularis	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Codakia	Codakia orbicularis	1						
 Codakia orbiculata	Codakia orbiculata	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Codakia	Codakia orbiculata	1						
 Codakia pectinella	Codakia pectinella	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Codakia	Codakia pectinella	1						
-Coecella  sp.	Coecella 	Metazoa	Bivalvia	Bivalvia	NA	Mesodesmatidae	Coecella	Coecella  sp.	0						
+Coecella  sp.	Coecella 	Metazoa	Bivalvia	Bivalvia	NA	Mesodesmatidae	Coecella	Coecella  sp.	1						
 Coelostele scalaris	Coelostele scalaris	to be checked manually	NA	NA	NA	NA	NA	Coelostele scalaris	1						
 Coelotanypus sp.	Coelotanypus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Coelotanypus	Coelotanypus sp.	4						
 Cognettia	Cognettia	Animalia	Clitellata	Clitellata	Enchytraeida	Enchytraeidae	Cognettia	Cognettia		4					
 Cognettia glandulosa	Cognettia glandulosa	Animalia	Clitellata	Clitellata	Enchytraeida	Enchytraeidae	Cognettia	Cognettia glandulosa		4					
 Cognettia sphagnetorum	Cognettiaagnetorum	Animalia	Clitellata	Clitellata	Enchytraeida	Enchytraeidae	Cognettia	Cognettia sphagnetorum		4					
-Collisella kolarovai	Collisella kolarovai	Metazoa	Gastropoda	Gastropoda	NA	Lottiidae	Collisella	Collisella kolarovai	0						
-Collisella sp.	Collisella	Metazoa	Gastropoda	Gastropoda	NA	Lottiidae	Collisella	Collisella sp.	0						
+Collisella kolarovai	Collisella kolarovai	Metazoa	Gastropoda	Gastropoda	NA	Lottiidae	Collisella	Collisella kolarovai	1						
+Collisella sp.	Collisella	Metazoa	Gastropoda	Gastropoda	NA	Lottiidae	Collisella	Collisella sp.	1						
 Colomastix pusilla	Colomastix pusilla	Metazoa	Arthropoda	Malacostraca	Amphipoda	Colomastigidae	Colomastix	Colomastix pusilla	2						
 Columbella adansoni	Columbella adansoni	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Columbella	Columbella adansoni	1						
 Columbella rustica	Columbella rustica	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Columbella	Columbella rustica	1						
@@ -1696,13 +1696,13 @@ Colus lachesis	Colus lachesis	Metazoa	Mollusca	Gastropoda	Neogastropoda	Buccinid
 Colus sabini	Colus sabini	Metazoa	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Colus	Colus sabini	1						
 Colus sp.	Colus	Metazoa	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Colus	Colus sp.	1	3					
 Colus turgidulus	Colus turgidulus	Metazoa	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Colus	Colus turgidulus	1						
-Comarmondia gracilis	Comarmondia gracilis	Metazoa	Mollusca	Gastropoda	Neogastropoda	Clathurellidae	Comarmondia	Comarmondia gracilis	0						
-Commensodorum commensalis	Commensodorum commensalis	Metazoa	Annelida	Errantia	Phyllodocida	Sphaerodoridae	Commensodorum	Commensodorum commensalis	0						
+Comarmondia gracilis	Comarmondia gracilis	Metazoa	Mollusca	Gastropoda	Neogastropoda	Clathurellidae	Comarmondia	Comarmondia gracilis	1						
+Commensodorum commensalis	Commensodorum commensalis	Metazoa	Annelida	Errantia	Phyllodocida	Sphaerodoridae	Commensodorum	Commensodorum commensalis	1						
 Compsomyax subdiaphana	Compsomyax subdiaphana	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Compsomyax	Compsomyax subdiaphana	2						
 Conchoderma auritum	Conchoderma auritum	Metazoa	Arthropoda	Maxillopoda	Pedunculata	Lepadidae	Conchoderma	Conchoderma auritum		1					
 Conchoderma virgatum	Conchoderma virgatum	Metazoa	Arthropoda	Maxillopoda	Pedunculata	Lepadidae	Conchoderma	Conchoderma virgatum		1					
 Conchoecia elegans	Conchoecia elegans	NA	NA	NA	NA	NA	NA	Conchoecia elegans	3			13.95	21.32	3	
-Conilera cylindracea	Conilera cylindracea	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Conilera	Conilera cylindracea	0						
+Conilera cylindracea	Conilera cylindracea	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Conilera	Conilera cylindracea	1						
 Conopeum reticulatum	Conopeum reticulatum	to be checked manually	NA	NA	NA	NA	NA	Conopeum reticulatum		1					
 Conopeum reticulum	Conopeum reticulum	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Conopeum	Conopeum reticulum	2						
 Conopeum seurati	Conopeum seurati	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Conopeum	Conopeum seurati	2						
@@ -1713,7 +1713,7 @@ Conus ventricosus	Conus ventricosus	Metazoa	Gastropoda	Gastropoda	Neogastropoda	
 Cooperella subdiaphana	Cooperella subdiaphana	Metazoa	Mollusca	Bivalvia	Veneroida	Petricolidae	Cooperella	Cooperella subdiaphana	2						
 Copepoda	COPEPODA	Metazoa	Arthropoda	Maxillopoda	__	__	__	Copepoda		1					
 Coracuta obliquata	Coracuta obliquata	to be checked manually	NA	NA	NA	NA	NA	Coracuta obliquata	3						
-Coralliophila squamosa	Coralliophila squamosa	Metazoa	Arthropoda	Insecta	Lepidoptera	Limacodidae	Squamosa	Coralliophila squamosa	0						
+Coralliophila squamosa	Coralliophila squamosa	Metazoa	Arthropoda	Insecta	Lepidoptera	Limacodidae	Squamosa	Coralliophila squamosa	1						
 Corbicula fluminea	Corbicula fluminea	Metazoa	Mollusca	Bivalvia	Veneroida	Corbiculidae	Corbicula	Corbicula fluminea	3						
 Corbula caribaea	Corbula caribaea	Metazoa	Mollusca	Bivalvia	Myoida	Corbulidae	Corbula	Corbula caribaea	4						
 Corbula contracta	Corbula contracta	Metazoa	Mollusca	Bivalvia	Myoida	Corbulidae	Corbula	Corbula contracta	4						
@@ -1799,7 +1799,7 @@ Craniella polyura	Craniella polyura	Metazoa	Arthropoda	Demospongiae	Lepidoptera	
 Crassicorophium bonellii	Crassicorophium bonellii	Metazoa	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Crassicorophium	Crassicorophium bonellii	3						
 Crassicorophium crassicorne	Crassicorophium crassicorne	Metazoa	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Crassicorophium	Crassicorophium crassicorne	3						
 Crassilabrum crassilabrum	Crassilabrum crassilabrum	to be checked manually	NA	NA	NA	NA	NA	Crassilabrum crassilabrum	1						
-Crassinella lunulata	Crassinella lunulata	Metazoa	Mollusca	Bivalvia	Veneroida	Crassatellidae	Crassinella	Crassinella lunulata	0						
+Crassinella lunulata	Crassinella lunulata	Metazoa	Mollusca	Bivalvia	Veneroida	Crassatellidae	Crassinella	Crassinella lunulata	1						
 Crassispira pseudoprinciplis	Crassispira pseudoprinciplis	to be checked manually	NA	NA	NA	NA	NA	Crassispira pseudoprinciplis	1						
 Crassostrea angulata	Crassostrea angulata	Metazoa	Mollusca	Bivalvia	Ostreoida	Ostreidae	Crassostrea	Crassostrea angulata	3						
 Crassostrea gigas	Crassostrea gigas	Metazoa	Mollusca	Bivalvia	Ostreoida	Ostreidae	Crassostrea	Crassostrea gigas	3	1					
@@ -1820,18 +1820,18 @@ Crepidula plana	Crepidula plana	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Caly
 Crepidula unguiformis	Crepidula unguiformis	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Calyptraeidae	Crepidula	Crepidula unguiformis	3						
 Crepipatella dilatata	Crepipatella dilatata	Metazoa	Mollusca	Gastropoda	__	Calyptraeidae	Crepipatella	Crepipatella dilatata	2						
 Crepipatella dorsata	Crepipatella dorsata	Metazoa	Mollusca	Gastropoda	__	Calyptraeidae	Crepipatella	Crepipatella dorsata	2						
-Cressa cristata	Cressa cristata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Cressidae	Cressa	Cressa cristata	0						
-Cressa dubia	Cressa dubia	Metazoa	Arthropoda	Malacostraca	Amphipoda	Cressidae	Cressa	Cressa dubia	0						
-Cribrilina sp.	Cribrilina	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Cribrilinidae	Cribrilina	Cribrilina sp.	0						
+Cressa cristata	Cressa cristata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Cressidae	Cressa	Cressa cristata	1						
+Cressa dubia	Cressa dubia	Metazoa	Arthropoda	Malacostraca	Amphipoda	Cressidae	Cressa	Cressa dubia	1						
+Cribrilina sp.	Cribrilina	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Cribrilinidae	Cribrilina	Cribrilina sp.	1						
 Cribrinopsis crassa	Cribrinopsis crassa	Metazoa	Arthropoda	Insecta	Lepidoptera	Oecophoridae	Crassa	Cribrinopsis crassa	2						
 Crinophtheiros collinsi	Crinophtheiros collinsi	to be checked manually	NA	NA	NA	NA	NA	Crinophtheiros collinsi	1						
-Crisia ramosa	Crisia ramosa	Metazoa	Stenolaemata	Stenolaemata	Cyclostomatida	Crisiidae	Crisia	Crisia ramosa	0						
-Crisia sp.	Crisia	Metazoa	Stenolaemata	Stenolaemata	Cyclostomatida	Crisiidae	Crisia	Crisia sp.	0						
+Crisia ramosa	Crisia ramosa	Metazoa	Stenolaemata	Stenolaemata	Cyclostomatida	Crisiidae	Crisia	Crisia ramosa	1						
+Crisia sp.	Crisia	Metazoa	Stenolaemata	Stenolaemata	Cyclostomatida	Crisiidae	Crisia	Crisia sp.	1						
 Crisidia cornuta	Crisidia cornuta	Metazoa	Bryozoa	Stenolaemata	Cyclostomatida	Crisiidae	Crisidia	Crisidia cornuta	2						
 Crisilla semistriata	Crisilla semistriata	to be checked manually	NA	NA	NA	NA	NA	Crisilla semistriata	1						
-Crossaster papposus	Crossaster papposus	Metazoa	Echinodermata	Asteroidea	Velatida	Solasteridae	Crossaster	Crossaster papposus	0	3					
+Crossaster papposus	Crossaster papposus	Metazoa	Echinodermata	Asteroidea	Velatida	Solasteridae	Crossaster	Crossaster papposus	1	3					
 Crucibulum spinosum	Crucibulumnosum	to be checked manually	NA	NA	NA	NA	NA	Crucibulum spinosum	2						
-Crucigera websteri	Crucigera websteri	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Crucigera	Crucigera websteri	0						
+Crucigera websteri	Crucigera websteri	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Crucigera	Crucigera websteri	1						
 Cryptocentrus sp.	Cryptocentrus	Metazoa	Actinopteri	Actinopteri	Perciformes	Gobiidae	Cryptocentrus	Cryptocentrus sp.	3						
 Cryptochironomus fulvus	Cryptochironomus fulvus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Cryptochironomus	Cryptochironomus fulvus	3						
 Cryptochironomus sp.	Cryptochironomus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Cryptochironomus	Cryptochironomus sp.	3						
@@ -1842,7 +1842,7 @@ Ctena decussata	Ctena decussata	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Ct
 Ctena pectinella	Ctena pectinella	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Ctena	Ctena pectinella	1						
 Ctenodiscus crispatus	Ctenodiscus crispatus	Metazoa	Echinodermata	Asteroidea	Paxillosida	Ctenodiscidae	Ctenodiscus	Ctenodiscus crispatus	1			10.72	20.3	3	
 Ctenodrilidae	Ctenodrilidae	Metazoa	Annelida	Polychaeta	Terebellida	Ctenodrilidae	__	Ctenodrilidae		4					
-Ctenodrilus serratus	Ctenodrilus serratus	Metazoa	Annelida	Polychaeta	Terebellida	Ctenodrilidae	Ctenodrilus	Ctenodrilus serratus	0						
+Ctenodrilus serratus	Ctenodrilus serratus	Metazoa	Annelida	Polychaeta	Terebellida	Ctenodrilidae	Ctenodrilus	Ctenodrilus serratus	1						
 Cucumaria elongata	Cucumaria elongata	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Cucumariidae	Cucumaria	Cucumaria elongata	1						
 Cucumaria frondosa	Cucumaria frondosa	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Cucumariidae	Cucumaria	Cucumaria frondosa	1						
 Cucumaria kirschbergii	Cucumaria kirschbergii	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Cucumariidae	Cucumaria	Cucumaria kirschbergii	1						
@@ -1882,8 +1882,8 @@ Cuspidaria obesa	Cuspidaria obesa	Metazoa	Mollusca	Bivalvia	Pholadomyoida	Cuspid
 Cuspidaria rostrata	Cuspidaria rostrata	Metazoa	Mollusca	Bivalvia	Pholadomyoida	Cuspidariidae	Cuspidaria	Cuspidaria rostrata	1			14.36	29.42	1	
 Cuspidaria sp.	Cuspidaria	Metazoa	Mollusca	Bivalvia	Pholadomyoida	Cuspidariidae	Cuspidaria	Cuspidaria sp.	1						
 Cuspidaria subtorta	Cuspidaria subtorta	Metazoa	Mollusca	Bivalvia	Anomalodesmata	Cuspidariidae	Cuspidaria	Cuspidaria subtorta	1		0	11.19	25.27	2	
-Cuthona (agg.)	Cuthona (agg.)	to be checked manually	NA	NA	NA	NA	NA	Cuthona (agg.)	0	3					
-Cuthona sp.	Cuthona	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Tergipedidae	Cuthona	Cuthona sp.	0	3					
+Cuthona (agg.)	Cuthona (agg.)	to be checked manually	NA	NA	NA	NA	NA	Cuthona (agg.)	1	3					
+Cuthona sp.	Cuthona	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Tergipedidae	Cuthona	Cuthona sp.	1	3					
 Cyamicardium denticulatum	Cyamicardium denticulatum	to be checked manually	NA	NA	NA	NA	NA	Cyamicardium denticulatum	2						
 Cyanophthalma obscura	Cyanophthalma obscura	Metazoa	Enopla	Enopla	Monostilifera	Tetrastemmatidae	Cyanophthalma	Cyanophthalma obscura	3						
 Cyanophthalma sp.	Cyanophthalma	Metazoa	Enopla	Enopla	Monostilifera	Tetrastemmatidae	Cyanophthalma	Cyanophthalma sp.	3						
@@ -1902,7 +1902,7 @@ Cyclinella tenuis	Cyclinella tenuis	Metazoa	Mollusca	Bivalvia	Veneroida	Venerida
 Cyclocardia compressa	Cyclocardia compressa	to be checked manually	NA	NA	NA	NA	NA	Cyclocardia compressa	1						
 Cyclocardia thouarsii	Cyclocardia thouarsii	to be checked manually	NA	NA	NA	NA	NA	Cyclocardia thouarsii	1						
 Cyclocardia velutina	Cyclocardia velutina	Metazoa	Mollusca	Gastropoda	__	Velutinidae	Velutina	Cyclocardia velutina	1						
-Cycloes cristata	Cycloes cristata	to be checked manually	NA	NA	NA	NA	NA	Cycloes cristata	0						
+Cycloes cristata	Cycloes cristata	to be checked manually	NA	NA	NA	NA	NA	Cycloes cristata	1						
 Cyclope neritea	Cyclope neritea	Metazoa	Mollusca	Gastropoda	__	Nassariidae	Cyclope	Cyclope neritea	1						1
 Cyclope pellucida	Cyclope pellucida	Metazoa	Mollusca	Gastropoda	__	Nassariidae	Cyclope	Cyclope pellucida	1						
 Cylichna alba	Cylichna alba	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Cylichnidae	Cylichna	Cylichna alba	2		1.5	12.84	28.26	1	
@@ -1956,7 +1956,7 @@ Dasybranchus platyceps	Dasybranchus platyceps	Metazoa	Annelida	Sedentaria	Scolec
 Dasybranchus sp.	Dasybranchus	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Dasybranchus	Dasybranchus sp.	3						
 Dasychone bombyx	Dasychone bombyx	Metazoa	Arthropoda	Insecta	Lepidoptera	Bombycidae	Bombyx	Dasychone bombyx	1						
 Dasychone lucullana	Dasychone lucullana	to be checked manually	NA	NA	NA	NA	NA	Dasychone lucullana	1						
-Dayipsammolyce ctenidophora	Dayipsammolyce ctenidophora	to be checked manually	NA	NA	NA	NA	NA	Dayipsammolyce ctenidophora	0						
+Dayipsammolyce ctenidophora	Dayipsammolyce ctenidophora	to be checked manually	NA	NA	NA	NA	NA	Dayipsammolyce ctenidophora	1						
 Decamastus gracilis	Decamastus gracilis	Metazoa	Polychaeta	Polychaeta	Scolecida	Capitellidae	Decamastus	Decamastus gracilis	2						
 Decamastus sp.	Decamastus	Metazoa	Polychaeta	Polychaeta	Scolecida	Capitellidae	Decamastus	Decamastus sp.	3						
 Decapoda	DECAPODA	Metazoa	Arthropoda	Malacostraca	Decapoda	__	__	Decapoda		3		11.81	21.59	3	
@@ -1989,7 +1989,7 @@ Dendrobeania fruticosa	Dendrobeania fruticosa	Metazoa	Bryozoa	Gymnolaemata	Cheil
 Dendrodoa grossularia	Dendrodoa grossularia	Metazoa	Ascidiacea	Ascidiacea	Stolidobranchia	Styelidae	Dendrodoa	Dendrodoa grossularia	1	1					
 Dendrodoa sp.	Dendrodoa	Metazoa	Ascidiacea	Ascidiacea	Stolidobranchia	Styelidae	Dendrodoa	Dendrodoa sp.	1						
 Dendronereis pinnaticirris	Dendronereis pinnaticirris	to be checked manually	NA	NA	NA	NA	NA	Dendronereis pinnaticirris	1						
-Dendronotus frondosus	Dendronotus frondosus	Metazoa	Mollusca	Gastropoda	Nudibranchia	Dendronotidae	Dendronotus	Dendronotus frondosus	0						
+Dendronotus frondosus	Dendronotus frondosus	Metazoa	Mollusca	Gastropoda	Nudibranchia	Dendronotidae	Dendronotus	Dendronotus frondosus	1						
 DENTALIIDAE	DENTALIIDAE	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	__	DENTALIIDAE	1						
 Dentalium dentalis	Dentalium dentalis	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	Dentalium dentalis	1						
 Dentalium entalis	Dentalium entalis	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	Dentalium entalis	1						
@@ -2005,7 +2005,7 @@ Dentalium sp.	Dentalium	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Denta
 Dentalium tetragonum	Dentalium tetragonum	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	Dentalium tetragonum	1						
 Dentalium texasianum	Dentalium texasianum	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	Dentalium texasianum	1						
 Dentalium vulgare	Dentalium vulgare	Metazoa	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	Dentalium vulgare	1						
-Dentatisyllis carolinae	Dentatisyllis carolinae	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Dentatisyllis	Dentatisyllis carolinae	0						
+Dentatisyllis carolinae	Dentatisyllis carolinae	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Dentatisyllis	Dentatisyllis carolinae	1						
 Dentinephtys glabra	Dentinephtys glabra	to be checked manually	NA	NA	NA	NA	NA	Dentinephtys glabra	2						
 Dero abranchiata	Dero abranchiata	Metazoa	Annelida	Gastropoda	Stylommatophora	Limacidae	Dero	Dero abranchiata	2						
 Dero digitata	Dero digitata	Metazoa	Annelida	Gastropoda	Stylommatophora	Limacidae	Dero	Dero digitata	2						
@@ -2013,7 +2013,7 @@ Dero sp.	Dero	Metazoa	Annelida	Gastropoda	Stylommatophora	Limacidae	Dero	Dero sp
 Desdemona ornata	Desdemona ornata	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Desdemona	Desdemona ornata	2						2
 Deshayesorchestia deshayesii	Deshayesorchestia deshayesii	Metazoa	Arthropoda	Malacostraca	Amphipoda	Talitridae	Deshayesorchestia	Deshayesorchestia deshayesii	3						
 Desmodora sp.	Desmodora	Metazoa	Chromadorea	Chromadorea	Desmodorida	Desmodoridae	Desmodora	Desmodora sp.	3						
-Deutella californica	Deutella californica	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pariambidae	Deutella	Deutella californica	0						
+Deutella californica	Deutella californica	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pariambidae	Deutella	Deutella californica	1						
 Devonia perrieri	Devonia perrieri	NA	NA	NA	NA	NA	NA	Devonia perrieri	1	2					
 Dexamine sp.	Dexamine	Metazoa	Malacostraca	Malacostraca	Amphipoda	Dexaminidae	Dexamine	Dexamine sp.	3						
 Dexamine spiniventris	Dexamineniventris	Metazoa	Malacostraca	Malacostraca	Amphipoda	Dexaminidae	Dexamine	Dexamine spiniventris	3						
@@ -2021,13 +2021,13 @@ Dexamine spinosa	Dexaminenosa	Metazoa	Malacostraca	Malacostraca	Amphipoda	Dexami
 Dexamine thea	Dexamine thea	Metazoa	Malacostraca	Malacostraca	Amphipoda	Dexaminidae	Dexamine	Dexamine thea	3	1					
 Dexiospira pagenstecheri	Dexiospira pagenstecheri	to be checked manually	NA	NA	NA	NA	NA	Dexiospira pagenstecheri	2						
 Dexiospira spirillum	Dexiospirarillum	to be checked manually	NA	NA	NA	NA	NA	Dexiospira spirillum	1						
-Diacria trispinosa	Diacria trispinosa	Metazoa	Gastropoda	Gastropoda	Thecosomata	Cavoliniidae	Diacria	Diacria trispinosa	0						
+Diacria trispinosa	Diacria trispinosa	Metazoa	Gastropoda	Gastropoda	Thecosomata	Cavoliniidae	Diacria	Diacria trispinosa	1						
 Diadumene leucolena	Diadumene leucolena	Metazoa	Anthozoa	Anthozoa	Actiniaria	Diadumenidae	Diadumene	Diadumene leucolena	2						
 Diadumene sp.	Diadumene	Metazoa	Anthozoa	Anthozoa	Actiniaria	Diadumenidae	Diadumene	Diadumene sp.	2						
-Dialychone sp.	Dialychone	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Dialychone	Dialychone sp.	0						
+Dialychone sp.	Dialychone	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Dialychone	Dialychone sp.	1						
 Diaphana minuta	Diaphana minuta	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Diaphanidae	Diaphana	Diaphana minuta	1						
 Diaphana sp.	Diaphana	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Diaphanidae	Diaphana	Diaphana sp.	1						
-Diastoma varium	Diastoma varium	Metazoa	Mollusca	Gastropoda	Mesogastropoda	Diastomidae	Diastoma	Diastoma varium	0						
+Diastoma varium	Diastoma varium	Metazoa	Mollusca	Gastropoda	Mesogastropoda	Diastomidae	Diastoma	Diastoma varium	1						
 Diastylidae	Diastylidae	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	__	Diastylidae		2		13.95	29.9	1	
 Diastylis alaskensis	Diastylis alaskensis	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis alaskensis	2						
 Diastylis bradyi	Diastylis bradyi	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis bradyi	2	1					
@@ -2042,7 +2042,7 @@ Diastylis lepechini	Diastylis lepechini	Metazoa	Arthropoda	Malacostraca	Cumacea	
 Diastylis lucifera	Diastylis lucifera	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis lucifera	3	1		5.29	18.91	3	
 Diastylis oxyrhyncha	Diastylis oxyrhyncha	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis oxyrhyncha	2						
 Diastylis rathkei	Diastylis rathkei	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis rathkei	3	1		6.33	13.4	4	
-Diastylis richardi	Diastylis richardi	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis richardi	0						
+Diastylis richardi	Diastylis richardi	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis richardi	1						
 Diastylis rostrata	Diastylis rostrata	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis rostrata	3			8.45	21.12	3	
 Diastylis rugosa	Diastylis rugosa	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis rugosa	1	1					
 Diastylis scorpioides	Diastylis scorpioides	Metazoa	Arthropoda	Malacostraca	Cumacea	Diastylidae	Diastylis	Diastylis scorpioides	1						
@@ -2080,12 +2080,12 @@ Diopatra cuprea	Diopatra cuprea	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	D
 Diopatra neapolitana	Diopatra neapolitana	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra neapolitana	1						1
 Diopatra neotridens	Diopatra neotridens	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra neotridens	1						
 Diopatra ornata	Diopatra ornata	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra ornata	2						
-Diopatra papillata	Diopatra papillata	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra papillata	0						
+Diopatra papillata	Diopatra papillata	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra papillata	1						
 Diopatra rhizoicola	Diopatra rhizoicola	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra rhizoicola	2						
 Diopatra splendidissima	Diopatraendidissima	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra splendidissima	2						
 Diopatra tridentata	Diopatra tridentata	Metazoa	Annelida	Polychaeta	Eunicida	Onuphidae	Diopatra	Diopatra tridentata	2						
-Dioplosyllis cirrosa	Dioplosyllis cirrosa	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Dioplosyllis	Dioplosyllis cirrosa	0						
-Dioplosyllis sp.	Dioplosyllis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Dioplosyllis	Dioplosyllis sp.	0						
+Dioplosyllis cirrosa	Dioplosyllis cirrosa	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Dioplosyllis	Dioplosyllis cirrosa	1						
+Dioplosyllis sp.	Dioplosyllis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Dioplosyllis	Dioplosyllis sp.	1						
 Diplocirrus capensis	Diplocirrus capensis	Metazoa	Annelida	Polychaeta	Canalipalpata	Flabelligeridae	Diplocirrus	Diplocirrus capensis	1						
 Diplocirrus glaucus	Diplocirrus glaucus	Metazoa	Annelida	Polychaeta	Canalipalpata	Flabelligeridae	Diplocirrus	Diplocirrus glaucus	1	2	0	7.98	26.89	2	2
 Diplocirrus hirsutus	Diplocirrus hirsutus	Metazoa	Annelida	Polychaeta	Canalipalpata	Flabelligeridae	Diplocirrus	Diplocirrus hirsutus	1						
@@ -2116,8 +2116,8 @@ Dipolydora sp.	Dipolydora	to be checked manually	Annelida	Polychaeta	Spionida	Sp
 Dipolydora tentaculata	Dipolydora tentaculata	to be checked manually	Annelida	Polychaeta	Spionida	Spionidae	Dipolydora	Dipolydora tentaculata	4						
 DIPTERA	DIPTERA	Metazoa	Arthropoda	Insecta	Diptera	__	__	DIPTERA	4						
 Dirtupa arietina								Dirtupa arietina							2
-Dischides politus	Dischides politus	to be checked manually	NA	NA	NA	NA	NA	Dischides politus	0						
-Discinisca lamellosa	Discinisca lamellosa	Metazoa	Brachiopoda	Lingulata	Lingulida	Discinidae	Discinisca	Discinisca lamellosa	0						
+Dischides politus	Dischides politus	to be checked manually	NA	NA	NA	NA	NA	Dischides politus	1						
+Discinisca lamellosa	Discinisca lamellosa	Metazoa	Brachiopoda	Lingulata	Lingulida	Discinidae	Discinisca	Discinisca lamellosa	1						
 Dispio sp.	Dispio	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Dispio	Dispio sp.	3						
 Dispio uncinata	Dispio uncinata	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Dispio	Dispio uncinata	3						
 Ditrupa	Ditrupa	Animalia	Polychaeta	Polychaeta	Sabellida	Serpulidae	Ditrupa	Ditrupa		1					
@@ -2148,15 +2148,15 @@ Dorippe astuta	Dorippe astuta	to be checked manually	NA	NA	NA	NA	NA	Dorippe astu
 Dorippe granulata	Dorippe granulata	to be checked manually	NA	NA	NA	NA	NA	Dorippe granulata	2						
 Dorippe japonica	Dorippe japonica	Metazoa	Arthropoda	Insecta	Lepidoptera	Lycaenidae	Japonica	Dorippe japonica	2						
 Doris sp.	Doris	Metazoa	Rhabditophora	Rhabditophora	Polycladida	Euryleptidae	Doris	Doris sp.	1						
-Dorvillea cerasina	Dorvillea cerasina	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea cerasina	0						
+Dorvillea cerasina	Dorvillea cerasina	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea cerasina	1						
 Dorvillea erucaeformis	Dorvillea erucaeformis	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Dorvillea	Dorvillea erucaeformis		4					
 Dorvillea pseudorubrovittata	Dorvillea pseudorubrovittata	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea pseudorubrovittata	2						
-Dorvillea rubra	Dorvillea rubra	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea rubra	0						
+Dorvillea rubra	Dorvillea rubra	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea rubra	1						
 Dorvillea rubrovittata	Dorvillea rubrovittata	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea rubrovittata	2	4					1
 Dorvillea rudolphi	Dorvillea rudolphi	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea rudolphi	4						
-Dorvillea sociabilis	Dorvillea sociabilis	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea sociabilis	0						
-Dorvillea sp.	Dorvillea	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea sp.	0	4					
-DORVILLEIDAE	DORVILLEIDAE	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	__	DORVILLEIDAE	0	4		9.69	22.16	3	
+Dorvillea sociabilis	Dorvillea sociabilis	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea sociabilis	1						
+Dorvillea sp.	Dorvillea	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Dorvillea	Dorvillea sp.	1	4					
+DORVILLEIDAE	DORVILLEIDAE	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	__	DORVILLEIDAE	1	4		9.69	22.16	3	
 Doryporella spathulifera	Doryporellathulifera	to be checked manually	NA	NA	NA	NA	NA	Doryporella spathulifera	2						
 Dosinia biscocta	Dosinia biscocta	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Dosinia	Dosinia biscocta	1						
 Dosinia corrugata	Dosinia corrugata	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Dosinia	Dosinia corrugata	1						
@@ -2173,7 +2173,7 @@ Dosinia sp.	Dosinia	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Dosinia	Dosini
 Dosinorbis japonica	Dosinorbis japonica	Metazoa	Arthropoda	Insecta	Lepidoptera	Lycaenidae	Japonica	Dosinorbis japonica	1						
 Doto pinnatifida	Doto pinnatifida	Metazoa	Gastropoda	Gastropoda	Decapoda	Dotidae	Doto	Doto pinnatifida	1						
 Doto sp.	Doto	Metazoa	Gastropoda	Gastropoda	Decapoda	Dotidae	Doto	Doto sp.	1	3					
-Draconema sp.	Draconema	Metazoa	Chromadorea	Chromadorea	Desmodorida	Draconematidae	Draconema	Draconema sp.	0						
+Draconema sp.	Draconema	Metazoa	Chromadorea	Chromadorea	Desmodorida	Draconematidae	Draconema	Draconema sp.	1						
 Drifa glomerata	Drifa glomerata	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Drifa	Drifa glomerata	1						
 Drillia janseni	Drillia janseni	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Drilliidae	Drillia	Drillia janseni	1						
 Drillia sp.	Drillia	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Drilliidae	Drillia	Drillia sp.	1						
@@ -2198,9 +2198,9 @@ Duridrilus tardus	Duridrilus tardus	Metazoa	Annelida	Oligochaeta	Tubificida	Naid
 Duva florida	Duva florida	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Alcyoniidae	Duva	Duva florida	2						
 Dynamena pumila	Dynamena pumila	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Sertulariidae	Dynamena	Dynamena pumila	2						
 Dynamena sp.	Dynamena	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Sertulariidae	Dynamena	Dynamena sp.	2						
-Dynamene bidentata	Dynamene bidentata	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Dynamene	Dynamene bidentata	0						
-Dynamene bidentatus	Dynamene bidentatus	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Dynamene	Dynamene bidentatus	0						
-Dynamene sp.	Dynamene	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Dynamene	Dynamene sp.	0						
+Dynamene bidentata	Dynamene bidentata	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Dynamene	Dynamene bidentata	1						
+Dynamene bidentatus	Dynamene bidentatus	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Dynamene	Dynamene bidentatus	1						
+Dynamene sp.	Dynamene	Metazoa	Malacostraca	Malacostraca	Isopoda	Sphaeromatidae	Dynamene	Dynamene sp.	1						
 Dyopedos monacantha	Dyopedos monacantha	Metazoa	Malacostraca	Malacostraca	Amphipoda	Dulichiidae	Dyopedos	Dyopedos monacantha	3						
 Dyopedos monacanthus	Dyopedos monacanthus	Metazoa	Arthropoda	Actinopteri	Amphipoda	Dulichiidae	Dyopedos	Dyopedos monacanthus		1					
 Dyopedos porrectus	Dyopedos porrectus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Dulichiidae	Dyopedos	Dyopedos porrectus	3	1					
@@ -2224,15 +2224,15 @@ Echinocardium flavescens	Echinocardium flavescens	Metazoa	Echinodermata	Echinoid
 Echinocardium mediterraneum	Echinocardium mediterraneum	Metazoa	Echinodermata	Echinoidea	Spatangoida	Loveniidae	Echinocardium	Echinocardium mediterraneum	1						
 Echinocardium mortenseni	Echinocardium mortenseni	Metazoa	Echinodermata	Echinoidea	Spatangoida	Loveniidae	Echinocardium	Echinocardium mortenseni	1						
 Echinocardium pennatifidum	Echinocardium pennatifidum	Animalia	Echinoidea	Echinoidea	Spatangoida	Loveniidae	Echinocardium	Echinocardium pennatifidum		2					
-Echinocardium sp.	Echinocardium	Metazoa	Echinodermata	Echinoidea	Spatangoida	Loveniidae	Echinocardium	Echinocardium sp.	0			14.45	22.46	3	
+Echinocardium sp.	Echinocardium	Metazoa	Echinodermata	Echinoidea	Spatangoida	Loveniidae	Echinocardium	Echinocardium sp.	1			14.45	22.46	3	
 Echinocucumis hispida	Echinocucumis hispida	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Ypsilothuriidae	Echinocucumis	Echinocucumis hispida	1			24.32	36.36	1	
 Echinocucumis sp.	Echinocucumis	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Ypsilothuriidae	Echinocucumis	Echinocucumis sp.	1						
 Echinocyamus flavescens	Echinocyamus flavescens	Metazoa	Echinoidea	Echinoidea	Clypeasteroida	Echinocyamidae	Echinocyamus	Echinocyamus flavescens	2						
 Echinocyamus pusillus	Echinocyamus pusillus	Metazoa	Echinoidea	Echinoidea	Clypeasteroida	Echinocyamidae	Echinocyamus	Echinocyamus pusillus	1	2	0	14.05	32.01	1	
-Echinocyamus sp.	Echinocyamus	Metazoa	Echinoidea	Echinoidea	Clypeasteroida	Echinocyamidae	Echinocyamus	Echinocyamus sp.	0						
+Echinocyamus sp.	Echinocyamus	Metazoa	Echinoidea	Echinoidea	Clypeasteroida	Echinocyamidae	Echinocyamus	Echinocyamus sp.	1						
 Echinogammarus marinus	Echinogammarus marinus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Echinogammarus	Echinogammarus marinus	1						
 Echinogammarus olivii	Echinogammarus marinus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Echinogammarus	Echinogammarus olivii							1
-Echinogammarus sp.	Echinogammarus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Echinogammarus	Echinogammarus sp.	0						
+Echinogammarus sp.	Echinogammarus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Echinogammarus	Echinogammarus sp.	1						
 Echinogammarus stoerensis	Echinogammarus stoerensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Gammaridae	Echinogammarus	Echinogammarus stoerensis	3						
 Echinogammarus stoerensis 	Echinogammarus stoerensis 	to be checked manually	NA	NA	NA	NA	NA	Echinogammarus stoerensis 		1					
 ECHINOIDEA	ECHINOIDEA	Metazoa	Echinoidea	Echinoidea	NA	NA	NA	ECHINOIDEA	1						
@@ -2278,7 +2278,7 @@ Ehlersia garciai	Ehlersia garciai	to be checked manually	NA	NA	NA	NA	NA	Ehlersia
 Ehlersia oerstedi	Ehlersia oerstedi	to be checked manually	NA	NA	NA	NA	NA	Ehlersia oerstedi	2						
 Ehlersileanira hwanghaiensis	Ehlersileanira hwanghaiensis	to be checked manually	NA	NA	NA	NA	NA	Ehlersileanira hwanghaiensis	2						
 Ehlersileanira incisa hwanghaiensis	Ehlersileanira incisa hwanghaiensis	to be checked manually	NA	NA	NA	NA	NA	Ehlersileanira incisa hwanghaiensis	2						
-Einfeldia sp.	Einfeldia	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Einfeldia	Einfeldia sp.	0						
+Einfeldia sp.	Einfeldia	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Einfeldia	Einfeldia sp.	1						
 Einhornia arctica	Einhornia arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Arctica	Einhornia arctica	2						
 Einhornia crustulenta	Einhornia crustulenta	to be checked manually	NA	NA	NA	NA	NA	Einhornia crustulenta	2						
 Ektonodiastylis nimia	Ektonodiastylis nimia	to be checked manually	NA	NA	NA	NA	NA	Ektonodiastylis nimia	2						
@@ -2292,7 +2292,7 @@ Elasmopus sp.	Elasmopus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Elas
 Electra crustulenta	Electra crustulenta	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Electra	Electra crustulenta	2						
 Electra monostachys	Electra monostachys	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Electra	Electra monostachys	2						
 Electra pilosa	Electra pilosa	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	Electra	Electra pilosa	2	1					
-Elminius kingii	Elminius kingii	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Elminius	Elminius kingii	0						
+Elminius kingii	Elminius kingii	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Elminius	Elminius kingii	1						
 Elminius modestus	Elminius modestus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Elminius	Elminius modestus	2	1					
 Emarginula conica	Emarginula conica	Metazoa	Mollusca	Gastropoda	NA	Fissurellidae	Emarginula	Emarginula conica	1						
 Emarginula fissura	Emarginula fissura	Metazoa	Mollusca	Gastropoda	NA	Fissurellidae	Emarginula	Emarginula fissura	1						
@@ -2301,8 +2301,8 @@ Emarginula papillosa	Emarginula papillosa	Metazoa	Mollusca	Gastropoda	NA	Fissure
 Emarginula rosea	Emarginula rosea	Metazoa	Mollusca	Gastropoda	NA	Fissurellidae	Emarginula	Emarginula rosea	1	3					
 Emarginula sicula	Emarginula sicula	Metazoa	Mollusca	Gastropoda	NA	Fissurellidae	Emarginula	Emarginula sicula	1						
 Emarginula sp.	Emarginula	Metazoa	Mollusca	Gastropoda	NA	Fissurellidae	Emarginula	Emarginula sp.	1						
-Embletonia pulchra	Embletonia pulchra	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Embletoniidae	Embletonia	Embletonia pulchra	0	3					
-Embletonia sp.	Embletonia	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Embletoniidae	Embletonia	Embletonia sp.	0						
+Embletonia pulchra	Embletonia pulchra	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Embletoniidae	Embletonia	Embletonia pulchra	1	3					
+Embletonia sp.	Embletonia	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Embletoniidae	Embletonia	Embletonia sp.	1						
 Emplectonema gracile	Emplectonema gracile	Metazoa	Nemertea	Enopla	Monostilifera	Emplectonematidae	Emplectonema	Emplectonema gracile	3						
 Emplectonema neesii	Emplectonema neesii	Metazoa	Nemertea	Enopla	Monostilifera	Emplectonematidae	Emplectonema	Emplectonema neesii	3						
 ENCHYTRAEIDAE	ENCHYTRAEIDAE	Metazoa	Annelida	Oligochaeta	Haplotaxida	Enchytraeidae	__	ENCHYTRAEIDAE	5	4					
@@ -2338,7 +2338,7 @@ Ensis siliqua	Ensis siliqua	Metazoa	Mollusca	Bivalvia	Veneroida	Pharidae	Ensis	E
 Ensis sp.	Ensis	Metazoa	Mollusca	Bivalvia	Veneroida	Pharidae	Ensis	Ensis sp.	1	1					
 Entalina quinquangularis	Entalina quinquangularis	Metazoa	Mollusca	Scaphopoda	Gadilida	Entalinidae	Entalina	Entalina quinquangularis	1						
 Entalina tetragona	Entalina tetragona	Metazoa	Mollusca	Scaphopoda	Gadilida	Entalinidae	Entalina	Entalina tetragona	1		0	14	29.3	1	
-Entalophoroecia deflexa	Entalophoroecia deflexa	Metazoa	Bryozoa	Stenolaemata	Cyclostomata	Entalophoridae	Entalophoroecia	Entalophoroecia deflexa	0						
+Entalophoroecia deflexa	Entalophoroecia deflexa	Metazoa	Bryozoa	Stenolaemata	Cyclostomata	Entalophoridae	Entalophoroecia	Entalophoroecia deflexa	1						
 Enteropneusta	ENTEROPNEUSTA	Metazoa	Hemichordata	Enteropneusta	__	__	__	Enteropneusta		2					
 Entodesma sp.	Entodesma	Metazoa	Bivalvia	Bivalvia	NA	Lyonsiidae	Entodesma	Entodesma sp.	2						
 Eobrolgus spinosus	Eobrolgusnosus	to be checked manually	NA	NA	NA	NA	NA	Eobrolgus spinosus	1						
@@ -2359,8 +2359,8 @@ Ephoron virgo	Ephoron virgo	Metazoa	Arthropoda	Insecta	Ephemeroptera	Polymitarcy
 Epigamia alexandri	Epigamia alexandri	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Epigamia	Epigamia alexandri	2						
 Epilepton clarkiae	Epilepton clarkiae	Metazoa	Mollusca	Bivalvia	Veneroida	Neoleptonidae	Epilepton	Epilepton clarkiae	1	2					
 Epilucina californica	Epilucina californica	Metazoa	Mollusca	Bivalvia	Veneroida	Lucinidae	Epilucina	Epilucina californica	2						
-Epimeria loricata	Epimeria loricata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Epimeriidae	Epimeria	Epimeria loricata	0						
-Epimeria parasitica	Epimeria parasitica	Metazoa	Arthropoda	Malacostraca	Amphipoda	Epimeriidae	Epimeria	Epimeria parasitica	0						
+Epimeria loricata	Epimeria loricata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Epimeriidae	Epimeria	Epimeria loricata	1						
+Epimeria parasitica	Epimeria parasitica	Metazoa	Arthropoda	Malacostraca	Amphipoda	Epimeriidae	Epimeria	Epimeria parasitica	1						
 Episiphon filum	Episiphon filum	to be checked manually	NA	NA	NA	NA	NA	Episiphon filum	1						
 Episiphon kiaochowwanense	Episiphon kiaochowwanense	to be checked manually	NA	NA	NA	NA	NA	Episiphon kiaochowwanense	1						
 Epitomapta roseola	Epitomapta roseola	NA	NA	NA	NA	NA	NA	Epitomapta roseola	2						
@@ -2375,7 +2375,7 @@ Epitonium sp.	Epitonium	Metazoa	Gastropoda	Gastropoda	[unassigned] Caenogastropo
 Epitonium tinctum	Epitonium tinctum	Metazoa	Gastropoda	Gastropoda	[unassigned] Caenogastropoda	Epitoniidae	Epitonium	Epitonium tinctum	1						
 Epitonium trevelyanum	Epitonium trevelyanum	Metazoa	Gastropoda	Gastropoda	[unassigned] Caenogastropoda	Epitoniidae	Epitonium	Epitonium trevelyanum	1						
 Epitonium turtonis	Epitonium turtonis	Metazoa	Gastropoda	Gastropoda	[unassigned] Caenogastropoda	Epitoniidae	Epitonium	Epitonium turtonis	1						
-Epixanthus frontalis	Epixanthus frontalis	Metazoa	Arthropoda	Malacostraca	Decapoda	Oziidae	Epixanthus	Epixanthus frontalis	0						
+Epixanthus frontalis	Epixanthus frontalis	Metazoa	Arthropoda	Malacostraca	Decapoda	Oziidae	Epixanthus	Epixanthus frontalis	1						
 Epizoanthus couchii	Epizoanthus couchii	Metazoa	Cnidaria	Anthozoa	Zoantharia	Epizoanthidae	Epizoanthus	Epizoanthus couchii	1						
 Epizoanthus erinaceus	Epizoanthus erinaceus	Metazoa	Cnidaria	Anthozoa	Zoantharia	Epizoanthidae	Epizoanthus	Epizoanthus erinaceus	1						
 Epizoanthus incrustatus	Epizoanthus incrustatus	Metazoa	Cnidaria	Anthozoa	Zoantharia	Epizoanthidae	Epizoanthus	Epizoanthus incrustatus	1						
@@ -2384,7 +2384,7 @@ Epsilonema cygnoides	Epsilonema cygnoides	Metazoa	Nematoda	Chromadorea	Desmodori
 Eranno chilensis	Eranno chilensis	Metazoa	Annelida	Polychaeta	Eunicida	Lumbrineridae	Eranno	Eranno chilensis	2						
 Eranno lagunae	Eranno lagunae	Metazoa	Annelida	Polychaeta	Eunicida	Lumbrineridae	Eranno	Eranno lagunae	2						
 Erato columbella	Erato columbella	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Columbellidae	Erato	Erato columbella	1						
-Erato voluta	Erato voluta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Columbellidae	Erato	Erato voluta	0						
+Erato voluta	Erato voluta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Columbellidae	Erato	Erato voluta	1						
 Erichsonella attenuata	Erichsonella attenuata	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Erichsonella	Erichsonella attenuata	3						
 Erichsonella crenulata	Erichsonella crenulata	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Erichsonella	Erichsonella crenulata	1						
 Erichsonella filiformis	Erichsonella filiformis	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Erichsonella	Erichsonella filiformis	3						
@@ -2397,10 +2397,10 @@ Ericthonius pugnax	Ericthonius pugnax	Metazoa	Arthropoda	Malacostraca	Amphipoda	
 Ericthonius punctatus	Ericthonius punctatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ericthonius	Ericthonius punctatus	1	1					
 Ericthonius rubricornis	Ericthonius rubricornis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ericthonius	Ericthonius rubricornis	1			23.16	34.71	1	
 Ericthonius sp.	Ericthonius	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ericthonius	Ericthonius sp.	1	1					
-Erinaceusyllis belizensis	Erinaceusyllis belizensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis belizensis	0						
-Erinaceusyllis cryptica	Erinaceusyllis cryptica	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis cryptica	0						
+Erinaceusyllis belizensis	Erinaceusyllis belizensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis belizensis	1						
+Erinaceusyllis cryptica	Erinaceusyllis cryptica	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis cryptica	1						
 Erinaceusyllis erinaceus	Erinaceusyllis erinaceus	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis erinaceus	2						
-Erinaceusyllis sp.	Erinaceusyllis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis sp.	0						
+Erinaceusyllis sp.	Erinaceusyllis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Erinaceusyllis	Erinaceusyllis sp.	1						
 Eriocheir leptognathus	Eriocheir leptognathus	Metazoa	Malacostraca	Malacostraca	Decapoda	Varunidae	Eriocheir	Eriocheir leptognathus	2						
 Eriocheir sinensis	Eriocheir sinensis	Metazoa	Malacostraca	Malacostraca	Decapoda	Varunidae	Eriocheir	Eriocheir sinensis	2						
 Eriopisa elongata	Eriopisa elongata	Metazoa	Malacostraca	Malacostraca	Amphipoda	Eriopisidae	Eriopisa	Eriopisa elongata	1		0	10.36	25.15	2	
@@ -2408,7 +2408,7 @@ Eriopisa sp.	Eriopisa	Metazoa	Malacostraca	Malacostraca	Amphipoda	Eriopisidae	Er
 Eriopisella sechellensis	Eriopisella sechellensis	Metazoa	Malacostraca	Malacostraca	Amphipoda	Eriopisidae	Eriopisella	Eriopisella sechellensis	1						
 Eriopisella sp.	Eriopisella	Metazoa	Malacostraca	Malacostraca	Amphipoda	Eriopisidae	Eriopisella	Eriopisella sp.	1						
 Erodona mactroides	Erodona mactroides	to be checked manually	NA	NA	NA	NA	NA	Erodona mactroides	1						
-Erpobdella punctata	Erpobdella punctata	Metazoa	Annelida	Hirudinida	Arhynchobdellida	Erpobdellidae	Erpobdella	Erpobdella punctata	0						
+Erpobdella punctata	Erpobdella punctata	Metazoa	Annelida	Hirudinida	Arhynchobdellida	Erpobdellidae	Erpobdella	Erpobdella punctata	1						
 Erycina nitidum	Erycina nitidum	to be checked manually	NA	NA	NA	NA	NA	Erycina nitidum	2						
 Erycina ovata	Erycina ovata	to be checked manually	NA	NA	NA	NA	NA	Erycina ovata	3						
 Erythrops elegans	Erythrops elegans	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Erythrops	Erythrops elegans	2	3					
@@ -2430,14 +2430,14 @@ Eteone sp.	Eteone	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone	
 Eteone spetsbergensis	Eteonetsbergensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone	Eteone spetsbergensis	3						
 Eteone suecica	Eteone suecica	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone	Eteone suecica		3					
 Eteone tchangsii	Eteone tchangsii	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Eteone	Eteone tchangsii	3						
-Ethusa mascarone	Ethusa mascarone	Metazoa	Arthropoda	Malacostraca	Decapoda	Dorippidae	Ethusa	Ethusa mascarone	0						
+Ethusa mascarone	Ethusa mascarone	Metazoa	Arthropoda	Malacostraca	Decapoda	Dorippidae	Ethusa	Ethusa mascarone	1						
 Eualus cranchii	Eualus cranchii	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Eualus	Eualus cranchii	1						
 Eualus gaimardii	Eualus gaimardii	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Eualus	Eualus gaimardii	1						
 Eualus lineatus	Eualus lineatus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Eualus	Eualus lineatus	2						
 Eualus occultus	Eualus occultus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Eualus	Eualus occultus	1						
 Eualus pusiolus	Eualus pusiolus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Eualus	Eualus pusiolus	1						
 Eualus sollaudi	Eualus sollaudi	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Eualus	Eualus sollaudi	1						
-Eubranchus sp.	Eubranchus	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Eubranchidae	Eubranchus	Eubranchus sp.	0						
+Eubranchus sp.	Eubranchus	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Eubranchidae	Eubranchus	Eubranchus sp.	1						
 Euchone analis	Euchone analis	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Euchone	Euchone analis	2	1					
 Euchone incolor	Euchone incolor	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Euchone	Euchone incolor	2						
 Euchone limnicola	Euchone limnicola	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Euchone	Euchone limnicola	3						
@@ -2447,7 +2447,7 @@ Euchone rosea	Euchone rosea	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae
 Euchone rubrocincta	Euchone rubrocincta	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Euchone	Euchone rubrocincta	2	1					
 Euchone southerni	Euchone southerni	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Euchone	Euchone southerni	2	1	1.5				
 Euchone sp.	Euchone	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Euchone	Euchone sp.	2	1	1.5	5.36	23.43	2	
-Eucidaris sp.	Eucidaris	Metazoa	Echinoidea	Echinoidea	Cidaroida	Cidaridae	Eucidaris	Eucidaris sp.	0						
+Eucidaris sp.	Eucidaris	Metazoa	Echinoidea	Echinoidea	Cidaroida	Cidaridae	Eucidaris	Eucidaris sp.	1						
 Euclymene affinis	Euclymene affinis	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene affinis	3		3	9.69	27.88	1	
 Euclymene annandalei	Euclymene annandalei	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene annandalei	1						
 Euclymene collaris	Euclymene collaris	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene collaris	1						
@@ -2459,23 +2459,23 @@ Euclymene oerstedii	Euclymene oerstedii	Animalia	Annelida	Sedentaria	Scolecida	M
 Euclymene palermitana	Euclymene palermitana	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene palermitana	1						1
 Euclymene praetermissa	Euclymene praetermissa	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene praetermissa	3						
 Euclymene robusta	Euclymene robusta	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene robusta	5						
-Euclymene santandarensis	Euclymene santandarensis	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene santandarensis	0						
-Euclymene sp.	Euclymene	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene sp.	0	3		13.71	27.42	1	
+Euclymene santandarensis	Euclymene santandarensis	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene santandarensis	1						
+Euclymene sp.	Euclymene	Metazoa	Annelida	Polychaeta	Scolecida	Maldanidae	Euclymene	Euclymene sp.	1	3		13.71	27.42	1	
 EUCLYMENINAE	EUCLYMENINAE	to be checked manually	NA	NA	NA	NA	NA	EUCLYMENINAE	3		3	9.69	27.88	1	
 Eucrate crenata	Eucrate crenata	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Eucrateidae	Eucrate	Eucrate crenata	2						
 Eucratea loricata	Eucratea loricata	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Eucrateidae	Eucratea	Eucratea loricata	2						
-Eudendrium capillare	Eudendrium capillare	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium capillare	0						
-Eudendrium rameum	Eudendrium rameum	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium rameum	0						
-Eudendrium sp.	Eudendrium	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium sp.	0						
-Eudendrium vaginatum	Eudendrium vaginatum	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium vaginatum	0						
+Eudendrium capillare	Eudendrium capillare	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium capillare	1						
+Eudendrium rameum	Eudendrium rameum	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium rameum	1						
+Eudendrium sp.	Eudendrium	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium sp.	1						
+Eudendrium vaginatum	Eudendrium vaginatum	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium vaginatum	1						
 Eudevenopus honduranus	Eudevenopus honduranus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Platyischnopidae	Eudevenopus	Eudevenopus honduranus	1						
 Eudevenopus sp.	Eudevenopus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Platyischnopidae	Eudevenopus	Eudevenopus sp.	1						
-Eudistylis vancouveri	Eudistylis vancouveri	to be checked manually	NA	NA	NA	NA	NA	Eudistylis vancouveri	0						
+Eudistylis vancouveri	Eudistylis vancouveri	to be checked manually	NA	NA	NA	NA	NA	Eudistylis vancouveri	1						
 Eudorella emarginata	Eudorella emarginata	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella emarginata	2	1		8.69	22.66	3	
 Eudorella hirsuta	Eudorella hirsuta	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella hirsuta	2			16.02	25.55	2	
 Eudorella nana	Eudorella nana	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella nana	3						
 Eudorella pacifica	Eudorella pacifica	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella pacifica	2						
-Eudorella sp.	Eudorella	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella sp.	0			16.03	28.22	1	
+Eudorella sp.	Eudorella	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella sp.	1			16.03	28.22	1	
 Eudorella truncatula	Eudorella truncatula	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorella	Eudorella truncatula	1	1		11.36	26.12	2	
 Eudorellopsis deformis	Eudorellopsis deformis	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Eudorellopsis	Eudorellopsis deformis	1	2		15.73	28.9	1	
 Eugerda sp.	Eugerda	Metazoa	Malacostraca	Malacostraca	Isopoda	Desmosomatidae	Eugerda	Eugerda sp.	1						
@@ -2558,15 +2558,15 @@ Eunicella sp.	Eunicella	Metazoa	Annelida	Polychaeta	Eunicida	Eunicidae	Eunicella
 Eunicella verrucosa	Eunicella verrucosa	Metazoa	Annelida	Polychaeta	Eunicida	Eunicidae	Eunicella	Eunicella verrucosa	1						
 EUNICIDA	EUNICIDA	Animalia	Polychaeta	Polychaeta	Eunicida	NA	NA	EUNICIDA		3					
 EUNICIDAE	EUNICIDAE	Metazoa	Annelida	Polychaeta	Eunicida	Eunicidae	__	EUNICIDAE	2						
-Euniphysa tridontesa	Euniphysa tridontesa	Metazoa	Annelida	Polychaeta	Eunicida	Eunicidae	Euniphysa	Euniphysa tridontesa	0						
+Euniphysa tridontesa	Euniphysa tridontesa	Metazoa	Annelida	Polychaeta	Eunicida	Eunicidae	Euniphysa	Euniphysa tridontesa	1						
 Eunoe nodosa	Eunoe nodosa	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Eunoe	Eunoe nodosa	2	3		14.31	23.43	2	
 Eunoe oerstedi	Eunoe oerstedi	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Eunoe	Eunoe oerstedi	2						
 Eunoe sp.	Eunoe	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Eunoe	Eunoe sp.	2						
-Eunotia oerstedi	Eunotia oerstedi	to be checked manually	NA	NA	NA	NA	NA	Eunotia oerstedi	0						
+Eunotia oerstedi	Eunotia oerstedi	to be checked manually	NA	NA	NA	NA	NA	Eunotia oerstedi	1						
 Eunucula grayi	Eunucula grayi	to be checked manually	NA	NA	NA	NA	NA	Eunucula grayi	2						
 Euonyx	Euonyx	Animalia	Malacostraca	Malacostraca	Amphipoda	Uristidae	Euonyx	Euonyx		3					
 Euonyx chelatus	Euonyx chelatus	Animalia	Malacostraca	Malacostraca	Amphipoda	Uristidae	Euonyx	Euonyx chelatus		3					
-Eupanthalis kinbergi	Eupanthalis kinbergi	Metazoa	Annelida	Errantia	Phyllodocida	Acoetidae	Eupanthalis	Eupanthalis kinbergi	0						
+Eupanthalis kinbergi	Eupanthalis kinbergi	Metazoa	Annelida	Errantia	Phyllodocida	Acoetidae	Eupanthalis	Eupanthalis kinbergi	1						
 Euphausiidae	Euphausiidae	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	__	Euphausiidae		3					
 Euphilomedes carcharodonta	Euphilomedes carcharodonta	Metazoa	Arthropoda	Ostracoda	Myodocopida	Philomedidae	Euphilomedes	Euphilomedes carcharodonta	3						
 Euphionella lobulata	Euphionella lobulata	to be checked manually	NA	NA	NA	NA	NA	Euphionella lobulata	2						
@@ -2575,8 +2575,8 @@ Euphrosine borealis	Euphrosine borealis	Metazoa	Annelida	Polychaeta	Amphinomida	
 Euphrosine foliosa	Euphrosine foliosa	Metazoa	Annelida	Polychaeta	Amphinomida	Euphrosinidae	Euphrosine	Euphrosine foliosa	1						
 Euphrosine sp.	Euphrosine	Metazoa	Annelida	Polychaeta	Amphinomida	Euphrosinidae	Euphrosine	Euphrosine sp.	1						
 Euphysa sp.	Euphysa	Metazoa	Hydrozoa	Hydrozoa	Anthoathecata	Corymorphidae	Euphysa	Euphysa sp.	2						
-Eupleura caudata	Eupleura caudata	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Muricidae	Eupleura	Eupleura caudata	0						
-Eupleura sulcidentata	Eupleura sulcidentata	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Muricidae	Eupleura	Eupleura sulcidentata	0						
+Eupleura caudata	Eupleura caudata	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Muricidae	Eupleura	Eupleura caudata	1						
+Eupleura sulcidentata	Eupleura sulcidentata	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Muricidae	Eupleura	Eupleura sulcidentata	1						
 Eupolymnia heterobranchia	Eupolymnia heterobranchia	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Eupolymnia	Eupolymnia heterobranchia	2						
 Eupolymnia nebulosa	Eupolymnia nebulosa	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Eupolymnia	Eupolymnia nebulosa	3	2		8.58	23.22	2	
 Eupolymnia nesidensis	Eupolymnia nesidensis	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Eupolymnia	Eupolymnia nesidensis	3	2		11.53	31.42	1	
@@ -2597,7 +2597,7 @@ Eurynome aspera	Eurynome aspera	Metazoa	Malacostraca	Malacostraca	Decapoda	Majid
 Eurynome sp.	Eurynome	Metazoa	Malacostraca	Malacostraca	Decapoda	Majidae	Eurynome	Eurynome sp.	1						
 Eurynome spinosa	Eurynomenosa	Metazoa	Malacostraca	Malacostraca	Decapoda	Majidae	Eurynome	Eurynome spinosa	1						
 Eurypodius latreillei	Eurypodius latreillei	to be checked manually	NA	NA	NA	NA	NA	Eurypodius latreillei	2						
-Eurypon lacazei	Eurypon lacazei	Metazoa	Porifera	Demospongiae	Poecilosclerida	Raspailiidae	Eurypon	Eurypon lacazei	0						
+Eurypon lacazei	Eurypon lacazei	Metazoa	Porifera	Demospongiae	Poecilosclerida	Raspailiidae	Eurypon	Eurypon lacazei	1						
 Eurysyllis sp.	Eurysyllis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Eurysyllis	Eurysyllis sp.	2						
 Eurysyllis tuberculata	Eurysyllis tuberculata	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Eurysyllis	Eurysyllis tuberculata	2	2					1
 Eurythoe complanata	Eurythoe complanata	Metazoa	Polychaeta	Polychaeta	Amphinomida	Amphinomidae	Eurythoe	Eurythoe complanata	1						
@@ -2677,7 +2677,7 @@ Fabricola baltica	Fabricola baltica	to be checked manually	NA	NA	NA	NA	NA	Fabric
 Fabrisabella sp.	Fabrisabella	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Fabrisabella	Fabrisabella sp.	1						
 Fabulina fabula	Fabulina fabula	NA	NA	NA	NA	NA	NA	Fabulina fabula	1	1					
 Fabulina fabuloides	Fabulina fabuloides	to be checked manually	NA	NA	NA	NA	NA	Fabulina fabuloides	1						
-Facelina sp.	Facelina	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Facelinidae	Facelina	Facelina sp.	0						
+Facelina sp.	Facelina	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Facelinidae	Facelina	Facelina sp.	1						
 Falcidens crossotus	Falcidens crossotus	Metazoa	Caudofoveata	Caudofoveata	Chaetodermatida	Chaetodermatidae	Falcidens	Falcidens crossotus	1						
 Falcidens gutturosus	Falcidens gutturosus	Metazoa	Caudofoveata	Caudofoveata	Chaetodermatida	Chaetodermatidae	Falcidens	Falcidens gutturosus	1						1
 Falcidens sp.	Falcidens	Metazoa	Caudofoveata	Caudofoveata	Chaetodermatida	Chaetodermatidae	Falcidens	Falcidens sp.	1						
@@ -2685,10 +2685,10 @@ Falsilunatia falklandica	Falsilunatia falklandica	to be checked manually	NA	NA	N
 Farrella repens	Farrella repens	Metazoa	Bryozoa	Gymnolaemata	Ctenostomatida	Farrellidae	Farrella	Farrella repens	2						
 Fartulum sp.	Fartulum	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Caecidae	Fartulum	Fartulum sp.	2						
 Fauvelia martinensis	Fauvelia martinensis	Animalia	Annelida	Errantia	Phyllodocida	Syllidae	Fauvelia	Fauvelia martinensis		2					
-Fauveliopsis brevis	Fauveliopsis brevis	Metazoa	Polychaeta	Polychaeta	Terebellida	Fauveliopsidae	Fauveliopsis	Fauveliopsis brevis	0						
-Fauveliopsis sp.	Fauveliopsis	Metazoa	Polychaeta	Polychaeta	Terebellida	Fauveliopsidae	Fauveliopsis	Fauveliopsis sp.	0						
+Fauveliopsis brevis	Fauveliopsis brevis	Metazoa	Polychaeta	Polychaeta	Terebellida	Fauveliopsidae	Fauveliopsis	Fauveliopsis brevis	1						
+Fauveliopsis sp.	Fauveliopsis	Metazoa	Polychaeta	Polychaeta	Terebellida	Fauveliopsidae	Fauveliopsis	Fauveliopsis sp.	1						
 Fecampia erythrocephala	Fecampia erythrocephala	Metazoa	Platyhelminthes	Trepaxonemata	Neoophora	Fecampiidae	Fecampia	Fecampia erythrocephala	2						
-Felaniella usta	Felaniella usta	Metazoa	Arthropoda	Insecta	Lepidoptera	Saturniidae	Usta	Felaniella usta	0						
+Felaniella usta	Felaniella usta	Metazoa	Arthropoda	Insecta	Lepidoptera	Saturniidae	Usta	Felaniella usta	1						
 Ficopomatus enigmaticus	Ficopomatus enigmaticus	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Ficopomatus	Ficopomatus enigmaticus	3						3
 Ficopomatus enigmatus	Ficopomatus enigmatus	to be checked manually	NA	NA	NA	NA	NA	Ficopomatus enigmatus		1					
 Ficopomatus miamiensis	Ficopomatus miamiensis	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Ficopomatus	Ficopomatus miamiensis	3						
@@ -2701,19 +2701,19 @@ Fimbriosthenelais hirsuta	Fimbriosthenelais hirsuta	Metazoa	Annelida	Errantia	Ph
 Fimbriosthenelais hobbsi	Fimbriosthenelais hobbsi	Metazoa	Annelida	Errantia	Phyllodocida	Sigalionidae	Fimbriosthenelais	Fimbriosthenelais hobbsi	2						
 Fimbriosthenelais minor	Fimbriosthenelais minor	Metazoa	Annelida	Errantia	Phyllodocida	Sigalionidae	Fimbriosthenelais	Fimbriosthenelais minor	2						
 Fimbriosthenelais zetlandica	Fimbriosthenelais zetlandica	Metazoa	Annelida	Errantia	Phyllodocida	Sigalionidae	Fimbriosthenelais	Fimbriosthenelais zetlandica	2						
-Finella dubia	Finella dubia	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Obtortionidae	Finella	Finella dubia	0						
+Finella dubia	Finella dubia	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Obtortionidae	Finella	Finella dubia	1						
 Fissidentalium majorinum	Fissidentalium majorinum	to be checked manually	NA	NA	NA	NA	NA	Fissidentalium majorinum	1						
-Flabelligena gascognensis	Flabelligena gascognensis	to be checked manually	NA	NA	NA	NA	NA	Flabelligena gascognensis	0						
+Flabelligena gascognensis	Flabelligena gascognensis	to be checked manually	NA	NA	NA	NA	NA	Flabelligena gascognensis	1						
 Flabelligera affinis	Flabelligera affinis	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	Flabelligera	Flabelligera affinis	2			14.48	32.04	1	
 Flabelligera infundibularis	Flabelligera infundibularis	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	Flabelligera	Flabelligera infundibularis	1						
-Flabelligera sp.	Flabelligera	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	Flabelligera	Flabelligera sp.	0						
+Flabelligera sp.	Flabelligera	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	Flabelligera	Flabelligera sp.	1						
 Flabelligeridae	Flabelligeridae	Metazoa	Annelida	Polychaeta	Flabelligerida	Flabelligeridae	__	Flabelligeridae		2		8.9	23.62	2	
 Flabellina browni	Flabellina browni	Metazoa	Mollusca	Gastropoda	Nudibranchia	Flabellinidae	Flabellina	Flabellina browni	2						
 Flabellina verrucosa	Flabellina verrucosa	Metazoa	Mollusca	Gastropoda	Nudibranchia	Flabellinidae	Flabellina	Flabellina verrucosa	2						
 Flexopecten glaber	Flexopecten glaber	Metazoa	Bivalvia	Bivalvia	Pectinida	Pectinidae	Flexopecten	Flexopecten glaber	1						
 Flexopecten glaber proteus	Flexopecten glaber proteus	Metazoa	Bivalvia	Bivalvia	Pectinida	Pectinidae	Flexopecten	Flexopecten glaber proteus	1						
-Flosmaris grandis	Flosmaris grandis	Metazoa	Cnidaria	Anthozoa	Actiniaria	Isophelliidae	Flosmaris	Flosmaris grandis	0						
-Flustra foliacea	Flustra foliacea	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Flustridae	Flustra	Flustra foliacea	0	1					
+Flosmaris grandis	Flosmaris grandis	Metazoa	Cnidaria	Anthozoa	Actiniaria	Isophelliidae	Flosmaris	Flosmaris grandis	1						
+Flustra foliacea	Flustra foliacea	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Flustridae	Flustra	Flustra foliacea	1	1					
 Folinia crassa	Folinia crassa	Metazoa	Arthropoda	Insecta	Lepidoptera	Oecophoridae	Crassa	Folinia crassa	1						
 FORAMINIFERIDA	FORAMINIFERIDA	Protozoa	Protozoa	Granuloreticulosea	Foraminiferida	NA	NA	FORAMINIFERIDA							
 Foxiphalus golfensis	Foxiphalus golfensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Foxiphalus	Foxiphalus golfensis	2						
@@ -2727,7 +2727,7 @@ Fridericia striata	Fridericia striata	Metazoa	Annelida	Oligochaeta	Haplotaxida	E
 Frigidoalvania cruenta	Frigidoalvania cruenta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Frigidoalvania	Frigidoalvania cruenta	1						
 Frigidoalvania janmayeni	Frigidoalvania janmayeni	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Rissoidae	Frigidoalvania	Frigidoalvania janmayeni	1						
 Frigidocardium centumliratum	Frigidocardium centumliratum	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Frigidocardium	Frigidocardium centumliratum	3						
-Fulvia mutica	Fulvia mutica	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Fulvia	Fulvia mutica	0						
+Fulvia mutica	Fulvia mutica	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Fulvia	Fulvia mutica	1						
 Funiculina quadrangularis	Funiculina quadrangularis	Metazoa	Cnidaria	Anthozoa	Pennatulacea	Funiculinidae	Funiculina	Funiculina quadrangularis	1						
 Fusinus bocagei	Fusinus bocagei	to be checked manually	Mollusca	Gastropoda	Neogastropoda	Fasciolariidae	Fusinus	Fusinus bocagei	1						
 Fusinus pulchellus	Fusinus pulchellus	to be checked manually	Mollusca	Gastropoda	Neogastropoda	Fasciolariidae	Fusinus	Fusinus pulchellus	1						
@@ -2748,7 +2748,7 @@ Galathowenia oculata	Galathowenia oculata	Metazoa	Polychaeta	Polychaeta	Sabellid
 Galathowenia oculata (Myriochete)	Galathowenia oculata	Metazoa	Polychaeta	Polychaeta	Sabellida	Oweniidae	Galathowenia	Galathowenia oculata (Myriochete)	3	2	3	5.25	20.96	3	
 Galathowenia sp.	Galathowenia	Metazoa	Polychaeta	Polychaeta	Sabellida	Oweniidae	Galathowenia	Galathowenia sp.	1	2					
 Galeomma turtoni	Galeomma turtoni	Metazoa	Mollusca	Bivalvia	Veneroida	Galeommatidae	Galeomma	Galeomma turtoni	1						
-Gallardoneris iberica	Gallardoneris iberica	to be checked manually	NA	NA	NA	NA	NA	Gallardoneris iberica	0						
+Gallardoneris iberica	Gallardoneris iberica	to be checked manually	NA	NA	NA	NA	NA	Gallardoneris iberica	1						
 Gammaeropsis sp.	Gammaeropsis	to be checked manually	NA	NA	NA	NA	NA	Gammaeropsis sp.	1						
 Gammarella fucicola	Gammarella fucicola	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Gammarella	Gammarella fucicola	3						
 Gammarellus angulosus	Gammarellus angulosus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Gammarellidae	Gammarellus	Gammarellus angulosus	1						
@@ -2796,7 +2796,7 @@ Gari tellinella	Gari tellinella	Metazoa	Mollusca	Bivalvia	Veneroida	Psammobiidae
 GARIIDAE	GARIIDAE	NA	NA	NA	NA	Bagariidae	NA	GARIIDAE	1						
 Garveia nutans	Garveia nutans	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Garveia	Garveia nutans	1						
 Gastochaena dubia								Gastochaena dubia							1
-Gastrana fragilis	Gastrana fragilis	Metazoa	Bivalvia	Bivalvia	Cardiida	Tellinidae	Gastrana	Gastrana fragilis	0						
+Gastrana fragilis	Gastrana fragilis	Metazoa	Bivalvia	Bivalvia	Cardiida	Tellinidae	Gastrana	Gastrana fragilis	1						
 Gastrochaena dubia	Gastrochaena dubia	Metazoa	Mollusca	Bivalvia	Veneroida	Gastrochaenidae	Gastrochaena	Gastrochaena dubia	1						
 GASTROPODA	GASTROPODA	Animalia	Gastropoda	Gastropoda	NA	NA	NA	GASTROPODA							
 Gastropteron pacificum	Gastropteron pacificum	Metazoa	Gastropoda	Gastropoda	Cephalaspidea	Gastropteridae	Gastropteron	Gastropteron pacificum	1						
@@ -2819,7 +2819,7 @@ Genetyllis nana	Genetyllis nana	to be checked manually	Polychaeta	Polychaeta	Phy
 Genetyllis sp.	Genetyllis	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Phyllodocidae	Genetyllis	Genetyllis sp.	2						
 Genetysyllis sp.	Genetysyllis	to be checked manually	NA	NA	NA	NA	NA	Genetysyllis sp.	2						
 Genocidaris maculata	Genocidaris maculata	Metazoa	Echinoidea	Echinoidea	Camarodonta	Trigonocidaridae	Genocidaris	Genocidaris maculata	1						
-Geograpsus crinipes	Geograpsus crinipes	Metazoa	Arthropoda	Malacostraca	Decapoda	Grapsidae	Geograpsus	Geograpsus crinipes	0						
+Geograpsus crinipes	Geograpsus crinipes	Metazoa	Arthropoda	Malacostraca	Decapoda	Grapsidae	Geograpsus	Geograpsus crinipes	1						
 Gersemia fruticosa	Gersemia fruticosa	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Nephtheidae	Gersemia	Gersemia fruticosa	2						
 Gersemia rubiformis	Gersemia rubiformis	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Nephtheidae	Gersemia	Gersemia rubiformis	2						
 Gersemia sp.	Gersemia	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Nephtheidae	Gersemia	Gersemia sp.	2						
@@ -2840,7 +2840,7 @@ Gibbula turbinoides	Gibbula turbinoides	Metazoa	Mollusca	Gastropoda	Archaeogastr
 Gibbula umbilicalis	Gibbula umbilicalis	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	Gibbula umbilicalis	1						
 Gibbula varia	Gibbula varia	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	Gibbula varia	1						
 Gitana sarsi	Gitana sarsi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Amphilochidae	Gitana	Gitana sarsi	2						
-Gitanopsis sp.	Gitanopsis	Metazoa	Malacostraca	Malacostraca	Amphipoda	Amphilochidae	Gitanopsis	Gitanopsis sp.	0						
+Gitanopsis sp.	Gitanopsis	Metazoa	Malacostraca	Malacostraca	Amphipoda	Amphilochidae	Gitanopsis	Gitanopsis sp.	1						
 Glandula fibrosa	Glandula fibrosa	NA	NA	NA	NA	NA	NA	Glandula fibrosa	2						
 Glans aculeata	Glans aculeata	Metazoa	Mollusca	Bivalvia	Veneroida	Carditidae	Centrocardita	Glans aculeata	1						
 Glans trapezia	Glans trapezia	Metazoa	Arthropoda	Malacostraca	Decapoda	Trapeziidae	Trapezia	Glans trapezia	1						
@@ -2895,7 +2895,7 @@ Glycymeris glycymeris	Glycymeris glycymeris	to be checked manually	Mollusca	Biva
 Glycymeris ovata	Glycymeris ovata	to be checked manually	Mollusca	Bivalvia	Arcoida	Glycymerididae	Glycymeris	Glycymeris ovata	2						
 Glyphanostomum macroglossum	Glyphanostomum macroglossum	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Glyphanostomum	Glyphanostomum macroglossum	1						
 Glyphanostomum pallescens	Glyphanostomum pallescens	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Glyphanostomum	Glyphanostomum pallescens	1	2					
-Glyphanostomum sp.	Glyphanostomum	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Glyphanostomum	Glyphanostomum sp.	0						
+Glyphanostomum sp.	Glyphanostomum	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Glyphanostomum	Glyphanostomum sp.	1						
 Glyphohesione klatti	Glyphohesione klatti	to be checked manually	NA	NA	NA	NA	NA	Glyphohesione klatti	2	3	1.5	9.29	24.14	2	
 Glyptheutria meridionalis	Glyptheutria meridionalis	to be checked manually	NA	NA	NA	NA	NA	Glyptheutria meridionalis	2						
 Glyptotendipes sp.	Glyptotendipes	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Glyptotendipes	Glyptotendipes sp.	4						
@@ -2904,7 +2904,7 @@ Gnathia maxillaris	Gnathia maxillaris	Metazoa	Arthropoda	Malacostraca	Isopoda	Gn
 Gnathia oxyuraea	Gnathia oxyuraea	Metazoa	Arthropoda	Malacostraca	Isopoda	Gnathiidae	Gnathia	Gnathia oxyuraea	1	3		15.48	29.83	1	
 Gnathia sp.	Gnathia	Metazoa	Arthropoda	Malacostraca	Isopoda	Gnathiidae	Gnathia	Gnathia sp.	1	3	0	19.08	31.83	1	
 Gnathiidae	Gnathiidae	Metazoa	Arthropoda	Malacostraca	Isopoda	Gnathiidae	__	Gnathiidae		3					
-Gnathophausia zoea	Gnathophausia zoea	Metazoa	Arthropoda	Malacostraca	Lophogastrida	Lophogastridae	Gnathophausia	Gnathophausia zoea	0						
+Gnathophausia zoea	Gnathophausia zoea	Metazoa	Arthropoda	Malacostraca	Lophogastrida	Lophogastridae	Gnathophausia	Gnathophausia zoea	1						
 Goesia depressa	Goesia depressa	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Goesia	Goesia depressa	2						
 Goethemia elegantula	Goethemia elegantula	to be checked manually	NA	NA	NA	NA	NA	Goethemia elegantula	1						
 Golfingia elongata	Golfingia elongata	Metazoa	Sipunculidea	Sipunculidea	Golfingiida	Golfingiidae	Golfingia	Golfingia elongata	1	2					
@@ -2933,16 +2933,16 @@ Goniadella unicirra	Goniadella unicirra	Metazoa	Annelida	Polychaeta	Phyllodocida
 Goniadides carolinae	Goniadides carolinae	to be checked manually	Annelida	Errantia	Phyllodocida	Goniadidae	Goniadides	Goniadides carolinae	2						
 Goniadides echinulata	Goniadides echinulata	to be checked manually	Annelida	Errantia	Phyllodocida	Goniadidae	Goniadides	Goniadides echinulata	2						
 Goniadides falcigera	Goniadides falcigera	to be checked manually	Annelida	Errantia	Phyllodocida	Goniadidae	Goniadides	Goniadides falcigera	2						
-Goniodoris sp.	Goniodoris	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Goniodorididae	Goniodoris	Goniodoris sp.	0						
+Goniodoris sp.	Goniodoris	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Goniodorididae	Goniodoris	Goniodoris sp.	1						
 Gonodactylus demani	Gonodactylus demani	Metazoa	Malacostraca	Malacostraca	Stomatopoda	Gonodactylidae	Gonodactylus	Gonodactylus demani	1						
 Gonothyraea loveni	Gonothyraea loveni	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Gonothyraea	Gonothyraea loveni	1	1					
 Goodallia triangularis	Goodallia triangularis	Metazoa	Mollusca	Bivalvia	Veneroida	Astartidae	Goodallia	Goodallia triangularis	2	1					
 Gorgonocephalus arcticus	Gorgonocephalus arcticus	Metazoa	Echinodermata	Ophiuroidea	Euryalida	Gorgonocephalidae	Gorgonocephalus	Gorgonocephalus arcticus	1						
 Gorgonocephalus eucnemis	Gorgonocephalus eucnemis	Metazoa	Echinodermata	Ophiuroidea	Euryalida	Gorgonocephalidae	Gorgonocephalus	Gorgonocephalus eucnemis	1						
 Gorgonocephalus sp.	Gorgonocephalus	Metazoa	Echinodermata	Ophiuroidea	Euryalida	Gorgonocephalidae	Gorgonocephalus	Gorgonocephalus sp.	1						
-Gorida verucolosa	Gorida verucolosa	to be checked manually	NA	NA	NA	NA	NA	Gorida verucolosa	0						
+Gorida verucolosa	Gorida verucolosa	to be checked manually	NA	NA	NA	NA	NA	Gorida verucolosa	1						
 Gouldia minima	Gouldia minima	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Gouldia	Gouldia minima	1	1					1
-Gourretia denticulata	Gourretia denticulata	Metazoa	Arthropoda	Malacostraca	Decapoda	Ctenochelidae	Gourretia	Gourretia denticulata	0						
+Gourretia denticulata	Gourretia denticulata	Metazoa	Arthropoda	Malacostraca	Decapoda	Ctenochelidae	Gourretia	Gourretia denticulata	1						
 Gracilechinus acutus	Gracilechinus acutus	Metazoa	Echinoidea	Echinoidea	Camarodonta	Echinidae	Gracilechinus	Gracilechinus acutus	1						
 Gracilechinus elegans	Gracilechinus elegans	Metazoa	Echinoidea	Echinoidea	Camarodonta	Echinidae	Gracilechinus	Gracilechinus elegans	1						
 Grammaria immersa	Grammaria immersa	Metazoa	Cnidaria	Hydrozoa	Leptothecatae	Lafoeidae	Grammaria	Grammaria immersa	1						
@@ -2973,8 +2973,8 @@ Grubeosyllis vieitezi	Grubeosyllis vieitezi	to be checked manually	NA	NA	NA	NA	N
 Grubeulepis augeneri	Grubeulepis augeneri	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Grubeulepis	Grubeulepis augeneri	1						
 Grubeulepis ecuadorensis	Grubeulepis ecuadorensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Grubeulepis	Grubeulepis ecuadorensis	1						
 Grubeulepis mexicana	Grubeulepis mexicana	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Grubeulepis	Grubeulepis mexicana	1						
-Guernea coalita	Guernea coalita	Metazoa	Arthropoda	Malacostraca	Amphipoda	Dexaminidae	Guernea	Guernea coalita	0						
-Gyge branchialis	Gyge branchialis	Metazoa	Arthropoda	Malacostraca	Isopoda	Bopyridae	Gyge	Gyge branchialis	0						
+Guernea coalita	Guernea coalita	Metazoa	Arthropoda	Malacostraca	Amphipoda	Dexaminidae	Guernea	Guernea coalita	1						
+Gyge branchialis	Gyge branchialis	Metazoa	Arthropoda	Malacostraca	Isopoda	Bopyridae	Gyge	Gyge branchialis	1						
 Gymnonereis crosslandi	Gymnonereis crosslandi	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Gymnonereis	Gymnonereis crosslandi	2						
 Gyptis brevipalapa	Gyptis brevipalapa	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	Gyptis	Gyptis brevipalapa	2						
 Gyptis capensis	Gyptis capensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	Gyptis	Gyptis capensis	2						
@@ -2991,25 +2991,25 @@ HALACARIDAE	HALACARIDAE	Metazoa	Arthropoda	Arachnida	Trombidiformes	Halacaridae	
 Halcampa chrysanthellum	Halcampa chrysanthellum	Metazoa	Anthozoa	Anthozoa	Actiniaria	Halcampidae	Halcampa	Halcampa chrysanthellum	1	3					
 Halcampa duodecimcirrata	Halcampa duodecimcirrata	Metazoa	Anthozoa	Anthozoa	Actiniaria	Halcampidae	Halcampa	Halcampa duodecimcirrata	1						
 Halcampa sp.	Halcampa	Metazoa	Anthozoa	Anthozoa	Actiniaria	Halcampidae	Halcampa	Halcampa sp.	1						
-Halecium petrosum	Halecium petrosum	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium petrosum	0						
-Halecium sp.	Halecium	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium sp.	0						
-Halecium tenellum	Halecium tenellum	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium tenellum	0						
+Halecium petrosum	Halecium petrosum	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium petrosum	1						
+Halecium sp.	Halecium	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium sp.	1						
+Halecium tenellum	Halecium tenellum	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium tenellum	1						
 Haliactis arctica	Haliactis arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Arctica	Haliactis arctica	2						
 Halicarcinus planatus	Halicarcinus planatus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hymenosomatidae	Halicarcinus	Halicarcinus planatus	2						
-Halice sp.	Halice	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Halice	Halice sp.	0						
-Halice walkeri	Halice walkeri	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Halice	Halice walkeri	0						
+Halice sp.	Halice	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Halice	Halice sp.	1						
+Halice walkeri	Halice walkeri	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Halice	Halice walkeri	1						
 Halichondria panicea	Halichondria panicea	Metazoa	Porifera	Demospongiae	Suberitida	Halichondriidae	Halichondria	Halichondria panicea	1						
 Haliclona sp.	Haliclona	Metazoa	Demospongiae	Demospongiae	Haplosclerida	Chalinidae	Haliclona	Haliclona sp.	1						
-Halicreion aequicornis	Halicreion aequicornis	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Halicreion	Halicreion aequicornis	0	2					
+Halicreion aequicornis	Halicreion aequicornis	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Halicreion	Halicreion aequicornis	1	2					
 Halicreion latipes	Halicreion latipes	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Halicreion	Halicreion latipes	2						
-Halicreion sp.	Halicreion	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Halicreion	Halicreion sp.	0						
+Halicreion sp.	Halicreion	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Halicreion	Halicreion sp.	1						
 Halicryptus sp.	Halicryptus	Metazoa	Priapulida	Priapulida	NA	Priapulidae	Halicryptus	Halicryptus sp.	3						
 Halicryptus spinulosus	Halicryptusnulosus	Metazoa	Priapulida	Priapulida	NA	Priapulidae	Halicryptus	Halicryptus spinulosus	3						
 Haliella stenostoma	Haliella stenostoma	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Haliella	Haliella stenostoma	1		0	17.05	26.37	2	
 Haliophasma geminata	Haliophasma geminata	Metazoa	Arthropoda	Malacostraca	Isopoda	Anthuridae	Haliophasma	Haliophasma geminata	1						
 Haliotis tuberculata	Haliotis tuberculata	Metazoa	Gastropoda	Gastropoda	NA	Haliotidae	Haliotis	Haliotis tuberculata	1						
-Halla parthenopeia	Halla parthenopeia	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Halla	Halla parthenopeia	0						
-Halla sp.	Halla	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Halla	Halla sp.	0						
+Halla parthenopeia	Halla parthenopeia	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Halla	Halla parthenopeia	1						
+Halla sp.	Halla	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Halla	Halla sp.	1						
 Halmyrapseudes bahamensis	Halmyrapseudes bahamensis	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Parapseudidae	Halmyrapseudes	Halmyrapseudes bahamensis	2						
 Halmyrapseudes sp.	Halmyrapseudes	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Parapseudidae	Halmyrapseudes	Halmyrapseudes sp.	2						
 Halosydna brevisetosa	Halosydna brevisetosa	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Halosydna	Halosydna brevisetosa	2						
@@ -3018,7 +3018,7 @@ Halosydna latior	Halosydna latior	Metazoa	Annelida	Errantia	Phyllodocida	Polynoi
 Halosydna leucohyba	Halosydna leucohyba	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Halosydna	Halosydna leucohyba	2						
 Halosydna patagonica	Halosydna patagonica	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Halosydna	Halosydna patagonica	2						
 Halosydna sp.	Halosydna	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Halosydna	Halosydna sp.	2						
-Halosydnopsis pilosa	Halosydnopsis pilosa	Metazoa	Chordata	Mammalia	Pilosa	Polynoidae	Halosydnopsis	Halosydnopsis pilosa	0						
+Halosydnopsis pilosa	Halosydnopsis pilosa	Metazoa	Chordata	Mammalia	Pilosa	Polynoidae	Halosydnopsis	Halosydnopsis pilosa	1						
 Hamingia arctica	Hamingia arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Arctica	Hamingia arctica	2		1.5	14.33	26.36	2	
 Haminoea antillarum	Haminoea antillarum	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Haminoeidae	Haminoea	Haminoea antillarum	2						
 Haminoea hydatis	Haminoea hydatis	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Haminoeidae	Haminoea	Haminoea hydatis	2						
@@ -3097,9 +3097,9 @@ Harpinia sp.	Harpinia	Metazoa	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	
 Harpinia truncata	Harpinia truncata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Phoxocephalidae	Harpinia	Harpinia truncata	1						
 Harpiniopsis vadiculus	Harpiniopsis vadiculus	to be checked manually	NA	NA	NA	NA	NA	Harpiniopsis vadiculus	1						
 Harrimania kupfferi	Harrimania kupfferi	Metazoa	Hemichordata	Enteropneusta	__	Harrimaniidae	Harrimania	Harrimania kupfferi		2					
-Hartlaubella gelatinosa	Hartlaubella gelatinosa	Metazoa	Cnidaria	Hydrozoa	Leptothecatae	Campanulariidae	Hartlaubella	Hartlaubella gelatinosa	0						
+Hartlaubella gelatinosa	Hartlaubella gelatinosa	Metazoa	Cnidaria	Hydrozoa	Leptothecatae	Campanulariidae	Hartlaubella	Hartlaubella gelatinosa	1						
 Hartmanodes hartmanae	Hartmanodes hartmanae	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Hartmanodes	Hartmanodes hartmanae	2						
-Hartmanodes murrius	Hartmanodes murrius	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Hartmanodes	Hartmanodes murrius	0						
+Hartmanodes murrius	Hartmanodes murrius	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Hartmanodes	Hartmanodes murrius	1						
 Hastula cinerea	Hastula cinerea	Metazoa	Mollusca	Gastropoda	__	Terebridae	Hastula	Hastula cinerea	1						
 Hastula matheroniana	Hastula matheroniana	Metazoa	Mollusca	Gastropoda	__	Terebridae	Hastula	Hastula matheroniana	1						
 Hastula strigilata	Hastula strigilata	Metazoa	Mollusca	Gastropoda	__	Terebridae	Hastula	Hastula strigilata	1						
@@ -3114,27 +3114,27 @@ Heleobia australis	Heleobia australis	Metazoa	Gastropoda	Gastropoda	Littorinimor
 Heleobia parchappei	Heleobia parchappei	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Cochliopidae	Heleobia	Heleobia parchappei	3						
 Heleobia stagnorum	Heleobia stagnorum	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Cochliopidae	Heleobia	Heleobia stagnorum	3						
 Heliacus sp.	Heliacus	Metazoa	Gastropoda	Gastropoda	NA	Architectonicidae	Heliacus	Heliacus sp.	1						
-Helicana wuana 	Helicana wuana 	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Helicana	Helicana wuana 	0						
+Helicana wuana 	Helicana wuana 	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Helicana	Helicana wuana 	1						
 Helice sheni	Helice sheni	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Helice	Helice sheni	2						
 Helice tientsinensis 	Helice tientsinensis 	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Helice	Helice tientsinensis 	2						
 Heliometra glacialis	Heliometra glacialis	Metazoa	Crinoidea	Crinoidea	Comatulida	Antedonidae	Heliometra	Heliometra glacialis	1						
 Hemicentrotus pulcherrimus	Hemicentrotus pulcherrimus	Metazoa	Echinodermata	Echinoidea	Echinoida	Strongylocentrotidae	Hemicentrotus	Hemicentrotus pulcherrimus	1						
-HEMICHORDATA	HEMICHORDATA	Metazoa	Hemichordata	__	__	__	__	HEMICHORDATA	0						
+HEMICHORDATA	HEMICHORDATA	Metazoa	Hemichordata	__	__	__	__	HEMICHORDATA	1						
 HEMICORDATA	HEMICORDATA	to be checked manually	NA	NA	NA	NA	NA	HEMICORDATA		2					
 Hemifridericia	Hemifridericia	Metazoa	Annelida	Oligochaeta	Haplotaxida	Enchytraeidae	Hemifridericia	Hemifridericia		4					
 Hemifridericia parva	Hemifridericia parva	Metazoa	Annelida	Oligochaeta	Haplotaxida	Enchytraeidae	Hemifridericia	Hemifridericia parva		4					
-Hemigrapsus crenulatus	Hemigrapsus crenulatus	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus crenulatus	0						
+Hemigrapsus crenulatus	Hemigrapsus crenulatus	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus crenulatus	1						
 Hemigrapsus oregonensis	Hemigrapsus oregonensis	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus oregonensis	2						
 Hemigrapsus penicillatus	Hemigrapsus penicillatus	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus penicillatus	2						
 Hemigrapsus sinensis	Hemigrapsus sinensis	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus sinensis	2						
-Hemigrapsus takanoi	Hemigrapsus takanoi	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus takanoi	0						
+Hemigrapsus takanoi	Hemigrapsus takanoi	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Hemigrapsus	Hemigrapsus takanoi	1						
 Hemilamprops californicus	Hemilamprops californicus	Metazoa	Malacostraca	Malacostraca	Cumacea	Lampropidae	Hemilamprops	Hemilamprops californicus	2						
 Hemilamprops rosea	Hemilamprops rosea	Animalia	Arthropoda	Malacostraca	Cumacea	Lampropidae	Hemilamprops	Hemilamprops rosea		2					
 Hemilamprops roseus	Hemilamprops roseus	Metazoa	Malacostraca	Malacostraca	Cumacea	Lampropidae	Hemilamprops	Hemilamprops roseus	2		1.5	26.86	34.14	1	
 Hemilamprops sp.	Hemilamprops	Metazoa	Malacostraca	Malacostraca	Cumacea	Lampropidae	Hemilamprops	Hemilamprops sp.	2						
 Hemilamprops uniplicata	Hemilamprops uniplicata	Animalia	Arthropoda	Malacostraca	Cumacea	Lampropidae	Hemilamprops	Hemilamprops uniplicata		2					
 Hemilepton nitidum	Hemilepton nitidum	to be checked manually	NA	NA	NA	NA	NA	Hemilepton nitidum	2						
-Hemileucon sp.	Hemileucon	Metazoa	Malacostraca	Malacostraca	Cumacea	Leuconidae	Hemileucon	Hemileucon sp.	0						
+Hemileucon sp.	Hemileucon	Metazoa	Malacostraca	Malacostraca	Cumacea	Leuconidae	Hemileucon	Hemileucon sp.	1						
 Hemipodia borealis	Hemipodia borealis	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Glyceridae	Hemipodia	Hemipodia borealis	2						
 Hemipodia californiensis	Hemipodia californiensis	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Glyceridae	Hemipodia	Hemipodia californiensis	2						
 Hemipodia sp.	Hemipodia	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Glyceridae	Hemipodia	Hemipodia sp.	2						
@@ -3152,10 +3152,10 @@ Henlea nasuta	Henlea nasuta	Metazoa	Annelida	Oligochaeta	Haplotaxida	Enchytraeid
 Henlea perpusilla	Henlea perpusilla	Metazoa	Annelida	Oligochaeta	Haplotaxida	Enchytraeidae	Henlea	Henlea perpusilla		4					
 Henlea ventriculosa	Henlea ventriculosa	Metazoa	Annelida	Oligochaeta	Haplotaxida	Enchytraeidae	Henlea	Henlea ventriculosa		4					
 Henricia sp.	Henricia	Metazoa	Asteroidea	Asteroidea	Spinulosida	Echinasteridae	Henricia	Henricia sp.	1						
-Henrya morrisoni	Henrya morrisoni	Metazoa	Mollusca	Gastropoda	Heterostropha	Ebalidae	Henrya	Henrya morrisoni	0						
-Hepatus coronatus	Hepatus coronatus	to be checked manually	Arthropoda	Malacostraca	Decapoda	Calappidae	Hepatus	Hepatus coronatus	0						
-Hepatus epheliticus	Hepatus epheliticus	to be checked manually	Arthropoda	Malacostraca	Decapoda	Calappidae	Hepatus	Hepatus epheliticus	0						
-Hepatus kossmanni	Hepatus kossmanni	to be checked manually	Arthropoda	Malacostraca	Decapoda	Calappidae	Hepatus	Hepatus kossmanni	0						
+Henrya morrisoni	Henrya morrisoni	Metazoa	Mollusca	Gastropoda	Heterostropha	Ebalidae	Henrya	Henrya morrisoni	1						
+Hepatus coronatus	Hepatus coronatus	to be checked manually	Arthropoda	Malacostraca	Decapoda	Calappidae	Hepatus	Hepatus coronatus	1						
+Hepatus epheliticus	Hepatus epheliticus	to be checked manually	Arthropoda	Malacostraca	Decapoda	Calappidae	Hepatus	Hepatus epheliticus	1						
+Hepatus kossmanni	Hepatus kossmanni	to be checked manually	Arthropoda	Malacostraca	Decapoda	Calappidae	Hepatus	Hepatus kossmanni	1						
 Heptacarpus paludicola	Heptacarpus paludicola	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Heptacarpus	Heptacarpus paludicola	1						
 Heptacarpus sp.	Heptacarpus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Heptacarpus	Heptacarpus sp.	1						
 Heptacarpus taylori	Heptacarpus taylori	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Heptacarpus	Heptacarpus taylori	1						
@@ -3165,14 +3165,14 @@ Hermadion rhizoicola	Hermadion rhizoicola	to be checked manually	NA	NA	NA	NA	NA	
 Hermodice carunculata	Hermodice carunculata	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Hermodice	Hermodice carunculata	2						
 Hermonia hystrix	Hermonia hystrix	to be checked manually	NA	NA	NA	NA	NA	Hermonia hystrix	2	3					
 Hermundura fauveli	Hermundura fauveli	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Hermundura	Hermundura fauveli	2						
-Hermundura sp.	Hermundura	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Hermundura	Hermundura sp.	0						
+Hermundura sp.	Hermundura	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Hermundura	Hermundura sp.	1						
 Hermundura tricuspis	Hermundura tricuspis	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Hermundura	Hermundura tricuspis	2						
 Hermundura vivianneae	Hermundura vivianneae	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Hermundura	Hermundura vivianneae	2						
 Hesione pantherina	Hesione pantherina	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Hesione	Hesione pantherina	2						
 Hesione picta	Hesione picta	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Hesione	Hesione picta	2						
 Hesione sp.	Hesione	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Hesione	Hesione sp.	2						
 Hesione splendida	Hesioneendida	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Hesione	Hesione splendida	2						
-HESIONIDAE	HESIONIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	__	HESIONIDAE	0	3					
+HESIONIDAE	HESIONIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	__	HESIONIDAE	1	3					
 Hesionides (Type A)	Hesionides (Type A)	to be checked manually	NA	NA	NA	NA	NA	Hesionides (Type A)		2					
 Hesionides arenaria	Hesionides arenaria	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Hesionides	Hesionides arenaria	2						
 Hesionides sp.	Hesionides	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Hesionides	Hesionides sp.	2						
@@ -3194,8 +3194,8 @@ Heterocirrus bioculatus	Heterocirrus bioculatus	Metazoa	Polychaeta	Polychaeta	Te
 Heterocirrus sp.	Heterocirrus	Metazoa	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Heterocirrus	Heterocirrus sp.	4						
 Heteroclymene robusta	Heteroclymene robusta	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Heteroclymene	Heteroclymene robusta	5			25.71	33.44	1	
 Heterocyathus aequicostatus	Heterocyathus aequicostatus	Metazoa	Anthozoa	Anthozoa	Scleractinia	Caryophylliidae	Heterocyathus	Heterocyathus aequicostatus	2						
-Heterodrilus arenicolus	Heterodrilus arenicolus	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Heterodrilus	Heterodrilus arenicolus	0						
-Heterodrilus sp.	Heterodrilus	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Heterodrilus	Heterodrilus sp.	0						
+Heterodrilus arenicolus	Heterodrilus arenicolus	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Heterodrilus	Heterodrilus arenicolus	1						
+Heterodrilus sp.	Heterodrilus	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Heterodrilus	Heterodrilus sp.	1						
 Heteromastus (filiformis)	Heteromastus (filiformis)	to be checked manually	NA	NA	NA	NA	NA	Heteromastus (filiformis)		2					
 Heteromastus filiformis	Heteromastus filiformis	Metazoa	Polychaeta	Polychaeta	Capitellida	Capitellidae	Heteromastus	Heteromastus filiformis	4		4.5	3.76	18.47	4	3
 Heteromastus similis	Heteromastus similis	Metazoa	Polychaeta	Polychaeta	Capitellida	Capitellidae	Heteromastus	Heteromastus similis	4						
@@ -3214,11 +3214,11 @@ Heterospio sp.	Heterospio	Metazoa	Annelida	Sedentaria	Canalipalpata	Longosomatid
 Heterotanais oerstedii	Heterotanais oerstedii	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Leptocheliidae	Heterotanais	Heterotanais oerstedii	3						
 Heterotanais sp.	Heterotanais	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Leptocheliidae	Heterotanais	Heterotanais sp.	3						
 Heterotanoides cognatus 	Heterotanoides cognatus 	to be checked manually	NA	NA	NA	NA	NA	Heterotanoides cognatus 	1						
-Heterotrissocladius sp.	Heterotrissocladius	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Heterotrissocladius	Heterotrissocladius sp.	0						
-Heterotrissocladius subpilosus	Heterotrissocladius subpilosus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Heterotrissocladius	Heterotrissocladius subpilosus	0						
+Heterotrissocladius sp.	Heterotrissocladius	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Heterotrissocladius	Heterotrissocladius sp.	1						
+Heterotrissocladius subpilosus	Heterotrissocladius subpilosus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Heterotrissocladius	Heterotrissocladius subpilosus	1						
 HEXACORALLIA	HEXACORALLIA	Metazoa	Cnidaria	Anthozoa	__	__	__	HEXACORALLIA	1						
 HEXACORALLIA (agg.)	HEXACORALLIA (agg.)	to be checked manually	NA	NA	NA	NA	NA	HEXACORALLIA (agg.)		3					
-Hexapus granuliferus	Hexapus granuliferus	to be checked manually	NA	NA	NA	NA	NA	Hexapus granuliferus	0						
+Hexapus granuliferus	Hexapus granuliferus	to be checked manually	NA	NA	NA	NA	NA	Hexapus granuliferus	1						
 Hiatella arctica	Hiatella arctica	Metazoa	Bivalvia	Bivalvia	Adapedonta	Hiatellidae	Hiatella	Hiatella arctica	1	2	0	7.18	30.32	1	1
 Hiatella orientalis	Hiatella orientalis	Metazoa	Bivalvia	Bivalvia	Adapedonta	Hiatellidae	Hiatella	Hiatella orientalis	1						
 Hiatella rugosa	Hiatella rugosa	Metazoa	Bivalvia	Bivalvia	Adapedonta	Hiatellidae	Hiatella	Hiatella rugosa	1						
@@ -3250,7 +3250,7 @@ Hippomedon propinquus	Hippomedon propinquus	Metazoa	Arthropoda	Malacostraca	Amph
 Hippomedon serratus	Hippomedon serratus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Hippomedon	Hippomedon serratus	1						
 Hippomedon sp.	Hippomedon	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Hippomedon	Hippomedon sp.	1						
 Hippomedum	Hippomedum	to be checked manually	NA	NA	NA	NA	NA	Hippomedum		2					
-Hipponoe gaudichaudi	Hipponoe gaudichaudi	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Hipponoe	Hipponoe gaudichaudi	0						
+Hipponoe gaudichaudi	Hipponoe gaudichaudi	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Hipponoe	Hipponoe gaudichaudi	1						
 Hippoporina pertusa	Hippoporina pertusa	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Hippoporinidae	Hippoporina	Hippoporina pertusa	2						
 Hippoporina reticulatopunctata	Hippoporina reticulatopunctata	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Hippoporinidae	Hippoporina	Hippoporina reticulatopunctata	2						
 Hippothoa divaricata arctica	Hippothoa divaricata arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Arctica	Hippothoa divaricata arctica	1						
@@ -3293,7 +3293,7 @@ Hyas coarctatus	Hyas coarctatus	Metazoa	Malacostraca	Malacostraca	Decapoda	Orego
 Hyas sp.	Hyas	Metazoa	Malacostraca	Malacostraca	Decapoda	Oregoniidae	Hyas	Hyas sp.	1	3					
 Hydractinia carnea	Hydractinia carnea	Metazoa	Hydrozoa	Hydrozoa	Anthoathecata	Hydractiniidae	Hydractinia	Hydractinia carnea	1						
 Hydractinia sp.	Hydractinia	Metazoa	Hydrozoa	Hydrozoa	Anthoathecata	Hydractiniidae	Hydractinia	Hydractinia sp.	1						
-Hydrallmania falcata	Hydrallmania falcata	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Hydrallmania	Hydrallmania falcata	0	1					
+Hydrallmania falcata	Hydrallmania falcata	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Hydrallmania	Hydrallmania falcata	1	1					
 Hydrobia (ulvae?)	Hydrobia (ulvae?)	to be checked manually	NA	NA	NA	NA	NA	Hydrobia (ulvae?)		2					
 Hydrobia acuta	Hydrobia acuta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Hydrobia	Hydrobia acuta	3						2
 Hydrobia neglecta	Hydrobia neglecta	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Hydrobia	Hydrobia neglecta	3						
@@ -3303,7 +3303,7 @@ Hydrobia truncata	Hydrobia truncata	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	
 Hydrobia ulvae	Hydrobia ulvae	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Hydrobia	Hydrobia ulvae	3						
 Hydrobia ventrosa	Hydrobia ventrosa	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Hydrobia	Hydrobia ventrosa	3						2
 HYDROBIIDAE	HYDROBIIDAE	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	__	HYDROBIIDAE	3						
-Hydrodendron gracilis	Hydrodendron gracilis	to be checked manually	NA	NA	NA	NA	NA	Hydrodendron gracilis	0						
+Hydrodendron gracilis	Hydrodendron gracilis	to be checked manually	NA	NA	NA	NA	NA	Hydrodendron gracilis	1						
 Hydroides bifurcatus	Hydroides bifurcatus	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Hydroides	Hydroides bifurcatus	3						
 Hydroides bispinosus	Hydroides bispinosus	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Hydroides	Hydroides bispinosus	3						
 Hydroides cruciger	Hydroides cruciger	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Hydroides	Hydroides cruciger	3						
@@ -3328,16 +3328,16 @@ Hymenaster pellucidus	Hymenaster pellucidus	Metazoa	Echinodermata	Asteroidea	Vel
 Hypania invalida	Hypania invalida	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Hypania	Hypania invalida	3						
 Hypaniola sp.	Hypaniola	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Hypaniola	Hypaniola sp.	3						
 Hypereteone foliosa	Hypereteone foliosa	to be checked manually	NA	NA	NA	NA	NA	Hypereteone foliosa	3	3					
-Hyperia galba	Hyperia galba	Metazoa	Malacostraca	Malacostraca	Amphipoda	Hyperiidae	Hyperia	Hyperia galba	0						
-Hyperia sp.	Hyperia	Metazoa	Malacostraca	Malacostraca	Amphipoda	Hyperiidae	Hyperia	Hyperia sp.	0						
+Hyperia galba	Hyperia galba	Metazoa	Malacostraca	Malacostraca	Amphipoda	Hyperiidae	Hyperia	Hyperia galba	1						
+Hyperia sp.	Hyperia	Metazoa	Malacostraca	Malacostraca	Amphipoda	Hyperiidae	Hyperia	Hyperia sp.	1						
 Hyperiidae	Hyperiidae	Metazoa	Arthropoda	Malacostraca	Amphipoda	Hyperiidae	__	Hyperiidae		3					
 Hypsicomus phaeotaenia	Hypsicomus phaeotaenia	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Hypsicomus	Hypsicomus phaeotaenia	2						
-Ianiropsis sp.	Ianiropsis	Metazoa	Malacostraca	Malacostraca	Isopoda	Janiridae	Ianiropsis	Ianiropsis sp.	0						
+Ianiropsis sp.	Ianiropsis	Metazoa	Malacostraca	Malacostraca	Isopoda	Janiridae	Ianiropsis	Ianiropsis sp.	1						
 Icasterias panopla	Icasterias panopla	Metazoa	Echinodermata	Asteroidea	Forcipulatida	Asteriidae	Icasterias	Icasterias panopla	3						
-Ichnopus spinicornis	Ichnopusnicornis	to be checked manually	NA	NA	NA	NA	NA	Ichnopus spinicornis	0	3					
+Ichnopus spinicornis	Ichnopusnicornis	to be checked manually	NA	NA	NA	NA	NA	Ichnopus spinicornis	1	3					
 Idanthyrsus armatus	Idanthyrsus armatus	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellariidae	Idanthyrsus	Idanthyrsus armatus	1						
 Idanthyrsus sp.	Idanthyrsus	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellariidae	Idanthyrsus	Idanthyrsus sp.	1						
-Idmidronea atlantica	Idmidronea atlantica	Metazoa	Bryozoa	Stenolaemata	Tubuliporida	Tubuliporidae	Idmidronea	Idmidronea atlantica	0						
+Idmidronea atlantica	Idmidronea atlantica	Metazoa	Bryozoa	Stenolaemata	Tubuliporida	Tubuliporidae	Idmidronea	Idmidronea atlantica	1						
 Idotea balthica	Idotea balthica	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Idotea	Idotea balthica	2						
 Idotea baltica								Idotea baltica							1
 Idotea chelipes	Idotea chelipes	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Idotea	Idotea chelipes	2						
@@ -3355,7 +3355,7 @@ Idunella longirostris	Idunella longirostris	to be checked manually	Arthropoda	Ma
 Idunella nana	Idunella nana	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Idunella	Idunella nana	2						
 Idunella picta	Idunella picta	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Idunella	Idunella picta	1						
 Idunella pirata	Idunella pirata	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Idunella	Idunella pirata	1						
-Idunella sp.	Idunella	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Idunella	Idunella sp.	0						
+Idunella sp.	Idunella	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Idunella	Idunella sp.	1						
 Ilyarachna hirticeps	Ilyarachna hirticeps	Metazoa	Arthropoda	Malacostraca	Isopoda	Munnopsidae	Ilyarachna	Ilyarachna hirticeps	1						
 Ilyarachna longicornis	Ilyarachna longicornis	Metazoa	Arthropoda	Malacostraca	Isopoda	Munnopsidae	Ilyarachna	Ilyarachna longicornis	1			16.27	27.56	1	
 Ilyodrilus templetoni	Ilyodrilus templetoni	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Ilyodrilus	Ilyodrilus templetoni	4						
@@ -3371,7 +3371,7 @@ Incisocalliope aestuarius	Incisocalliope aestuarius	Metazoa	Malacostraca	Malacos
 Incisocalliope sp.	Incisocalliope	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pleustidae	Incisocalliope	Incisocalliope sp.	2						
 Inermonephtys inermis	Inermonephtys inermis	Metazoa	Annelida	Errantia	Phyllodocida	Nephtyidae	Inermonephtys	Inermonephtys inermis	2						
 INGOLFIELLIDEA	INGOLFIELLIDEA	Metazoa	Arthropoda	Malacostraca	Amphipoda	__	__	INGOLFIELLIDEA	3						
-Ione thoracica	Ione thoracica	Metazoa	Arthropoda	Maxillopoda	Isopoda	Bopyridae	Ione	Ione thoracica	0						
+Ione thoracica	Ione thoracica	Metazoa	Arthropoda	Maxillopoda	Isopoda	Bopyridae	Ione	Ione thoracica	1						
 Iphimedia brachygnatha	Iphimedia brachygnatha	Metazoa	Arthropoda	Malacostraca	Amphipoda	Iphimediidae	Iphimedia	Iphimedia brachygnatha	1						
 Iphimedia carinata	Iphimedia carinata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Iphimediidae	Iphimedia	Iphimedia carinata	1						
 Iphimedia eblanae	Iphimedia eblanae	Animalia	Arthropoda	Malacostraca	Amphipoda	Iphimediidae	Iphimedia	Iphimedia eblanae		1					
@@ -3400,16 +3400,16 @@ Ischyrocerus megalops	Ischyrocerus megalops	Metazoa	Arthropoda	Malacostraca	Amph
 Ischyrocerus minutus	Ischyrocerus minutus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ischyrocerus	Ischyrocerus minutus	2						
 Ischyrocerus nanoides	Ischyrocerus nanoides	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ischyrocerus	Ischyrocerus nanoides	2						
 Ischyrocerus sp.	Ischyrocerus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Ischyrocerus	Ischyrocerus sp.	2						
-Ischyromene lacazei	Ischyromene lacazei	Metazoa	Arthropoda	Malacostraca	Isopoda	Sphaeromatidae	Ischyromene	Ischyromene lacazei	0						
+Ischyromene lacazei	Ischyromene lacazei	Metazoa	Arthropoda	Malacostraca	Isopoda	Sphaeromatidae	Ischyromene	Ischyromene lacazei	1						
 Iselica ovoidea	Iselica ovoidea	Metazoa	Mollusca	Gastropoda	Heterostropha	Amathinidae	Iselica	Iselica ovoidea	1						
 Isochaetides	Isochaetides	Animalia	Clitellata	Clitellata	Haplotaxida	Tubificidae	Isochaetides	Isochaetides		4					
 Isochaetides curvosetosus	Isochaetides curvosetosus	Metazoa	Annelida	Oligochaeta	Tubificida	Naididae	Isochaetides	Isochaetides curvosetosus	4						
 Isochaetides freyi	Isochaetides freyi	Metazoa	Annelida	Oligochaeta	Tubificida	Naididae	Isochaetides	Isochaetides freyi	4						
 Isochaetides michaelseni	Isochaetides michaelseni	Animalia	Clitellata	Clitellata	Haplotaxida	Tubificidae	Isochaetides	Isochaetides michaelseni		4					
 Isocheles pilosus	Isocheles pilosus	Metazoa	Arthropoda	Malacostraca	Decapoda	Diogenidae	Isocheles	Isocheles pilosus	2						
-Isocirrus planiceps	Isocirrus planiceps	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Isocirrus	Isocirrus planiceps	0						
-Isocirrus sp.	Isocirrus	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Isocirrus	Isocirrus sp.	0						
-Isocirrus watsoni	Isocirrus watsoni	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Isocirrus	Isocirrus watsoni	0						
+Isocirrus planiceps	Isocirrus planiceps	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Isocirrus	Isocirrus planiceps	1						
+Isocirrus sp.	Isocirrus	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Isocirrus	Isocirrus sp.	1						
+Isocirrus watsoni	Isocirrus watsoni	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Isocirrus	Isocirrus watsoni	1						
 Isognomon radiatus	Isognomon radiatus	Metazoa	Mollusca	Bivalvia	Pterioida	Isognomonidae	Isognomon	Isognomon radiatus	2						
 Isolda pulchella	Isolda pulchella	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Isolda	Isolda pulchella	3						
 Isolda sp.	Isolda	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Isolda	Isolda sp.	3						
@@ -3420,7 +3420,7 @@ Jaera sp.	Jaera	Metazoa	Malacostraca	Malacostraca	Isopoda	Janiridae	Jaera	Jaera 
 Jaeropsis brevicornis	Jaeropsis brevicornis	NA	NA	NA	NA	NA	NA	Jaeropsis brevicornis	2						
 Janira maculosa	Janira maculosa	Metazoa	Malacostraca	Malacostraca	Isopoda	Janiridae	Janira	Janira maculosa	1	3		32.27	40.58	1	
 Janira sp.	Janira	Metazoa	Malacostraca	Malacostraca	Isopoda	Janiridae	Janira	Janira sp.	1						
-Janiropsis sp.	Janiropsis	Metazoa	Malacostraca	Malacostraca	Isopoda	NA	Janiropsis	Janiropsis sp.	0						
+Janiropsis sp.	Janiropsis	Metazoa	Malacostraca	Malacostraca	Isopoda	NA	Janiropsis	Janiropsis sp.	1						
 Janua corrugatus	Janua corrugatus	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Janua	Janua corrugatus	2						
 Janua marioni	Janua marioni	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Janua	Janua marioni	2						
 Janua pagenstecheri	Janua pagenstecheri	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Janua	Janua pagenstecheri	2						
@@ -3437,13 +3437,13 @@ Jassa pusilla	Jassa pusilla	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyrocer
 Jassa slatteryi	Jassa slatteryi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Jassa	Jassa slatteryi	2						
 Jassa sp.	Jassa	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Jassa	Jassa sp.	5						
 Jaxea nocturna	Jaxea nocturna	Metazoa	Arthropoda	Malacostraca	Decapoda	Laomediidae	Jaxea	Jaxea nocturna	1						1
-Jehlius cirratus	Jehlius cirratus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Chthamalidae	Jehlius	Jehlius cirratus	0						
+Jehlius cirratus	Jehlius cirratus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Chthamalidae	Jehlius	Jehlius cirratus	1						
 Joeropsis brevicornis brevicornis	Joeropsis brevicornis brevicornis	Metazoa	Malacostraca	Malacostraca	Isopoda	Joeropsididae	Joeropsis	Joeropsis brevicornis brevicornis	2						
 Joeropsis dubia	Joeropsis dubia	Metazoa	Malacostraca	Malacostraca	Isopoda	Joeropsididae	Joeropsis	Joeropsis dubia	2						
 Joeropsis sp.	Joeropsis	Metazoa	Malacostraca	Malacostraca	Isopoda	Joeropsididae	Joeropsis	Joeropsis sp.	2						
-Johnstonia clymenoides	Johnstonia clymenoides	Metazoa	Annelida	Polychaeta	Capitellida	Maldanidae	Johnstonia	Johnstonia clymenoides	0						
+Johnstonia clymenoides	Johnstonia clymenoides	Metazoa	Annelida	Polychaeta	Capitellida	Maldanidae	Johnstonia	Johnstonia clymenoides	1						
 Josephella	Josephella	Animalia	Polychaeta	Polychaeta	Sabellida	Serpulidae	Josephella	Josephella		1					
-Josephella marenzelleri	Josephella marenzelleri	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Josephella	Josephella marenzelleri	0	1					
+Josephella marenzelleri	Josephella marenzelleri	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Josephella	Josephella marenzelleri	1	1					
 Jujubinus corallinus	Jujubinus corallinus	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Jujubinus	Jujubinus corallinus	1						
 Jujubinus exasperatus	Jujubinus exasperatus	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Jujubinus	Jujubinus exasperatus	1						
 Jujubinus miliaris	Jujubinus miliaris	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Jujubinus	Jujubinus miliaris	1						
@@ -3465,7 +3465,7 @@ Kelliella abyssicola	Kelliella abyssicola	Metazoa	Bivalvia	Bivalvia	Venerida	Kel
 Kelliella biscayensis	Kelliella biscayensis	Metazoa	Bivalvia	Bivalvia	Venerida	Kelliellidae	Kelliella	Kelliella biscayensis	1						
 Kelliella miliaris	Kelliella miliaris	Metazoa	Bivalvia	Bivalvia	Venerida	Kelliellidae	Kelliella	Kelliella miliaris	1		0	10.95	20.83	3	
 Kelliella sp.	Kelliella	Metazoa	Bivalvia	Bivalvia	Venerida	Kelliellidae	Kelliella	Kelliella sp.	1						
-Kerguelensis chilensis	Kerguelensis chilensis	to be checked manually	NA	NA	NA	NA	NA	Kerguelensis chilensis	0						
+Kerguelensis chilensis	Kerguelensis chilensis	to be checked manually	NA	NA	NA	NA	NA	Kerguelensis chilensis	1						
 Kinbergonuphis cedroensis	Kinbergonuphis cedroensis	to be checked manually	Annelida	Polychaeta	Eunicida	Onuphidae	Kinbergonuphis	Kinbergonuphis cedroensis	2						
 Kinbergonuphis multidentata	Kinbergonuphis multidentata	to be checked manually	Annelida	Polychaeta	Eunicida	Onuphidae	Kinbergonuphis	Kinbergonuphis multidentata	2						
 Kinbergonuphis oligobranchiata	Kinbergonuphis oligobranchiata	to be checked manually	Annelida	Polychaeta	Eunicida	Onuphidae	Kinbergonuphis	Kinbergonuphis oligobranchiata	2						
@@ -3499,7 +3499,7 @@ Lacydonia miranda	Lacydonia miranda	Metazoa	Annelida	Errantia	Phyllodocida	Lacyd
 Laeonereis acuta	Laeonereis acuta	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Laeonereis	Laeonereis acuta	4						
 Laeonereis culveri	Laeonereis culveri	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Laeonereis	Laeonereis culveri	4						
 Laeonereis glauca	Laeonereis glauca	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Laeonereis	Laeonereis glauca	3						
-Laeonereis sp.	Laeonereis	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Laeonereis	Laeonereis sp.	0						
+Laeonereis sp.	Laeonereis	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Laeonereis	Laeonereis sp.	1						
 Laeospira corallinae	Laeospira corallinae	to be checked manually	NA	NA	NA	NA	NA	Laeospira corallinae	2						
 Laetmatophilus armatus	Laetmatophilus armatus	Metazoa	Arthropoda	Insecta	Hemiptera	Aphididae	Laetmatophilus	Laetmatophilus armatus	1						
 Laetmatophilus tuberculatus	Laetmatophilus tuberculatus	Metazoa	Arthropoda	Insecta	Hemiptera	Aphididae	Laetmatophilus	Laetmatophilus tuberculatus	1			17.82	28.82	1	
@@ -3522,8 +3522,8 @@ Lagisca extenuata	Lagisca extenuata	Metazoa	Polychaeta	Polychaeta	Phyllodocida	P
 Lagisca floccosa	Lagisca floccosa	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Lagisca	Lagisca floccosa	2						
 Lagisca floccosa propinqua	Lagisca floccosa propinqua	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Lagisca	Lagisca floccosa propinqua	2						
 Lagisca sp.	Lagisca	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Lagisca	Lagisca sp.	2						
-Lagotia viridis	Lagotia viridis	to be checked manually	NA	NA	NA	NA	NA	Lagotia viridis	0						
-Lamellaria latens	Lamellaria latens	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Lamellariidae	Lamellaria	Lamellaria latens	0						
+Lagotia viridis	Lagotia viridis	to be checked manually	NA	NA	NA	NA	NA	Lagotia viridis	1						
+Lamellaria latens	Lamellaria latens	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Lamellariidae	Lamellaria	Lamellaria latens	1						
 Lampropidae	Lampropidae	Metazoa	Arthropoda	Malacostraca	Cumacea	Lampropidae	__	Lampropidae		2					
 Lamprops carinatus	Lamprops carinatus	Metazoa	Arthropoda	Malacostraca	Cumacea	Lampropidae	Lamprops	Lamprops carinatus	1						
 Lamprops fasciata	Lamprops fasciata	to be checked manually	NA	NA	NA	NA	NA	Lamprops fasciata		2					
@@ -3540,8 +3540,8 @@ Lanice auricula	Lanice auricula	Metazoa	Polychaeta	Polychaeta	Terebellida	Terebe
 Lanice conchilega	Lanice conchilega	Metazoa	Polychaeta	Polychaeta	Terebellida	Terebellidae	Lanice	Lanice conchilega	2	1					3
 Lanice flbellum	Lanice flbellum	Metazoa	Polychaeta	Polychaeta	Terebellida	Terebellidae	Lanice	Lanice flbellum	2						
 Lanice sp.	Lanice	Metazoa	Polychaeta	Polychaeta	Terebellida	Terebellidae	Lanice	Lanice sp.	2						
-Lanicides taboguillae	Lanicides taboguillae	to be checked manually	NA	NA	NA	NA	NA	Lanicides taboguillae	0						
-Lanicola carus	Lanicola carus	to be checked manually	NA	NA	NA	NA	NA	Lanicola carus	0						
+Lanicides taboguillae	Lanicides taboguillae	to be checked manually	NA	NA	NA	NA	NA	Lanicides taboguillae	1						
+Lanicola carus	Lanicola carus	to be checked manually	NA	NA	NA	NA	NA	Lanicola carus	1						
 Laomedea calceolifera	Laomedea calceolifera	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Laomedea	Laomedea calceolifera	2						
 Laomedea flexuosa	Laomedea flexuosa	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Laomedea	Laomedea flexuosa	1						
 Laomedea sp.	Laomedea	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Laomedea	Laomedea sp.	1						
@@ -3574,7 +3574,7 @@ Latreutes anoplonyx	Latreutes anoplonyx	Metazoa	Arthropoda	Malacostraca	Decapoda
 Latreutes fucorum	Latreutes fucorum	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Latreutes	Latreutes fucorum	1						
 Latreutes laminirostris	Latreutes laminirostris	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Latreutes	Latreutes laminirostris	1						
 Latreutes planirostris	Latreutes planirostris	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Latreutes	Latreutes planirostris	1						
-Laubieriopsis brevis	Laubieriopsis brevis	to be checked manually	NA	NA	NA	NA	NA	Laubieriopsis brevis	0						
+Laubieriopsis brevis	Laubieriopsis brevis	to be checked manually	NA	NA	NA	NA	NA	Laubieriopsis brevis	1						
 Leaena abranchiata	Leaena abranchiata	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Leaena	Leaena abranchiata	1						
 Leanira hystricis	Leanira hystricis	Metazoa	Arthropoda	Insecta	Phyllodocida	Sigalionidae	Leanira	Leanira hystricis	3	3					
 Leanira japonica	Leanira japonica	Metazoa	Arthropoda	Insecta	Phyllodocida	Sigalionidae	Leanira	Leanira japonica	2						
@@ -3589,7 +3589,7 @@ Leiochone leiopygos	Leiochone leiopygos	Metazoa	Polychaeta	Polychaeta	Capitellid
 Leiochone sp.	Leiochone	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Leiochone	Leiochone sp.	3						
 Leiochone tricirrata	Leiochone tricirrata	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Leiochone	Leiochone tricirrata	3						
 Leiochrides sp.	Leiochrides	Metazoa	Polychaeta	Polychaeta	NA	Capitellidae	Leiochrides	Leiochrides sp.	5						
-Leiostraca subulata	Leiostraca subulata	to be checked manually	NA	NA	NA	NA	NA	Leiostraca subulata	0						
+Leiostraca subulata	Leiostraca subulata	to be checked manually	NA	NA	NA	NA	NA	Leiostraca subulata	1						
 Leitoscoloplos chilensis	Leitoscoloplos chilensis	Metazoa	Annelida	Polychaeta	Scolecida	Orbiniidae	Leitoscoloplos	Leitoscoloplos chilensis	4						
 Leitoscoloplos fragilis	Leitoscoloplos fragilis	Metazoa	Annelida	Polychaeta	Scolecida	Orbiniidae	Leitoscoloplos	Leitoscoloplos fragilis	4						
 Leitoscoloplos kerguelensis	Leitoscoloplos kerguelensis	Metazoa	Annelida	Polychaeta	Scolecida	Orbiniidae	Leitoscoloplos	Leitoscoloplos kerguelensis	4						
@@ -3612,8 +3612,8 @@ Lembos sp.	Lembos	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Aorid
 Lembos spiniventris	Lembosniventris	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Aoridae	Lembos	Lembos spiniventris	1						1
 Lembos websteri	Lembos websteri	to be checked manually	Arthropoda	Malacostraca	Amphipoda	Aoridae	Lembos	Lembos websteri	1	1					
 Lentidium mediterraneum	Lentidium mediterraneum	to be checked manually	NA	NA	NA	NA	NA	Lentidium mediterraneum	2						1
-Leocrates atlanticus	Leocrates atlanticus	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Leocrates	Leocrates atlanticus	0						
-Leocrates sp.	Leocrates	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Leocrates	Leocrates sp.	0						
+Leocrates atlanticus	Leocrates atlanticus	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Leocrates	Leocrates atlanticus	1						
+Leocrates sp.	Leocrates	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Leocrates	Leocrates sp.	1						
 Leodamas uncinata	Leodamas uncinata	to be checked manually	NA	NA	NA	NA	NA	Leodamas uncinata	3						
 Leodice rubra	Leodice rubra	to be checked manually	NA	NA	NA	NA	NA	Leodice rubra	2						
 Leonnates glauca	Leonnates glauca	to be checked manually	NA	NA	NA	NA	NA	Leonnates glauca	3						
@@ -3627,7 +3627,7 @@ Lepas fasicularis	Lepas fasicularis	Metazoa	Arthropoda	Maxillopoda	Pedunculata	L
 Lepas hilli	Lepas hilli	Metazoa	Arthropoda	Maxillopoda	Pedunculata	Lepadidae	Lepas	Lepas hilli		1					
 Lepas pectinata	Lepas pectinata	Metazoa	Arthropoda	Maxillopoda	Pedunculata	Lepadidae	Lepas	Lepas pectinata		1					
 Lepeta caeca	Lepeta caeca	Metazoa	Gastropoda	Gastropoda	NA	Lepetidae	Lepeta	Lepeta caeca	1						
-Lepetella laterocompressa	Lepetella laterocompressa	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Lepetellidae	Lepetella	Lepetella laterocompressa	0						
+Lepetella laterocompressa	Lepetella laterocompressa	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Lepetellidae	Lepetella	Lepetella laterocompressa	1						
 Lepidactylus dytiscus	Lepidactylus dytiscus	Metazoa	Arthropoda	Insecta	Coleoptera	Dytiscidae	Dytiscus	Lepidactylus dytiscus	2						
 Lepidasthenia argus	Lepidasthenia argus	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Lepidasthenia	Lepidasthenia argus	1						
 Lepidasthenia berkeleyae	NA	NA	NA	NA	NA	NA	NA	Lepidasthenia berkeleyae	2						
@@ -3637,7 +3637,7 @@ Lepidasthenia ocellata	Lepidasthenia ocellata	Metazoa	Annelida	Errantia	Phyllodo
 Lepidasthenia sp.	Lepidasthenia	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Lepidasthenia	Lepidasthenia sp.	1						
 Lepidasthenia varius	Lepidasthenia varius	Metazoa	Annelida	Errantia	Phyllodocida	Polynoidae	Lepidasthenia	Lepidasthenia varius	1						
 Lepidepecreum longicorne	Lepidepecreum longicorne	Animalia	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Lepidepecreum	Lepidepecreum longicorne		3					
-Lepidepecreum longicornis	Lepidepecreum longicornis	to be checked manually	NA	NA	NA	NA	NA	Lepidepecreum longicornis	0						
+Lepidepecreum longicornis	Lepidepecreum longicornis	to be checked manually	NA	NA	NA	NA	NA	Lepidepecreum longicornis	1						
 Lepidochitona cinerea	Lepidochitona cinerea	Metazoa	Polyplacophora	Polyplacophora	Chitonida	Lepidochitonidae	Lepidochitona	Lepidochitona cinerea	2	2					
 Lepidochitona sp.	Lepidochitona	Metazoa	Polyplacophora	Polyplacophora	Chitonida	Lepidochitonidae	Lepidochitona	Lepidochitona sp.	2						
 Lepidonotus clava	Lepidonotus clava	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	Lepidonotus	Lepidonotus clava	2	3					1
@@ -3697,7 +3697,7 @@ Leptognathia paramanca	Leptognathia paramanca	Metazoa	Malacostraca	Malacostraca	
 Leptognathia sp.	Leptognathia	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Leptognathiidae	Leptognathia	Leptognathia sp.	1	2					
 Leptomya minuta	Leptomya minuta	to be checked manually	NA	NA	NA	NA	NA	Leptomya minuta	2						
 Leptomya retiaria retiaria	Leptomya retiaria retiaria	to be checked manually	NA	NA	NA	NA	NA	Leptomya retiaria retiaria	2						
-Leptomysis gracilis	Leptomysis gracilis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Leptomysis	Leptomysis gracilis	0						
+Leptomysis gracilis	Leptomysis gracilis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Leptomysis	Leptomysis gracilis	1						
 Lepton nitidum	Lepton nitidum	Metazoa	Bivalvia	Bivalvia	Phyllodocida	Lasaeidae	Lepton	Lepton nitidum	2						
 Lepton squamosum	Lepton squamosum	Metazoa	Bivalvia	Bivalvia	Phyllodocida	Lasaeidae	Lepton	Lepton squamosum	2						
 Leptonereis glauca	Leptonereis glauca	Metazoa	Bivalvia	Bivalvia	Phyllodocida	Lasaeidae	Leptonereis	Leptonereis glauca	3						1
@@ -3727,7 +3727,7 @@ Leptosynapta sp.	Leptosynapta	Metazoa	Echinodermata	Holothuroidea	Apodida	Synapt
 Leptosynapta spp.  	Leptosynapta.  	Metazoa	Echinodermata	Holothuroidea	Apodida	Synaptidae	Leptosynapta	Leptosynapta spp.  		2					
 Leptosynapta tenuis	Leptosynapta tenuis	Metazoa	Echinodermata	Holothuroidea	Apodida	Synaptidae	Leptosynapta	Leptosynapta tenuis	1						
 Leptychaster arcticus	Leptychaster arcticus	Metazoa	Asteroidea	Asteroidea	Paxillosida	Astropectinidae	Leptychaster	Leptychaster arcticus	1						
-Leuckartiara octona	Leuckartiara octona	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Leuckartiara	Leuckartiara octona	0						
+Leuckartiara octona	Leuckartiara octona	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Leuckartiara	Leuckartiara octona	1						
 Leucon acutirostris	Leucon acutirostris	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Leucon	Leucon acutirostris	2	2					
 Leucon affinis	Leucon affinis	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Leucon	Leucon affinis	2						
 Leucon americanus	Leucon americanus	Metazoa	Arthropoda	Malacostraca	Cumacea	Leuconidae	Leucon	Leucon americanus	2						
@@ -3761,8 +3761,8 @@ Levinsenia gracilis	Levinsenia gracilis	Metazoa	Annelida	Sedentaria	Scolecida	Pa
 Levinsenia kantauriensis	Levinsenia kantauriensis	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Levinsenia	Levinsenia kantauriensis	3						
 Levinsenia reducta	Levinsenia reducta	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Levinsenia	Levinsenia reducta	3						
 Levinsenia sp.	Levinsenia	Metazoa	Annelida	Sedentaria	Scolecida	Paraonidae	Levinsenia	Levinsenia sp.	3						
-Libinia sp.	Libinia	Metazoa	Malacostraca	Malacostraca	Decapoda	Epialtidae	Libinia	Libinia sp.	0						
-Lichenopora radiata	Lichenopora radiata	Metazoa	Bryozoa	Stenolaemata	Cyclostomata	Lichenoporidae	Lichenopora	Lichenopora radiata	0	1					
+Libinia sp.	Libinia	Metazoa	Malacostraca	Malacostraca	Decapoda	Epialtidae	Libinia	Libinia sp.	1						
+Lichenopora radiata	Lichenopora radiata	Metazoa	Bryozoa	Stenolaemata	Cyclostomata	Lichenoporidae	Lichenopora	Lichenopora radiata	1	1					
 Ligia exotica	Ligia exotica	Metazoa	Arthropoda	Malacostraca	Isopoda	Ligiidae	Ligia	Ligia exotica	1						
 Liljeborgia dellavallei	Liljeborgia dellavallei	Metazoa	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Liljeborgia	Liljeborgia dellavallei	1						
 Liljeborgia fissicornis	Liljeborgia fissicornis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Liljeborgia	Liljeborgia fissicornis	1			22.37	30.08	1	
@@ -3798,24 +3798,24 @@ Limnodrilus claparedianus	Limnodrilus claparedianus	Metazoa	Annelida	Oligochaeta
 Limnodrilus hoffmeisteri	Limnodrilus hoffmeisteri	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Limnodrilus	Limnodrilus hoffmeisteri	5	4					
 Limnodrilus sp.	Limnodrilus	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Limnodrilus	Limnodrilus sp.	5	4					
 Limnodrilus udekemianus	Limnodrilus udekemianus	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Limnodrilus	Limnodrilus udekemianus	5						
-Limnoperna atrata 	Limnoperna atrata 	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Limnoperna	Limnoperna atrata 	0						
-Limnoperna securis	Limnoperna securis	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Limnoperna	Limnoperna securis	0						
+Limnoperna atrata 	Limnoperna atrata 	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Limnoperna	Limnoperna atrata 	1						
+Limnoperna securis	Limnoperna securis	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Limnoperna	Limnoperna securis	1						
 Limnoria lignorum	Limnoria lignorum	Metazoa	Arthropoda	Malacostraca	Isopoda	Limnoriidae	Limnoria	Limnoria lignorum	3						
 Limnoria quadripunctata	Limnoria quadripunctata	Metazoa	Arthropoda	Malacostraca	Isopoda	Limnoriidae	Limnoria	Limnoria quadripunctata	3						
 Limnoria sp.	Limnoria	Metazoa	Arthropoda	Malacostraca	Isopoda	Limnoriidae	Limnoria	Limnoria sp.	3						
-Limopsis aurita	Limopsis aurita	Metazoa	Bivalvia	Bivalvia	Arcida	Limopsidae	Limopsis	Limopsis aurita	0						
-Limopsis cristata	Limopsis cristata	Metazoa	Bivalvia	Bivalvia	Arcida	Limopsidae	Limopsis	Limopsis cristata	0						
+Limopsis aurita	Limopsis aurita	Metazoa	Bivalvia	Bivalvia	Arcida	Limopsidae	Limopsis	Limopsis aurita	1						
+Limopsis cristata	Limopsis cristata	Metazoa	Bivalvia	Bivalvia	Arcida	Limopsidae	Limopsis	Limopsis cristata	1						
 Lineus alborostratus	Lineus alborostratus	Metazoa	Nemertea	Anopla	Heteronemertea	Lineidae	Lineus	Lineus alborostratus	3						
 Lineus bilineatus	Lineus bilineatus	Metazoa	Nemertea	Anopla	Heteronemertea	Lineidae	Lineus	Lineus bilineatus	3						
 Lineus ruber	Lineus ruber	Metazoa	Nemertea	Anopla	Heteronemertea	Lineidae	Lineus	Lineus ruber	3						
 Lineus sanguineus	Lineus sanguineus	Metazoa	Nemertea	Anopla	Heteronemertea	Lineidae	Lineus	Lineus sanguineus	3						
 Lineus sp.	Lineus	Metazoa	Nemertea	Anopla	Heteronemertea	Lineidae	Lineus	Lineus sp.	3						
 Lineus viridis	Lineus viridis	Metazoa	Nemertea	Anopla	Heteronemertea	Lineidae	Lineus	Lineus viridis	3						
-Linga sombrerensis	Linga sombrerensis	Metazoa	Mollusca	Bivalvia	Veneroida	Lucinidae	Linga	Linga sombrerensis	0						
+Linga sombrerensis	Linga sombrerensis	Metazoa	Mollusca	Bivalvia	Veneroida	Lucinidae	Linga	Linga sombrerensis	1						
 Lingula anatina	Lingula anatina	Metazoa	Brachiopoda	Lingulata	Lingulida	Lingulidae	Lingula	Lingula anatina	1						
 Lingula sp.	Lingula	Metazoa	Brachiopoda	Lingulata	Lingulida	Lingulidae	Lingula	Lingula sp.	1						
 Lingula unguis	Lingula unguis	Metazoa	Brachiopoda	Lingulata	Lingulida	Lingulidae	Lingula	Lingula unguis	1						
-LINGULIDA	LINGULIDA	Metazoa	Brachiopoda	Lingulata	Lingulida	__	__	LINGULIDA	0						
+LINGULIDA	LINGULIDA	Metazoa	Brachiopoda	Lingulata	Lingulida	__	__	LINGULIDA	1						
 Linopherus ambigua	Linopherus ambigua	Metazoa	Annelida	Errantia	Amphinomida	Amphinomidae	Linopherus	Linopherus ambigua	4						
 Linopherus hemuli	Linopherus hemuli	Metazoa	Annelida	Errantia	Amphinomida	Amphinomidae	Linopherus	Linopherus hemuli	4						
 Linopherus paucibranchiata	Linopherus paucibranchiata	Metazoa	Annelida	Errantia	Amphinomida	Amphinomidae	Linopherus	Linopherus paucibranchiata	2						
@@ -3838,7 +3838,7 @@ Lipiniella sp.	Lipiniella	Metazoa	Insecta	Insecta	Diptera	Chironomidae	Lipiniell
 Lipobranchius intermedius	Lipobranchius intermedius	Metazoa	Annelida	Polychaeta	Capitellida	Scalibregmatidae	Lipobranchius	Lipobranchius intermedius	3						
 Lipobranchius jeffreysii	Lipobranchius jeffreysii	Metazoa	Annelida	Polychaeta	Capitellida	Scalibregmatidae	Lipobranchius	Lipobranchius jeffreysii	3						
 Lirobittium sp.	Lirobittium	Metazoa	Gastropoda	Gastropoda	[unassigned] Caenogastropoda	Cerithiidae	Lirobittium	Lirobittium sp.	2						
-Liropus minimus	Liropus minimus	to be checked manually	NA	NA	NA	NA	NA	Liropus minimus	0						
+Liropus minimus	Liropus minimus	to be checked manually	NA	NA	NA	NA	NA	Liropus minimus	1						
 Listriella barnardi	Listriella barnardi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Listriella	Listriella barnardi	1						
 Listriella clymenellae	Listriella clymenellae	Metazoa	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Listriella	Listriella clymenellae	1						
 Listriella curvidactyla	Listriella curvidactyla	Metazoa	Arthropoda	Malacostraca	Amphipoda	Liljeborgiidae	Listriella	Listriella curvidactyla	2						
@@ -3875,10 +3875,10 @@ Lophaster verrilli	Lophaster verrilli	Metazoa	Chordata	Asteroidea	Squamata	Chama
 Lophelia pertusa	Lophelia pertusa	Metazoa	Cnidaria	Anthozoa	Scleractinia	Caryophylliidae	Lophelia	Lophelia pertusa	1						
 Lophogaster typicus	Lophogaster typicus	Metazoa	Arthropoda	Malacostraca	Lophogastrida	Lophogastridae	Lophogaster	Lophogaster typicus	1						
 LOPHOGASTRIDAE	LOPHOGASTRIDAE	Metazoa	Arthropoda	Malacostraca	Lophogastrida	Lophogastridae	__	LOPHOGASTRIDAE	1						
-Lophopanopeus bellus	Lophopanopeus bellus	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus bellus	0						
-Lophopanopeus frontalis	Lophopanopeus frontalis	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus frontalis	0						
-Lophopanopeus leucomanus	Lophopanopeus leucomanus	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus leucomanus	0						
-Lophopanopeus sp.	Lophopanopeus	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus sp.	0						
+Lophopanopeus bellus	Lophopanopeus bellus	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus bellus	1						
+Lophopanopeus frontalis	Lophopanopeus frontalis	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus frontalis	1						
+Lophopanopeus leucomanus	Lophopanopeus leucomanus	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus leucomanus	1						
+Lophopanopeus sp.	Lophopanopeus	Metazoa	Arthropoda	Malacostraca	Decapoda	Panopeidae	Lophopanopeus	Lophopanopeus sp.	1						
 Loripes lacteus	Loripes lacteus	Metazoa	Bivalvia	Bivalvia	Lucinida	Lucinidae	Loripes	Loripes lacteus	1						2
 Loripes lucinalis	Loripes lucinalis	Metazoa	Bivalvia	Bivalvia	Lucinida	Lucinidae	Loripes	Loripes lucinalis	1						
 Loripinus fragilis	Loripinus fragilis	to be checked manually	NA	NA	NA	NA	NA	Loripinus fragilis	1						
@@ -3905,7 +3905,7 @@ Lucinoma sp.	Lucinoma	Metazoa	Mollusca	Bivalvia	Lucinida	Lucinidae	Lucinoma	Luci
 Luidia quinaria	Luidia quinaria	Metazoa	Asteroidea	Asteroidea	Paxillosida	Luidiidae	Luidia	Luidia quinaria	1						
 Luidia sarsi	Luidia sarsi	Metazoa	Asteroidea	Asteroidea	Paxillosida	Luidiidae	Luidia	Luidia sarsi	1						
 Luidia sp.	Luidia	Metazoa	Asteroidea	Asteroidea	Paxillosida	Luidiidae	Luidia	Luidia sp.	1						
-Lumbricalus dayi	Lumbricalus dayi	to be checked manually	NA	NA	NA	NA	NA	Lumbricalus dayi	0						
+Lumbricalus dayi	Lumbricalus dayi	to be checked manually	NA	NA	NA	NA	NA	Lumbricalus dayi	1						
 Lumbricillus arenarius	Lumbricillus arenarius	Animalia	Annelida	Oligochaeta	Enchytraeida	Enchytraeidae	Lumbricillus	Lumbricillus arenarius		4					
 Lumbricillus buelowi	Lumbricillus buelowi	Animalia	Annelida	Oligochaeta	Enchytraeida	Enchytraeidae	Lumbricillus	Lumbricillus buelowi		4					
 Lumbricillus dubius	Lumbricillus dubius	Animalia	Annelida	Oligochaeta	Enchytraeida	Enchytraeidae	Lumbricillus	Lumbricillus dubius		4					
@@ -4003,7 +4003,7 @@ Lutraria lutraria	Lutraria lutraria	Metazoa	Bivalvia	Bivalvia	Veneroida	Mactrida
 Lutraria magna	Lutraria magna	Metazoa	Bivalvia	Bivalvia	Veneroida	Mactridae	Lutraria	Lutraria magna	1						
 Lutraria oblonga	Lutraria oblonga	Metazoa	Bivalvia	Bivalvia	Veneroida	Mactridae	Lutraria	Lutraria oblonga	1						
 Lutraria sp.	Lutraria	Metazoa	Bivalvia	Bivalvia	Veneroida	Mactridae	Lutraria	Lutraria sp.	1						
-Lycastopsis tecolutlensis	Lycastopsis tecolutlensis	to be checked manually	NA	NA	NA	NA	NA	Lycastopsis tecolutlensis	0						
+Lycastopsis tecolutlensis	Lycastopsis tecolutlensis	to be checked manually	NA	NA	NA	NA	NA	Lycastopsis tecolutlensis	1						
 Lygdamis giardi	Lygdamis giardi	to be checked manually	NA	NA	NA	NA	NA	Lygdamis giardi	1						
 Lygdamis indicus	Lygdamis indicus	to be checked manually	NA	NA	NA	NA	NA	Lygdamis indicus	1						
 Lymnaea peregra	Lymnaea peregra	Metazoa	Gastropoda	Gastropoda	Hygrophila	Lymnaeidae	Lymnaea	Lymnaea peregra	1						
@@ -4035,9 +4035,9 @@ Lysippe fragilis	Lysippe fragilis	Metazoa	Annelida	Sedentaria	Canalipalpata	Amph
 Lysippe labiata	Lysippe labiata	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Lysippe	Lysippe labiata	3	2		18.37	23.97	2	
 Lysippe vanelli	Lysippe vanelli	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Lysippe	Lysippe vanelli	1						
 Lysippides fragilis	Lysippides fragilis	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Lysippides	Lysippides fragilis	1	2					
-Lysosquilla sp.	Lysosquilla	to be checked manually	NA	NA	NA	NA	NA	Lysosquilla sp.	0						
+Lysosquilla sp.	Lysosquilla	to be checked manually	NA	NA	NA	NA	NA	Lysosquilla sp.	1						
 Lytechinus pictus	Lytechinus pictus	Metazoa	Echinodermata	Echinoidea	Temnopleuroida	Toxopneustidae	Lytechinus	Lytechinus pictus	2						
-Lytocarpia myriophyllum	Lytocarpia myriophyllum	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Lytocarpia	Lytocarpia myriophyllum	0						
+Lytocarpia myriophyllum	Lytocarpia myriophyllum	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Lytocarpia	Lytocarpia myriophyllum	1						
 Macandrevia cranium	Macandrevia cranium	Metazoa	Brachiopoda	Rhynchonellata	Terebratulida	Zeilleriidae	Macandrevia	Macandrevia cranium	1						
 Macoma acolasta	Macoma acolasta	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma acolasta	2						
 Macoma balaustina	Macoma balaustina	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma balaustina	1						
@@ -4056,7 +4056,7 @@ Macoma murrayi	Macoma murrayi	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Mac
 Macoma nasuta	Macoma nasuta	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma nasuta	2						
 Macoma nipponica	Macoma nipponica	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma nipponica	3						
 Macoma praetexta 	Macoma praetexta 	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma praetexta 	3						
-Macoma sp.	Macoma	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma sp.	0						
+Macoma sp.	Macoma	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma sp.	1						
 Macoma tageliformis	Macoma tageliformis	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma tageliformis	2						
 Macoma tenta	Macoma tenta	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma tenta	3						
 Macoma tenuis	Macoma tenuis	Metazoa	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	Macoma tenuis	2						
@@ -4085,7 +4085,7 @@ Macropodia longirostris	Macropodia longirostris	Metazoa	Arthropoda	Malacostraca	
 Macropodia parva	Macropodia parva	Metazoa	Arthropoda	Malacostraca	Decapoda	Inachidae	Macropodia	Macropodia parva	1						
 Macropodia rostrata	Macropodia rostrata	Metazoa	Arthropoda	Malacostraca	Decapoda	Inachidae	Macropodia	Macropodia rostrata	1	3					
 Macropodia sp.	Macropodia	Metazoa	Arthropoda	Malacostraca	Decapoda	Inachidae	Macropodia	Macropodia sp.	1						
-Macrostylis sp.	Macrostylis	Metazoa	Malacostraca	Malacostraca	Isopoda	Macrostylidae	Macrostylis	Macrostylis sp.	0						
+Macrostylis sp.	Macrostylis	Metazoa	Malacostraca	Malacostraca	Isopoda	Macrostylidae	Macrostylis	Macrostylis sp.	1						
 Macrura indet.	Macrura indet.	Metazoa	Crustacea	Malacostraca	Decapoda	Decapoda	Macrura	Macrura indet.							
 Mactra antiquata	Mactra antiquata	Metazoa	Mollusca	Bivalvia	Veneroida	Mactridae	Mactra	Mactra antiquata	1						
 Mactra chinensis	Mactra chinensis	Metazoa	Mollusca	Bivalvia	Veneroida	Mactridae	Mactra	Mactra chinensis	1						
@@ -4108,7 +4108,7 @@ Maera schmidti	Maera schmidti	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitida
 Maera simile	Maera simile	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Maera	Maera simile	1						
 Maera sodalis	Maera sodalis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Maera	Maera sodalis	1						
 Maera sp.	Maera	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Maera	Maera sp.	1						
-Maerella tenuimana	Maerella tenuimana	to be checked manually	NA	NA	NA	NA	NA	Maerella tenuimana	0						
+Maerella tenuimana	Maerella tenuimana	to be checked manually	NA	NA	NA	NA	NA	Maerella tenuimana	1						
 Magalia perarmata	Magalia perarmata	NA	NA	NA	NA	NA	NA	Magalia perarmata	2						
 Magellanica venosa	Magellanica venosa	to be checked manually	NA	NA	NA	NA	NA	Magellanica venosa	2						
 Magelona alleni	Magelona alleni	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona alleni	1	2		15.08	26.94	2	
@@ -4128,7 +4128,7 @@ Magelona polydentata	Magelona polydentata	Metazoa	Annelida	Sedentaria	Canalipalp
 Magelona riojai	Magelona riojai	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona riojai	1						
 Magelona sp.	Magelona	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona sp.	1	2		20.24	30.15	1	
 Magelona spinifera	Magelonanifera	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona spinifera	1						
-Magelona uebelackerae	Magelona uebelackerae	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona uebelackerae	0						
+Magelona uebelackerae	Magelona uebelackerae	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona uebelackerae	1						
 Magelona wilsoni	Magelona wilsoni	Metazoa	Annelida	Sedentaria	Canalipalpata	Magelonidae	Magelona	Magelona wilsoni	1	2					
 MAGELONIDAE	MAGELONIDAE	Metazoa	Annelida	Polychaeta	Spionida	Magelonidae	__	MAGELONIDAE	1	2					
 MAGELONOIDEA	MAGELONOIDEA	to be checked manually	NA	NA	NA	NA	NA	MAGELONOIDEA		2					
@@ -4178,7 +4178,7 @@ Malmgreniella marphysae	Malmgreniella marphysae	to be checked manually	Annelida	
 Malmgreniella mcintoshi	Malmgreniella mcintoshi	to be checked manually	Annelida	Polychaeta	Phyllodocida	Polynoidae	Malmgreniella	Malmgreniella mcintoshi	2						
 Malmgreniella sp.	Malmgreniella	to be checked manually	Annelida	Polychaeta	Phyllodocida	Polynoidae	Malmgreniella	Malmgreniella sp.	2						
 Malmgreniella taylori	Malmgreniella taylori	to be checked manually	Annelida	Polychaeta	Phyllodocida	Polynoidae	Malmgreniella	Malmgreniella taylori	2						
-Mamilloretusa mamillata	Mamilloretusa mamillata	to be checked manually	NA	NA	NA	NA	NA	Mamilloretusa mamillata	0						
+Mamilloretusa mamillata	Mamilloretusa mamillata	to be checked manually	NA	NA	NA	NA	NA	Mamilloretusa mamillata	1						
 Manayunkia aestuarina	Manayunkia aestuarina	Metazoa	Polychaeta	Polychaeta	Sabellida	Fabriciidae	Manayunkia	Manayunkia aestuarina	3	1					
 Manayunkia cursoria	Manayunkia cursoria	Animalia	Annelida	Polychaeta	Sabellida	Fabriciidae	Manayunkia	Manayunkia cursoria		1					
 Manayunkia sp.	Manayunkia	Metazoa	Polychaeta	Polychaeta	Sabellida	Fabriciidae	Manayunkia	Manayunkia sp.	3	1					
@@ -4204,7 +4204,7 @@ Marenzelleria wireni	Marenzelleria wireni	Metazoa	Annelida	Polychaeta	Spionida	S
 Maretia planulata	Maretia planulata	to be checked manually	NA	NA	NA	NA	NA	Maretia planulata	1						
 Margarites costalis	Margarites costalis	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites costalis	2						
 Margarites giganteus	Margarites giganteus	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites giganteus	2						
-Margarites groenlandicus	Margarites groenlandicus	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites groenlandicus	0						
+Margarites groenlandicus	Margarites groenlandicus	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites groenlandicus	1						
 Margarites olivaceus	Margarites olivaceus	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites olivaceus	2						
 Margarites sp.	Margarites	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites sp.	2						
 Margarites voticiferus	Margarites voticiferus	Metazoa	Gastropoda	Gastropoda	Archaeogastropoda	Margaritidae	Margarites	Margarites voticiferus	2						
@@ -4262,7 +4262,7 @@ Mediomastus filiformis	Mediomastus filiformis	Metazoa	Annelida	Sedentaria	Scolec
 Mediomastus fragilis	Mediomastus fragilis	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Mediomastus	Mediomastus fragilis	3		3	5.27	12.21	4	2
 Mediomastus gracilis	Mediomastus gracilis	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Mediomastus	Mediomastus gracilis	3						
 Mediomastus sp.	Mediomastus	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Mediomastus	Mediomastus sp.	3			9.34	18.95	3	
-Medorippe lanata	Medorippe lanata	Metazoa	Arthropoda	Malacostraca	Decapoda	Dorippidae	Medorippe	Medorippe lanata	0						
+Medorippe lanata	Medorippe lanata	Metazoa	Arthropoda	Malacostraca	Decapoda	Dorippidae	Medorippe	Medorippe lanata	1						
 Megabalanus tintinnabulum	Megabalanus tintinnabulum	Metazoa	Arthropoda	Maxillopoda	Sessilia	Balanidae	Megabalanus	Megabalanus tintinnabulum		1					
 Megalomma bioculatum	Megalomma bioculatum	Metazoa	Annelida	Polychaeta	Sabellida	Sabellidae	Megalomma	Megalomma bioculatum	2						
 Megalomma linaresi	Megalomma linaresi	Metazoa	Annelida	Polychaeta	Sabellida	Sabellidae	Megalomma	Megalomma linaresi	2						
@@ -4283,9 +4283,9 @@ Meganyctiphanes norvegica	Meganyctiphanes norvegica	Metazoa	Malacostraca	Malacos
 Meganyctiphanes sp.	Meganyctiphanes	Metazoa	Malacostraca	Malacostraca	Euphausiacea	Euphausiidae	Meganyctiphanes	Meganyctiphanes sp.	1						
 Megastomia conoidea 	Megastomia conoidea 	Metazoa	Mollusca	Gastropoda	__	Pyramidellidae	Megastomia	Megastomia conoidea 		3					
 Megastraea undosa	Megastraea undosa	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Turbinidae	Megastraea	Megastraea undosa	1						
-Megerlia truncata	Megerlia truncata	Metazoa	Brachiopoda	Rhynchonellata	Terebratulida	Kraussinidae	Megerlia	Megerlia truncata	0						
+Megerlia truncata	Megerlia truncata	Metazoa	Brachiopoda	Rhynchonellata	Terebratulida	Kraussinidae	Megerlia	Megerlia truncata	1						
 Meiodorvillea chilensis	Meiodorvillea chilensis	to be checked manually	NA	NA	NA	NA	NA	Meiodorvillea chilensis	5						
-Meiosquilla schmitti	Meiosquilla schmitti	Metazoa	Arthropoda	Malacostraca	Stomatopoda	Squillidae	Meiosquilla	Meiosquilla schmitti	0						
+Meiosquilla schmitti	Meiosquilla schmitti	Metazoa	Arthropoda	Malacostraca	Stomatopoda	Squillidae	Meiosquilla	Meiosquilla schmitti	1						
 Melampus bullaoides	Melampus bullaoides	Metazoa	Mollusca	Gastropoda	Archaeopulmonata	Ellobiidae	Melampus	Melampus bullaoides	2						
 Melampus olivaceus	Melampus olivaceus	Metazoa	Mollusca	Gastropoda	Archaeopulmonata	Ellobiidae	Melampus	Melampus olivaceus	2						
 Melanella alba	Melanella alba	to be checked manually	Gastropoda	Gastropoda	Littorinimorpha	Eulimidae	Melanella	Melanella alba	1						
@@ -4327,7 +4327,7 @@ Melita sp.	Melita	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Melita	Mel
 Melita tuberculata	Melita tuberculata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Melita	Melita tuberculata	1						
 Melita valesi	Melita valesi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	Melita	Melita valesi	1						
 Melitidae	Melitidae	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melitidae	__	Melitidae		2					
-Melongena sp.	Melongena	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Melongenidae	Melongena	Melongena sp.	0						
+Melongena sp.	Melongena	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Melongenidae	Melongena	Melongena sp.	1						
 Melphidippa borealis	Melphidippa borealis	Metazoa	Malacostraca	Malacostraca	Amphipoda	Melphidippidae	Melphidippa	Melphidippa borealis	2						
 Melphidippa sp.	Melphidippa	Metazoa	Malacostraca	Malacostraca	Amphipoda	Melphidippidae	Melphidippa	Melphidippa sp.	2						
 Melphidippella macra	Melphidippella macra	Metazoa	Arthropoda	Malacostraca	Amphipoda	Melphidippidae	Melphidippella	Melphidippella macra	2						
@@ -4339,23 +4339,23 @@ Membranipora membranacea	Membranipora membranacea	Metazoa	Bryozoa	Gymnolaemata	C
 Mendicula ferruginosa	Mendicula ferruginosa	Metazoa	Mollusca	Bivalvia	Lucinoida	Thyasiridae	Mendicula	Mendicula ferruginosa	2		1.5	8.7	27.74	1	
 Mendicula pygmaea	Mendicula pygmaea	Metazoa	Mollusca	Bivalvia	Lucinoida	Thyasiridae	Mendicula	Mendicula pygmaea	1		0	10.41	23.79	2	
 Menestho truncatula	Menestho truncatula	to be checked manually	NA	NA	NA	NA	NA	Menestho truncatula	1						
-Menigrates obtusifrons	Menigrates obtusifrons	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Menigrates	Menigrates obtusifrons	0	3					
+Menigrates obtusifrons	Menigrates obtusifrons	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Menigrates	Menigrates obtusifrons	1	3					
 Mercenaria mercenaria	Mercenaria mercenaria	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Mercenaria	Mercenaria mercenaria	2						
 Mercierella enigmatica	Mercierella enigmatica	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Ficopomatus	Mercierella enigmatica	3						
 Meredithia spinifera	Meredithianifera	to be checked manually	NA	NA	NA	NA	NA	Meredithia spinifera	1						
-Meredithia uebelackerae	Meredithia uebelackerae	to be checked manually	NA	NA	NA	NA	NA	Meredithia uebelackerae	0						
+Meredithia uebelackerae	Meredithia uebelackerae	to be checked manually	NA	NA	NA	NA	NA	Meredithia uebelackerae	1						
 Meretrix meretrix	Meretrix meretrix	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Meretrix	Meretrix meretrix	1						
 Merona cornucopiae	Merona cornucopiae	Viridiplantae	Streptophyta	Liliopsida	Poales	Poaceae	Cornucopiae	Merona cornucopiae	1						
 Meropesta capillacea	Meropesta capillacea	to be checked manually	NA	NA	NA	NA	NA	Meropesta capillacea	1						
-Mesacmaea mitchellii	Mesacmaea mitchellii	to be checked manually	NA	NA	NA	NA	NA	Mesacmaea mitchellii	0						
+Mesacmaea mitchellii	Mesacmaea mitchellii	to be checked manually	NA	NA	NA	NA	NA	Mesacmaea mitchellii	1						
 Mesenchytraeus	Mesenchytraeus	Animalia	Clitellata	Clitellata	Enchytraeida	Enchytraeidae	Mesenchytraeus	Mesenchytraeus		4					
 Mesenchytraeus armatus	Mesenchytraeus armatus	Animalia	Clitellata	Clitellata	Enchytraeida	Enchytraeidae	Mesenchytraeus	Mesenchytraeus armatus		4					
 Mesochaetopterus minutus	Mesochaetopterus minutus	Metazoa	Polychaeta	Polychaeta	NA	Chaetopteridae	Mesochaetopterus	Mesochaetopterus minutus	1						
 Mesochaetopterus sagittarius	Mesochaetopterus sagittarius	Metazoa	Polychaeta	Polychaeta	NA	Chaetopteridae	Mesochaetopterus	Mesochaetopterus sagittarius	3						
-Mesochaetopterus sp.	Mesochaetopterus	Metazoa	Polychaeta	Polychaeta	NA	Chaetopteridae	Mesochaetopterus	Mesochaetopterus sp.	0						
+Mesochaetopterus sp.	Mesochaetopterus	Metazoa	Polychaeta	Polychaeta	NA	Chaetopteridae	Mesochaetopterus	Mesochaetopterus sp.	1						
 Mesodesma donacium	Mesodesma donacium	Metazoa	Mollusca	Bivalvia	Veneroida	Mesodesmatidae	Mesodesma	Mesodesma donacium	1						
-Mesolamprops sp.	Mesolamprops	Metazoa	Malacostraca	Malacostraca	Cumacea	Lampropidae	Mesolamprops	Mesolamprops sp.	0						
-Mesonerilla sp.	Mesonerilla	Metazoa	Polychaeta	Polychaeta	NA	Nerillidae	Mesonerilla	Mesonerilla sp.	0						
+Mesolamprops sp.	Mesolamprops	Metazoa	Malacostraca	Malacostraca	Cumacea	Lampropidae	Mesolamprops	Mesolamprops sp.	1						
+Mesonerilla sp.	Mesonerilla	Metazoa	Polychaeta	Polychaeta	NA	Nerillidae	Mesonerilla	Mesonerilla sp.	1						
 Mesopodopsis slabberi	Mesopodopsis slabberi	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Mesopodopsis	Mesopodopsis slabberi	2	3					
 Metacarcinus edwardsii	Metacarcinus edwardsii	Metazoa	Arthropoda	Malacostraca	Decapoda	Cancridae	Metacarcinus	Metacarcinus edwardsii	2						
 Metacrangon spinosissima	Metacrangonnosissima	to be checked manually	NA	NA	NA	NA	NA	Metacrangon spinosissima	2						
@@ -4382,12 +4382,12 @@ Metopa spectabilis	Metopactabilis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Sten
 Metopa tenuimana	Metopa tenuimana	Animalia	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Metopa	Metopa tenuimana							
 Metridium sp.	Metridium	Metazoa	Anthozoa	Anthozoa	Actiniaria	Metridiidae	Metridium	Metridium sp.	1						
 Mexidrilus minutissimus	Mexidrilus minutissimus	to be checked manually	NA	NA	NA	NA	NA	Mexidrilus minutissimus		4					
-Mexieulepis elongatus	Mexieulepis elongatus	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Mexieulepis	Mexieulepis elongatus	0						
-Mexieulepis weberi	Mexieulepis weberi	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Mexieulepis	Mexieulepis weberi	0						
+Mexieulepis elongatus	Mexieulepis elongatus	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Mexieulepis	Mexieulepis elongatus	1						
+Mexieulepis weberi	Mexieulepis weberi	Metazoa	Annelida	Polychaeta	Phyllodocida	Eulepethidae	Mexieulepis	Mexieulepis weberi	1						
 Microcardium sp.	Microcardium	Metazoa	Bivalvia	Bivalvia	Cardiida	Cardiidae	Microcardium	Microcardium sp.	3						
 Microchironomus sp.	Microchironomus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Microchironomus	Microchironomus sp.	4						
-Microclymene acirrata	Microclymene acirrata	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Microclymene	Microclymene acirrata	0						
-Microclymene sp.	Microclymene	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Microclymene	Microclymene sp.	0						
+Microclymene acirrata	Microclymene acirrata	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Microclymene	Microclymene acirrata	1						
+Microclymene sp.	Microclymene	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Microclymene	Microclymene sp.	1						
 Microclymene tricirrata	Microclymene tricirrata	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Microclymene	Microclymene tricirrata	3						
 Microcosmus squamiger	Microcosmus squamiger	Metazoa	Chordata	Ascidiacea	Stolidobranchia	Pyuridae	Microcosmus	Microcosmus squamiger	2						
 Microdeutopus algicola	Microdeutopus algicola	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Microdeutopus	Microdeutopus algicola	1						
@@ -4403,7 +4403,7 @@ Microdeutopus similis	Microdeutopus similis	Metazoa	Arthropoda	Malacostraca	Amph
 Microdeutopus sp.	Microdeutopus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Microdeutopus	Microdeutopus sp.	1	1		12.69	27.82	1	
 Microdeutopus stationis	Microdeutopus stationis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Microdeutopus	Microdeutopus stationis	1	1					
 Microdeutopus versiculatus	Microdeutopus versiculatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Aoridae	Microdeutopus	Microdeutopus versiculatus	1	1					
-Microjaera anisopoda	Microjaera anisopoda	Viridiplantae	Streptophyta	Malacostraca	Apiales	Apiaceae	Anisopoda	Microjaera anisopoda	0						
+Microjaera anisopoda	Microjaera anisopoda	Viridiplantae	Streptophyta	Malacostraca	Apiales	Apiaceae	Anisopoda	Microjaera anisopoda	1						
 Microjassa cumbrensis	Microjassa cumbrensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Microjassa	Microjassa cumbrensis	1	1					
 Microjassa litotes	Microjassa litotes	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Microjassa	Microjassa litotes	2						
 Micromaldane ornithochaeta	Micromaldane ornithochaeta	Metazoa	Annelida	Sedentaria	Scolecida	Maldanidae	Micromaldane	Micromaldane ornithochaeta	1						
@@ -4413,8 +4413,8 @@ Micronephthys sp.	Micronephthys	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyi
 Micronephthys sphaerocirrata	Micronephthysaerocirrata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Micronephthys	Micronephthys sphaerocirrata	2						
 Micronephthys stammeri	Micronephthys stammeri	Metazoa	Annelida	Polychaeta	Phyllodocida	Nephtyidae	Micronephthys	Micronephthys stammeri	2						
 Micronephtys maryae								Micronephtys maryae							1
-Micropanope nuttingi	Micropanope nuttingi	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Micropanope	Micropanope nuttingi	0						
-Micropanope sp.	Micropanope	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Micropanope	Micropanope sp.	0						
+Micropanope nuttingi	Micropanope nuttingi	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Micropanope	Micropanope nuttingi	1						
+Micropanope sp.	Micropanope	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Micropanope	Micropanope sp.	1						
 Microphiopholis gracillima	Microphiopholis gracillima	to be checked manually	NA	NA	NA	NA	NA	Microphiopholis gracillima	1						
 Micropholis atra	Micropholis atra	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Amphiuridae	Micropholis	Micropholis atra	1						
 Microphoxus sp.	Microphoxus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Phoxocephalidae	Microphoxus	Microphoxus sp.	1						
@@ -4433,7 +4433,7 @@ Microprotopus longimanus	Microprotopus longimanus	Metazoa	Arthropoda	Malacostrac
 Microprotopus maculatus	Microprotopus maculatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Microprotopidae	Microprotopus	Microprotopus maculatus	1	1					
 Microprotopus raneyi	Microprotopus raneyi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Microprotopidae	Microprotopus	Microprotopus raneyi	1						
 Microprotopus sp.	Microprotopus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Microprotopidae	Microprotopus	Microprotopus sp.	1						
-Micropythia carinata	Micropythia carinata	Metazoa	Arthropoda	Insecta	Hemiptera	Cicadellidae	Carinata	Micropythia carinata	0						
+Micropythia carinata	Micropythia carinata	Metazoa	Arthropoda	Insecta	Hemiptera	Cicadellidae	Carinata	Micropythia carinata	1						
 Microspio atlantica	Microspio atlantica	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Microspio	Microspio atlantica	3						
 Microspio mecznicowianus								Microspio mecznicowianus							2
 Microspio mecznikowianus	Microspio mecznikowianus	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Microspio	Microspio mecznikowianus	3						
@@ -4444,11 +4444,11 @@ Micrura baltica	Micrura baltica	Metazoa	Anopla	Anopla	NA	Lineidae	Micrura	Micrur
 Micrura leidyi	Micrura leidyi	Metazoa	Anopla	Anopla	NA	Lineidae	Micrura	Micrura leidyi	1						
 Micrura sp.	Micrura	Metazoa	Anopla	Anopla	NA	Lineidae	Micrura	Micrura sp.	1						
 Mimachlamys varia	Mimachlamys varia	Metazoa	Bivalvia	Bivalvia	Pectinida	Pectinidae	Mimachlamys	Mimachlamys varia	1						
-Miniacina miniacea	Miniacina miniacea	Protozoa	Protozoa	Granuloreticulosea	Foraminiferida	Homotrematidae	Miniacina	Miniacina miniacea	0						
+Miniacina miniacea	Miniacina miniacea	Protozoa	Protozoa	Granuloreticulosea	Foraminiferida	Homotrematidae	Miniacina	Miniacina miniacea	1						
 Minuspio cf. multibranchiata	Minuspio cf. multibranchiata	to be checked manually	NA	NA	NA	NA	NA	Minuspio cf. multibranchiata		2					
 Minuspio cirrifera	Minuspio cirrifera	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Minuspio	Minuspio cirrifera	4	2					
 Minuspio multibranchiata	Minuspio multibranchiata	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Minuspio	Minuspio multibranchiata	3						
-Minuspio sp.	Minuspio	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Minuspio	Minuspio sp.	0						
+Minuspio sp.	Minuspio	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Minuspio	Minuspio sp.	1						
 Mitella pollicipes	Mitella pollicipes	Metazoa	Arthropoda	Maxillopoda	Pedunculata	Pollicipedidae	Pollicipes	Mitella pollicipes		1					
 Mitrella broderipi	Mitrella broderipi	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Mitrella	Mitrella broderipi	1						
 Mitrella gervillii	Mitrella gervillii	to be checked manually	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Mitrella	Mitrella gervillii	1						
@@ -4489,7 +4489,7 @@ Molgula sp.	Molgula	Metazoa	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	Molgu
 Molgulidae	Molgulidae	Metazoa	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	__	Molgulidae		1					
 Molpadia arctica	Molpadia arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Molpadia	Molpadia arctica	1						
 Molpadia borealis	Molpadia borealis	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Molpadia	Molpadia borealis	1						
-Molpadonia sp.	Molpadonia	Metazoa	Echinodermata	Holothuroidea	Molpadiida	Molpadiidae	Molpadonia	Molpadonia sp.	0						
+Molpadonia sp.	Molpadonia	Metazoa	Echinodermata	Holothuroidea	Molpadiida	Molpadiidae	Molpadonia	Molpadonia sp.	1						
 Monia patelliformis	Monia patelliformis	Metazoa	Mollusca	Bivalvia	Pectinoida	Anomiidae	Monia	Monia patelliformis	1						1
 Monocorophium acherusicum	Monocorophium acherusicum	Metazoa	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Monocorophium	Monocorophium acherusicum	3						
 Monocorophium insidiosum	Monocorophium insidiosum	Metazoa	Arthropoda	Malacostraca	Amphipoda	Corophiidae	Monocorophium	Monocorophium insidiosum	3						
@@ -4547,17 +4547,17 @@ Mugga wahrbergi	Mugga wahrbergi	Metazoa	Polychaeta	Polychaeta	Terebellida	Amphar
 Mulinia edulis	Mulinia edulis	Metazoa	Bivalvia	Bivalvia	Veneroida	Mactridae	Mulinia	Mulinia edulis	3						
 Mulinia lateralis	Mulinia lateralis	Metazoa	Bivalvia	Bivalvia	Veneroida	Mactridae	Mulinia	Mulinia lateralis	4						
 Munida gregaria	Munida gregaria	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida gregaria	2						
-Munida rugosa	Munida rugosa	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida rugosa	0	2					
+Munida rugosa	Munida rugosa	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida rugosa	1	2					
 Munida sarsi	Munida sarsi	Metazoa	Crustacea	Malacostraca	Decapoda	Munididae	Munida	Munida sarsi							
-Munida sp.	Munida	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida sp.	0						
-Munida subrugosa	Munida subrugosa	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida subrugosa	0						
+Munida sp.	Munida	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida sp.	1						
+Munida subrugosa	Munida subrugosa	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Munida	Munida subrugosa	1						
 Munna acanthifera	Munna acanthifera	Metazoa	Arthropoda	Malacostraca	Isopoda	Munnidae	Munna	Munna acanthifera	2						
 Munna fabricii	Munna fabricii	Metazoa	Arthropoda	Malacostraca	Isopoda	Munnidae	Munna	Munna fabricii	2						
 Munna kroyeri	Munna kroyeri	Metazoa	Arthropoda	Malacostraca	Isopoda	Munnidae	Munna	Munna kroyeri	2						
 Munna minuta	Munna minuta	Metazoa	Arthropoda	Malacostraca	Isopoda	Munnidae	Munna	Munna minuta	2						
 Munnogonium tillerae	Munnogonium tillerae	Metazoa	Arthropoda	Malacostraca	Isopoda	Paramunnidae	Munnogonium	Munnogonium tillerae	1						
-Munnopsis sp.	Munnopsis	Metazoa	Malacostraca	Malacostraca	Isopoda	Munnopsidae	Munnopsis	Munnopsis sp.	0						
-Munnopsis typica	Munnopsis typica	Metazoa	Malacostraca	Malacostraca	Isopoda	Munnopsidae	Munnopsis	Munnopsis typica	0						
+Munnopsis sp.	Munnopsis	Metazoa	Malacostraca	Malacostraca	Isopoda	Munnopsidae	Munnopsis	Munnopsis sp.	1						
+Munnopsis typica	Munnopsis typica	Metazoa	Malacostraca	Malacostraca	Isopoda	Munnopsidae	Munnopsis	Munnopsis typica	1						
 Musculista senhousia	Musculista senhousia	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Musculista	Musculista senhousia	3						
 Musculium transversum	Musculium transversum	Metazoa	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Musculium	Musculium transversum	3						
 Musculus costulatus	Musculus costulatus	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Musculus	Musculus costulatus	1	1					1
@@ -4572,8 +4572,8 @@ Mya arenaria	Mya arenaria	Metazoa	Bivalvia	Bivalvia	Myida	Myidae	Mya	Mya arenari
 Mya sp.	Mya	Metazoa	Bivalvia	Bivalvia	Myida	Myidae	Mya	Mya sp.	2	1		7.72	20.36	3	
 Mya truncata	Mya truncata	Metazoa	Bivalvia	Bivalvia	Myida	Myidae	Mya	Mya truncata	2	1		14.42	22.23	3	
 Myidae (juv.)	Myidae (juv.)	to be checked manually	NA	NA	NA	NA	NA	Myidae (juv.)		1					
-Myosotella myosotis	Myosotella myosotis	Metazoa	Mollusca	Gastropoda	Archaeopulmonata	Ellobiidae	Myosotella	Myosotella myosotis	0						
-Myra sp.	Myra	Metazoa	Malacostraca	Malacostraca	Decapoda	Leucosiidae	Myra	Myra sp.	0						
+Myosotella myosotis	Myosotella myosotis	Metazoa	Mollusca	Gastropoda	Archaeopulmonata	Ellobiidae	Myosotella	Myosotella myosotis	1						
+Myra sp.	Myra	Metazoa	Malacostraca	Malacostraca	Decapoda	Leucosiidae	Myra	Myra sp.	1						
 Myrianida brachycephala	Myrianida brachycephala	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Myrianida	Myrianida brachycephala	2						
 Myrianida dentalia	Myrianida dentalia	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Myrianida	Myrianida dentalia	2						
 Myrianida edwardsi	Myrianida edwardsi	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Myrianida	Myrianida edwardsi	2						
@@ -4594,10 +4594,10 @@ Myriochele oculata	Myriochele oculata	Metazoa	Annelida	Sedentaria	Canalipalpata	
 Myriochele olgae	Myriochele olgae	Metazoa	Annelida	Sedentaria	Canalipalpata	Oweniidae	Myriochele	Myriochele olgae	3						
 Myriochele picta	Myriochele picta	Metazoa	Annelida	Sedentaria	Canalipalpata	Oweniidae	Myriochele	Myriochele picta	3						
 Myriochele sp.	Myriochele	Metazoa	Annelida	Sedentaria	Canalipalpata	Oweniidae	Myriochele	Myriochele sp.	3			9.42	26.28	2	
-Myrioglobulina sp.	Myrioglobulina	to be checked manually	NA	NA	NA	NA	NA	Myrioglobulina sp.	0						
-Myriotrochus rinkii	Myriotrochus rinkii	Metazoa	Echinodermata	Holothuroidea	Apodida	Myriotrochidae	Myriotrochus	Myriotrochus rinkii	0						
-Myriotrochus vitreus	Myriotrochus vitreus	Metazoa	Echinodermata	Holothuroidea	Apodida	Myriotrochidae	Myriotrochus	Myriotrochus vitreus	0						
-Myriowenia californiensis	Myriowenia californiensis	Metazoa	Annelida	Sedentaria	Canalipalpata	Oweniidae	Myriowenia	Myriowenia californiensis	0						
+Myrioglobulina sp.	Myrioglobulina	to be checked manually	NA	NA	NA	NA	NA	Myrioglobulina sp.	1						
+Myriotrochus rinkii	Myriotrochus rinkii	Metazoa	Echinodermata	Holothuroidea	Apodida	Myriotrochidae	Myriotrochus	Myriotrochus rinkii	1						
+Myriotrochus vitreus	Myriotrochus vitreus	Metazoa	Echinodermata	Holothuroidea	Apodida	Myriotrochidae	Myriotrochus	Myriotrochus vitreus	1						
+Myriowenia californiensis	Myriowenia californiensis	Metazoa	Annelida	Sedentaria	Canalipalpata	Oweniidae	Myriowenia	Myriowenia californiensis	1						
 Myriozoella crustacea	Myriozoella crustacea	Metazoa	Arthropoda	__	__	__	__	Myriozoella crustacea	1						
 Myrtea sp.	Myrtea	Metazoa	Bivalvia	Bivalvia	Lucinida	Lucinidae	Myrtea	Myrtea sp.	2						
 Myrtea spinifera	Myrteanifera	Metazoa	Bivalvia	Bivalvia	Lucinida	Lucinidae	Myrtea	Myrtea spinifera	2	3	1.5	8.15	27.23	2	2
@@ -4610,7 +4610,7 @@ Mysia sp.	Mysia	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Mysia	Mysia sp.	1
 Mysia undata	Mysia undata	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Mysia	Mysia undata	1	1		15.18	26.19	2	
 MYSIDA	MYSIDA	Metazoa	Malacostraca	Malacostraca	Mysida	NA	NA	MYSIDA	2						
 MYSIDACEA	MYSIDACEA	Metazoa	Arthropoda	Malacostraca	Mysidacea	__	__	MYSIDACEA		3					
-Mysideis sp.	Mysideis	Metazoa	Malacostraca	Malacostraca	Mysida	Mysidae	Mysideis	Mysideis sp.	0						
+Mysideis sp.	Mysideis	Metazoa	Malacostraca	Malacostraca	Mysida	Mysidae	Mysideis	Mysideis sp.	1						
 Mysidella americana	Mysidella americana	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Mysidella	Mysidella americana	2						
 Mysidopsis angusta	Mysidopsis angusta	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Mysidopsis	Mysidopsis angusta	2						
 Mysidopsis californica	Mysidopsis californica	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Mysidopsis	Mysidopsis californica	2						
@@ -4666,10 +4666,10 @@ Nais simplex	Nais simplex	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	N
 Nais sp.	Nais	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Nais	Nais sp.	4	4					
 Nais variabilis	Nais variabilis	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Nais	Nais variabilis	4	4					
 Namalycastis abiuma	Namalycastis abiuma	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Namalycastis	Namalycastis abiuma	3						
-Namanereis littoralis	Namanereis littoralis	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Namanereis	Namanereis littoralis	0						
-Namanereis quadraticeps	Namanereis quadraticeps	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Namanereis	Namanereis quadraticeps	0						
-Nanatelona borealis	Nanatelona borealis	to be checked manually	NA	NA	NA	NA	NA	Nanatelona borealis	0						
-Nanatelona sp.	Nanatelona	to be checked manually	NA	NA	NA	NA	NA	Nanatelona sp.	0						
+Namanereis littoralis	Namanereis littoralis	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Namanereis	Namanereis littoralis	1						
+Namanereis quadraticeps	Namanereis quadraticeps	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Namanereis	Namanereis quadraticeps	1						
+Nanatelona borealis	Nanatelona borealis	to be checked manually	NA	NA	NA	NA	NA	Nanatelona borealis	1						
+Nanatelona sp.	Nanatelona	to be checked manually	NA	NA	NA	NA	NA	Nanatelona sp.	1						
 NANNASTACIDAE	NANNASTACIDAE	Metazoa	Arthropoda	Malacostraca	Cumacea	Nannastacidae	__	NANNASTACIDAE	2	2					
 Nannastacus brevicaudatus	Nannastacus brevicaudatus	Animalia	Arthropoda	Malacostraca	Cumacea	Nannastacidae	Nannastacus	Nannastacus brevicaudatus		2					
 Nannastacus longirostris	Nannastacus longirostris	Metazoa	Arthropoda	Malacostraca	Cumacea	Nannastacidae	Nannastacus	Nannastacus longirostris	2	2					
@@ -4678,7 +4678,7 @@ Nannonyx goesi	Nannonyx goesi	Metazoa	Malacostraca	Malacostraca	Amphipoda	Lysian
 Nannonyx goesii	Nannonyx goesii	to be checked manually	NA	NA	NA	NA	NA	Nannonyx goesii		3					
 Nannonyx spinimanus	Nannonyxnimanus	to be checked manually	NA	NA	NA	NA	NA	Nannonyx spinimanus		3					
 Nannosquilla chilensis	Nannosquilla chilensis	to be checked manually	NA	NA	NA	NA	NA	Nannosquilla chilensis	1						
-Nasagenia quinsana	Nasagenia quinsana	to be checked manually	NA	NA	NA	NA	NA	Nasagenia quinsana	0						
+Nasagenia quinsana	Nasagenia quinsana	to be checked manually	NA	NA	NA	NA	NA	Nasagenia quinsana	1						
 Nassa cooper	Nassa cooper	to be checked manually	NA	NA	NA	NA	NA	Nassa cooper	4						
 Nassarina penicillata	Nassarina penicillata	Metazoa	Arthropoda	Diplopoda	Neogastropoda	Columbellidae	Nassarina	Nassarina penicillata	2						
 Nassarius acutus	Nassarius acutus	Metazoa	Mollusca	Gastropoda	__	Nassariidae	Nassarius	Nassarius acutus	2						
@@ -4713,8 +4713,8 @@ Nassarius variciferus	Nassarius variciferus	Metazoa	Mollusca	Gastropoda	__	Nassa
 Nassarius vibex	Nassarius vibex	Metazoa	Mollusca	Gastropoda	__	Nassariidae	Nassarius	Nassarius vibex	2						
 NATANTIA	NATANTIA	to be checked manually	NA	NA	NA	NA	NA	NATANTIA	3						
 Natatolana borealis	Natatolana borealis	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Natatolana	Natatolana borealis	2			16.81	34.57	1	
-Natatolana gallica	Natatolana gallica	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Natatolana	Natatolana gallica	0						
-Natatolana sp.	Natatolana	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Natatolana	Natatolana sp.	0						
+Natatolana gallica	Natatolana gallica	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Natatolana	Natatolana gallica	1						
+Natatolana sp.	Natatolana	Metazoa	Arthropoda	Malacostraca	Isopoda	Cirolanidae	Natatolana	Natatolana sp.	1						
 Natica alderi	Natica alderi	to be checked manually	Gastropoda	Gastropoda	Littorinimorpha	Naticidae	Natica	Natica alderi	2						
 Natica catena	Natica catena	to be checked manually	Gastropoda	Gastropoda	Littorinimorpha	Naticidae	Natica	Natica catena	2						
 Natica chemnitzii	Natica chemnitzii	to be checked manually	Gastropoda	Gastropoda	Littorinimorpha	Naticidae	Natica	Natica chemnitzii	2						
@@ -4737,7 +4737,7 @@ Naticarius hebraeus	Naticarius hebraeus	to be checked manually	Gastropoda	Gastro
 Naticarius sp.	Naticarius	to be checked manually	Gastropoda	Gastropoda	Littorinimorpha	Naticidae	Naticarius	Naticarius sp.	2						
 NATICIDAE	NATICIDAE	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Naticidae	__	NATICIDAE	2						
 Naushonia macginitiei	Naushonia macginitiei	Metazoa	Arthropoda	Malacostraca	Decapoda	Laomediidae	Naushonia	Naushonia macginitiei	1						
-Nausithoe sp.	Nausithoe	Metazoa	Scyphozoa	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe sp.	0						
+Nausithoe sp.	Nausithoe	Metazoa	Scyphozoa	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe sp.	1						
 Nauticaris magellanica	Nauticaris magellanica	to be checked manually	NA	NA	NA	NA	NA	Nauticaris magellanica	1						
 Navanax inermis	Navanax inermis	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Aglajidae	Navanax	Navanax inermis	1						
 Neanthes acuminata	Neanthes acuminata	to be checked manually	Annelida	Polychaeta	Phyllodocida	Nereididae	Neanthes	Neanthes acuminata	3						
@@ -4792,7 +4792,7 @@ Neoamphitrite figulus	Neoamphitrite figulus	Metazoa	Annelida	Polychaeta	Canalipa
 Neoamphitrite grayi	Neoamphitrite grayi	Metazoa	Annelida	Polychaeta	Canalipalpata	Terebellidae	Neoamphitrite	Neoamphitrite grayi	1	2		11.98	21.85	3	
 Neoamphitrite sp.	Neoamphitrite	Metazoa	Annelida	Polychaeta	Canalipalpata	Terebellidae	Neoamphitrite	Neoamphitrite sp.	1						
 Neodavisia sp.	Neodavisia	to be checked manually	NA	NA	NA	NA	NA	Neodavisia sp.	2						
-Neogammarus sp.	Neogammarus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Gammaridae	Neogammarus	Neogammarus sp.	0						
+Neogammarus sp.	Neogammarus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Gammaridae	Neogammarus	Neogammarus sp.	1						
 Neogonodactylus bredini	Neogonodactylus bredini	Metazoa	Arthropoda	Malacostraca	Stomatopoda	Gonodactylidae	Neogonodactylus	Neogonodactylus bredini	1						
 Neohela monstrosa	Neohela monstrosa	Metazoa	Malacostraca	Malacostraca	Amphipoda	Unciolidae	Neohela	Neohela monstrosa	1			15.11	26.99	2	
 Neohela sp.	Neohela	Metazoa	Malacostraca	Malacostraca	Amphipoda	Unciolidae	Neohela	Neohela sp.	1						
@@ -4811,7 +4811,7 @@ Neomysis awatschensis	Neomysis awatschensis	Metazoa	Arthropoda	Malacostraca	Mysi
 Neomysis integer	Neomysis integer	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Neomysis	Neomysis integer	2	3					
 Neomysis orientalis	Neomysis orientalis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Neomysis	Neomysis orientalis	2						
 Neomysis sp.	Neomysis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Neomysis	Neomysis sp.	2						
-Neopentacta elongata	Neopentacta elongata	to be checked manually	NA	NA	NA	NA	NA	Neopentacta elongata	0						
+Neopentacta elongata	Neopentacta elongata	to be checked manually	NA	NA	NA	NA	NA	Neopentacta elongata	1						
 Neopycnodonte cochlear	Neopycnodonte cochlear	Metazoa	Mollusca	Bivalvia	Ostreoida	Gryphaeidae	Neopycnodonte	Neopycnodonte cochlear		1					
 Neosabellaria cementarium	Neosabellaria cementarium	Metazoa	Annelida	Polychaeta	Sabellida	Sabellariidae	Neosabellaria	Neosabellaria cementarium	2						
 Neotrapezium liratum	Neotrapezium liratum	Metazoa	Mollusca	Bivalvia	Veneroida	Trapezidae	Neotrapezium	Neotrapezium liratum	1						
@@ -4865,7 +4865,7 @@ Nephtys squamosa	Nephtys squamosa	Metazoa	Annelida	Polychaeta	Phyllodocida	Nepht
 Nepinnotheres pinnotheres	Nepinnotheres pinnotheres	Metazoa	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Nepinnotheres	Nepinnotheres pinnotheres	4						
 Neptunea antiqua	Neptunea antiqua	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Buccinidae	Neptunea	Neptunea antiqua	1						
 Neptunea despecta	Neptunea despecta	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Buccinidae	Neptunea	Neptunea despecta	1						
-NEREIDIDAE	NEREIDIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	__	NEREIDIDAE	0	3					
+NEREIDIDAE	NEREIDIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	__	NEREIDIDAE	1	3					
 Nereimyra (punctata?)	Nereimyra (punctata?)	to be checked manually	NA	NA	NA	NA	NA	Nereimyra (punctata?)		3					
 Nereimyra punctata	Nereimyra punctata	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Nereimyra	Nereimyra punctata	3		3	5.71	18.26	4	
 Nereimyra sp.	Nereimyra	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Nereimyra	Nereimyra sp.	3						
@@ -4881,9 +4881,9 @@ Nereis aestuarensis	Nereis aestuarensis	Metazoa	Annelida	Polychaeta	Phyllodocida
 Nereis callaona	Nereis callaona	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis callaona	3						
 Nereis caudata	Nereis caudata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis caudata	4						
 Nereis diversicolor	Nereis diversicolor	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis diversicolor	3						
-Nereis dorsolobata	Nereis dorsolobata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis dorsolobata	0						
+Nereis dorsolobata	Nereis dorsolobata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis dorsolobata	1						
 Nereis elitoralis	Nereis elitoralis	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis elitoralis	2						
-Nereis eugeniae	Nereis eugeniae	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis eugeniae	0						
+Nereis eugeniae	Nereis eugeniae	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis eugeniae	1						
 Nereis falcata	Nereis falcata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis falcata	3						
 Nereis falsa	Nereis falsa	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis falsa	3						
 Nereis fucata	Nereis fucata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	Nereis fucata	3						
@@ -4953,11 +4953,11 @@ Noemiamea dolioliformis	Noemiamea dolioliformis	Metazoa	Mollusca	Gastropoda	__	P
 Nolella sp.	Nolella	Metazoa	Gymnolaemata	Gymnolaemata	Ctenostomatida	Nolellidae	Nolella	Nolella sp.	2						
 Nonparahalosydna pleiolepis	Nonparahalosydna pleiolepis	to be checked manually	NA	NA	NA	NA	NA	Nonparahalosydna pleiolepis	2						
 Normanion quadrimanus	Normanion quadrimanus	to be checked manually	NA	NA	NA	NA	NA	Normanion quadrimanus		3					
-Normanion ruffoi	Normanion ruffoi	to be checked manually	NA	NA	NA	NA	NA	Normanion ruffoi	0						
+Normanion ruffoi	Normanion ruffoi	to be checked manually	NA	NA	NA	NA	NA	Normanion ruffoi	1						
 Norrisia norrisii	Norrisia norrisii	Metazoa	Mollusca	Gastropoda	__	Trochidae	Norrisia	Norrisia norrisii	1						
-Notaulax circumspiciens	Notaulax circumspiciens	to be checked manually	NA	NA	NA	NA	NA	Notaulax circumspiciens	0						
-Notaulax nudicollis	Notaulax nudicollis	to be checked manually	NA	NA	NA	NA	NA	Notaulax nudicollis	0						
-Notaulax occidentalis	Notaulax occidentalis	to be checked manually	NA	NA	NA	NA	NA	Notaulax occidentalis	0						
+Notaulax circumspiciens	Notaulax circumspiciens	to be checked manually	NA	NA	NA	NA	NA	Notaulax circumspiciens	1						
+Notaulax nudicollis	Notaulax nudicollis	to be checked manually	NA	NA	NA	NA	NA	Notaulax nudicollis	1						
+Notaulax occidentalis	Notaulax occidentalis	to be checked manually	NA	NA	NA	NA	NA	Notaulax occidentalis	1						
 Nothria britannica	Nothria britannica	Metazoa	Annelida	Errantia	Eunicida	Onuphidae	Nothria	Nothria britannica	2	1					
 Nothria conchylega	Nothria conchylega	Metazoa	Annelida	Errantia	Eunicida	Onuphidae	Nothria	Nothria conchylega	2	1		12.95	33.25	1	
 Nothria geophiliformis	Nothria geophiliformis	Metazoa	Annelida	Errantia	Eunicida	Onuphidae	Nothria	Nothria geophiliformis	2						
@@ -4965,13 +4965,13 @@ Nothria hispanica	Nothria hispanica	Metazoa	Annelida	Errantia	Eunicida	Onuphidae
 Nothria hyperborea	Nothria hyperborea	Metazoa	Annelida	Errantia	Eunicida	Onuphidae	Nothria	Nothria hyperborea	2		1.5	12.95	33.25	1	
 Nothria lepta	Nothria lepta	Metazoa	Annelida	Errantia	Eunicida	Onuphidae	Nothria	Nothria lepta	1						
 Nothria sp.	Nothria	Metazoa	Annelida	Errantia	Eunicida	Onuphidae	Nothria	Nothria sp.	2						
-Notiax brachyophthalma	Notiax brachyophthalma	to be checked manually	NA	NA	NA	NA	NA	Notiax brachyophthalma	0						
+Notiax brachyophthalma	Notiax brachyophthalma	to be checked manually	NA	NA	NA	NA	NA	Notiax brachyophthalma	1						
 Notirus irus	Notirus irus	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Irus	Notirus irus	1						
-Notochthamalus scabrosus	Notochthamalus scabrosus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Chthamalidae	Notochthamalus	Notochthamalus scabrosus	0						
-Notocirrus lorum	Notocirrus lorum	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Notocirrus	Notocirrus lorum	0						
+Notochthamalus scabrosus	Notochthamalus scabrosus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Chthamalidae	Notochthamalus	Notochthamalus scabrosus	1						
+Notocirrus lorum	Notocirrus lorum	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Notocirrus	Notocirrus lorum	1						
 Notocirrus scoticus	Notocirrus scoticus	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Notocirrus	Notocirrus scoticus	2						
 Notocirrus sp.	Notocirrus	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Notocirrus	Notocirrus sp.	2						
-Notocirrus virginis	Notocirrus virginis	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Notocirrus	Notocirrus virginis	0						
+Notocirrus virginis	Notocirrus virginis	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Notocirrus	Notocirrus virginis	1						
 Notocochlis tigrina	Notocochlis tigrina	Metazoa	Mollusca	Gastropoda	__	Naticidae	Notocochlis	Notocochlis tigrina	2						
 Notomastus aberans	Notomastus aberans	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Notomastus	Notomastus aberans	3						
 Notomastus americanus	Notomastus americanus	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Notomastus	Notomastus americanus	3						
@@ -4988,7 +4988,7 @@ Notomastus spp. (latericeus)	Notomastus. (latericeus)	to be checked manually	NA	
 Notomastus tenuis	Notomastus tenuis	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Notomastus	Notomastus tenuis	3						
 Notophyllum foliosum	Notophyllum foliosum	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Notophyllum	Notophyllum foliosum	2						
 Notophyllum imbricatum	Notophyllum imbricatum	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Notophyllum	Notophyllum imbricatum	2						
-Notoplana atomata	Notoplana atomata	Metazoa	Platyhelminthes	Trepaxonemata	Polycladida	Notoplanidae	Notoplana	Notoplana atomata	0						
+Notoplana atomata	Notoplana atomata	Metazoa	Platyhelminthes	Trepaxonemata	Polycladida	Notoplanidae	Notoplana	Notoplana atomata	1						
 Notoproctus oculatus	Notoproctus oculatus	Metazoa	Polychaeta	Polychaeta	NA	Maldanidae	Notoproctus	Notoproctus oculatus	1						
 Nototropis falcatus	Nototropis falcatus	to be checked manually	NA	NA	NA	NA	Nototropis	Nototropis falcatus	1						
 Nototropis swammerdami	Nototropis swammerdami	to be checked manually	NA	NA	NA	NA	Nototropis	Nototropis swammerdami	1						
@@ -5030,7 +5030,7 @@ Nudisyllis pulligera	Nudisyllis pulligera	Metazoa	Annelida	Polychaeta	Phyllodoci
 Nursilia dentata	Nursilia dentata	to be checked manually	NA	NA	NA	NA	NA	Nursilia dentata	1						
 Nutricola ovalis	Nutricola ovalis	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Nutricola	Nutricola ovalis	2						
 Nutricola tantilla	Nutricola tantilla	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Nutricola	Nutricola tantilla	3						
-Nyctiphanes couchii	Nyctiphanes couchii	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	Nyctiphanes	Nyctiphanes couchii	0						
+Nyctiphanes couchii	Nyctiphanes couchii	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	Nyctiphanes	Nyctiphanes couchii	1						
 Nymphon brevirostre	Nymphon brevirostre	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Nymphonidae	Nymphon	Nymphon brevirostre	1	2					
 Nymphon gracile	Nymphon gracile	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Nymphonidae	Nymphon	Nymphon gracile	1	2					
 Nymphon grossipes	Nymphon grossipes	Metazoa	Arthropoda	Pycnogonida	Pantopoda	Nymphonidae	Nymphon	Nymphon grossipes	1						
@@ -5056,8 +5056,8 @@ Octobranchus floriceps	Octobranchus floriceps	Metazoa	Platyhelminthes	Cestoda	Tr
 Octobranchus lingulatus	Octobranchus lingulatus	to be checked manually	NA	NA	NA	NA	NA	Octobranchus lingulatus	2						
 Octobranchus sp.	Octobranchus	NA	NA	NA	NA	NA	NA	Octobranchus sp.	2						
 Oculina patagonica	Oculina patagonica	Metazoa	Cnidaria	Anthozoa	Scleractinia	Oculinidae	Oculina	Oculina patagonica	4						
-Ocypode stimpsoni	Ocypode stimpsoni	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Ocypode	Ocypode stimpsoni	0						
-Odontamblyopus rubicundus	Odontamblyopus rubicundus	Metazoa	Chordata	Actinopteri	Gobiiformes	Gobiidae	Odontamblyopus	Odontamblyopus rubicundus	0						
+Ocypode stimpsoni	Ocypode stimpsoni	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Ocypode	Ocypode stimpsoni	1						
+Odontamblyopus rubicundus	Odontamblyopus rubicundus	Metazoa	Chordata	Actinopteri	Gobiiformes	Gobiidae	Odontamblyopus	Odontamblyopus rubicundus	1						
 Odontaster penicillatus	Odontaster penicillatus	Metazoa	Echinodermata	Asteroidea	Valvatida	Odontasteridae	Odontaster	Odontaster penicillatus	1						
 Odontosyllis ctenostoma	Odontosyllis ctenostoma	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Odontosyllis	Odontosyllis ctenostoma	2	2					
 Odontosyllis enopla	Odontosyllis enopla	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Odontosyllis	Odontosyllis enopla	2						
@@ -5084,8 +5084,8 @@ Odostomia turrita	Odostomia turrita	Metazoa	Gastropoda	Gastropoda	NA	Pyramidelli
 Odostomia unidentata	Odostomia unidentata	Metazoa	Gastropoda	Gastropoda	NA	Pyramidellidae	Odostomia	Odostomia unidentata	2	3					
 Odostomia unidentata var. albella	Odostomia unidentata var. albella	Animalia	Gastropoda	Gastropoda	__	Pyramidellidae	Odostomia	Odostomia unidentata var. albella		3					
 Odostomia unidentata var. turgida	Odostomia unidentata var. turgida	Animalia	Gastropoda	Gastropoda	__	Pyramidellidae	Odostomia	Odostomia unidentata var. turgida		3					
-Oecetis sp.	Oecetis	Metazoa	Arthropoda	Insecta	Trichoptera	Leptoceridae	Oecetis	Oecetis sp.	0						
-Oediceropsis brevicornis	Oediceropsis brevicornis	to be checked manually	NA	NA	NA	NA	NA	Oediceropsis brevicornis	0						
+Oecetis sp.	Oecetis	Metazoa	Arthropoda	Insecta	Trichoptera	Leptoceridae	Oecetis	Oecetis sp.	1						
+Oediceropsis brevicornis	Oediceropsis brevicornis	to be checked manually	NA	NA	NA	NA	NA	Oediceropsis brevicornis	1						
 Oedicerotidae	Oedicerotidae	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	__	Oedicerotidae		2					
 Oenone fulgida	Oenone fulgida	Metazoa	Polychaeta	Polychaeta	Eunicida	Oenonidae	Oenone	Oenone fulgida	3						
 Oenopota cunninghami	Oenopota cunninghami	Metazoa	Mollusca	Gastropoda	Neogastropoda	Conidae	Oenopota	Oenopota cunninghami	1						
@@ -5105,7 +5105,7 @@ Okenia opuntia	Okenia opuntia	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Goniodo
 Okenia sp.	Okenia	Metazoa	Gastropoda	Gastropoda	Nudibranchia	Goniodorididae	Okenia	Okenia sp.	1						
 Olea hansineensis	Olea hansineensis	Metazoa	Mollusca	Gastropoda	Sacoglossa	Limapontiidae	Olea	Olea hansineensis	1						
 OLIGOCHAETA	OLIGOCHAETA	Metazoa	Annelida	Oligochaeta	__	__	__	OLIGOCHAETA	5	4					
-Oligocladus sanguinolentus	Oligocladus sanguinolentus	to be checked manually	NA	NA	NA	NA	NA	Oligocladus sanguinolentus	0						
+Oligocladus sanguinolentus	Oligocladus sanguinolentus	to be checked manually	NA	NA	NA	NA	NA	Oligocladus sanguinolentus	1						
 Oliva lignaria	Oliva lignaria	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Olividae	Oliva	Oliva lignaria	1						
 Oliva sayana	Oliva sayana	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Olividae	Oliva	Oliva sayana	1						
 Olivella baetica	Olivella baetica	Metazoa	Mollusca	Gastropoda	Neogastropoda	Olividae	Olivella	Olivella baetica	1						
@@ -5122,7 +5122,7 @@ Onchnesoma steenstrupii	Onchnesoma steenstrupii	Metazoa	Sipunculidea	Sipunculide
 Oncousoecia diastoporides	Oncousoecia diastoporides	Metazoa	Stenolaemata	Stenolaemata	Cyclostomatida	Oncousoeciidae	Oncousoecia	Oncousoecia diastoporides	1						
 Oncousoecia sp.	Oncousoecia	Metazoa	Stenolaemata	Stenolaemata	Cyclostomatida	Oncousoeciidae	Oncousoecia	Oncousoecia sp.	1						
 Ondina sp.	Ondina	Metazoa	Gastropoda	Gastropoda	NA	Pyramidellidae	Ondina	Ondina sp.	2						
-Onisimus normani	Onisimus normani	Metazoa	Arthropoda	Malacostraca	Amphipoda	Uristidae	Onisimus	Onisimus normani	0						
+Onisimus normani	Onisimus normani	Metazoa	Arthropoda	Malacostraca	Amphipoda	Uristidae	Onisimus	Onisimus normani	1						
 Onoba aculeus	Onoba aculeus	Metazoa	Mollusca	Gastropoda	Littorinimorpha	Rissoidae	Onoba	Onoba aculeus	1						
 Onoba elegantula	Onoba elegantula	Metazoa	Mollusca	Gastropoda	Littorinimorpha	Rissoidae	Onoba	Onoba elegantula	1						
 Onoba semicostata	Onoba semicostata	Metazoa	Mollusca	Gastropoda	Littorinimorpha	Rissoidae	Onoba	Onoba semicostata	1	2					
@@ -5160,7 +5160,7 @@ Ophelina minima	Ophelina minima	Metazoa	Annelida	Sedentaria	Scolecida	Opheliidae
 Ophelina modesta	Ophelina modesta	Metazoa	Annelida	Sedentaria	Scolecida	Opheliidae	Ophelina	Ophelina modesta	3	4		10.97	21.25	3	
 Ophelina nematoides	Ophelina nematoides	Metazoa	Annelida	Sedentaria	Scolecida	Opheliidae	Ophelina	Ophelina nematoides	1						
 Ophelina norvegica	Ophelina norvegica	Metazoa	Annelida	Sedentaria	Scolecida	Opheliidae	Ophelina	Ophelina norvegica	1			10.67	23.94	2	
-Ophelina sp.	Ophelina	Metazoa	Annelida	Sedentaria	Scolecida	Opheliidae	Ophelina	Ophelina sp.	0			6.95	22.29	3	
+Ophelina sp.	Ophelina	Metazoa	Annelida	Sedentaria	Scolecida	Opheliidae	Ophelina	Ophelina sp.	1			6.95	22.29	3	
 Ophiacantha bidentata	Ophiacantha bidentata	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiacanthidae	Ophiacantha	Ophiacantha bidentata	2			25.72	32.81	1	
 Ophiacantha setosa	Ophiacantha setosa	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiacanthidae	Ophiacantha	Ophiacantha setosa	2						
 OPHIACTIDAE	OPHIACTIDAE	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiactidae	__	OPHIACTIDAE	2						
@@ -5187,10 +5187,10 @@ Ophiodromus pugettensis	Ophiodromus pugettensis	Metazoa	Annelida	Polychaeta	Phyl
 Ophiodromus sp.	Ophiodromus	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	Ophiodromus	Ophiodromus sp.	2						
 Ophioglycera lyra	Ophioglycera lyra	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Goniadidae	Ophioglycera	Ophioglycera lyra	2						
 Ophioglycera sp.	Ophioglycera	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Goniadidae	Ophioglycera	Ophioglycera sp.	2						
-Ophiogoniada lyra	Ophiogoniada lyra	to be checked manually	NA	NA	NA	NA	NA	Ophiogoniada lyra	0						
+Ophiogoniada lyra	Ophiogoniada lyra	to be checked manually	NA	NA	NA	NA	NA	Ophiogoniada lyra	1						
 Ophiolepis impressa	Ophiolepis impressa	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiolepididae	Ophiolepis	Ophiolepis impressa	2						
-Ophiomyxa pentagona	Ophiomyxa pentagona	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiomyxidae	Ophiomyxa	Ophiomyxa pentagona	0						
-Ophiomyxa vivipara	Ophiomyxa vivipara	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiomyxidae	Ophiomyxa	Ophiomyxa vivipara	0						
+Ophiomyxa pentagona	Ophiomyxa pentagona	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiomyxidae	Ophiomyxa	Ophiomyxa pentagona	1						
+Ophiomyxa vivipara	Ophiomyxa vivipara	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiomyxidae	Ophiomyxa	Ophiomyxa vivipara	1						
 Ophiopholis aculeata	Ophiopholis aculeata	Metazoa	Ophiuroidea	Ophiuroidea	Ophiurida	Ophiactidae	Ophiopholis	Ophiopholis aculeata	2	1		19.86	28.41	1	
 Ophiopholis mirabilis	Ophiopholis mirabilis	Metazoa	Ophiuroidea	Ophiuroidea	Ophiurida	Ophiactidae	Ophiopholis	Ophiopholis mirabilis	2						
 Ophiopholis sp.	Ophiopholis	Metazoa	Ophiuroidea	Ophiuroidea	Ophiurida	Ophiactidae	Ophiopholis	Ophiopholis sp.	2						
@@ -5244,7 +5244,7 @@ Opisa eschrichtii	Opisa eschrichtii	Animalia	Arthropoda	Malacostraca	Amphipoda	O
 Opisthodonta pterochaeta	Opisthodonta pterochaeta	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Opisthodonta	Opisthodonta pterochaeta	2	2					
 Opisthodonta sp.	Opisthodonta	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Opisthodonta	Opisthodonta sp.	2						
 Opisthodonta spinigera	Opisthodontanigera	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Opisthodonta	Opisthodonta spinigera	2						
-Opisthosyllis sp.	Opisthosyllis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Opisthosyllis	Opisthosyllis sp.	0						
+Opisthosyllis sp.	Opisthosyllis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Opisthosyllis	Opisthosyllis sp.	1						
 Opistodonta	Opistodonta	to be checked manually	NA	NA	NA	NA	NA	Opistodonta		2					
 Oratosquilla oratoria	Oratosquilla oratoria	Metazoa	Arthropoda	Malacostraca	__	Squillidae	Oratosquilla	Oratosquilla oratoria	1						
 Orbinia americana	Orbinia americana	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Orbinia	Orbinia americana	1						
@@ -5259,8 +5259,8 @@ Orbinia riseri	Orbinia riseri	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	O
 Orbinia sertulata	Orbinia sertulata	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Orbinia	Orbinia sertulata	1	2					
 Orbinia sp.	Orbinia	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Orbinia	Orbinia sp.	1		0	9.53	24.92	2	
 Orbiniidae indet	Orbiniidae indet	Metazoa	Annelida	Polychaeta	Scolecida	Orbiniidae	Orbiniidae	Orbiniidae indet	1		0			2	
-Orchestia gammarellus	Orchestia gammarellus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Talitridae	Orchestia	Orchestia gammarellus	0						
-Orchestia sp.	Orchestia	Metazoa	Malacostraca	Malacostraca	Amphipoda	Talitridae	Orchestia	Orchestia sp.	0						
+Orchestia gammarellus	Orchestia gammarellus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Talitridae	Orchestia	Orchestia gammarellus	1						
+Orchestia sp.	Orchestia	Metazoa	Malacostraca	Malacostraca	Amphipoda	Talitridae	Orchestia	Orchestia sp.	1						
 Orchomene breviceps	Orchomene breviceps	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Orchomene	Orchomene breviceps	2						
 Orchomene crenata	Orchomene crenata	Animalia	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Orchomene	Orchomene crenata		3					
 Orchomene humilis	Orchomene humilis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Orchomene	Orchomene humilis	2	3					
@@ -5282,9 +5282,9 @@ Oriopsis hynensis	Oriopsis hynensis	Animalia	Polychaeta	Polychaeta	Sabellida	Sab
 Oriopsis magellanica	Oriopsis magellanica	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Oriopsis	Oriopsis magellanica	2						
 Oriopsis sp.	Oriopsis	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Oriopsis	Oriopsis sp.	2	1					
 Orobitella peruviana	Orobitella peruviana	to be checked manually	NA	NA	NA	NA	NA	Orobitella peruviana	1						
-Orthopyxis integra	Orthopyxis integra	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis integra	0						
-Orthopyxis sp.	Orthopyxis	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis sp.	0						
-OSTRACODA	OSTRACODA	Metazoa	Arthropoda	Ostracoda	__	__	__	OSTRACODA	0	2		11.57	24.69	2	
+Orthopyxis integra	Orthopyxis integra	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis integra	1						
+Orthopyxis sp.	Orthopyxis	Metazoa	Hydrozoa	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis sp.	1						
+OSTRACODA	OSTRACODA	Metazoa	Arthropoda	Ostracoda	__	__	__	OSTRACODA	1	2		11.57	24.69	2	
 Ostrea edulis	Ostrea edulis	Metazoa	Bivalvia	Bivalvia	Ostreida	Ostreidae	Ostrea	Ostrea edulis	1	1					
 Ostrea sp.	Ostrea	Metazoa	Bivalvia	Bivalvia	Ostreida	Ostreidae	Ostrea	Ostrea sp.	1						
 OSTREIDAE	OSTREIDAE	Metazoa	Mollusca	Bivalvia	Ostreoida	Ostreidae	__	OSTREIDAE	1	1					
@@ -5295,16 +5295,16 @@ Ougia	Ougia	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Ougia	Ougia		4
 Ougia macilenta	Ougia macilenta	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Ougia	Ougia macilenta		4					
 Ougia subaequalis	Ougia subaequalis	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Ougia	Ougia subaequalis		4					
 Oulactis concinnata	Oulactis concinnata	to be checked manually	NA	NA	NA	NA	NA	Oulactis concinnata	2						
-Ova canaliferus	Ova canaliferus	to be checked manually	NA	NA	NA	NA	NA	Ova canaliferus	0						
-Ovalipes sp.	Ovalipes	Metazoa	Malacostraca	Malacostraca	Decapoda	Polybiidae	Ovalipes	Ovalipes sp.	0						
-Ovatella myosotis	Ovatella myosotis	Metazoa	Gastropoda	Gastropoda	[unassigned] Pulmonata	Ellobiidae	Ovatella	Ovatella myosotis	0						
+Ova canaliferus	Ova canaliferus	to be checked manually	NA	NA	NA	NA	NA	Ova canaliferus	1						
+Ovalipes sp.	Ovalipes	Metazoa	Malacostraca	Malacostraca	Decapoda	Polybiidae	Ovalipes	Ovalipes sp.	1						
+Ovatella myosotis	Ovatella myosotis	Metazoa	Gastropoda	Gastropoda	[unassigned] Pulmonata	Ellobiidae	Ovatella	Ovatella myosotis	1						
 Owenia borealis	Owenia borealis	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	Owenia	Owenia borealis	2		1.5			2	
 Owenia collaris	Owenia collaris	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	Owenia	Owenia collaris	1						
 Owenia filiformis	Owenia filiformis	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	Owenia	Owenia filiformis	2						
 Owenia fusiformis	Owenia fusiformis	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	Owenia	Owenia fusiformis	2	1	1.5	8.35	24.54	2	2
 Owenia polaris	Owenia polaris	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	Owenia	Owenia polaris	2		1.5			2	
 Owenia sp.	Owenia	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	Owenia	Owenia sp.	2		1.5			2	
-OWENIIDAE	OWENIIDAE	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	__	OWENIIDAE	0						
+OWENIIDAE	OWENIIDAE	Metazoa	Annelida	Polychaeta	Sabellida	Oweniidae	__	OWENIIDAE	1						
 Oxydromus flexuosus	Oxydromus (Ophiodromus) flexuosus	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	Oxydromus	Oxydromus flexuosus	2		1.5	3.73	18.93	3	
 Oxydromus flexuosus (Ophiodromus)	Oxydromus (Ophiodromus) flexuosus	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	Oxydromus	Oxydromus flexuosus (Ophiodromus)	2		1.5	3.73	18.93	3	
 Oxydromus guanicus	Oxydromus guanicus	to be checked manually	NA	NA	NA	NA	NA	Oxydromus guanicus	2						
@@ -5350,9 +5350,9 @@ Palliolum incomparabile	Palliolum incomparabile	Metazoa	Mollusca	Bivalvia	Pectin
 Palliolum sp.	Palliolum	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Palliolum	Palliolum sp.	1						
 Palliolum striatum	Palliolum striatum	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Palliolum	Palliolum striatum	1	1					
 Palliolum tigerinum	Palliolum tigerinum	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Palliolum	Palliolum tigerinum	1	1					
-Palola siciliensis	Palola siciliensis	Metazoa	Annelida	Errantia	Eunicida	Eunicidae	Palola	Palola siciliensis	0						
-Palolo siciliensis	Palolo siciliensis	to be checked manually	NA	NA	NA	NA	NA	Palolo siciliensis	0						
-Palposyllis prosostoma	Palposyllis prosostoma	to be checked manually	NA	NA	NA	NA	NA	Palposyllis prosostoma	0						
+Palola siciliensis	Palola siciliensis	Metazoa	Annelida	Errantia	Eunicida	Eunicidae	Palola	Palola siciliensis	1						
+Palolo siciliensis	Palolo siciliensis	to be checked manually	NA	NA	NA	NA	NA	Palolo siciliensis	1						
+Palposyllis prosostoma	Palposyllis prosostoma	to be checked manually	NA	NA	NA	NA	NA	Palposyllis prosostoma	1						
 Pandalina brevirostris	Pandalina brevirostris	Metazoa	Arthropoda	Malacostraca	Decapoda	Pandalidae	Pandalina	Pandalina brevirostris	2	3					
 Pandalus bonnieri	Pandalus bonnieri	Metazoa	Malacostraca	Malacostraca	Decapoda	Pandalidae	Pandalus	Pandalus bonnieri	2						
 Pandalus borealis	Pandalus borealis	Metazoa	Malacostraca	Malacostraca	Decapoda	Pandalidae	Pandalus	Pandalus borealis	2						
@@ -5370,14 +5370,14 @@ Pandora sp.	Pandora	Metazoa	Mollusca	Bivalvia	Pholadomyoida	Pandoridae	Pandora	P
 Panomya arctica	Panomya arctica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Panomya	Panomya arctica	2						
 Panomya norvegica	Panomya norvegica	Metazoa	Mollusca	Bivalvia	Veneroida	Arcticidae	Panomya	Panomya norvegica	2						
 Panoploea minuta	Panoploea minuta	to be checked manually	NA	NA	NA	NA	NA	Panoploea minuta	1						
-Panousea africana	Panousea africana	to be checked manually	NA	NA	NA	NA	NA	Panousea africana	0						
-Panthalis oerstedi	Panthalis oerstedi	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Panthalis	Panthalis oerstedi	0	3					
+Panousea africana	Panousea africana	to be checked manually	NA	NA	NA	NA	NA	Panousea africana	1						
+Panthalis oerstedi	Panthalis oerstedi	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Panthalis	Panthalis oerstedi	1	3					
 Paphia aurea	Paphia aurea	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Paphia	Paphia aurea	1						
 Paphia gallus	Paphia gallus	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Paphia	Paphia gallus	1						
 Paphia rhomboides	Paphia rhomboides	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Paphia	Paphia rhomboides	1						
-Paphidopus ciliatus	Paphidopus ciliatus	to be checked manually	NA	NA	NA	NA	NA	Paphidopus ciliatus	0						
+Paphidopus ciliatus	Paphidopus ciliatus	to be checked manually	NA	NA	NA	NA	NA	Paphidopus ciliatus	1						
 Papillicardium papillosum	Papillicardium papillosum	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Papillicardium	Papillicardium papillosum	1						
-Paracentromedon crenulatum	Paracentromedon crenulatum	to be checked manually	NA	NA	NA	NA	NA	Paracentromedon crenulatum	0						
+Paracentromedon crenulatum	Paracentromedon crenulatum	to be checked manually	NA	NA	NA	NA	NA	Paracentromedon crenulatum	1						
 Paracentrotus lividus	Paracentrotus lividus	Metazoa	Echinodermata	Echinoidea	Echinoida	Echinidae	Paracentrotus	Paracentrotus lividus	1						
 Paracerceis caudata	Paracerceis caudata	Metazoa	Arthropoda	Malacostraca	Isopoda	Sphaeromatidae	Paracerceis	Paracerceis caudata	3						
 Paracerceis cordata	Paracerceis cordata	Metazoa	Arthropoda	Malacostraca	Isopoda	Sphaeromatidae	Paracerceis	Paracerceis cordata	3						
@@ -5386,7 +5386,7 @@ Paracerceis sp.	Paracerceis	Metazoa	Arthropoda	Malacostraca	Isopoda	Sphaeromatid
 Parachironomus frequens	Parachironomus frequens	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Parachironomus	Parachironomus frequens	3						
 Parachironomus monochromus	Parachironomus monochromus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Parachironomus	Parachironomus monochromus	3						
 Parachironomus sp.	Parachironomus	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Parachironomus	Parachironomus sp.	3						
-Paracleistostoma arabicum	Paracleistostoma arabicum	to be checked manually	NA	NA	NA	NA	NA	Paracleistostoma arabicum	0						
+Paracleistostoma arabicum	Paracleistostoma arabicum	to be checked manually	NA	NA	NA	NA	NA	Paracleistostoma arabicum	1						
 Paracomesoma sp.	Paracomesoma	Metazoa	Chromadorea	Chromadorea	Araeolaimida	Comesomatidae	Paracomesoma	Paracomesoma sp.	5						
 Paracucumaria hyndmani	Paracucumaria hyndmani	Metazoa	Echinodermata	Holothuroidea	Dendrochirotida	Paracucumidae	Paracucumaria	Paracucumaria hyndmani	1						
 Paracypris zealandica	Paracypris zealandica	to be checked manually	NA	NA	NA	NA	NA	Paracypris zealandica	2						
@@ -5421,7 +5421,7 @@ Paraedwardsia arenaria	Paraedwardsia arenaria	Metazoa	Cnidaria	Anthozoa	Actiniar
 Paraedwardsia sarsii	Paraedwardsia sarsii	Metazoa	Cnidaria	Anthozoa	Actiniaria	Edwardsiidae	Paraedwardsia	Paraedwardsia sarsii	2						
 Paraehlersia ferrugina	Paraehlersia ferrugina	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Paraehlersia	Paraehlersia ferrugina	2						
 Paraehlersia sp.	Paraehlersia	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Paraehlersia	Paraehlersia sp.	2						
-Paraeupolymnia carus	Paraeupolymnia carus	to be checked manually	NA	NA	NA	NA	NA	Paraeupolymnia carus	0						
+Paraeupolymnia carus	Paraeupolymnia carus	to be checked manually	NA	NA	NA	NA	NA	Paraeupolymnia carus	1						
 Paragnathia formica	Paragnathia formica	Metazoa	Arthropoda	Malacostraca	Isopoda	Gnathiidae	Paragnathia	Paragnathia formica	3						
 Parahaustorius sp.	Parahaustorius	Metazoa	Malacostraca	Malacostraca	Amphipoda	Haustoriidae	Parahaustorius	Parahaustorius sp.	1						
 Parahesione luteola	Parahesione luteola	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionidae	Parahesione	Parahesione luteola	2						
@@ -5429,7 +5429,7 @@ Parahesione sp.	Parahesione	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Hesionida
 Parajassa pelagica	Parajassa pelagica	Metazoa	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	Parajassa	Parajassa pelagica	2						
 Paralacydonia paradoxa	Paralacydonia paradoxa	Metazoa	Annelida	Polychaeta	Phyllodocida	Paralacydoniidae	Paralacydonia	Paralacydonia paradoxa	2						2
 PARALACYDONIIDAE	PARALACYDONIIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Paralacydoniidae	__	PARALACYDONIIDAE	2						
-Paralaeospira levinseni	Paralaeospira levinseni	to be checked manually	NA	NA	NA	NA	NA	Paralaeospira levinseni	0						
+Paralaeospira levinseni	Paralaeospira levinseni	to be checked manually	NA	NA	NA	NA	NA	Paralaeospira levinseni	1						
 Paraleiocapitella mossambica	Paraleiocapitella mossambica	to be checked manually	NA	NA	NA	NA	NA	Paraleiocapitella mossambica	5						
 Paraleiocapitella sp.	Paraleiocapitella	to be checked manually	NA	NA	NA	NA	NA	Paraleiocapitella sp.	5						
 Paraleonnates uschakovi	Paraleonnates uschakovi	to be checked manually	NA	NA	NA	NA	NA	Paraleonnates uschakovi	3						
@@ -5449,7 +5449,7 @@ Paramphinome sp.	Paramphinome	Metazoa	Polychaeta	Polychaeta	Amphinomida	Amphinom
 Paramphithoe hystrix	Paramphithoe hystrix	Metazoa	Arthropoda	Malacostraca	Amphipoda	Epimeriidae	Paramphithoe	Paramphithoe hystrix	1						
 Paramphitrite birulai	Paramphitrite birulai	to be checked manually	NA	NA	NA	NA	NA	Paramphitrite birulai	1		0	13.42	30.33	1	
 Paramphitrite tetrabranchia	Paramphitrite tetrabranchia	to be checked manually	NA	NA	NA	NA	NA	Paramphitrite tetrabranchia	1			13.42	30.33	1	
-Paramuricea clavata	Paramuricea clavata	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Paramuriceidae	Paramuricea	Paramuricea clavata	0						
+Paramuricea clavata	Paramuricea clavata	Metazoa	Cnidaria	Anthozoa	Alcyonacea	Paramuriceidae	Paramuricea	Paramuricea clavata	1						
 Paramysis helleri	Paramysis helleri	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Paramysis	Paramysis helleri	2						
 Paranais frici	Paranais frici	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Paranais	Paranais frici	5	4					
 Paranais litoralis	Paranais litoralis	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Paranais	Paranais litoralis	5	4					
@@ -5463,18 +5463,18 @@ Paranaitis sp.	Paranaitis	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae
 Paranaitis speciosa	Paranaitisciosa	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Paranaitis	Paranaitis speciosa	2						
 Paranaitis ushakovi	Paranaitis ushakovi	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodicidae	Paranaitis	Paranaitis ushakovi							
 Parandalia fauveli	Parandalia fauveli	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Parandalia	Parandalia fauveli	2						
-Parandalia sp.	Parandalia	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Parandalia	Parandalia sp.	0						
+Parandalia sp.	Parandalia	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Parandalia	Parandalia sp.	1						
 Parandalia tricuspis	Parandalia tricuspis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Parandalia	Parandalia tricuspis	2						
 Parandalia vivianneae	Parandalia vivianneae	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Pilargidae	Parandalia	Parandalia vivianneae	2						
 Paranemertes californica	Paranemertes californica	Metazoa	Nemertea	Enopla	Hoplonemertea	Emplectonematidae	Paranemertes	Paranemertes californica	3						
 Paraninoe brevipes	Paraninoe brevipes	to be checked manually	NA	NA	NA	NA	NA	Paraninoe brevipes	2						
 Paraninoe minuta	Paraninoe minuta	to be checked manually	NA	NA	NA	NA	NA	Paraninoe minuta	2						
-Paranthura costana	Paranthura costana	Metazoa	Arthropoda	Malacostraca	Isopoda	Paranthuridae	Paranthura	Paranthura costana	0						
+Paranthura costana	Paranthura costana	Metazoa	Arthropoda	Malacostraca	Isopoda	Paranthuridae	Paranthura	Paranthura costana	1						
 Paranthura elegans	Paranthura elegans	Metazoa	Arthropoda	Malacostraca	Isopoda	Paranthuridae	Paranthura	Paranthura elegans	3						
 Paranthura japonica	Paranthura japonica	Metazoa	Arthropoda	Malacostraca	Isopoda	Paranthuridae	Paranthura	Paranthura japonica	3						
 Paranthura nigropunctata	Paranthura nigropunctata	Metazoa	Arthropoda	Malacostraca	Isopoda	Paranthuridae	Paranthura	Paranthura nigropunctata	1						
 Paranthura sp.	Paranthura	Metazoa	Arthropoda	Malacostraca	Isopoda	Paranthuridae	Paranthura	Paranthura sp.	3						
-Paranymphon spinosum	Paranymphonnosum	to be checked manually	NA	NA	NA	NA	NA	Paranymphon spinosum	0						
+Paranymphon spinosum	Paranymphonnosum	to be checked manually	NA	NA	NA	NA	NA	Paranymphon spinosum	1						
 Paraonella nordica	Paraonella nordica	Metazoa	Polychaeta	Polychaeta	Scolecida	Paraonidae	Paraonella	Paraonella nordica	1						
 Paraonella platybranchia	Paraonella platybranchia	Metazoa	Polychaeta	Polychaeta	Scolecida	Paraonidae	Paraonella	Paraonella platybranchia	1						
 Paraonella sp.	Paraonella	Metazoa	Polychaeta	Polychaeta	Scolecida	Paraonidae	Paraonella	Paraonella sp.	1						
@@ -5488,7 +5488,7 @@ Paraonis lyra	Paraonis lyra	Metazoa	Polychaeta	Polychaeta	Scolecida	Paraonidae	P
 Paraonis sp.	Paraonis	Metazoa	Polychaeta	Polychaeta	Scolecida	Paraonidae	Paraonis	Paraonis sp.	3						
 Parapenaeopsis cultirostris	Parapenaeopsis cultirostris	Metazoa	Arthropoda	Malacostraca	Decapoda	Penaeidae	Parapenaeopsis	Parapenaeopsis cultirostris	1						
 Parapenaeopsis hardwickii	Parapenaeopsis hardwickii	Metazoa	Arthropoda	Malacostraca	Decapoda	Penaeidae	Parapenaeopsis	Parapenaeopsis hardwickii	1						
-Paraphellia expansa	Paraphellia expansa	Metazoa	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Paraphellia	Paraphellia expansa	0						
+Paraphellia expansa	Paraphellia expansa	Metazoa	Cnidaria	Anthozoa	Actiniaria	Hormathiidae	Paraphellia	Paraphellia expansa	1						
 Paraphotis sinensis	Paraphotis sinensis	to be checked manually	NA	NA	NA	NA	NA	Paraphotis sinensis	2						
 Paraphoxus 	Paraphoxus 	Animalia	Malacostraca	Malacostraca	Amphipoda	Phoxocephalidae	Paraphoxus	Paraphoxus 		2					
 Paraphoxus oculatus	Paraphoxus oculatus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Phoxocephalidae	Paraphoxus	Paraphoxus oculatus	2	2	1.5	14.51	24.73	2	
@@ -5504,7 +5504,7 @@ Parapionosyllis minuta	Parapionosyllis minuta	to be checked manually	Annelida	Po
 Parapionosyllis sp.	Parapionosyllis	to be checked manually	Annelida	Polychaeta	Phyllodocida	Syllidae	Parapionosyllis	Parapionosyllis sp.	2						
 Parapionosyllis uebelackerae	Parapionosyllis uebelackerae	to be checked manually	Annelida	Polychaeta	Phyllodocida	Syllidae	Parapionosyllis	Parapionosyllis uebelackerae	2						
 Paraplanocera reticulata	Paraplanocera reticulata	to be checked manually	NA	NA	NA	NA	NA	Paraplanocera reticulata	2						
-Parapleustes bicuspis	Parapleustes bicuspis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pleustidae	Parapleustes	Parapleustes bicuspis	0	 					
+Parapleustes bicuspis	Parapleustes bicuspis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pleustidae	Parapleustes	Parapleustes bicuspis	1	 					
 Parapodrilus	Parapodrilus	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Parapodrilus	Parapodrilus		4					
 Parapodrilus psammophilus	Parapodrilus psammophilus	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Parapodrilus	Parapodrilus psammophilus		4					
 Paraprionospio coora	Paraprionospio coora	Metazoa	Polychaeta	Polychaeta	Spionida	Spionidae	Paraprionospio	Paraprionospio coora	4						
@@ -5518,43 +5518,43 @@ Parasagitta elegans	Parasagitta elegans	Metazoa	Chaetognatha	Sagittoidea	Aphragm
 Parasagitta setosa	Parasagitta setosa	Metazoa	Chaetognatha	Sagittoidea	Aphragmophora	Sagittidae	Parasagitta	Parasagitta setosa	1						
 Parasinelobus chevreuxi	Parasinelobus chevreuxi	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Tanaidae	Parasinelobus	Parasinelobus chevreuxi	2	2					
 Parasmittina jeffreysi	Parasmittina jeffreysi	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	Parasmittina	Parasmittina jeffreysi	1						
-Parasphaerosyllis indica	Parasphaerosyllis indica	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Parasphaerosyllis	Parasphaerosyllis indica	0						
+Parasphaerosyllis indica	Parasphaerosyllis indica	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Parasphaerosyllis	Parasphaerosyllis indica	1						
 Parastarte triquetra	Parastarte triquetra	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Parastarte	Parastarte triquetra	1						
 Parasthenelais hibernica	Parasthenelais hibernica	Metazoa	Annelida	Polychaeta	Phyllodocida	Sigalionidae	Parasthenelais	Parasthenelais hibernica							
-Parastichopus tremulus	Parastichopus tremulus	Metazoa	Echinodermata	Holothuroidea	Aspidochirotida	Stichopodidae	Parastichopus	Parastichopus tremulus	0						
+Parastichopus tremulus	Parastichopus tremulus	Metazoa	Echinodermata	Holothuroidea	Aspidochirotida	Stichopodidae	Parastichopus	Parastichopus tremulus	1						
 Paratanais sp.	Paratanais	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Paratanaidae	Paratanais	Paratanais sp.	1						
 PARATANOIDEA	PARATANOIDEA	to be checked manually	NA	NA	NA	NA	NA	PARATANOIDEA		2					
 Paraterospe quadrata	Paraterospe quadrata	to be checked manually	NA	NA	NA	NA	NA	Paraterospe quadrata	2						
 Parathelepus collaris	Parathelepus collaris	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Parathelepus	Parathelepus collaris	1	2					
 Parathelepus sp.	Parathelepus	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Parathelepus	Parathelepus sp.	1						
-Parathemisto gaudichaudi	Parathemisto gaudichaudi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Hyperiidae	Themisto	Parathemisto gaudichaudi	0						
-Parazoanthus sp.	Parazoanthus	Metazoa	Anthozoa	Anthozoa	Zoantharia	Parazoanthidae	Parazoanthus	Parazoanthus sp.	0						
+Parathemisto gaudichaudi	Parathemisto gaudichaudi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Hyperiidae	Themisto	Parathemisto gaudichaudi	1						
+Parazoanthus sp.	Parazoanthus	Metazoa	Anthozoa	Anthozoa	Zoantharia	Parazoanthidae	Parazoanthus	Parazoanthus sp.	1						
 Pardalisca sp.	Pardalisca	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Pardalisca	Pardalisca sp.	1						
 Pardalisca tenuipes	Pardalisca tenuipes	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Pardalisca	Pardalisca tenuipes	1			14.99	27.68	1	
 Pardaliscoides sp.	Pardaliscoides	Metazoa	Malacostraca	Malacostraca	Amphipoda	Pardaliscidae	Pardaliscoides	Pardaliscoides sp.	1						
 Pareulepsis gaeyi	Pareulepsis gaeyi	to be checked manually	NA	NA	NA	NA	NA	Pareulepsis gaeyi	1						
-Pareurystheus amakusaensis	Pareurystheus amakusaensis	to be checked manually	NA	NA	NA	NA	NA	Pareurystheus amakusaensis	0						
-Pareurythoe americana	Pareurythoe americana	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Pareurythoe	Pareurythoe americana	0						
+Pareurystheus amakusaensis	Pareurystheus amakusaensis	to be checked manually	NA	NA	NA	NA	NA	Pareurystheus amakusaensis	1						
+Pareurythoe americana	Pareurythoe americana	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Pareurythoe	Pareurythoe americana	1						
 Pareurythoe californica	Pareurythoe californica	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Pareurythoe	Pareurythoe californica	2						
 Pareurythoe chilensis	Pareurythoe chilensis	Metazoa	Annelida	Polychaeta	Eunicida	Amphinomidae	Pareurythoe	Pareurythoe chilensis	2						
 Pareuthria rosea	Pareuthria rosea	to be checked manually	NA	NA	NA	NA	NA	Pareuthria rosea	2						
 Parexogone hebes	Parexogone hebes	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Parexogone	Parexogone hebes							
 Parheteromastus sp.	Parheteromastus	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Parheteromastus	Parheteromastus sp.	3						
-Parhyale aquilina	Parhyale aquilina	to be checked manually	NA	NA	NA	NA	NA	Parhyale aquilina	0						
+Parhyale aquilina	Parhyale aquilina	to be checked manually	NA	NA	NA	NA	NA	Parhyale aquilina	1						
 Pariambus sp.	Pariambus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Pariambus	Pariambus sp.	3						
 Pariambus typicus	Pariambus typicus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Pariambus	Pariambus typicus	3	2					
-Paroediceros lynceus	Paroediceros lynceus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Paroediceros	Paroediceros lynceus	0						
-Paroediceros sp.	Paroediceros	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Paroediceros	Paroediceros sp.	0						
+Paroediceros lynceus	Paroediceros lynceus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Paroediceros	Paroediceros lynceus	1						
+Paroediceros sp.	Paroediceros	Metazoa	Malacostraca	Malacostraca	Amphipoda	Oedicerotidae	Paroediceros	Paroediceros sp.	1						
 Parophryotrocha	Parophryotrocha	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Parophryotrocha	Parophryotrocha		4					
 Parophryotrocha isochaeta	Parophryotrocha isochaeta	Animalia	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Parophryotrocha	Parophryotrocha isochaeta		4					
 Parougia 	Parougia 	Animalia	Annelida	Polychaeta	Eunicida	Dorvilleidae	Parougia	Parougia 		4					
 Parougia caeca	Parougia caeca	Metazoa	Annelida	Errantia	Eunicida	Dorvilleidae	Parougia	Parougia caeca	4	4					
 Parougia eliasoni	Parougia eliasoni	Animalia	Annelida	Polychaeta	Eunicida	Dorvilleidae	Parougia	Parougia eliasoni		4					
 Parougia nigridentata	Parougia nigridentata	Animalia	Annelida	Polychaeta	Eunicida	Dorvilleidae	Parougia	Parougia nigridentata		4					
-Parthenope macrochelos	Parthenope macrochelos	Metazoa	Arthropoda	Malacostraca	Decapoda	Parthenopidae	Parthenope	Parthenope macrochelos	0						
-Parthenope massena	Parthenope massena	Metazoa	Arthropoda	Malacostraca	Decapoda	Parthenopidae	Parthenope	Parthenope massena	0						
+Parthenope macrochelos	Parthenope macrochelos	Metazoa	Arthropoda	Malacostraca	Decapoda	Parthenopidae	Parthenope	Parthenope macrochelos	1						
+Parthenope massena	Parthenope massena	Metazoa	Arthropoda	Malacostraca	Decapoda	Parthenopidae	Parthenope	Parthenope massena	1						
 Partulida pellucida	Partulida pellucida	to be checked manually	NA	NA	NA	NA	NA	Partulida pellucida	2						
-Parunciola seurati	Parunciola seurati	to be checked manually	NA	NA	NA	NA	NA	Parunciola seurati	0						
+Parunciola seurati	Parunciola seurati	to be checked manually	NA	NA	NA	NA	NA	Parunciola seurati	1						
 Parvamussium fenestratum	Parvamussium fenestratum	to be checked manually	NA	NA	NA	NA	NA	Parvamussium fenestratum	1						
 Parvanachis obesa	Parvanachis obesa	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Parvanachis	Parvanachis obesa	1						
 Parvaplustrum sp.	Parvaplustrum	Metazoa	Gastropoda	Gastropoda	NA	Aplustridae	Parvaplustrum	Parvaplustrum sp.	1						
@@ -5576,7 +5576,7 @@ Parvilucina crenella	Parvilucina crenella	Metazoa	Mollusca	Bivalvia	Lucinoida	Lu
 Parvilucina multilineata	Parvilucina multilineata	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Parvilucina	Parvilucina multilineata	1						
 Parvilucina tenuisculpta	Parvilucina tenuisculpta	Metazoa	Mollusca	Bivalvia	Lucinoida	Lucinidae	Parvilucina	Parvilucina tenuisculpta	3						
 Parvipalpus capillaceus	Parvipalpus capillaceus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Parvipalpus	Parvipalpus capillaceus	2	1					
-Parvipalpus sp.	Parvipalpus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Parvipalpus	Parvipalpus sp.	0						
+Parvipalpus sp.	Parvipalpus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Parvipalpus	Parvipalpus sp.	1						
 Pasiphaea sivado	Pasiphaea sivado	Metazoa	Arthropoda	Malacostraca	Decapoda	Pasiphaeidae	Pasiphaea	Pasiphaea sivado	2						
 Patella pellucida	Patella pellucida	Metazoa	Gastropoda	Gastropoda	__	Patellidae	Patella	Patella pellucida	1						
 Patella sinensis	Patella sinensis	Metazoa	Gastropoda	Gastropoda	__	Patellidae	Patella	Patella sinensis	1						
@@ -5608,17 +5608,17 @@ Pectinariidae	Pectinariidae	Metazoa	Annelida	Polychaeta	Terebellida	Pectinariida
 Pectinidae	Pectinidae	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	__	Pectinidae		1					
 Pedicellina cernua	Pedicellina cernua	Metazoa	Entoprocta	Entoprocta	Solitaria	Pedicellinidae	Pedicellina	Pedicellina cernua	1						
 Pedicellina sp.	Pedicellina	Metazoa	Entoprocta	Entoprocta	Solitaria	Pedicellinidae	Pedicellina	Pedicellina sp.	1						
-Pedoculina sp.	Pedoculina	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Pedoculina	Pedoculina sp.	0						
-Pelagobia sp.	Pelagobia	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Lopadorrhynchidae	Pelagobia	Pelagobia sp.	0						
+Pedoculina sp.	Pedoculina	Metazoa	Malacostraca	Malacostraca	Amphipoda	Caprellidae	Pedoculina	Pedoculina sp.	1						
+Pelagobia sp.	Pelagobia	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Lopadorrhynchidae	Pelagobia	Pelagobia sp.	1						
 Pelecyora nana	Pelecyora nana	to be checked manually	NA	NA	NA	NA	NA	Pelecyora nana	1						
 PELECYPODA (Nucula )	PELECYPODA (Nucula )	to be checked manually	NA	NA	NA	NA	NA	PELECYPODA (Nucula )		3					
 Pelogenia arenosa	Pelogenia arenosa	to be checked manually	NA	NA	NA	NA	NA	Pelogenia arenosa	2						
-Pelonaia corrugata	Pelonaia corrugata	Metazoa	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Pelonaia	Pelonaia corrugata	0	1					
+Pelonaia corrugata	Pelonaia corrugata	Metazoa	Chordata	Ascidiacea	Stolidobranchia	Styelidae	Pelonaia	Pelonaia corrugata	1	1					
 Peloscolex benedeni	Peloscolex benedeni	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Peloscolex	Peloscolex benedeni	5						
 Peloscolex heterochaetus	Peloscolex heterochaetus	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Peloscolex	Peloscolex heterochaetus	5						
 Peloscolex sp.	Peloscolex	Metazoa	Clitellata	Clitellata	Haplotaxida	Tubificidae	Peloscolex	Peloscolex sp.	5						
-Peltarion spinosulum	Peltarionnosulum	to be checked manually	NA	NA	NA	NA	NA	Peltarion spinosulum	0						
-Peltocoxa damnoniensis	Peltocoxa damnoniensis	to be checked manually	NA	NA	NA	NA	NA	Peltocoxa damnoniensis	0						
+Peltarion spinosulum	Peltarionnosulum	to be checked manually	NA	NA	NA	NA	NA	Peltarion spinosulum	1						
+Peltocoxa damnoniensis	Peltocoxa damnoniensis	to be checked manually	NA	NA	NA	NA	NA	Peltocoxa damnoniensis	1						
 Pennatula inflata	Pennatula inflata	Metazoa	Anthozoa	Anthozoa	Pennatulacea	Pennatulidae	Pennatula	Pennatula inflata	1						
 Pennatula phosphorea	Pennatula phosphorea	Metazoa	Anthozoa	Anthozoa	Pennatulacea	Pennatulidae	Pennatula	Pennatula phosphorea	1	1		20.82	28.52	1	
 Pennatula rubra	Pennatula rubra	Metazoa	Anthozoa	Anthozoa	Pennatulacea	Pennatulidae	Pennatula	Pennatula rubra	1						
@@ -5665,7 +5665,7 @@ Petaloproctus sp.	Petaloproctus	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanid
 Petaloproctus tenuis	Petaloproctus tenuis	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Petaloproctus	Petaloproctus tenuis	2						
 Petaloproctus terricola								Petaloproctus terricola							1
 Petaloproctus terricolus	Petaloproctus terricolus	Metazoa	Polychaeta	Polychaeta	Scolecida	Maldanidae	Petaloproctus	Petaloproctus terricolus	2						
-Petalosarsia declivis	Petalosarsia declivis	Metazoa	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	Petalosarsia	Petalosarsia declivis	0	2					
+Petalosarsia declivis	Petalosarsia declivis	Metazoa	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	Petalosarsia	Petalosarsia declivis	1	2					
 Petricola californiensis	Petricola californiensis	Metazoa	Mollusca	Bivalvia	Veneroida	Petricolidae	Petricola	Petricola californiensis	2						
 Petricola carditoides	Petricola carditoides	Metazoa	Mollusca	Bivalvia	Veneroida	Petricolidae	Petricola	Petricola carditoides	2						
 Petricola hertzana	Petricola hertzana	Metazoa	Mollusca	Bivalvia	Veneroida	Petricolidae	Petricola	Petricola hertzana	2						
@@ -5679,8 +5679,8 @@ Pettiboneia sp.	Pettiboneia	Metazoa	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	
 Pettiboneia urciensis	Pettiboneia urciensis	Metazoa	Polychaeta	Polychaeta	Eunicida	Dorvilleidae	Pettiboneia	Pettiboneia urciensis	2						
 Pettibonesia furcosetosa	Pettibonesia furcosetosa	to be checked manually	NA	NA	NA	NA	NA	Pettibonesia furcosetosa	2						
 Phakellia sp.	Phakellia	Metazoa	Demospongiae	Demospongiae	Axinellida	Axinellidae	Phakellia	Phakellia sp.	1						
-Phalacrophorus pictus	Phalacrophorus pictus	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Iospilidae	Phalacrophorus	Phalacrophorus pictus	0						
-Phalium saburon	Phalium saburon	to be checked manually	NA	NA	NA	NA	NA	Phalium saburon	0						
+Phalacrophorus pictus	Phalacrophorus pictus	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Iospilidae	Phalacrophorus	Phalacrophorus pictus	1						
+Phalium saburon	Phalium saburon	to be checked manually	NA	NA	NA	NA	NA	Phalium saburon	1						
 Phallodrilinae	Phallodrilinae	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	__	Phallodrilinae		4					
 Phallodrilus	Phallodrilus	Animalia	Clitellata	Clitellata	Haplotaxida	Tubificidae	Phallodrilus	Phallodrilus		4					
 Phallodrilus parthenopaeus	Phallodrilus parthenopaeus	Animalia	Clitellata	Clitellata	Haplotaxida	Tubificidae	Phallodrilus	Phallodrilus parthenopaeus		4					
@@ -5718,7 +5718,7 @@ Pherusa neopapillata	Pherusa neopapillata	Metazoa	Annelida	Sedentaria	Canalipalp
 Pherusa plumosa	Pherusa plumosa	Metazoa	Annelida	Sedentaria	Canalipalpata	Flabelligeridae	Pherusa	Pherusa plumosa	3	2	3	9.5	20.95	3	
 Pherusa sp.	Pherusa	Metazoa	Annelida	Sedentaria	Canalipalpata	Flabelligeridae	Pherusa	Pherusa sp.	1		0	12.93	26.22	2	
 Pherusa tumbensis	Pherusa tumbensis	Metazoa	Annelida	Sedentaria	Canalipalpata	Flabelligeridae	Pherusa	Pherusa tumbensis	1						
-Phialella quadrata	Phialella quadrata	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Phialellidae	Phialella	Phialella quadrata	0						
+Phialella quadrata	Phialella quadrata	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Phialellidae	Phialella	Phialella quadrata	1						
 Philine 	Philine 	Animalia	Gastropoda	Gastropoda	Cephalaspidea	Philinidae	Philine	Philine 		3					
 Philine aperta	Philine aperta	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Philinidae	Philine	Philine aperta	2	3		14.47	23.08	3	
 Philine argentata	Philine argentata	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Philinidae	Philine	Philine argentata	2						
@@ -5758,10 +5758,10 @@ Pholoe anoculata	Pholoe anoculata	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholo
 Pholoe assimilis	Pholoe assimilis	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe assimilis	1		0	7.83	22.02	3	
 Pholoe baltica	Pholoe baltica	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe baltica	1		0	5.51	21.28	3	
 Pholoe inornata	Pholoe inornata	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe inornata	4	3	4.5	9.22	19.26	3	
-Pholoe longa	Pholoe longa	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe longa	0						
+Pholoe longa	Pholoe longa	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe longa	1						
 Pholoe minuta	Pholoe minuta	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe minuta	2		1.5	3.86	23.02	3	2
 Pholoe pallida	Pholoe pallida	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe pallida	1	3	0	12.77	29.07	1	
-Pholoe polymorpha	Pholoe polymorpha	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe polymorpha	0						
+Pholoe polymorpha	Pholoe polymorpha	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe polymorpha	1						
 Pholoe sp.	Pholoe	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe sp.	2	3	1.5	7.16	25.64	2	
 Pholoe synophthalmica	Pholoe synophthalmica	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoe	Pholoe synophthalmica	2	3					
 Pholoides asperus	Pholoides asperus	Metazoa	Annelida	Polychaeta	Phyllodocida	Pholoidae	Pholoides	Pholoides asperus	2						
@@ -5837,8 +5837,8 @@ Phyllodoce rubiginosa	Phyllodoce rubiginosa	Metazoa	Annelida	Polychaeta	Phyllodo
 Phyllodoce schmardaei	Phyllodoce schmardaei	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Phyllodoce	Phyllodoce schmardaei	2						
 Phyllodoce sp.	Phyllodoce	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	Phyllodoce	Phyllodoce sp.	2		1.5	4.5	20.7	3	
 Phyllodocidae	Phyllodocidae	Metazoa	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	__	Phyllodocidae		3		5.78	24.95	2	
-Phyllophorus ordinatus	Phyllophorus ordinatus	to be checked manually	NA	NA	NA	NA	NA	Phyllophorus ordinatus	0						
-Phyllophorus urna	Phyllophorus urna	to be checked manually	NA	NA	NA	NA	NA	Phyllophorus urna	0						
+Phyllophorus ordinatus	Phyllophorus ordinatus	to be checked manually	NA	NA	NA	NA	NA	Phyllophorus ordinatus	1						
+Phyllophorus urna	Phyllophorus urna	to be checked manually	NA	NA	NA	NA	NA	Phyllophorus urna	1						
 Phylo felix	Phylo felix	Metazoa	Polychaeta	Polychaeta	Scolecida	Orbiniidae	Phylo	Phylo felix	1						
 Phylo foetida	Phylo foetida	Metazoa	Polychaeta	Polychaeta	Scolecida	Orbiniidae	Phylo	Phylo foetida	1						
 Phylo foetida atlantica	Phylo foetida atlantica	Metazoa	Polychaeta	Polychaeta	Scolecida	Orbiniidae	Phylo	Phylo foetida atlantica	1						
@@ -5874,7 +5874,7 @@ Pinnixa tumida	Pinnixa tumida	to be checked manually	Arthropoda	Malacostraca	Dec
 Pinnixa valdiviensis	Pinnixa valdiviensis	to be checked manually	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Pinnixa	Pinnixa valdiviensis	1						
 Pinnotheres haiyangensis	Pinnotheres haiyangensis	Metazoa	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Pinnotheres	Pinnotheres haiyangensis	3						
 Pinnotheres pisum	Pinnotheres pisum	Metazoa	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Pinnotheres	Pinnotheres pisum	3						
-Pinuca chilensis	Pinuca chilensis	to be checked manually	NA	NA	NA	NA	NA	Pinuca chilensis	0						
+Pinuca chilensis	Pinuca chilensis	to be checked manually	NA	NA	NA	NA	NA	Pinuca chilensis	1						
 Pionosyllis anophthalma	Pionosyllis anophthalma	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Pionosyllis	Pionosyllis anophthalma	2						
 Pionosyllis compacta	Pionosyllis compacta	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Pionosyllis	Pionosyllis compacta	2	2					
 Pionosyllis dionisi	Pionosyllis dionisi	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Pionosyllis	Pionosyllis dionisi	2						1
@@ -5915,11 +5915,11 @@ Pisidium subtruncatum	Pisidium subtruncatum	Metazoa	Mollusca	Bivalvia	Veneroida	
 Pisidium supinum	Pisidium supinum	Metazoa	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Pisidium	Pisidium supinum	1						
 Pisione guanche	Pisione guanche	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione guanche	1						
 Pisione inkoi	Pisione inkoi	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione inkoi	1						
-Pisione parapari	Pisione parapari	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione parapari	0						
+Pisione parapari	Pisione parapari	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione parapari	1						
 Pisione remota	Pisione remota	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione remota	1	3		20.79	31.33	1	
 Pisione sp.	Pisione	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione sp.	1						
 Pisione wolfi	Pisione wolfi	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Pisione	Pisione wolfi	2						
-Pisionidens indica	Pisionidens indica	Metazoa	Annelida	Errantia	Phyllodocida	Pisionidae	Pisionidens	Pisionidens indica	0						
+Pisionidens indica	Pisionidens indica	Metazoa	Annelida	Errantia	Phyllodocida	Pisionidae	Pisionidens	Pisionidens indica	1						
 Pista bansei 	Pista bansei 	Metazoa	Annelida	Polychaeta	Terebellida	Terebellidae	Pista	Pista bansei 	1		0			2	
 Pista brevibranchia	Pista brevibranchia	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Pista	Pista brevibranchia	1						
 Pista corrientis	Pista corrientis	Metazoa	Annelida	Sedentaria	Canalipalpata	Terebellidae	Pista	Pista corrientis	1						
@@ -5961,16 +5961,16 @@ Platynereis hutchingsae	Platynereis hutchingsae	Metazoa	Polychaeta	Polychaeta	Ph
 Platynereis massiliensis	Platynereis massiliensis	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Platynereis	Platynereis massiliensis		1					
 Platynereis mucronata	Platynereis mucronata	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Nereididae	Platynereis	Platynereis mucronata	3						
 Platynereis sp.	Platynereis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Nereididae	Platynereis	Platynereis sp.	3						
-Pleioplana atomata	Pleioplana atomata	to be checked manually	NA	NA	NA	NA	NA	Pleioplana atomata	0						
-Pleurobranchus membranaceus	Pleurobranchus membranaceus	Metazoa	Mollusca	Gastropoda	Pleurobranchomorpha	Pleurobranchidae	Pleurobranchus	Pleurobranchus membranaceus	0						
-Pleurocrypta longibranchiata	Pleurocrypta longibranchiata	Metazoa	Arthropoda	Malacostraca	Isopoda	Bopyridae	Pleurocrypta	Pleurocrypta longibranchiata	0						
+Pleioplana atomata	Pleioplana atomata	to be checked manually	NA	NA	NA	NA	NA	Pleioplana atomata	1						
+Pleurobranchus membranaceus	Pleurobranchus membranaceus	Metazoa	Mollusca	Gastropoda	Pleurobranchomorpha	Pleurobranchidae	Pleurobranchus	Pleurobranchus membranaceus	1						
+Pleurocrypta longibranchiata	Pleurocrypta longibranchiata	Metazoa	Arthropoda	Malacostraca	Isopoda	Bopyridae	Pleurocrypta	Pleurocrypta longibranchiata	1						
 PLEUROGONA (agg.)	PLEUROGONA (agg.)	to be checked manually	NA	NA	NA	NA	NA	PLEUROGONA (agg.)		1					
-Pleurogona sp.	Pleurogona	Metazoa	Chordata	Ascidiacea	Pleurogona	NA	NA	Pleurogona sp.	0						
-Pleurogonium rubicundum	Pleurogonium rubicundum	Metazoa	Malacostraca	Malacostraca	Isopoda	Paramunnidae	Pleurogonium	Pleurogonium rubicundum	0	3					
-Pleurogonium sp.	Pleurogonium	Metazoa	Malacostraca	Malacostraca	Isopoda	Paramunnidae	Pleurogonium	Pleurogonium sp.	0						
-Pleuroncodes monodon	Pleuroncodes monodon	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Pleuroncodes	Pleuroncodes monodon	0						
+Pleurogona sp.	Pleurogona	Metazoa	Chordata	Ascidiacea	Pleurogona	NA	NA	Pleurogona sp.	1						
+Pleurogonium rubicundum	Pleurogonium rubicundum	Metazoa	Malacostraca	Malacostraca	Isopoda	Paramunnidae	Pleurogonium	Pleurogonium rubicundum	1	3					
+Pleurogonium sp.	Pleurogonium	Metazoa	Malacostraca	Malacostraca	Isopoda	Paramunnidae	Pleurogonium	Pleurogonium sp.	1						
+Pleuroncodes monodon	Pleuroncodes monodon	Metazoa	Arthropoda	Malacostraca	Decapoda	Munididae	Pleuroncodes	Pleuroncodes monodon	1						
 Pleustomesus medius	Pleustomesus medius	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pleustidae	Pleustomesus	Pleustomesus medius	2						
-Plumularia linkoi	Plumularia linkoi	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia linkoi	0						
+Plumularia linkoi	Plumularia linkoi	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia linkoi	1						
 Plumularia setacea	Plumularia setacea	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia setacea	2						
 Podalirius typicus	Podalirius typicus	to be checked manually	NA	NA	NA	NA	NA	Podalirius typicus	3						
 Podarke guanica	Podarke guanica	Metazoa	Annelida	Errantia	Phyllodocida	Hesionidae	Podarke	Podarke guanica	2						
@@ -5987,7 +5987,7 @@ Podoceridae indet	Podoceridae indet	Metazoa	Crustacea	Malacostraca	Amphipoda	Pod
 Podocerus brasiliensis	Podocerus brasiliensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Podocerus	Podocerus brasiliensis	3						
 Podocerus cristatus	Podocerus cristatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Podocerus	Podocerus cristatus	3						
 Podocerus fulanus	Podocerus fulanus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Podocerus	Podocerus fulanus	2						
-Podocerus sp.	Podocerus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Podocerus	Podocerus sp.	0						
+Podocerus sp.	Podocerus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Podocerus	Podocerus sp.	1						
 Podocerus variegatus	Podocerus variegatus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Podocerus	Podocerus variegatus	3						3
 Podochela hemphillii	Podochela hemphillii	Metazoa	Arthropoda	Malacostraca	Decapoda	Inachidae	Podochela	Podochela hemphillii	1						
 Podocoryne carnea	Podocoryne carnea	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Podocoryna	Podocoryne carnea	1						
@@ -5997,7 +5997,7 @@ Podon intermedius	Podon intermedius	Metazoa	Arthropoda	Branchiopoda	Diplostraca	
 Podon leuckarti	Podon leuckarti	Metazoa	Arthropoda	Branchiopoda	Diplostraca	Podonidae	Podon	Podon leuckarti		1					
 Podon polyphemoides	Podon polyphemoides	Metazoa	Arthropoda	Branchiopoda	Diplostraca	Podonidae	Podon	Podon polyphemoides		1					
 Podonidae	Podonidae	Metazoa	Arthropoda	Branchiopoda	Diplostraca	Podonidae	Podon	Podonidae		1					
-Podoprion bolivari	Podoprion bolivari	to be checked manually	NA	NA	NA	NA	NA	Podoprion bolivari	0						
+Podoprion bolivari	Podoprion bolivari	to be checked manually	NA	NA	NA	NA	NA	Podoprion bolivari	1						
 Poecilochaetous serpens								Poecilochaetous serpens							2
 Poecilochaetus fauchaldi	Poecilochaetus fauchaldi	Metazoa	Annelida	Polychaeta	Spionida	Poecilochaetidae	Poecilochaetus	Poecilochaetus fauchaldi	1						
 Poecilochaetus hystricosus	Poecilochaetus hystricosus	Metazoa	Annelida	Polychaeta	Spionida	Poecilochaetidae	Poecilochaetus	Poecilochaetus hystricosus	2						
@@ -6020,7 +6020,7 @@ Polinices pulchellus	Polinices pulchellus	to be checked manually	Mollusca	Gastro
 Polinices sp.	Polinices	to be checked manually	Mollusca	Gastropoda	Littorinimorpha	Naticidae	Polinices	Polinices sp.	2	3					
 Polititapes aureus	Polititapes aureus	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Polititapes	Polititapes aureus	1						
 Polititapes virgineus	Polititapes virgineus	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Polititapes	Polititapes virgineus	1						
-Pollia tincta	Pollia tincta	Metazoa	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Pollia	Pollia tincta	0						
+Pollia tincta	Pollia tincta	Metazoa	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Pollia	Pollia tincta	1						
 Polybius arcuatus	Polybius arcuatus	Metazoa	Malacostraca	Malacostraca	Decapoda	Polybiidae	Polybius	Polybius arcuatus	1						
 Polybius henslowii	Polybius henslowii	Metazoa	Malacostraca	Malacostraca	Decapoda	Polybiidae	Polybius	Polybius henslowii	1						
 Polybius puber	Polybius puber	Metazoa	Malacostraca	Malacostraca	Decapoda	Polybiidae	Polybius	Polybius puber	1						
@@ -6090,11 +6090,11 @@ Polymesoda caroliniana	Polymesoda caroliniana	Metazoa	Mollusca	Bivalvia	Veneroid
 Polymnia nebulosa	Polymnia nebulosa	Metazoa	Arthropoda	Insecta	Lepidoptera	Notodontidae	Nebulosa	Polymnia nebulosa	3						
 Polynoe scolopendrina	Polynoe scolopendrina	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Polynoe	Polynoe scolopendrina	2	3					
 Polynoe sp.	Polynoe	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Polynoidae	Polynoe	Polynoe sp.	2						
-POLYNOIDAE	POLYNOIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	__	POLYNOIDAE	0	3		11.01	23.47	2	
+POLYNOIDAE	POLYNOIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Polynoidae	__	POLYNOIDAE	1	3		11.01	23.47	2	
 POLYNOINAE	POLYNOINAE	to be checked manually	NA	NA	NA	NA	NA	POLYNOINAE	2						
-Polyodontes atromarginatus	Polyodontes atromarginatus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes atromarginatus	0						
+Polyodontes atromarginatus	Polyodontes atromarginatus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes atromarginatus	1						
 Polyodontes gracilis	Polyodontes gracilis	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes gracilis	1						
-Polyodontes lupinus	Polyodontes lupinus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes lupinus	0						
+Polyodontes lupinus	Polyodontes lupinus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes lupinus	1						
 Polyodontes maxillosus	Polyodontes maxillosus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes maxillosus	2						
 Polyodontes sp.	Polyodontes	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Acoetidae	Polyodontes	Polyodontes sp.	2						
 Polyophthalmus pictus	Polyophthalmus pictus	Metazoa	Annelida	Polychaeta	Scolecida	Opheliidae	Polyophthalmus	Polyophthalmus pictus	1	2					1
@@ -6109,7 +6109,7 @@ Polyphysia baffinensis	Polyphysia baffinensis	Metazoa	Polychaeta	Polychaeta	Capi
 Polyphysia crassa	Polyphysia crassa	Metazoa	Polychaeta	Polychaeta	Capitellida	Scalibregmatidae	Polyphysia	Polyphysia crassa	3	2	3	4.93	19.19	3	2
 Polyphysia sp.	Polyphysia	Metazoa	Polychaeta	Polychaeta	Capitellida	Scalibregmatidae	Polyphysia	Polyphysia sp.	3						
 POLYPLACOPHORA	POLYPLACOPHORA	Metazoa	Mollusca	Polyplacophora	__	__	__	POLYPLACOPHORA							
-Polyplumaria flabellata	Polyplumaria flabellata	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Polyplumaria	Polyplumaria flabellata	0						
+Polyplumaria flabellata	Polyplumaria flabellata	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Polyplumaria	Polyplumaria flabellata	1						
 Polystira albida	Polystira albida	Metazoa	Mollusca	Gastropoda	Neogastropoda	Turridae	Polystira	Polystira albida	1						
 Pomatoceros americanus	Pomatoceros americanus	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Pomatoceros	Pomatoceros americanus	2						
 Pomatoceros caeruleus	Pomatoceros caeruleus	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Pomatoceros	Pomatoceros caeruleus	2						
@@ -6117,14 +6117,14 @@ Pomatoceros lamarcki	Pomatoceros lamarcki	Metazoa	Annelida	Sedentaria	Canalipalp
 Pomatoceros minutus	Pomatoceros minutus	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Pomatoceros	Pomatoceros minutus	2						
 Pomatoceros sp.	Pomatoceros	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Pomatoceros	Pomatoceros sp.	2	1					
 Pomatoceros triqueter	Pomatoceros triqueter	Metazoa	Annelida	Sedentaria	Canalipalpata	Serpulidae	Pomatoceros	Pomatoceros triqueter	2	1					3
-Pomatostegus stellatus	Pomatostegus stellatus	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Pomatostegus	Pomatostegus stellatus	0						
+Pomatostegus stellatus	Pomatostegus stellatus	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Pomatostegus	Pomatostegus stellatus	1						
 Pontaster tenuispinus	Pontaster tenuispinus	Metazoa	Echinodermata	Asteroidea	Notomyotida	Benthopectinidae	Pontaster	Pontaster tenuispinus	1						
 Pontocrates altamarinus	Pontocrates altamarinus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates	Pontocrates altamarinus	2	2					
 Pontocrates arcticus	Pontocrates arcticus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates	Pontocrates arcticus	2						
 Pontocrates arenarius	Pontocrates arenarius	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates	Pontocrates arenarius	2	2					
 Pontocrates norvegicus	Pontocrates norvegicus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates	Pontocrates norvegicus	2						
 Pontocrates sp.	Pontocrates	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicerotidae	Pontocrates	Pontocrates sp.	2						
-Pontogeneia rostrata	Pontogeneia rostrata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pontogeneiidae	Pontogeneia	Pontogeneia rostrata	0						
+Pontogeneia rostrata	Pontogeneia rostrata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Pontogeneiidae	Pontogeneia	Pontogeneia rostrata	1						
 Pontogenia chrysocoma	Pontogenia chrysocoma	Viridiplantae	Streptophyta	Errantia	Asterales	Asteraceae	Chrysocoma	Pontogenia chrysocoma	2						1
 Pontonema	Pontonema	Animalia	Enoplea	Enoplea	Enoplida	Oncholaimidae	Pontonema	Pontonema		4					
 Pontonema vulgare	Pontonema vulgare	Metazoa	Nematoda	Enoplea	Enoplida	Oncholaimidae	Pontonema	Pontonema vulgare	3	4					
@@ -6143,7 +6143,7 @@ Porcellana platycheles	Porcellana platycheles	Metazoa	Arthropoda	Malacostraca	De
 Porcellana pulchra	Porcellana pulchra	Metazoa	Arthropoda	Malacostraca	Decapoda	Porcellanidae	Porcellana	Porcellana pulchra	1						
 Porcellana serratifrons	Porcellana serratifrons	Metazoa	Arthropoda	Malacostraca	Decapoda	Porcellanidae	Porcellana	Porcellana serratifrons	1						
 Porcellana sp.	Porcellana	Metazoa	Arthropoda	Malacostraca	Decapoda	Porcellanidae	Porcellana	Porcellana sp.	1						
-Porcellidium sp.	Porcellidium	Metazoa	NA	NA	Harpacticoida	Porcellidiidae	Porcellidium	Porcellidium sp.	0						
+Porcellidium sp.	Porcellidium	Metazoa	NA	NA	Harpacticoida	Porcellidiidae	Porcellidium	Porcellidium sp.	1						
 Porella acutirostris	Porella acutirostris	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Mucronellidae	Porella	Porella acutirostris	1						
 Porella compressa	Porella compressa	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Mucronellidae	Porella	Porella compressa	1						
 Porella fragilis	Porella fragilis	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Mucronellidae	Porella	Porella fragilis	1						
@@ -6166,8 +6166,8 @@ Posterula sarsii	Posterula sarsii	to be checked manually	NA	NA	NA	NA	NA	Posterul
 Potamethus 	Potamethus 	Animalia	Polychaeta	Polychaeta	Sabellida	Sabellidae	Potamethus	Potamethus 		1					
 Potamethus murrayi	Potamethus murrayi	Animalia	Polychaeta	Polychaeta	Sabellida	Sabellidae	Potamethus	Potamethus murrayi		1					
 Potamethus sp.	Potamethus	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Potamethus	Potamethus sp.	2						
-Potamethus spathiferus	Potamethusthiferus	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Potamethus	Potamethus spathiferus	0						
-Potamides conicus	Potamides conicus	Metazoa	Mollusca	Gastropoda	__	Potamididae	Potamides	Potamides conicus	0						
+Potamethus spathiferus	Potamethusthiferus	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Potamethus	Potamethus spathiferus	1						
+Potamides conicus	Potamides conicus	Metazoa	Mollusca	Gastropoda	__	Potamididae	Potamides	Potamides conicus	1						
 Potamilla acuminata 	Potamilla acuminata 	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Potamilla	Potamilla acuminata 	2						
 Potamilla linguicollaris	Potamilla linguicollaris	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Potamilla	Potamilla linguicollaris	2						
 Potamilla neglecta	Potamilla neglecta	Animalia	Annelida	Sedentaria	Canalipalpata	Sabellidae	Potamilla	Potamilla neglecta		1					
@@ -6175,7 +6175,7 @@ Potamilla reniformis	Potamilla reniformis	Metazoa	Annelida	Sedentaria	Canalipalp
 Potamilla sp.	Potamilla	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Potamilla	Potamilla sp.	2	1					
 Potamilla stichophthalmos	Potamilla stichophthalmos	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Potamilla	Potamilla stichophthalmos	2						
 Potamilla torelli	Potamilla torelli	Metazoa	Annelida	Sedentaria	Canalipalpata	Sabellidae	Potamilla	Potamilla torelli	2	1					
-Potamocorbucata ustulata	Potamocorbucata ustulata	to be checked manually	NA	NA	NA	NA	NA	Potamocorbucata ustulata	0						
+Potamocorbucata ustulata	Potamocorbucata ustulata	to be checked manually	NA	NA	NA	NA	NA	Potamocorbucata ustulata	1						
 Potamocorbula amurensis	Potamocorbula amurensis	Metazoa	Mollusca	Bivalvia	Myoida	Corbulidae	Potamocorbula	Potamocorbula amurensis	5						
 Potamocorbula laevis	Potamocorbula laevis	Metazoa	Mollusca	Bivalvia	Myoida	Corbulidae	Potamocorbula	Potamocorbula laevis	5						
 Potamopyrgus antipodarum	Potamopyrgus antipodarum	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Tateidae	Potamopyrgus	Potamopyrgus antipodarum	2						
@@ -6186,7 +6186,7 @@ Potamothrix hammoniensis	Potamothrix hammoniensis	Metazoa	Annelida	Oligochaeta	H
 Potamothrix moldaviensis	Potamothrix moldaviensis	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Potamothrix	Potamothrix moldaviensis	4						
 Potamothrix sp.	Potamothrix	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Potamothrix	Potamothrix sp.	4						
 Potamothrix vejdovskyi	Potamothrix vejdovskyi	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Potamothrix	Potamothrix vejdovskyi	4						
-Prachynella sp.	Prachynella	Metazoa	Malacostraca	Malacostraca	Amphipoda	Lysianassidae	Prachynella	Prachynella sp.	0						
+Prachynella sp.	Prachynella	Metazoa	Malacostraca	Malacostraca	Amphipoda	Lysianassidae	Prachynella	Prachynella sp.	1						
 Praegeria remota	Praegeria remota	to be checked manually	NA	NA	NA	NA	NA	Praegeria remota	2						1
 Praephiline finmarchica	Praephiline finmarchica	to be checked manually	NA	NA	NA	NA	NA	Praephiline finmarchica	2						
 Praunus flexuosus	Praunus flexuosus	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Praunus	Praunus flexuosus	1	3					
@@ -6202,7 +6202,7 @@ Praxillella pacifica	Praxillella pacifica	Metazoa	Polychaeta	Polychaeta	Capitell
 Praxillella praetermissa	Praxillella praetermissa	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Praxillella	Praxillella praetermissa	3	2	3	9.36	25.66	2	
 Praxillella sp.	Praxillella	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Praxillella	Praxillella sp.	3						
 Praxillura longissima	Praxillura longissima	Metazoa	Polychaeta	Polychaeta	NA	Maldanidae	Praxillura	Praxillura longissima	3	3	3	22.5	34.25	1	
-Praxitella sp.	Praxitella	to be checked manually	NA	NA	NA	NA	NA	Praxitella sp.	0						
+Praxitella sp.	Praxitella	to be checked manually	NA	NA	NA	NA	NA	Praxitella sp.	1						
 PRIAPULIDA	PRIAPULIDA	Metazoa	Priapulida	Priapulida	NA	NA	NA	PRIAPULIDA	3						
 Priapulopsis bicaudatus	Priapulopsis bicaudatus	Metazoa	Priapulida	__	__	Priapulidae	Priapulopsis	Priapulopsis bicaudatus	3						
 Priapulus caudatus	Priapulus caudatus	Metazoa	Priapulida	Priapulida	__	Priapulidae	Priapulus	Priapulus caudatus	3	3	3	6.56	21.5	3	
@@ -6243,7 +6243,7 @@ Prionospio salzi	Prionospio salzi	Metazoa	Annelida	Sedentaria	Canalipalpata	Spio
 Prionospio sp.	Prionospio	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Prionospio	Prionospio sp.	4	2	4.5	8.54	21.95	3	
 Prionospio steenstrupi	Prionospio steenstrupi	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Prionospio	Prionospio steenstrupi	4	2	4.5	11.16	23.82	2	
 Prionospio yuriel	Prionospio yuriel	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Prionospio	Prionospio yuriel	3						
-Prionotoleberis norvegica	Prionotoleberis norvegica	Metazoa	Arthropoda	Ostracoda	Myodocopida	Cylindroleberididae	Prionotoleberis	Prionotoleberis norvegica	0						
+Prionotoleberis norvegica	Prionotoleberis norvegica	Metazoa	Arthropoda	Ostracoda	Myodocopida	Cylindroleberididae	Prionotoleberis	Prionotoleberis norvegica	1						
 Prisogaster niger	Prisogaster niger	Metazoa	Mollusca	Gastropoda	__	Turbinidae	Prisogaster	Prisogaster niger	2						
 Pristes oblongus	Pristes oblongus	Metazoa	Mollusca	Bivalvia	Veneroida	Lasaeidae	Pristes	Pristes oblongus	2						
 Pristina longiseta	Pristina longiseta	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Pristina	Pristina longiseta	5						
@@ -6253,7 +6253,7 @@ Procampylaspis armata	Procampylaspis armata	to be checked manually	NA	NA	NA	NA	N
 Proceraea aurantiaca	Proceraea aurantiaca	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Proceraea	Proceraea aurantiaca	2						
 Proceraea cornuta	Proceraea cornuta	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Proceraea	Proceraea cornuta	2						
 Proceraea sp.	Proceraea	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Proceraea	Proceraea sp.	2	2					
-Procerastea sp.	Procerastea	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Procerastea	Procerastea sp.	0						
+Procerastea sp.	Procerastea	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Procerastea	Procerastea sp.	1						
 Processa acutirostris	Processa acutirostris	Metazoa	Arthropoda	Malacostraca	Decapoda	Processidae	Processa	Processa acutirostris	1						
 Processa canaliculata	Processa canaliculata	Metazoa	Arthropoda	Malacostraca	Decapoda	Processidae	Processa	Processa canaliculata	1			20.72	27.6	1	
 Processa edulis	Processa edulis	Metazoa	Arthropoda	Malacostraca	Decapoda	Processidae	Processa	Processa edulis	1						
@@ -6302,7 +6302,7 @@ Protocirrineris chrysoderma	Protocirrineris chrysoderma	Metazoa	Polychaeta	Polyc
 Protocirrineris sp.	Protocirrineris	Metazoa	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Protocirrineris	Protocirrineris sp.	4						
 Protodorvillea gracilis	Protodorvillea gracilis	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Protodorvillea	Protodorvillea gracilis	1						
 Protodorvillea kefersteini	Protodorvillea kefersteini	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Protodorvillea	Protodorvillea kefersteini	2	4		4.02	15.99	4	2
-Protodorvillea sp.	Protodorvillea	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Protodorvillea	Protodorvillea sp.	0						
+Protodorvillea sp.	Protodorvillea	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Protodorvillea	Protodorvillea sp.	1						
 Protodriloides chaetifer	Protodriloides chaetifer	Metazoa	Polychaeta	Polychaeta	__	Protodriloididae	Protodriloides	Protodriloides chaetifer	1	2					
 Protodriloides sp.	Protodriloides	Metazoa	Polychaeta	Polychaeta	__	Protodriloididae	Protodriloides	Protodriloides sp.	1						
 Protodrilus sp.	Protodrilus	Metazoa	Polychaeta	Polychaeta	NA	Protodrilidae	Protodrilus	Protodrilus sp.	1	1					
@@ -6322,9 +6322,9 @@ Protothaca thaca	Protothaca thaca	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	P
 Prototrygaeus jordanae	Prototrygaeus jordanae	to be checked manually	NA	NA	NA	NA	NA	Prototrygaeus jordanae	1						
 Protula similis	Protula similis	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Protula	Protula similis	1						
 Protula tubularia	Protula tubularia	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Protula	Protula tubularia	1	1					
-Prunum apicinum	Prunum apicinum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Marginellidae	Prunum	Prunum apicinum	0						
-Prunum carneum	Prunum carneum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Marginellidae	Prunum	Prunum carneum	0						
-Prunum sp.	Prunum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Marginellidae	Prunum	Prunum sp.	0						
+Prunum apicinum	Prunum apicinum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Marginellidae	Prunum	Prunum apicinum	1						
+Prunum carneum	Prunum carneum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Marginellidae	Prunum	Prunum carneum	1						
+Prunum sp.	Prunum	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Marginellidae	Prunum	Prunum sp.	1						
 Psamathe fusca	Psamathe fusca	Metazoa	Annelida	Polychaeta	Phyllodocida	Hesionidae	Psamathe	Psamathe fusca	3						
 Psammechinus microtuberculatus	Psammechinus microtuberculatus	Metazoa	Echinoidea	Echinoidea	Camarodonta	Parechinidae	Psammechinus	Psammechinus microtuberculatus	1						1
 Psammechinus miliaris	Psammechinus miliaris	Metazoa	Echinoidea	Echinoidea	Camarodonta	Parechinidae	Psammechinus	Psammechinus miliaris	1	3					
@@ -6338,7 +6338,7 @@ PSAMMOBIIDAE	PSAMMOBIIDAE	Metazoa	Mollusca	Bivalvia	Veneroida	Psammobiidae	__	PS
 Psammodrilus balanoglossoides	Psammodrilus balanoglossoides	Metazoa	Annelida	NA	NA	Psammodrilidae	Psammodrilus	Psammodrilus balanoglossoides	1						
 Psammolyce arenosa	Psammolyce arenosa	Metazoa	Annelida	Errantia	Phyllodocida	Sigalionidae	Psammolyce	Psammolyce arenosa	2						1
 Psammolyce inclusa	Psammolyce inclusa	Metazoa	Annelida	Errantia	Phyllodocida	Sigalionidae	Psammolyce	Psammolyce inclusa	2						
-Psammoryctides barbatus	Psammoryctides barbatus	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Psammoryctides	Psammoryctides barbatus	0						
+Psammoryctides barbatus	Psammoryctides barbatus	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	Psammoryctides	Psammoryctides barbatus	1						
 Pseudamussium peslutrae	Pseudamussium peslutrae	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Pseudamussium	Pseudamussium peslutrae	2		1.5	15.87	28.6	1	
 Pseudamussium septemradiatum	Pseudamussium septemradiatum	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Pseudamussium	Pseudamussium septemradiatum	2						
 Pseudamussium sp.	Pseudamussium	Metazoa	Mollusca	Bivalvia	Pectinoida	Pectinidae	Pseudamussium	Pseudamussium sp.	2						
@@ -6347,7 +6347,7 @@ Pseudechinus magellanicus	Pseudechinus magellanicus	Metazoa	Echinodermata	Echino
 Pseudeurythoe annulata	Pseudeurythoe annulata	to be checked manually	NA	NA	NA	NA	NA	Pseudeurythoe annulata	4						
 Pseudeurythoe hemuli	Pseudeurythoe hemuli	NA	NA	NA	NA	NA	NA	Pseudeurythoe hemuli	4						
 Pseudeurythoe paucibranchiata	Pseudeurythoe paucibranchiata	NA	NA	NA	NA	NA	NA	Pseudeurythoe paucibranchiata	4						
-Pseudione sp.	Pseudione	Metazoa	Malacostraca	Malacostraca	Isopoda	Bopyridae	Pseudione	Pseudione sp.	0						
+Pseudione sp.	Pseudione	Metazoa	Malacostraca	Malacostraca	Isopoda	Bopyridae	Pseudione	Pseudione sp.	1						
 Pseudoamussium septemradiatum	Pseudoamussium septemradiatum	to be checked manually	NA	NA	NA	NA	NA	Pseudoamussium septemradiatum		1					
 Pseudobranchiomma emersoni	Pseudobranchiomma emersoni	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Pseudobranchiomma	Pseudobranchiomma emersoni	1						
 Pseudobranchiomma sp.	Pseudobranchiomma	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Pseudobranchiomma	Pseudobranchiomma sp.	1						
@@ -6355,7 +6355,7 @@ Pseudobrania limbata	Pseudobrania limbata	to be checked manually	Polychaeta	Poly
 Pseudobrania sp.	Pseudobrania	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Pseudobrania	Pseudobrania sp.	2						
 Pseudobrania swedmarki	Pseudobrania swedmarki	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Pseudobrania	Pseudobrania swedmarki	2						
 Pseudocapitella incerta	Pseudocapitella incerta	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Pseudocapitella	Pseudocapitella incerta	5						
-Pseudocheles chacei	Pseudocheles chacei	Metazoa	Arthropoda	Malacostraca	Decapoda	Bresiliidae	Pseudocheles	Pseudocheles chacei	0						
+Pseudocheles chacei	Pseudocheles chacei	Metazoa	Arthropoda	Malacostraca	Decapoda	Bresiliidae	Pseudocheles	Pseudocheles chacei	1						
 Pseudocuma gilsoni	Pseudocuma gilsoni	Metazoa	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	Pseudocuma	Pseudocuma gilsoni	2	2					
 Pseudocuma longicorne	Pseudocuma longicorne	Metazoa	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	Pseudocuma	Pseudocuma longicorne	2						
 Pseudocuma longicornis	Pseudocuma longicornis	Metazoa	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	Pseudocuma	Pseudocuma longicornis		2					
@@ -6367,7 +6367,7 @@ Pseudoeliocapitella fauveli								Pseudoeliocapitella fauveli							2
 Pseudofabriciola californica	Pseudofabriciola californica	Metazoa	Polychaeta	Polychaeta	Sabellida	Fabriciidae	Pseudofabriciola	Pseudofabriciola californica	2						
 Pseudofabriciola sp.	Pseudofabriciola	Metazoa	Polychaeta	Polychaeta	Sabellida	Fabriciidae	Pseudofabriciola	Pseudofabriciola sp.	2						
 Pseudoflustra solida	Pseudoflustra solida	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Smittinidae	Pseudoflustra	Pseudoflustra solida	2						
-Pseudograpsus albus	Pseudograpsus albus	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Pseudograpsus	Pseudograpsus albus	0						
+Pseudograpsus albus	Pseudograpsus albus	Metazoa	Arthropoda	Malacostraca	Decapoda	Varunidae	Pseudograpsus	Pseudograpsus albus	1						
 Pseudoleiocapitella fauveli	Pseudoleiocapitella fauveli	Metazoa	Annelida	Sedentaria	Scolecida	Capitellidae	Pseudoleiocapitella	Pseudoleiocapitella fauveli	5						2
 Pseudolirius kroyeri	Pseudolirius kroyeri	to be checked manually	NA	NA	NA	NA	NA	Pseudolirius kroyeri	2						
 Pseudomalacoceros cantabra	Pseudomalacoceros cantabra	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Pseudomalacoceros	Pseudomalacoceros cantabra	2						
@@ -6381,7 +6381,7 @@ Pseudomystides spinachia	Pseudomystidesnachia	Metazoa	Polychaeta	Polychaeta	Phyl
 Pseudonearea thomasya	Pseudonearea thomasya	to be checked manually	NA	NA	NA	NA	NA	Pseudonearea thomasya	1						
 Pseudonereis gallapagensis	Pseudonereis gallapagensis	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Pseudonereis	Pseudonereis gallapagensis	3						
 Pseudonereis variegata	Pseudonereis variegata	Metazoa	Annelida	Polychaeta	Phyllodocida	Nereididae	Pseudonereis	Pseudonereis variegata	3						
-Pseudoparatanais batei	Pseudoparatanais batei	Metazoa	Arthropoda	Malacostraca	Tanaidacea	NA	Pseudoparatanais	Pseudoparatanais batei	0	2					
+Pseudoparatanais batei	Pseudoparatanais batei	Metazoa	Arthropoda	Malacostraca	Tanaidacea	NA	Pseudoparatanais	Pseudoparatanais batei	1	2					
 Pseudopolydora antennata	Pseudopolydora antennata	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Pseudopolydora	Pseudopolydora antennata	4	2	4.5	6.44	20.33	3	3
 Pseudopolydora caulleryi	Pseudopolydora caulleryi	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Pseudopolydora	Pseudopolydora caulleryi	4						
 Pseudopolydora floridensis	Pseudopolydora floridensis	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Pseudopolydora	Pseudopolydora floridensis	4						
@@ -6395,13 +6395,13 @@ Pseudopotamilla fitzhughi	Pseudopotamilla fitzhughi	Metazoa	Polychaeta	Polychaet
 Pseudopotamilla reniformis	Pseudopotamilla reniformis	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Pseudopotamilla	Pseudopotamilla reniformis	2	1					
 Pseudopotamilla sp.	Pseudopotamilla	Metazoa	Polychaeta	Polychaeta	Sabellida	Sabellidae	Pseudopotamilla	Pseudopotamilla sp.	2						
 Pseudoprotella phasma	Pseudoprotella phasma	Metazoa	Arthropoda	Malacostraca	Amphipoda	Caprellidae	Pseudoprotella	Pseudoprotella phasma	3	1					
-Pseudopythina macandrewi	Pseudopythina macandrewi	to be checked manually	Mollusca	Bivalvia	Veneroida	Lasaeidae	Pseudopythina	Pseudopythina macandrewi	0						
-Pseudopythina maipoensis	Pseudopythina maipoensis	to be checked manually	Mollusca	Bivalvia	Veneroida	Lasaeidae	Pseudopythina	Pseudopythina maipoensis	0						
+Pseudopythina macandrewi	Pseudopythina macandrewi	to be checked manually	Mollusca	Bivalvia	Veneroida	Lasaeidae	Pseudopythina	Pseudopythina macandrewi	1						
+Pseudopythina maipoensis	Pseudopythina maipoensis	to be checked manually	Mollusca	Bivalvia	Veneroida	Lasaeidae	Pseudopythina	Pseudopythina maipoensis	1						
 Pseudopythina tsurumaru	Pseudopythina tsurumaru	to be checked manually	Mollusca	Bivalvia	Veneroida	Lasaeidae	Pseudopythina	Pseudopythina tsurumaru	2						
 Pseudorchestoidea brito	Pseudorchestoidea brito	Metazoa	Arthropoda	Malacostraca	Amphipoda	Talitridae	Pseudorchestoidea	Pseudorchestoidea brito	3						
 Pseudoscalibregma parvum	Pseudoscalibregma parvum	Metazoa	Annelida	Polychaeta	Capitellida	Scalibregmatidae	Pseudoscalibregma	Pseudoscalibregma parvum	3						
 Pseudosphyrapus anomalus	Pseudosphyrapus anomalus	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Sphyrapidae	Pseudosphyrapus	Pseudosphyrapus anomalus	3			20.45	27.41	1	
-Pseudosyllides curacaoensis	Pseudosyllides curacaoensis	to be checked manually	NA	NA	NA	NA	NA	Pseudosyllides curacaoensis	0						
+Pseudosyllides curacaoensis	Pseudosyllides curacaoensis	to be checked manually	NA	NA	NA	NA	NA	Pseudosyllides curacaoensis	1						
 Pseudosyllis brevipennis	Pseudosyllis brevipennis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Pseudosyllis	Pseudosyllis brevipennis	2						
 Pseudosyllis sp.	Pseudosyllis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Syllidae	Pseudosyllis	Pseudosyllis sp.	2						
 Pseudotanais forcipatus	Pseudotanais forcipatus	Animalia	Arthropoda	Malacostraca	Tanaidacea	Pseudotanaidae	Pseudotanais	Pseudotanais forcipatus		2					
@@ -6409,7 +6409,7 @@ Pseudotanais lilljeborgi	Pseudotanais lilljeborgi	Metazoa	Malacostraca	Malacostr
 Pseudotanais sp.	Pseudotanais	Metazoa	Malacostraca	Malacostraca	Tanaidacea	Pseudotanaidae	Pseudotanais	Pseudotanais sp.	2						
 Pseudothyone belli	Pseudothyone belli	Metazoa	Streptophyta	Holothuroidea	Brassicales	Brassicaceae	Pseudothyone	Pseudothyone belli	1						
 Pseudothyone raphanus	Pseudothyone raphanus	Metazoa	Streptophyta	Holothuroidea	Brassicales	Brassicaceae	Pseudothyone	Pseudothyone raphanus	1						
-Pseudovermilia occidentalis	Pseudovermilia occidentalis	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Pseudovermilia	Pseudovermilia occidentalis	0						
+Pseudovermilia occidentalis	Pseudovermilia occidentalis	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Pseudovermilia	Pseudovermilia occidentalis	1						
 Psolus phantapus	Psolus phantapus	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Psolidae	Psolus	Psolus phantapus	1	1					
 Psolus sp.	Psolus	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Psolidae	Psolus	Psolus sp.	2						
 Psolus squamatus	Psolus squamatus	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Psolidae	Psolus	Psolus squamatus	2						
@@ -6426,7 +6426,7 @@ Ptilanthura tenuis	Ptilanthura tenuis	Metazoa	Arthropoda	Malacostraca	Isopoda	An
 Ptychobela flavidula 	Ptychobela flavidula 	to be checked manually	NA	NA	NA	NA	NA	Ptychobela flavidula 	1						
 Ptychoderidae	Ptychoderidae	Metazoa	Hemichordata	Enteropneusta	__	Ptychoderidae	__	Ptychoderidae		2					
 Puellina radiata	Puellina radiata	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Cribrilinidae	Puellina	Puellina radiata	2						
-Pulsellum lofotense	Pulsellum lofotense	Metazoa	Mollusca	Scaphopoda	Gadilida	Pulsellidae	Pulsellum	Pulsellum lofotense	0						
+Pulsellum lofotense	Pulsellum lofotense	Metazoa	Mollusca	Scaphopoda	Gadilida	Pulsellidae	Pulsellum	Pulsellum lofotense	1						
 Punctacteon yamamurae	Punctacteon yamamurae	to be checked manually	NA	NA	NA	NA	NA	Punctacteon yamamurae	1						
 Punctulum wyvillethomsoni	Punctulum wyvillethomsoni	to be checked manually	NA	NA	NA	NA	NA	Punctulum wyvillethomsoni	1						
 Puncturella noachina	Puncturella noachina	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Fissurellidae	Puncturella	Puncturella noachina	1						
@@ -6453,7 +6453,7 @@ Pyrene marteni	Pyrene marteni	__	Gastropoda	Gastropoda	Neogastropoda	Columbellid
 Pyrene sp.	Pyrene	__	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Pyrene	Pyrene sp.	1						
 Pyrgocythara plicosa	Pyrgocythara plicosa	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Mangeliidae	Pyrgocythara	Pyrgocythara plicosa	1						
 Pyrgocythara sp.	Pyrgocythara	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Mangeliidae	Pyrgocythara	Pyrgocythara sp.	1						
-Pyrgoma sp.	Pyrgoma	Metazoa	NA	NA	Sessilia	Pyrgomatidae	Pyrgoma	Pyrgoma sp.	0						
+Pyrgoma sp.	Pyrgoma	Metazoa	NA	NA	Sessilia	Pyrgomatidae	Pyrgoma	Pyrgoma sp.	1						
 Pyrgomatidae	Pyrgomatidae	Metazoa	Arthropoda	Maxillopoda	Sessilia	Pyrgomatidae	__	Pyrgomatidae		1					
 Pyrhila carinata	Pyrhila carinata	Metazoa	Arthropoda	Malacostraca	Decapoda	Leucosiidae	Pyrhila	Pyrhila carinata	2						
 Pyrhila pisum	Pyrhila pisum	Metazoa	Arthropoda	Malacostraca	Decapoda	Leucosiidae	Pyrhila	Pyrhila pisum	2						
@@ -6465,7 +6465,7 @@ Quasimelita quadrispinosa	Quasimelita quadrispinosa	Metazoa	Arthropoda	Malacostr
 Questa caudicirra	Questa caudicirra	Metazoa	Polychaeta	Polychaeta	NA	Orbiniidae	Questa	Questa caudicirra	2						
 Questa sp.	Questa	Metazoa	Polychaeta	Polychaeta	NA	Orbiniidae	Questa	Questa sp.	2						
 Quistadrilus multisetosus	Quistadrilus multisetosus	Metazoa	Annelida	Oligochaeta	Tubificida	Naididae	Quistadrilus	Quistadrilus multisetosus	4						
-Rabilimis mirabilis	Rabilimis mirabilis	Viridiplantae	Streptophyta	Ostracoda	Caryophyllales	Nyctaginaceae	Mirabilis	Rabilimis mirabilis	0						
+Rabilimis mirabilis	Rabilimis mirabilis	Viridiplantae	Streptophyta	Ostracoda	Caryophyllales	Nyctaginaceae	Mirabilis	Rabilimis mirabilis	1						
 Radiella hemisphaerica	Radiella hemisphaerica	Metazoa	Porifera	Demospongiae	Polymastiida	Polymastiidae	Radiella	Radiella hemisphaerica	2						
 Radix peregra	Radix peregra	Metazoa	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Radix	Radix peregra	1						
 Raeta plicatella	Raeta plicatella	Metazoa	Mollusca	Bivalvia	Veneroida	Mactridae	Raeta	Raeta plicatella	2						
@@ -6475,18 +6475,18 @@ Raetellops pulchella	Raetellops pulchella	to be checked manually	NA	NA	NA	NA	NA	
 Ragionula rosacea	Ragionula rosacea	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Prayidae	Rosacea	Ragionula rosacea	2						
 Rangia cuneata	Rangia cuneata	Metazoa	Mollusca	Bivalvia	Veneroida	Mactridae	Rangia	Rangia cuneata	3						
 Raninoides laevis	Raninoides laevis	to be checked manually	NA	NA	NA	NA	NA	Raninoides laevis	2						
-Ranzania sagittaria	Ranzania sagittaria	to be checked manually	NA	NA	NA	NA	NA	Ranzania sagittaria	0						
+Ranzania sagittaria	Ranzania sagittaria	to be checked manually	NA	NA	NA	NA	NA	Ranzania sagittaria	1						
 Rapana bezoar	Rapana bezoar	Metazoa	Mollusca	Gastropoda	__	Muricidae	Rapana	Rapana bezoar	1						
 Rapana venosa	Rapana venosa	Metazoa	Mollusca	Gastropoda	__	Muricidae	Rapana	Rapana venosa	1						
 Raphidopus ciliatus	Raphidopus ciliatus	to be checked manually	NA	NA	NA	NA	NA	Raphidopus ciliatus	1						
-Raphidrilus nemasoma	Raphidrilus nemasoma	Metazoa	Arthropoda	Diplopoda	Julida	Nemasomatidae	Nemasoma	Raphidrilus nemasoma	0						
+Raphidrilus nemasoma	Raphidrilus nemasoma	Metazoa	Arthropoda	Diplopoda	Julida	Nemasomatidae	Nemasoma	Raphidrilus nemasoma	1						
 Raphitoma linearis	Raphitoma linearis	Metazoa	Mollusca	Gastropoda	Neogastropoda	Raphitomidae	Raphitoma	Raphitoma linearis	1						
 Raphitoma purpurea	Raphitoma purpurea	Metazoa	Mollusca	Gastropoda	Neogastropoda	Raphitomidae	Raphitoma	Raphitoma purpurea	1						
 Raphitoma sp.	Raphitoma	Metazoa	Mollusca	Gastropoda	Neogastropoda	Raphitomidae	Raphitoma	Raphitoma sp.	1						
-Raricirrus beryli	Raricirrus beryli	Metazoa	Annelida	Polychaeta	Spionida	Cirratulidae	Raricirrus	Raricirrus beryli	0						
+Raricirrus beryli	Raricirrus beryli	Metazoa	Annelida	Polychaeta	Spionida	Cirratulidae	Raricirrus	Raricirrus beryli	1						
 Raymondcia majuscula	Raymondcia majuscula	to be checked manually	NA	NA	NA	NA	NA	Raymondcia majuscula	2						
 Reloncavia chilenica	Reloncavia chilenica	to be checked manually	NA	NA	NA	NA	NA	Reloncavia chilenica	2						
-Remipes testudinarius	Remipes testudinarius	to be checked manually	NA	NA	NA	NA	NA	Remipes testudinarius	0						
+Remipes testudinarius	Remipes testudinarius	to be checked manually	NA	NA	NA	NA	NA	Remipes testudinarius	1						
 Reteporella grimaldii	Reteporella grimaldii	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Phidoloporidae	Reteporella	Reteporella grimaldii	2						
 Reteporella sp.	Reteporella	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Phidoloporidae	Reteporella	Reteporella sp.	2						
 Retrotapes exalbida	Retrotapes exalbida	to be checked manually	NA	NA	NA	NA	NA	Retrotapes exalbida	2						
@@ -6501,14 +6501,14 @@ Retusa truncatula	Retusa truncatula	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Re
 Retusa truncatula var. mammillata	Retusa truncatula var. mammillata	Animalia	Gastropoda	Gastropoda	Cephalaspidea	Retusidae	Retusa	Retusa truncatula var. mammillata		3					
 Retusa umbilicata	Retusa umbilicata	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Retusidae	Retusa	Retusa umbilicata	2	3					
 RETUSIDAE	RETUSIDAE	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Retusidae	__	RETUSIDAE	2						
-Rhabdammina abyssorum	Rhabdammina abyssorum	Chromista	Monothalamea	Monothalamea	Astrorhizida	Rhabdamminidae	Rhabdammina	Rhabdammina abyssorum	0						
+Rhabdammina abyssorum	Rhabdammina abyssorum	Chromista	Monothalamea	Monothalamea	Astrorhizida	Rhabdamminidae	Rhabdammina	Rhabdammina abyssorum	1						
 Rhabdopleura compacta	Rhabdopleura compacta	Metazoa	Hemichordata	Pterobranchia	Rhabdopleurida	Rhabdopleuridae	Rhabdopleura	Rhabdopleura compacta		2					
 Rhabdopleura normani	Rhabdopleura normani	Metazoa	Hemichordata	Pterobranchia	Rhabdopleurida	Rhabdopleuridae	Rhabdopleura	Rhabdopleura normani		2					
 RHABDOPLEURIDA	RHABDOPLEURIDA	Metazoa	Hemichordata	Pterobranchia	Rhabdopleurida	__	__	RHABDOPLEURIDA		2					
-Rhachotropis aculeata	Rhachotropis aculeata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis aculeata	0						
-Rhachotropis inermis	Rhachotropis inermis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis inermis	0						
-Rhachotropis integricauda	Rhachotropis integricauda	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis integricauda	0						
-Rhachotropis macropus	Rhachotropis macropus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis macropus	0						
+Rhachotropis aculeata	Rhachotropis aculeata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis aculeata	1						
+Rhachotropis inermis	Rhachotropis inermis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis inermis	1						
+Rhachotropis integricauda	Rhachotropis integricauda	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis integricauda	1						
+Rhachotropis macropus	Rhachotropis macropus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Eusiridae	Rhachotropis	Rhachotropis macropus	1						
 RHAGIONIDAE	RHAGIONIDAE	Metazoa	Arthropoda	Insecta	Diptera	Rhagionidae	__	RHAGIONIDAE	4						
 Rhamphidonta retifera	Rhamphidonta retifera	Metazoa	Mollusca	Bivalvia	Veneroida	Lasaeidae	Rhamphidonta	Rhamphidonta retifera	2						
 Rhamphobrachium sp.	Rhamphobrachium	Metazoa	Polychaeta	Polychaeta	Eunicida	Onuphidae	Rhamphobrachium	Rhamphobrachium sp.	2						
@@ -6529,9 +6529,9 @@ Rhizorus acuminatus	Rhizorus acuminatus	NA	NA	NA	NA	NA	NA	Rhizorus acuminatus	2
 Rhodine gracilior	Rhodine gracilior	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Rhodine	Rhodine gracilior	1	3	0	12.09	29.16	1	
 Rhodine loveni	Rhodine loveni	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Rhodine	Rhodine loveni	2		1.5	9.37	26.68	2	1
 Rhodine sp.	Rhodine	Metazoa	Polychaeta	Polychaeta	Capitellida	Maldanidae	Rhodine	Rhodine sp.	2			13.82	28.18	1	
-Rhodinicola elongata	Rhodinicola elongata	to be checked manually	NA	NA	NA	NA	NA	Rhodinicola elongata	0						
-Rhomboidella prideauxi	Rhomboidella prideauxi	to be checked manually	NA	NA	NA	NA	NA	Rhomboidella prideauxi	0	1					
-Rhopalomenia aglaopheniae	Rhopalomenia aglaopheniae	Metazoa	Mollusca	Solenogastres	Cavibelonia	Rhopalomeniidae	Rhopalomenia	Rhopalomenia aglaopheniae	0						
+Rhodinicola elongata	Rhodinicola elongata	to be checked manually	NA	NA	NA	NA	NA	Rhodinicola elongata	1						
+Rhomboidella prideauxi	Rhomboidella prideauxi	to be checked manually	NA	NA	NA	NA	NA	Rhomboidella prideauxi	1	1					
+Rhopalomenia aglaopheniae	Rhopalomenia aglaopheniae	Metazoa	Mollusca	Solenogastres	Cavibelonia	Rhopalomeniidae	Rhopalomenia	Rhopalomenia aglaopheniae	1						
 Rhyacodrilinae	Rhyacodrilinae	Metazoa	Annelida	Oligochaeta	Haplotaxida	Tubificidae	__	Rhyacodrilinae		4					
 Rhynchospio glutaea	Rhynchospio glutaea	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Rhynchospio	Rhynchospio glutaea	3						
 Rictaxis punctocaelatus	Rictaxis punctocaelatus	Metazoa	Mollusca	Gastropoda	Heterostropha	Acteonidae	Rictaxis	Rictaxis punctocaelatus	2						
@@ -6567,17 +6567,17 @@ Rochefortia mortoni	Rochefortia mortoni	Metazoa	Mollusca	Bivalvia	Veneroida	Lasa
 Rochefortia sp.	Rochefortia	Metazoa	Mollusca	Bivalvia	Veneroida	Lasaeidae	Rochefortia	Rochefortia sp.	2						
 Rochefortia tumida	Rochefortia tumida	Metazoa	Mollusca	Bivalvia	Veneroida	Lasaeidae	Rochefortia	Rochefortia tumida	2						
 Rocinela belliceps	Rocinela belliceps	Metazoa	Arthropoda	Malacostraca	Isopoda	Aegidae	Rocinela	Rocinela belliceps	2						
-Roxania utriculus	Roxania utriculus	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Cylichnidae	Roxania	Roxania utriculus	0						
+Roxania utriculus	Roxania utriculus	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Cylichnidae	Roxania	Roxania utriculus	1						
 Rudilemboides naglei	Rudilemboides naglei	Metazoa	Malacostraca	Malacostraca	Amphipoda	Unciolidae	Rudilemboides	Rudilemboides naglei	2						
 Rudilemboides sp.	Rudilemboides	Metazoa	Malacostraca	Malacostraca	Amphipoda	Unciolidae	Rudilemboides	Rudilemboides sp.	2						
 Ruditapes decussatus	Ruditapes decussatus	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Ruditapes	Ruditapes decussatus	1						
 Ruditapes philippinarum	Ruditapes philippinarum	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Ruditapes	Ruditapes philippinarum	3						
-Rullierinereis mexicana	Rullierinereis mexicana	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Rullierinereis	Rullierinereis mexicana	0						
+Rullierinereis mexicana	Rullierinereis mexicana	Metazoa	Annelida	Errantia	Phyllodocida	Nereididae	Rullierinereis	Rullierinereis mexicana	1						
 RUNCINIDAE	RUNCINIDAE	Metazoa	Mollusca	Gastropoda	Cephalaspidea	Runcinidae	__	RUNCINIDAE	1						
 Rutiderma apex	Rutiderma apex	Metazoa	Arthropoda	Ostracoda	Myodocopida	Rutidermatidae	Rutiderma	Rutiderma apex	2						
 Rutiderma judayi	Rutiderma judayi	Metazoa	Arthropoda	Ostracoda	Myodocopida	Rutidermatidae	Rutiderma	Rutiderma judayi	2						
 Rutiderma lomae	Rutiderma lomae	Metazoa	Arthropoda	Ostracoda	Myodocopida	Rutidermatidae	Rutiderma	Rutiderma lomae	2						
-Sabaco elongatus	Sabaco elongatus	to be checked manually	NA	NA	NA	NA	NA	Sabaco elongatus	0						
+Sabaco elongatus	Sabaco elongatus	to be checked manually	NA	NA	NA	NA	NA	Sabaco elongatus	1						
 Sabatieria punctata	Sabatieria punctata	Metazoa	Chromadorea	Chromadorea	Araeolaimida	Comesomatidae	Sabatieria	Sabatieria punctata	5						
 Sabatieria sp.	Sabatieria	Metazoa	Chromadorea	Chromadorea	Araeolaimida	Comesomatidae	Sabatieria	Sabatieria sp.	5						
 Sabella discifera	Sabella discifera	Metazoa	Annelida	Polychaeta	Sabellida	Sabellidae	Sabella	Sabella discifera	2						
@@ -6625,15 +6625,15 @@ Saduria entomon	Saduria entomon	Metazoa	Arthropoda	Malacostraca	Isopoda	Chaetili
 Saduria sabini	Saduria sabini	Metazoa	Arthropoda	Malacostraca	Isopoda	Chaetiliidae	Saduria	Saduria sabini	3						
 Saduria sp.	Saduria	Metazoa	Arthropoda	Malacostraca	Isopoda	Chaetiliidae	Saduria	Saduria sp.	3						
 Sagartia troglodytes	Sagartia troglodytes	Metazoa	Anthozoa	Anthozoa	Actiniaria	Sagartiidae	Sagartia	Sagartia troglodytes	1	3					
-Sagartiogeton undatus	Sagartiogeton undatus	Metazoa	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	Sagartiogeton	Sagartiogeton undatus	0						
-Sagitella kowalewskii	Sagitella kowalewskii	Metazoa	Annelida	Errantia	Phyllodocida	Typhloscolecidae	Sagitella	Sagitella kowalewskii	0						
+Sagartiogeton undatus	Sagartiogeton undatus	Metazoa	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	Sagartiogeton	Sagartiogeton undatus	1						
+Sagitella kowalewskii	Sagitella kowalewskii	Metazoa	Annelida	Errantia	Phyllodocida	Typhloscolecidae	Sagitella	Sagitella kowalewskii	1						
 Sagitta batava	Sagitta batava	Metazoa	Sagittoidea	Sagittoidea	Aphragmophora	Sagittidae	Sagitta	Sagitta batava	1						
 Sagitta crassa	Sagitta crassa	Metazoa	Sagittoidea	Sagittoidea	Aphragmophora	Sagittidae	Sagitta	Sagitta crassa	1						
 Sagitta elegans	Sagitta elegans	Metazoa	Sagittoidea	Sagittoidea	Aphragmophora	Sagittidae	Sagitta	Sagitta elegans	1						
 Sagitta sp.	Sagitta	Metazoa	Sagittoidea	Sagittoidea	Aphragmophora	Sagittidae	Sagitta	Sagitta sp.	1						
 Salitra radwini	Salitra radwini	to be checked manually	NA	NA	NA	NA	NA	Salitra radwini	2						
-Salmacina dysteri	Salmacina dysteri	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Salmacina	Salmacina dysteri	0	1					
-Salmacina incrustans	Salmacina incrustans	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Salmacina	Salmacina incrustans	0						
+Salmacina dysteri	Salmacina dysteri	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Salmacina	Salmacina dysteri	1	1					
+Salmacina incrustans	Salmacina incrustans	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Salmacina	Salmacina incrustans	1						
 Salvatoria clavata	Salvatoria clavata	to be checked manually	Annelida	Polychaeta	Phyllodocida	Syllidae	Salvatoria	Salvatoria clavata	2						
 Salvatoria euritmica	Salvatoria euritmica	to be checked manually	Annelida	Polychaeta	Phyllodocida	Syllidae	Salvatoria	Salvatoria euritmica	2						
 Salvatoria limbata	Salvatoria limbata	to be checked manually	Annelida	Polychaeta	Phyllodocida	Syllidae	Salvatoria	Salvatoria limbata	2						
@@ -6649,10 +6649,10 @@ Samytha sp.	Samytha	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Samyt
 Samythella affinis	Samythella affinis	to be checked manually	NA	NA	NA	NA	NA	Samythella affinis	2						
 Samythella neglecta	Samythella neglecta	Animalia	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Samythella	Samythella neglecta		2					
 Samythella vanelli	Samythella vanelli	to be checked manually	NA	NA	NA	NA	NA	Samythella vanelli	1						
-Sanguinolaria chinensis 	Sanguinolaria chinensis 	Metazoa	Mollusca	Bivalvia	Veneroida	Psammobiidae	Soletellina	Sanguinolaria chinensis 	0						
-Sarsinebalia cristoboi	Sarsinebalia cristoboi	Metazoa	Arthropoda	Malacostraca	Leptostraca	Nebaliidae	Sarsinebalia	Sarsinebalia cristoboi	0						
+Sanguinolaria chinensis 	Sanguinolaria chinensis 	Metazoa	Mollusca	Bivalvia	Veneroida	Psammobiidae	Soletellina	Sanguinolaria chinensis 	1						
+Sarsinebalia cristoboi	Sarsinebalia cristoboi	Metazoa	Arthropoda	Malacostraca	Leptostraca	Nebaliidae	Sarsinebalia	Sarsinebalia cristoboi	1						
 Sarsinebalia typhlops	Sarsinebalia typhlops	Metazoa	Arthropoda	Malacostraca	Leptostraca	Nebaliidae	Sarsinebalia	Sarsinebalia typhlops	2						
-Sarsinebalia urgorrii	Sarsinebalia urgorrii	Metazoa	Arthropoda	Malacostraca	Leptostraca	Nebaliidae	Sarsinebalia	Sarsinebalia urgorrii	0						
+Sarsinebalia urgorrii	Sarsinebalia urgorrii	Metazoa	Arthropoda	Malacostraca	Leptostraca	Nebaliidae	Sarsinebalia	Sarsinebalia urgorrii	1						
 Sarsonuphis quadricuspis	Sarsonuphis quadricuspis	Metazoa	Polychaeta	Polychaeta	Eunicida	Onuphidae	Sarsonuphis	Sarsonuphis quadricuspis	1						
 Sarsonuphis sp.	Sarsonuphis	Metazoa	Polychaeta	Polychaeta	Eunicida	Onuphidae	Sarsonuphis	Sarsonuphis sp.	1						
 Saxicavella jeffreysi	Saxicavella jeffreysi	Metazoa	Mollusca	Bivalvia	Myoida	Hiatellidae	Saxicavella	Saxicavella jeffreysi	1	2					
@@ -6661,7 +6661,7 @@ Saxidomus nuttalli	Saxidomus nuttalli	Metazoa	Mollusca	Bivalvia	Veneroida	Veneri
 Sayella chesapeakea	Sayella chesapeakea	Metazoa	Mollusca	Gastropoda	Heterostropha	Pyramidellidae	Sayella	Sayella chesapeakea	1						
 Sayella fusca	Sayella fusca	Metazoa	Mollusca	Gastropoda	Heterostropha	Pyramidellidae	Sayella	Sayella fusca	1						
 Sayella sp.	Sayella	Metazoa	Mollusca	Gastropoda	Heterostropha	Pyramidellidae	Sayella	Sayella sp.	1						
-Scaccihia elliptica	Scaccihia elliptica	Metazoa	Arthropoda	Insecta	Coleoptera	Carabidae	Cicindela	Scaccihia elliptica	0						
+Scaccihia elliptica	Scaccihia elliptica	Metazoa	Arthropoda	Insecta	Coleoptera	Carabidae	Cicindela	Scaccihia elliptica	1						
 Scalibregma californicum	Scalibregma californicum	Metazoa	Polychaeta	Polychaeta	NA	Scalibregmatidae	Scalibregma	Scalibregma californicum	2						
 Scalibregma celticum	Scalibregma celticum	Metazoa	Polychaeta	Polychaeta	NA	Scalibregmatidae	Scalibregma	Scalibregma celticum	3	2					
 Scalibregma inflatum	Scalibregma inflatum	Metazoa	Polychaeta	Polychaeta	NA	Scalibregmatidae	Scalibregma	Scalibregma inflatum	3	2	3	5.43	21.61	3	2
@@ -6686,7 +6686,7 @@ Schistomeringos caeca	Schistomeringos caeca	Metazoa	Annelida	Polychaeta	Eunicida
 Schistomeringos eliasoni	Schistomeringos (Parougia) eliasoni	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos eliasoni	2		1.5	12.3	29.66	1	
 Schistomeringos eliasoni (Parougia)	Schistomeringos (Parougia) eliasoni	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos eliasoni (Parougia)	2		1.5	12.3	29.66	1	
 Schistomeringos kefersteini	Schistomeringos kefersteini	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos kefersteini	2						
-Schistomeringos longicornis	Schistomeringos longicornis	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos longicornis	0						
+Schistomeringos longicornis	Schistomeringos longicornis	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos longicornis	1						
 Schistomeringos neglecta	Schistomeringos neglecta	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos neglecta	2	4					
 Schistomeringos pectinata	Schistomeringos pectinata	Metazoa	Annelida	Polychaeta	Eunicida	Dorvilleidae	Schistomeringos	Schistomeringos pectinata	2						
 Schistomeringos rudolphi								Schistomeringos rudolphi							3
@@ -6697,19 +6697,19 @@ Schistomysis kervillei	Schistomysis kervillei	Metazoa	Arthropoda	Malacostraca	My
 Schistomysis ornata	Schistomysis ornata	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Schistomysis	Schistomysis ornata	2						
 Schistomysis sp.	Schistomysis	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Schistomysis	Schistomysis sp.	2						
 Schistomysis spiritus	Schistomysisritus	Metazoa	Arthropoda	Malacostraca	Mysida	Mysidae	Schistomysis	Schistomysis spiritus	2						
-Schizaster canaliferus	Schizaster canaliferus	Metazoa	Echinodermata	Echinoidea	Spatangoida	Schizasteridae	Schizaster	Schizaster canaliferus	0						
+Schizaster canaliferus	Schizaster canaliferus	Metazoa	Echinodermata	Echinoidea	Spatangoida	Schizasteridae	Schizaster	Schizaster canaliferus	1						
 Schizomavella auriculata	Schizomavella auriculata	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bitectiporidae	Schizomavella	Schizomavella auriculata	1						
 Schizomavella linearis	Schizomavella linearis	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bitectiporidae	Schizomavella	Schizomavella linearis	1						
 Schizomavella sp.	Schizomavella	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Bitectiporidae	Schizomavella	Schizomavella sp.	1						
 Schizoporella cornuta	Schizoporella cornuta	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Schizoporellidae	Schizoporella	Schizoporella cornuta	1						
 Schizoporella sp.	Schizoporella	Metazoa	Gymnolaemata	Gymnolaemata	Cheilostomatida	Schizoporellidae	Schizoporella	Schizoporella sp.	1						
-Schizotrema atlanticum	Schizotrema atlanticum	to be checked manually	NA	NA	NA	NA	NA	Schizotrema atlanticum	0						
+Schizotrema atlanticum	Schizotrema atlanticum	to be checked manually	NA	NA	NA	NA	NA	Schizotrema atlanticum	1						
 Schmittius politus	Schmittius politus	Metazoa	Arthropoda	Malacostraca	Stomatopoda	Squillidae	Schmittius	Schmittius politus	2						
 Scionella lornensis	Scionella lornensis	to be checked manually	NA	NA	NA	NA	NA	Scionella lornensis	1						
 Sclerocheilus minutus	Sclerocheilus minutus	Metazoa	Annelida	Sedentaria	Scolecida	Scalibregmatidae	Sclerocheilus	Sclerocheilus minutus	3	2					
 Sclerocrangon boreas	Sclerocrangon boreas	Metazoa	Arthropoda	Malacostraca	Decapoda	Crangonidae	Sclerocrangon	Sclerocrangon boreas	1						
 Sclerocrangon ferox	Sclerocrangon ferox	Metazoa	Arthropoda	Malacostraca	Decapoda	Crangonidae	Sclerocrangon	Sclerocrangon ferox	1						
-Sclerodactyla multipes	Sclerodactyla multipes	to be checked manually	NA	NA	NA	NA	NA	Sclerodactyla multipes	0						
+Sclerodactyla multipes	Sclerodactyla multipes	to be checked manually	NA	NA	NA	NA	NA	Sclerodactyla multipes	1						
 Scleroplax granulata	Scleroplax granulata	Metazoa	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Scleroplax	Scleroplax granulata	2						
 Scolanthus sp.	Scolanthus	Metazoa	Anthozoa	Anthozoa	Actiniaria	Edwardsiidae	Scolanthus	Scolanthus sp.	2						
 Scolaricia sp.	Scolaricia	Metazoa	Polychaeta	Polychaeta	NA	Orbiniidae	Scolaricia	Scolaricia sp.	1						
@@ -6733,7 +6733,7 @@ Scolelepis squamosus								Scolelepis squamosus							2
 Scolelepis texana	Scolelepis texana	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Scolelepis	Scolelepis texana	3						
 Scolelepis tridentata	Scolelepis tridentata	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Scolelepis	Scolelepis tridentata	3	2		9.66	23.07	3	
 Scolelepis victoriensis 	Scolelepis victoriensis 	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Scolelepis	Scolelepis victoriensis 	3						
-Scolepis cirratulus	Scolepis cirratulus	Metazoa	Annelida	Polychaeta	Spionida	Cirratulidae	Cirratulus	Scolepis cirratulus	0						
+Scolepis cirratulus	Scolepis cirratulus	Metazoa	Annelida	Polychaeta	Spionida	Cirratulidae	Cirratulus	Scolepis cirratulus	1						
 Scoletoma emandibla	Scoletoma emandibla	to be checked manually	Polychaeta	Polychaeta	Eunicida	Lumbrineridae	Scoletoma	Scoletoma emandibla	2						
 Scoletoma emandibla mabiti	Scoletoma emandibla mabiti	to be checked manually	Polychaeta	Polychaeta	Eunicida	Lumbrineridae	Scoletoma	Scoletoma emandibla mabiti	2						
 Scoletoma emandibulata	Scoletoma emandibulata	to be checked manually	Polychaeta	Polychaeta	Eunicida	Lumbrineridae	Scoletoma	Scoletoma emandibulata	2						
@@ -6762,7 +6762,7 @@ Scoloplos rubra	Scoloplos rubra	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae
 Scoloplos sp.	Scoloplos	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Scoloplos	Scoloplos sp.	1		3			3	
 Scoloplos texana	Scoloplos texana	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Scoloplos	Scoloplos texana	1						
 Scoloplos treadwelli	Scoloplos treadwelli	Metazoa	Annelida	Sedentaria	Scolecida	Orbiniidae	Scoloplos	Scoloplos treadwelli	1						
-Scopelocheirus hopei	Scopelocheirus hopei	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Scopelocheirus	Scopelocheirus hopei	0	3					
+Scopelocheirus hopei	Scopelocheirus hopei	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Scopelocheirus	Scopelocheirus hopei	1	3					
 Scopimera longidactyla	Scopimera longidactyla	Metazoa	Arthropoda	Malacostraca	Decapoda	Dotillidae	Scopimera	Scopimera longidactyla	1						
 Scrobicularia plana	Scrobicularia plana	Metazoa	Bivalvia	Bivalvia	Cardiida	Semelidae	Scrobicularia	Scrobicularia plana	3	2					
 Scrobicularia sp.	Scrobicularia	Metazoa	Bivalvia	Bivalvia	Cardiida	Semelidae	Scrobicularia	Scrobicularia sp.	3						
@@ -6783,11 +6783,11 @@ Semele sp.	Semele	Metazoa	Mollusca	Bivalvia	Veneroida	Semelidae	Semele	Semele sp
 Semele venusta	Semele venusta	Metazoa	Mollusca	Bivalvia	Veneroida	Semelidae	Semele	Semele venusta	2						
 Semibalanus balanoides	Semibalanus balanoides	Metazoa	Arthropoda	Maxillopoda	Sessilia	Archaeobalanidae	Semibalanus	Semibalanus balanoides	1	1					
 Semibalanus sp.	Semibalanus	Metazoa	Arthropoda	Maxillopoda	Sessilia	Archaeobalanidae	Semibalanus	Semibalanus sp.	1						
-Semicassis saburon	Semicassis saburon	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Cassidae	Semicassis	Semicassis saburon	0						
+Semicassis saburon	Semicassis saburon	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Cassidae	Semicassis	Semicassis saburon	1						
 Semierycina nitida	Semierycina nitida	Metazoa	Mollusca	Bivalvia	Veneroida	Lasaeidae	Semierycina	Semierycina nitida	2	1					
 Semimytilus algosus	Semimytilus algosus	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Semimytilus	Semimytilus algosus	1						
 Semivermilia sp.	Semivermilia	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Semivermilia	Semivermilia sp.	2						
-Sergia sp.	Sergia	Metazoa	Rhabditophora	Rhabditophora	Rhabdocoela	Dalyelliidae	Sergia	Sergia sp.	0						
+Sergia sp.	Sergia	Metazoa	Rhabditophora	Rhabditophora	Rhabdocoela	Dalyelliidae	Sergia	Sergia sp.	1						
 Sermyla riqueti 	Sermyla riqueti 	Metazoa	Mollusca	Gastropoda	__	Thiaridae	Sermyla	Sermyla riqueti 	1						
 Serpula concharum	Serpula concharum	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Serpula	Serpula concharum	1						1
 Serpula lobiancoi	Serpula lobiancoi	Metazoa	Polychaeta	Polychaeta	Sabellida	Serpulidae	Serpula	Serpula lobiancoi	1						1
@@ -6821,23 +6821,23 @@ Setia ambigua	Setia ambigua	Metazoa	Mollusca	Gastropoda	__	Rissoidae	Setia	Setia
 Setia semistriata	Setia semistriata	Metazoa	Mollusca	Gastropoda	__	Rissoidae	Setia	Setia semistriata	1						
 Sextonia longirostris	Sextonia longirostris	to be checked manually	NA	NA	NA	NA	NA	Sextonia longirostris	2						
 SIBOGLINIDAE	SIBOGLINIDAE	Metazoa	Annelida	Polychaeta	Sabellida	Siboglinidae	__	SIBOGLINIDAE	1		0	15.58	30.23	1	
-Siboglinum sp.	Siboglinum	Metazoa	Polychaeta	Polychaeta	Sabellida	Siboglinidae	Siboglinum	Siboglinum sp.	0						
-Sicyonia carinata	Sicyonia carinata	Metazoa	Arthropoda	Malacostraca	Decapoda	Sicyoniidae	Sicyonia	Sicyonia carinata	0						
+Siboglinum sp.	Siboglinum	Metazoa	Polychaeta	Polychaeta	Sabellida	Siboglinidae	Siboglinum	Siboglinum sp.	1						
+Sicyonia carinata	Sicyonia carinata	Metazoa	Arthropoda	Malacostraca	Decapoda	Sicyoniidae	Sicyonia	Sicyonia carinata	1						
 Sigalion capense 	Sigalion capense 	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Sigalion	Sigalion capense 	2						
 Sigalion mathildae	Sigalion mathildae	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Sigalion	Sigalion mathildae	2	3					1
 Sigalion sp.	Sigalion	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Sigalion	Sigalion sp.	2						
 Sigalion spinosus	Sigalionnosus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Sigalion	Sigalion spinosus	1						
 Sigalion squamosum	Sigalion squamosum	Animalia	Annelida	Polychaeta	Phyllodocida	Sigalionidae	Sigalion	Sigalion squamosum		3					
 Sigalion squamosus	Sigalion squamosus	to be checked manually	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Sigalion	Sigalion squamosus	2						1
-SIGALIONIDAE	SIGALIONIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Sigalionidae	__	SIGALIONIDAE	0	3					
+SIGALIONIDAE	SIGALIONIDAE	Metazoa	Annelida	Polychaeta	Phyllodocida	Sigalionidae	__	SIGALIONIDAE	1	3					
 Sigambra bassi	Sigambra bassi	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Sigambra	Sigambra bassi	4						
 Sigambra hanaokai	Sigambra hanaokai	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Sigambra	Sigambra hanaokai	2						
 Sigambra parva	Sigambra parva	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Sigambra	Sigambra parva	3						1
-Sigambra sp.	Sigambra	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Sigambra	Sigambra sp.	0						
+Sigambra sp.	Sigambra	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Sigambra	Sigambra sp.	1						
 Sigambra tentaculata	Sigambra tentaculata	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Sigambra	Sigambra tentaculata	4						
 Sige fusigera	Sige fusigera	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Phyllodocidae	Sige	Sige fusigera	3	3	3	8.7	20.39	3	
 Sige sp.	Sige	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Phyllodocidae	Sige	Sige sp.	3						
-Sigmomorphina semitecta	Sigmomorphina semitecta	to be checked manually	NA	NA	NA	NA	NA	Sigmomorphina semitecta	0						
+Sigmomorphina semitecta	Sigmomorphina semitecta	to be checked manually	NA	NA	NA	NA	NA	Sigmomorphina semitecta	1						
 Siliqua minima	Siliqua minima	Metazoa	Bivalvia	Bivalvia	Adapedonta	Pharidae	Siliqua	Siliqua minima	2						
 Siliqua pulchella	Siliqua pulchella	Metazoa	Bivalvia	Bivalvia	Adapedonta	Pharidae	Siliqua	Siliqua pulchella	2						
 Siliqua sp.	Siliqua	Metazoa	Bivalvia	Bivalvia	Adapedonta	Pharidae	Siliqua	Siliqua sp.	2						
@@ -6881,8 +6881,8 @@ Socarnopsis filicornis	Socarnopsis filicornis	to be checked manually	NA	NA	NA	NA
 Solamen columbianum	Solamen columbianum	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Solamen	Solamen columbianum	2						
 Solariella obscura	Solariella obscura	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Solariella	Solariella obscura	1						
 Solariella varicosa	Solariella varicosa	Metazoa	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Solariella	Solariella varicosa	1						
-Solariorbis infracarinatus	Solariorbis infracarinatus	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Tornidae	Solariorbis	Solariorbis infracarinatus	0						
-Solariorbis sp.	Solariorbis	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Tornidae	Solariorbis	Solariorbis sp.	0						
+Solariorbis infracarinatus	Solariorbis infracarinatus	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Tornidae	Solariorbis	Solariorbis infracarinatus	1						
+Solariorbis sp.	Solariorbis	Metazoa	Gastropoda	Gastropoda	Littorinimorpha	Tornidae	Solariorbis	Solariorbis sp.	1						
 Solaster endeca	Solaster endeca	Metazoa	Asteroidea	Asteroidea	Valvatida	Solasteridae	Solaster	Solaster endeca	1						
 Solaster sp.	Solaster	Metazoa	Asteroidea	Asteroidea	Valvatida	Solasteridae	Solaster	Solaster sp.	1						
 Solaster syrtensis	Solaster syrtensis	Metazoa	Asteroidea	Asteroidea	Valvatida	Solasteridae	Solaster	Solaster syrtensis	1						
@@ -6909,10 +6909,10 @@ Solenocera sp.	Solenocera	Metazoa	Arthropoda	Bivalvia	Decapoda	Solenidae	Solenoc
 SOLENOCERIDAE	SOLENOCERIDAE	Metazoa	Arthropoda	Malacostraca	Decapoda	Solenoceridae	__	SOLENOCERIDAE	2						
 Solenocurtus antiquatus	Solenocurtus antiquatus	Metazoa	Arthropoda	Bivalvia	Decapoda	Solenidae	Solen	Solenocurtus antiquatus	1						
 Solenogastres indet	Solenogastres indet	Metazoa	Mollusca	Solenogastres	Solenogastres XXX	Solenogastres XXX	Solenogastres	Solenogastres indet							
-Sophrosyne inverarae	Sophrosyne inverarae	to be checked manually	NA	NA	NA	NA	NA	Sophrosyne inverarae	0						
+Sophrosyne inverarae	Sophrosyne inverarae	to be checked manually	NA	NA	NA	NA	NA	Sophrosyne inverarae	1						
 Sophrosyne robertsoni	Sophrosyne robertsoni	Animalia	Arthropoda	Malacostraca	Amphipoda	Uristidae	Sophrosyne	Sophrosyne robertsoni		3					
 Sosane gracilis	Sosane gracilis	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Sosane	Sosane gracilis	3						
-Sosane sp.	Sosane	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Sosane	Sosane sp.	0						
+Sosane sp.	Sosane	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Sosane	Sosane sp.	1						
 Sosane sulcata	Sosane sulcata	Metazoa	Polychaeta	Polychaeta	Terebellida	Ampharetidae	Sosane	Sosane sulcata	2	2	1.5	10.6	31.49	1	
 Sosanides glandularis	Sosanides glandularis	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Sosanides	Sosanides glandularis	3						
 Sosanopsis wireni	Sosanopsis wireni	Metazoa	Annelida	Sedentaria	Canalipalpata	Ampharetidae	Sosanopsis	Sosanopsis wireni	1	2	0	9.93	31.29	1	
@@ -6962,7 +6962,7 @@ Sphaerosyllis ovigera	Sphaerosyllis ovigera	Animalia	Annelida	Polychaeta	Phyllod
 Sphaerosyllis pirifera	Sphaerosyllis pirifera	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis pirifera	2	2					
 Sphaerosyllis piriferopsis	Sphaerosyllis piriferopsis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis piriferopsis	2						
 Sphaerosyllis ranunculus	Sphaerosyllis ranunculus	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis ranunculus	1						
-Sphaerosyllis sp.	Sphaerosyllis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis sp.	0	2					
+Sphaerosyllis sp.	Sphaerosyllis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis sp.	1	2					
 Sphaerosyllis taylori	Sphaerosyllis taylori	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis taylori	2	3	1.5	17.41	36.13	1	1
 Sphaerosyllis tetralix	Sphaerosyllis tetralix	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis tetralix	2	2					
 Sphaerosyllis thomasi	Sphaerosyllis thomasi	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Sphaerosyllis	Sphaerosyllis thomasi	2						
@@ -6971,7 +6971,7 @@ Sphenia binghami	Sphenia binghami	Metazoa	Mollusca	Bivalvia	Myoida	Myidae	Spheni
 Sphenia fragilis	Sphenia fragilis	Metazoa	Mollusca	Bivalvia	Myoida	Myidae	Sphenia	Sphenia fragilis	2						
 Sphenia sp.	Sphenia	Metazoa	Mollusca	Bivalvia	Myoida	Myidae	Sphenia	Sphenia sp.	1						
 Sphyrapus anomalus	Sphyrapus anomalus	NA	NA	NA	NA	NA	NA	Sphyrapus anomalus	3						
-Spinolambrus macrochelos	Spinolambrus macrochelos	to be checked manually	NA	NA	NA	NA	NA	Spinolambrus macrochelos	0						
+Spinolambrus macrochelos	Spinolambrus macrochelos	to be checked manually	NA	NA	NA	NA	NA	Spinolambrus macrochelos	1						
 Spio arctica	Spio arctica	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Spio	Spio arctica	3		3				
 Spio armata	Spio armata	Metazoa	Annelida	Sedentaria	Canalipalpata	Spionidae	Spio	Spio armata	3	1					
 Spio decorata	Spio decorata	Metazoa	Annelida	Polychaeta	Spionida	Spionidae	Spio	Spio decorata		1					
@@ -7018,8 +7018,8 @@ Spirobranchus sp.	Spirobranchus	to be checked manually	Polychaeta	Polychaeta	Sab
 Spirobranchus tetraceros	Spirobranchus tetraceros	to be checked manually	Polychaeta	Polychaeta	Sabellida	Serpulidae	Spirobranchus	Spirobranchus tetraceros	2						
 Spirobranchus triqueter	Spirobranchus triqueter	to be checked manually	Polychaeta	Polychaeta	Sabellida	Serpulidae	Spirobranchus	Spirobranchus triqueter	2						
 Spirographis spallanzanii	Spirographisllanzanii	to be checked manually	NA	NA	NA	NA	NA	Spirographis spallanzanii	1						
-Spirontocaris lilljeborgii	Spirontocaris lilljeborgii	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Spirontocaris	Spirontocaris lilljeborgii	0						
-Spirontocaris spinus	Spirontocarisnus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Spirontocaris	Spirontocaris spinus	0						
+Spirontocaris lilljeborgii	Spirontocaris lilljeborgii	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Spirontocaris	Spirontocaris lilljeborgii	1						
+Spirontocaris spinus	Spirontocarisnus	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Spirontocaris	Spirontocaris spinus	1						
 SPIRORBIDAE	SPIRORBIDAE	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	__	SPIRORBIDAE	2						
 Spirorbis corallinae	Spirorbis corallinae	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Spirorbis	Spirorbis corallinae	2						
 Spirorbis marioni	Spirorbis marioni	Metazoa	Annelida	Polychaeta	Sabellida	Serpulidae	Spirorbis	Spirorbis marioni	2						
@@ -7038,20 +7038,20 @@ Squilla oratoria	Squilla oratoria	Metazoa	Malacostraca	Malacostraca	Stomatopoda	
 Staurocephalus kefersteini	Staurocephalus kefersteini	to be checked manually	NA	NA	NA	NA	NA	Staurocephalus kefersteini	2						
 Staurocephalus rudolphii	Staurocephalus rudolphii	to be checked manually	NA	NA	NA	NA	NA	Staurocephalus rudolphii	4						
 Stauronereis caecus	Stauronereis caecus	to be checked manually	NA	NA	NA	NA	NA	Stauronereis caecus	4						
-Stegocephaloides christianiensis	Stegocephaloides christianiensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stegocephalidae	Stegocephaloides	Stegocephaloides christianiensis	0						
+Stegocephaloides christianiensis	Stegocephaloides christianiensis	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stegocephalidae	Stegocephaloides	Stegocephaloides christianiensis	1						
 Stegocephalus inflatus	Stegocephalus inflatus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Stegocephalidae	Stegocephalus	Stegocephalus inflatus	1						
 Stegocephalus sp.	Stegocephalus	Metazoa	Malacostraca	Malacostraca	Amphipoda	Stegocephalidae	Stegocephalus	Stegocephalus sp.	1						
 Stegohornera lichenoides	Stegohornera lichenoides	to be checked manually	NA	NA	NA	NA	NA	Stegohornera lichenoides	1						
 Stegophiura nodosa	Stegophiura nodosa	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiuridae	Stegophiura	Stegophiura nodosa	1						
 Stegophiura sladeni	Stegophiura sladeni	Metazoa	Echinodermata	Ophiuroidea	Ophiurida	Ophiuridae	Stegophiura	Stegophiura sladeni	1						
 Stegopoma plicatile	Stegopoma plicatile	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Tiarannidae	Stegopoma	Stegopoma plicatile	1						
-Stegosoma magnum	Stegosoma magnum	to be checked manually	NA	NA	NA	NA	NA	Stegosoma magnum	0						
-Stenoninereis martini	Stenoninereis martini	to be checked manually	NA	NA	NA	NA	NA	Stenoninereis martini	0						
-Stenoninereis tecolutlensis	Stenoninereis tecolutlensis	to be checked manually	NA	NA	NA	NA	NA	Stenoninereis tecolutlensis	0						
+Stegosoma magnum	Stegosoma magnum	to be checked manually	NA	NA	NA	NA	NA	Stegosoma magnum	1						
+Stenoninereis martini	Stenoninereis martini	to be checked manually	NA	NA	NA	NA	NA	Stenoninereis martini	1						
+Stenoninereis tecolutlensis	Stenoninereis tecolutlensis	to be checked manually	NA	NA	NA	NA	NA	Stenoninereis tecolutlensis	1						
 Stenopleustes nodifer	Stenopleustes nodifer	Animalia	Arthropoda	Malacostraca	Amphipoda	Pleustidae	Stenopleustes	Stenopleustes nodifer							
 Stenosemus albus	Stenosemus albus	Metazoa	Mollusca	Polyplacophora	Neoloricata	Ischnochitonidae	Stenosemus	Stenosemus albus	1						
-Stenosoma acuminatum	Stenosoma acuminatum	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Stenosoma	Stenosoma acuminatum	0						
-Stenosoma sp.	Stenosoma	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Stenosoma	Stenosoma sp.	0						
+Stenosoma acuminatum	Stenosoma acuminatum	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Stenosoma	Stenosoma acuminatum	1						
+Stenosoma sp.	Stenosoma	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Stenosoma	Stenosoma sp.	1						
 Stenothoe antennulariae	Stenothoe antennulariae	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenothoe	Stenothoe antennulariae	2						
 Stenothoe bosphorana	Stenothoe bosphorana	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenothoe	Stenothoe bosphorana	2						
 Stenothoe dollfusi	Stenothoe dollfusi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenothoe	Stenothoe dollfusi	2						
@@ -7066,7 +7066,7 @@ STENOTHOIDAE	STENOTHOIDAE	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stenothoidae
 Stenothyra divalis 	Stenothyra divalis 	Metazoa	Mollusca	Gastropoda	__	Stenothyridae	Stenothyra	Stenothyra divalis 	1						
 Stenothyra glabra	Stenothyra glabra	Metazoa	Mollusca	Gastropoda	__	Stenothyridae	Stenothyra	Stenothyra glabra	1						
 Stenula rubrovittata	Stenula rubrovittata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Stenothoidae	Stenula	Stenula rubrovittata	2						
-Stephanoscyphus sp.	Stephanoscyphus	Metazoa	Scyphozoa	Scyphozoa	Coronatae	Atorellidae	Stephanoscyphus	Stephanoscyphus sp.	0						
+Stephanoscyphus sp.	Stephanoscyphus	Metazoa	Scyphozoa	Scyphozoa	Coronatae	Atorellidae	Stephanoscyphus	Stephanoscyphus sp.	1						
 Stereoderma kirchsbergii	Stereoderma kirchsbergii	to be checked manually	NA	NA	NA	NA	NA	Stereoderma kirchsbergii	1						
 Sternaspis fossor	Sternaspis fossor	Metazoa	Annelida	Polychaeta	Terebellida	Sternaspidae	Sternaspis	Sternaspis fossor	2						
 Sternaspis scutata	Sternaspis scutata	Metazoa	Annelida	Polychaeta	Terebellida	Sternaspidae	Sternaspis	Sternaspis scutata	3						2
@@ -7091,7 +7091,7 @@ Sthenolepis sp.	Sthenolepis	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Sigalioni
 Sthenolepis yhleni	Sthenolepis yhleni	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Sigalionidae	Sthenolepis	Sthenolepis yhleni	1						1
 Stichaster sp.	Stichaster	Metazoa	Asteroidea	Asteroidea	Forcipulatida	Stichasteridae	Stichaster	Stichaster sp.	1						
 Stichaster striatus	Stichaster striatus	Metazoa	Asteroidea	Asteroidea	Forcipulatida	Stichasteridae	Stichaster	Stichaster striatus	3						
-Stichastrella rosea	Stichastrella rosea	Metazoa	Echinodermata	Asteroidea	Forcipulatida	Stichasteridae	Stichastrella	Stichastrella rosea	0						
+Stichastrella rosea	Stichastrella rosea	Metazoa	Echinodermata	Asteroidea	Forcipulatida	Stichasteridae	Stichastrella	Stichastrella rosea	1						
 Stomacrustula cruenta	Stomacrustula cruenta	to be checked manually	NA	NA	NA	NA	NA	Stomacrustula cruenta	2						
 Stomacrustula sinuosa	Stomacrustula sinuosa	to be checked manually	NA	NA	NA	NA	NA	Stomacrustula sinuosa	2						
 Stomatolepas elegans	Stomatolepas elegans	Metazoa	Arthropoda	Maxillopoda	Sessilia	Platylepadidae	Stomatolepas	Stomatolepas elegans		1					
@@ -7116,9 +7116,9 @@ Streptosyllis varians	Streptosyllis varians	Animalia	Annelida	Polychaeta	Phyllod
 Streptosyllis websteri	Streptosyllis websteri	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Streptosyllis	Streptosyllis websteri	2	2					
 Striarca lactea	Striarca lactea	Metazoa	Bivalvia	Bivalvia	Arcida	Noetiidae	Striarca	Striarca lactea	1	1					1
 Strobiligera brychia	Strobiligera brychia	to be checked manually	NA	NA	NA	NA	NA	Strobiligera brychia	1						
-Strombiformis hemphilli	Strombiformis hemphilli	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Strombiformis	Strombiformis hemphilli	0						
-Strombiformis patula	Strombiformis patula	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Strombiformis	Strombiformis patula	0						
-Strombina sp.	Strombina	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Strombina	Strombina sp.	0						
+Strombiformis hemphilli	Strombiformis hemphilli	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Strombiformis	Strombiformis hemphilli	1						
+Strombiformis patula	Strombiformis patula	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Eulimidae	Strombiformis	Strombiformis patula	1						
+Strombina sp.	Strombina	Metazoa	Gastropoda	Gastropoda	Neogastropoda	Columbellidae	Strombina	Strombina sp.	1						
 Strongylocentrotus droebachienis	Strongylocentrotus droebachienis	to be checked manually	NA	NA	NA	NA	NA	Strongylocentrotus droebachienis		3					
 Strongylocentrotus droebachiensis	Strongylocentrotus droebachiensis	Metazoa	Echinoidea	Echinoidea	Camarodonta	Strongylocentrotidae	Strongylocentrotus	Strongylocentrotus droebachiensis	1			21.47	35.51	1	
 Strongylocentrotus pallidus	Strongylocentrotus pallidus	Metazoa	Echinoidea	Echinoidea	Camarodonta	Strongylocentrotidae	Strongylocentrotus	Strongylocentrotus pallidus	1						
@@ -7140,11 +7140,11 @@ Suberites domuncula	Suberites domuncula	Animalia	Demospongiae	Demospongiae	Suber
 Suberites ficus	Suberites ficus	Metazoa	Demospongiae	Demospongiae	Suberitida	Suberitidae	Suberites	Suberites ficus	2						
 Suberites spermatozoon	Suberitesrmatozoon	Metazoa	Demospongiae	Demospongiae	Suberitida	Suberitidae	Suberites	Suberites spermatozoon	2						
 Sulcoretusa xystrum	Sulcoretusa xystrum	NA	NA	NA	NA	NA	NA	Sulcoretusa xystrum	2						
-Suturoglypta iontha	Suturoglypta iontha	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Suturoglypta	Suturoglypta iontha	0						
-Sycon ciliatum	Sycon ciliatum	Metazoa	Calcarea	Calcarea	Leucosolenida	Sycettidae	Sycon	Sycon ciliatum	0						
+Suturoglypta iontha	Suturoglypta iontha	Metazoa	Mollusca	Gastropoda	Neogastropoda	Columbellidae	Suturoglypta	Suturoglypta iontha	1						
+Sycon ciliatum	Sycon ciliatum	Metazoa	Calcarea	Calcarea	Leucosolenida	Sycettidae	Sycon	Sycon ciliatum	1						
 Sycon raphanus	Sycon raphanus	Metazoa	Calcarea	Calcarea	Leucosolenida	Sycettidae	Sycon	Sycon raphanus	1						
-Sydaphera spengleriana	Sydapherangleriana	to be checked manually	NA	NA	NA	NA	NA	Sydaphera spengleriana	0						
-Sydaphera spurious	Sydapherarious	to be checked manually	NA	NA	NA	NA	NA	Sydaphera spurious	0						
+Sydaphera spengleriana	Sydapherangleriana	to be checked manually	NA	NA	NA	NA	NA	Sydaphera spengleriana	1						
+Sydaphera spurious	Sydapherarious	to be checked manually	NA	NA	NA	NA	NA	Sydaphera spurious	1						
 Syllidae	Syllidae	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	__	Syllidae		3		8.83	24.11	2	
 Syllides armata	Syllides armata	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Syllides	Syllides armata	2						
 Syllides bansei	Syllides bansei	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Syllides	Syllides bansei	2						
@@ -7226,11 +7226,11 @@ Synelmis albini	Synelmis albini	Metazoa	Annelida	Errantia	Phyllodocida	Pilargida
 Synelmis ewingi	Synelmis ewingi	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Synelmis	Synelmis ewingi	2						
 Synelmis klatti	Synelmis klatti	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Synelmis	Synelmis klatti	2						
 Synelmis sp.	Synelmis	Metazoa	Annelida	Errantia	Phyllodocida	Pilargidae	Synelmis	Synelmis sp.	2						
-Synidotea laevidorsalis	Synidotea laevidorsalis	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Synidotea	Synidotea laevidorsalis	0						
-Synisoma acuminatum	Synisoma acuminatum	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Synisoma	Synisoma acuminatum	0						
-Synisoma sp.	Synisoma	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Synisoma	Synisoma sp.	0						
+Synidotea laevidorsalis	Synidotea laevidorsalis	Metazoa	Arthropoda	Malacostraca	Isopoda	Idoteidae	Synidotea	Synidotea laevidorsalis	1						
+Synisoma acuminatum	Synisoma acuminatum	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Synisoma	Synisoma acuminatum	1						
+Synisoma sp.	Synisoma	Metazoa	Malacostraca	Malacostraca	Isopoda	Idoteidae	Synisoma	Synisoma sp.	1						
 Syrrhoe crenulata	Syrrhoe crenulata	Metazoa	Arthropoda	Malacostraca	Amphipoda	Synopiidae	Syrrhoe	Syrrhoe crenulata	2						
-Tachytrypane jeffreysii	Tachytrypane jeffreysii	to be checked manually	NA	NA	NA	NA	NA	Tachytrypane jeffreysii	0						
+Tachytrypane jeffreysii	Tachytrypane jeffreysii	to be checked manually	NA	NA	NA	NA	NA	Tachytrypane jeffreysii	1						
 Tagelus affinis	Tagelus affinis	Metazoa	Mollusca	Bivalvia	Veneroida	Solecurtidae	Tagelus	Tagelus affinis	2						
 Tagelus californianus	Tagelus californianus	Metazoa	Mollusca	Bivalvia	Veneroida	Solecurtidae	Tagelus	Tagelus californianus	2						
 Tagelus divisus	Tagelus divisus	Metazoa	Mollusca	Bivalvia	Veneroida	Solecurtidae	Tagelus	Tagelus divisus	2						
@@ -7266,7 +7266,7 @@ Tapes rhomboides	Tapes rhomboides	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	T
 Tapes semidecussata	Tapes semidecussata	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Tapes	Tapes semidecussata	3						
 Tapes sp.	Tapes	Metazoa	Bivalvia	Bivalvia	Venerida	Veneridae	Tapes	Tapes sp.	1						
 Taphia rhomboides								Taphia rhomboides							1
-Taranis moerchii	Taranis moerchii	to be checked manually	NA	NA	NA	NA	NA	Taranis moerchii	0						
+Taranis moerchii	Taranis moerchii	to be checked manually	NA	NA	NA	NA	NA	Taranis moerchii	1						
 TARDIGRADA	TARDIGRADA	Metazoa	Tardigrada	__	__	__	__	TARDIGRADA	5						
 Tauberia gracilis	Tauberia gracilis	NA	NA	NA	NA	NA	NA	Tauberia gracilis	3						
 Tawera gayi	Tawera gayi	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	Tawera	Tawera gayi	1						
@@ -7352,7 +7352,7 @@ Terebra sp.	Terebra	Metazoa	Mollusca	Gastropoda	__	Terebridae	Terebra	Terebra sp
 Terebratella coreanica	Terebratella coreanica	Metazoa	Mollusca	Gastropoda	__	Terebridae	Terebratella	Terebratella coreanica	1						
 Terebratella dorsata	Terebratella dorsata	Metazoa	Mollusca	Gastropoda	__	Terebridae	Terebratella	Terebratella dorsata	1						
 Terebratulina retusa	Terebratulina retusa	Metazoa	Mollusca	Gastropoda	__	Terebridae	Terebratulina	Terebratulina retusa	1						
-Teretia teres	Teretia teres	Metazoa	Mollusca	Gastropoda	__	Raphitomidae	Teretia	Teretia teres	0						
+Teretia teres	Teretia teres	Metazoa	Mollusca	Gastropoda	__	Raphitomidae	Teretia	Teretia teres	1						
 Testudinalia testudinalis	Testudinalia testudinalis	to be checked manually	NA	NA	NA	NA	NA	Testudinalia testudinalis	1						
 Tethya aurantium	Tethya aurantium	Metazoa	Porifera	Demospongiae	Tethyida	Tethyidae	Tethya	Tethya aurantium	1						
 Tethygenia opata	Tethygenia opata	to be checked manually	NA	NA	NA	NA	NA	Tethygenia opata	2						
@@ -7452,8 +7452,8 @@ Thyonidium drummondii	Thyonidium drummondii	Metazoa	Holothuroidea	Holothuroidea	
 Thyonidium sp.	Thyonidium	Metazoa	Holothuroidea	Holothuroidea	Dendrochirotida	Cucumariidae	Thyonidium	Thyonidium sp.	1						
 Thysanocardia nigra	Thysanocardia nigra	Metazoa	Annelida	Polychaeta	Golfingiida	Golfingiidae	Thysanocardia	Thysanocardia nigra	2						
 Thysanocardia procera	Thysanocardia procera	Metazoa	Annelida	Polychaeta	Golfingiida	Golfingiidae	Thysanocardia	Thysanocardia procera	1	2					
-Thysanoessa inermis	Thysanoessa inermis	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	Thysanoessa	Thysanoessa inermis	0						
-Thysanoessa raschii	Thysanoessa raschii	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	Thysanoessa	Thysanoessa raschii	0						
+Thysanoessa inermis	Thysanoessa inermis	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	Thysanoessa	Thysanoessa inermis	1						
+Thysanoessa raschii	Thysanoessa raschii	Metazoa	Arthropoda	Malacostraca	Euphausiacea	Euphausiidae	Thysanoessa	Thysanoessa raschii	1						
 Tiburonella viscana	Tiburonella viscana	Metazoa	Arthropoda	Malacostraca	Amphipoda	Platyischnopidae	Tiburonella	Tiburonella viscana	1						
 Timarete filigera	Timarete filigera	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Timarete	Timarete filigera	4						
 Timarete nasuta	Timarete nasuta	to be checked manually	Polychaeta	Polychaeta	Terebellida	Cirratulidae	Timarete	Timarete nasuta	4						
@@ -7479,9 +7479,9 @@ Tonicella marmorea	Tonicella marmorea	Metazoa	Mollusca	Polyplacophora	Neoloricat
 Tonicella rubra	Tonicella rubra	Metazoa	Mollusca	Polyplacophora	Neoloricata	Mopaliidae	Tonicella	Tonicella rubra	1						
 Tonicia atrata	Tonicia atrata	Metazoa	Polyplacophora	Polyplacophora	Chitonida	Chitonidae	Tonicia	Tonicia atrata	1						
 Tonicia sp.	Tonicia	Metazoa	Polyplacophora	Polyplacophora	Chitonida	Chitonidae	Tonicia	Tonicia sp.	1						
-Tornus subcarinatus	Tornus subcarinatus	to be checked manually	NA	NA	NA	NA	NA	Tornus subcarinatus	0						
+Tornus subcarinatus	Tornus subcarinatus	to be checked manually	NA	NA	NA	NA	NA	Tornus subcarinatus	1						
 Tozeuma carolinense	Tozeuma carolinense	Metazoa	Arthropoda	Malacostraca	Decapoda	Hippolytidae	Tozeuma	Tozeuma carolinense	1						
-Trachinus draco	Trachinus draco	Metazoa	Chordata	Actinopteri	Perciformes	Trachinidae	Trachinus	Trachinus draco	0						
+Trachinus draco	Trachinus draco	Metazoa	Chordata	Actinopteri	Perciformes	Trachinidae	Trachinus	Trachinus draco	1						
 Trachycardium magnum	Trachycardium magnum	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Trachycardium	Trachycardium magnum	2						
 Trachycardium muricatum	Trachycardium muricatum	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Trachycardium	Trachycardium muricatum	2						
 Trachycardium quadragenarium	Trachycardium quadragenarium	Metazoa	Mollusca	Bivalvia	Veneroida	Cardiidae	Trachycardium	Trachycardium quadragenarium	2						
@@ -7509,7 +7509,7 @@ Trichobranchus glacialis	Trichobranchus glacialis	Metazoa	Polychaeta	Polychaeta	
 Trichobranchus roseus	Trichobranchus roseus	Metazoa	Polychaeta	Polychaeta	Terebellida	Trichobranchidae	Trichobranchus	Trichobranchus roseus	2	2	1.5	9.18	27.93	1	
 Trichobranchus sp.	Trichobranchus	Metazoa	Polychaeta	Polychaeta	Terebellida	Trichobranchidae	Trichobranchus	Trichobranchus sp.	2	2					
 Trichophoxus epistomus	Trichophoxus epistomus	NA	NA	NA	NA	NA	NA	Trichophoxus epistomus	2						
-Trichotropis borealis	Trichotropis borealis	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Capulidae	Trichotropis	Trichotropis borealis	0						
+Trichotropis borealis	Trichotropis borealis	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Capulidae	Trichotropis	Trichotropis borealis	1						
 Tricolia affinis	Tricolia affinis	to be checked manually	Gastropoda	Gastropoda	NA	Phasianellidae	Tricolia	Tricolia affinis	1						
 Tricolia pullus	Tricolia pullus	to be checked manually	Gastropoda	Gastropoda	NA	Phasianellidae	Tricolia	Tricolia pullus	1	3					
 Tricolia sp.	Tricolia	to be checked manually	Gastropoda	Gastropoda	NA	Phasianellidae	Tricolia	Tricolia sp.	1						
@@ -7517,7 +7517,7 @@ Tricolia speciosa	Tricoliaciosa	to be checked manually	Gastropoda	Gastropoda	NA	
 Tricolia speculosa	Tricoliaculosa	to be checked manually	Gastropoda	Gastropoda	NA	Phasianellidae	Tricolia	Tricolia speculosa	1						
 Tricolia tenuis	Tricolia tenuis	to be checked manually	Gastropoda	Gastropoda	NA	Phasianellidae	Tricolia	Tricolia tenuis	1						
 Tricolia umbilicata	Tricolia umbilicata	to be checked manually	Gastropoda	Gastropoda	NA	Phasianellidae	Tricolia	Tricolia umbilicata	1						
-Trididemnum tenerum	Trididemnum tenerum	Metazoa	Chordata	Ascidiacea	Enterogona	Didemnidae	Trididemnum	Trididemnum tenerum	0						
+Trididemnum tenerum	Trididemnum tenerum	Metazoa	Chordata	Ascidiacea	Enterogona	Didemnidae	Trididemnum	Trididemnum tenerum	1						
 Tridonta borealis	Tridonta borealis	Metazoa	Bivalvia	Bivalvia	Carditida	Astartidae	Tridonta	Tridonta borealis	1						
 Tridonta elliptica	Tridonta elliptica	Metazoa	Bivalvia	Bivalvia	Carditida	Astartidae	Tridonta	Tridonta elliptica	1	1					
 Tridonta montagui	Tridonta montagui	Metazoa	Bivalvia	Bivalvia	Carditida	Astartidae	Tridonta	Tridonta montagui	1	1					
@@ -7531,9 +7531,9 @@ Triphora erythrosoma	Triphora erythrosoma	to be checked manually	Gastropoda	Gast
 Triphora perversa	Triphora perversa	to be checked manually	Gastropoda	Gastropoda	[unassigned] Caenogastropoda	Triphoridae	Triphora	Triphora perversa	1						
 Triphora sp.	Triphora	to be checked manually	Gastropoda	Gastropoda	[unassigned] Caenogastropoda	Triphoridae	Triphora	Triphora sp.	1						
 Tripylaster philippii	Tripylaster philippii	to be checked manually	NA	NA	NA	NA	NA	Tripylaster philippii	1						
-Tritaeta gibbosa	Tritaeta gibbosa	to be checked manually	NA	NA	NA	NA	NA	Tritaeta gibbosa	0						
+Tritaeta gibbosa	Tritaeta gibbosa	to be checked manually	NA	NA	NA	NA	NA	Tritaeta gibbosa	1						
 Tritodynamia horvathi	Tritodynamia horvathi	to be checked manually	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Tritodynamia	Tritodynamia horvathi	2						
-Tritodynamia intermedia	Tritodynamia intermedia	to be checked manually	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Tritodynamia	Tritodynamia intermedia	0						
+Tritodynamia intermedia	Tritodynamia intermedia	to be checked manually	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Tritodynamia	Tritodynamia intermedia	1						
 Tritodynamia rathbunae	Tritodynamia rathbunae	to be checked manually	Arthropoda	Malacostraca	Decapoda	Pinnotheridae	Tritodynamia	Tritodynamia rathbunae	2						
 Tritonia hombergii	Tritonia hombergii	Metazoa	Mollusca	Gastropoda	Nudibranchia	Tritoniidae	Tritonia	Tritonia hombergii	1						
 Tritonia plebeia	Tritonia plebeia	Metazoa	Mollusca	Gastropoda	Nudibranchia	Tritoniidae	Tritonia	Tritonia plebeia	1						
@@ -7565,7 +7565,7 @@ Trypanosyllis parvidentata	Trypanosyllis parvidentata	Metazoa	Annelida	Polychaet
 Trypanosyllis sp.	Trypanosyllis	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Trypanosyllis	Trypanosyllis sp.	2						
 Trypanosyllis vittigera	Trypanosyllis vittigera	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Trypanosyllis	Trypanosyllis vittigera	2						
 Trypanosyllis zebra	Trypanosyllis zebra	Metazoa	Annelida	Polychaeta	Phyllodocida	Syllidae	Trypanosyllis	Trypanosyllis zebra	2						
-Trypauchen vagina 	Trypauchen vagina 	Metazoa	Chordata	Actinopteri	Gobiiformes	Gobiidae	Trypauchen	Trypauchen vagina 	0						
+Trypauchen vagina 	Trypauchen vagina 	Metazoa	Chordata	Actinopteri	Gobiiformes	Gobiidae	Trypauchen	Trypauchen vagina 	1						
 Tryphosella horingi	Tryphosella horingi	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Tryphosella	Tryphosella horingi	1	3					
 Tryphosella longidactyla	Tryphosella longidactyla	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Tryphosella	Tryphosella longidactyla	1						
 Tryphosella nanoides	Tryphosella nanoides	Metazoa	Arthropoda	Malacostraca	Amphipoda	Lysianassidae	Tryphosella	Tryphosella nanoides	1	3					
@@ -7608,9 +7608,9 @@ Tubulanus spp.	Tubulanus.	Metazoa	Nemertea	Palaeonemertea	Paleonemertea	Tubulani
 Tubulanus superbus	Tubulanus superbus	Metazoa	Nemertea	Palaeonemertea	Paleonemertea	Tubulanidae	Tubulanus	Tubulanus superbus		3					
 Tubularia larynx	Tubularia larynx	Metazoa	Polychaeta	Polychaeta	NA	NA	Tubularia	Tubularia larynx	1						
 Tubularia sp.	Tubularia	Metazoa	Polychaeta	Polychaeta	NA	NA	Tubularia	Tubularia sp.	1						
-Tullbergella cuspidatus	Tullbergella cuspidatus	to be checked manually	NA	NA	NA	NA	NA	Tullbergella cuspidatus	0						
+Tullbergella cuspidatus	Tullbergella cuspidatus	to be checked manually	NA	NA	NA	NA	NA	Tullbergella cuspidatus	1						
 TURBELLARIA	TURBELLARIA	Metazoa	Platyhelminthes	Turbellaria	__	__	__	TURBELLARIA	2						
-Turbicellepora avicularis	Turbicellepora avicularis	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Celleporidae	Turbicellepora	Turbicellepora avicularis	0						
+Turbicellepora avicularis	Turbicellepora avicularis	Metazoa	Bryozoa	Gymnolaemata	Cheilostomata	Celleporidae	Turbicellepora	Turbicellepora avicularis	1						
 Turboella parva	Turboella parva	to be checked manually	NA	NA	NA	NA	NA	Turboella parva	1						
 Turbonilla acuta	Turbonilla acuta	to be checked manually	Mollusca	Gastropoda	Heterostropha	Pyramidellidae	Turbonilla	Turbonilla acuta	1						
 Turbonilla acutissima	Turbonilla acutissima	to be checked manually	Mollusca	Gastropoda	Heterostropha	Pyramidellidae	Turbonilla	Turbonilla acutissima	1						
@@ -7642,7 +7642,7 @@ Typhlocarcinops canaliculatus	Typhlocarcinops canaliculatus	Metazoa	Malacostraca
 Typhlocarcinops sp.	Typhlocarcinops	Metazoa	Malacostraca	Malacostraca	Decapoda	Pilumnidae	Typhlocarcinops	Typhlocarcinops sp.	2						
 Typhlocarcinus nudus	Typhlocarcinus nudus	to be checked manually	NA	NA	NA	NA	NA	Typhlocarcinus nudus	2						
 Typhlodaphne strebeli	Typhlodaphne strebeli	to be checked manually	NA	NA	NA	NA	NA	Typhlodaphne strebeli	1						
-Typhloscolex muelleri	Typhloscolex muelleri	Metazoa	Annelida	Polychaeta	Phyllodocida	Typhloscolecidae	Typhloscolex	Typhloscolex muelleri	0						
+Typhloscolex muelleri	Typhloscolex muelleri	Metazoa	Annelida	Polychaeta	Phyllodocida	Typhloscolecidae	Typhloscolex	Typhloscolex muelleri	1						
 Typhlotanais aequiremis	Typhlotanais aequiremis	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Nototanaidae	Typhlotanais	Typhlotanais aequiremis	2	2					
 Typhlotanais brevicornis	Typhlotanais brevicornis	Animalia	Arthropoda	Malacostraca	Tanaidacea	Nototanaidae	Typhlotanais	Typhlotanais brevicornis		2					
 Typhlotanais finmarchicus	Typhlotanais finmarchicus	Metazoa	Arthropoda	Malacostraca	Tanaidacea	Nototanaidae	Typhlotanais	Typhlotanais finmarchicus	2						
@@ -7665,7 +7665,7 @@ Typosyllis variegata	Typosyllis variegata	Metazoa	Annelida	Errantia	Phyllodocida
 Typosyllis vittata	Typosyllis vittata	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Typosyllis	Typosyllis vittata	2						
 Uca arcuata 	Uca arcuata 	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Uca	Uca arcuata 	1						
 Uca sindensis	Uca sindensis	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Uca	Uca sindensis	1						
-Uca sp.	Uca	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Uca	Uca sp.	0						
+Uca sp.	Uca	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Uca	Uca sp.	1						
 Uca tangeri	Uca tangeri	Metazoa	Arthropoda	Malacostraca	Decapoda	Ocypodidae	Uca	Uca tangeri	2						
 Umbellula encrinus	Umbellula encrinus	Metazoa	Cnidaria	Anthozoa	Pennatulacea	Umbellulidae	Umbellula	Umbellula encrinus	1						
 Umbonium thomasi 	Umbonium thomasi 	Metazoa	Mollusca	Gastropoda	__	Trochidae	Umbonium	Umbonium thomasi 	2						
@@ -7688,7 +7688,7 @@ Upogebia stellata	Upogebia stellata	Metazoa	Arthropoda	Malacostraca	Decapoda	Upo
 Upogebia tipica	Upogebia tipica	Metazoa	Arthropoda	Malacostraca	Decapoda	Upogebiidae	Upogebia	Upogebia tipica	1						
 Upogebia wuhsienweni	Upogebia wuhsienweni	Metazoa	Arthropoda	Malacostraca	Decapoda	Upogebiidae	Upogebia	Upogebia wuhsienweni	1						
 Urasterias lincki	Urasterias lincki	Metazoa	Echinodermata	Asteroidea	Forcipulatida	Asteriidae	Urasterias	Urasterias lincki	2						
-Urechis caupo	Urechis caupo	Metazoa	Annelida	Polychaeta	Xenopneusta	Urechidae	Urechis	Urechis caupo	0						
+Urechis caupo	Urechis caupo	Metazoa	Annelida	Polychaeta	Xenopneusta	Urechidae	Urechis	Urechis caupo	1						
 Urechis chilensis	Urechis chilensis	Metazoa	Annelida	Polychaeta	Xenopneusta	Urechidae	Urechis	Urechis chilensis	3						
 Urechis unicinctus 	Urechis unicinctus 	Metazoa	Annelida	Polychaeta	Xenopneusta	Urechidae	Urechis	Urechis unicinctus 	2						
 Uristes entalladurus	Uristes entalladurus	Metazoa	Arthropoda	Malacostraca	Amphipoda	Uristidae	Uristes	Uristes entalladurus	1						
@@ -7710,7 +7710,7 @@ Uroxia aurantiaca	Uroxia aurantiaca	to be checked manually	NA	NA	NA	NA	NA	Uroxia
 Urticina felina	Urticina felina	Metazoa	Anthozoa	Anthozoa	Actiniaria	Actiniidae	Urticina	Urticina felina	1	3					
 Urticina sp.	Urticina	Metazoa	Anthozoa	Anthozoa	Actiniaria	Actiniidae	Urticina	Urticina sp.	1						
 Valencinia longirostris	Valencinia longirostris	Metazoa	Nemertea	Anopla	Heteronemertea	Valenciniidae	Valencinia	Valencinia longirostris	3						
-Vanadis crystallina	Vanadis crystallina	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Alciopidae	Vanadis	Vanadis crystallina	0						
+Vanadis crystallina	Vanadis crystallina	Metazoa	Polychaeta	Polychaeta	Phyllodocida	Alciopidae	Vanadis	Vanadis crystallina	1						
 Vargula mediterranea	Vargula mediterranea	Metazoa	Arthropoda	Ostracoda	Myodocopida	Cypridinidae	Vargula	Vargula mediterranea	2						
 Vargula tsujii	Vargula tsujii	Metazoa	Arthropoda	Ostracoda	Myodocopida	Cypridinidae	Vargula	Vargula tsujii	2						
 Varicorbula gibba	Varicorbula gibba	Metazoa	Bivalvia	Bivalvia	Myida	Corbulidae	Varicorbula	Varicorbula gibba	4						
@@ -7718,9 +7718,9 @@ Varicorbula sp.	Varicorbula	Metazoa	Bivalvia	Bivalvia	Myida	Corbulidae	Varicorbu
 Vaunthompsonia cristata	Vaunthompsonia cristata	Metazoa	Arthropoda	Malacostraca	Cumacea	Bodotriidae	Vaunthompsonia	Vaunthompsonia cristata	1	2					
 Vaunthompsoniinae	Vaunthompsoniinae	Metazoa	Arthropoda	Malacostraca	Cumacea	Bodotriidae	__	Vaunthompsoniinae		2					
 Velutina velutina	Velutina velutina	Metazoa	Mollusca	Gastropoda	Neotaenioglossa	Velutinidae	Velutina	Velutina velutina	3						
-Vemakylindrus cantabricus	Vemakylindrus cantabricus	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Vemakylindrus	Vemakylindrus cantabricus	0						
-Vemakylindrus hastatus	Vemakylindrus hastatus	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Vemakylindrus	Vemakylindrus hastatus	0						
-Vemakylindrus sp.	Vemakylindrus	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Vemakylindrus	Vemakylindrus sp.	0						
+Vemakylindrus cantabricus	Vemakylindrus cantabricus	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Vemakylindrus	Vemakylindrus cantabricus	1						
+Vemakylindrus hastatus	Vemakylindrus hastatus	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Vemakylindrus	Vemakylindrus hastatus	1						
+Vemakylindrus sp.	Vemakylindrus	Metazoa	Malacostraca	Malacostraca	Cumacea	Diastylidae	Vemakylindrus	Vemakylindrus sp.	1						
 VENERIDAE	VENERIDAE	Metazoa	Mollusca	Bivalvia	Veneroida	Veneridae	__	VENERIDAE	1						
 Veneridae (juv.)	Veneridae (juv.)	to be checked manually	NA	NA	NA	NA	NA	Veneridae (juv.)		1					
 Venerupis (senegalensis?)	Venerupis (senegalensis?)	to be checked manually	NA	NA	NA	NA	NA	Venerupis (senegalensis?)		1					
@@ -7788,15 +7788,15 @@ Westwoodilla sp.	Westwoodilla	Metazoa	Arthropoda	Malacostraca	Amphipoda	Oedicero
 Xantho incisus	Xantho incisus	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Xantho	Xantho incisus	1						
 Xantho pilipes	Xantho pilipes	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Xantho	Xantho pilipes	1						
 Xanthochorus cassidiformis	Xanthochorus cassidiformis	Metazoa	Malacostraca	Malacostraca	Decapoda	Xanthidae	Xanthochorus	Xanthochorus cassidiformis	1						
-Xenanthura brevitelson	Xenanthura brevitelson	Metazoa	Arthropoda	Malacostraca	Isopoda	Hyssuridae	Xenanthura	Xenanthura brevitelson	0						
+Xenanthura brevitelson	Xenanthura brevitelson	Metazoa	Arthropoda	Malacostraca	Isopoda	Hyssuridae	Xenanthura	Xenanthura brevitelson	1						
 Xenobalanus globicipitis	Xenobalanus globicipitis	Metazoa	Arthropoda	Maxillopoda	Sessilia	Coronulidae	Xenobalanus	Xenobalanus globicipitis		1					
 Xenodice frauenfeldti	Xenodice frauenfeldti	Metazoa	Arthropoda	Malacostraca	Amphipoda	Podoceridae	Xenodice	Xenodice frauenfeldti	1			26.3	39.51	1	
 Xenoleberis californica	Xenoleberis californica	Metazoa	Arthropoda	Ostracoda	Myodocopida	Cylindroleberididae	Xenoleberis	Xenoleberis californica	2						
 Xenophthalmodes morsei	Xenophthalmodes morsei	to be checked manually	NA	NA	NA	NA	NA	Xenophthalmodes morsei	2						
 Xenophthalmus pinnotheroides	Xenophthalmus pinnotheroides	Metazoa	Arthropoda	Malacostraca	Decapoda	Xenophthalmidae	Xenophthalmus	Xenophthalmus pinnotheroides	2						
-Xenostrobus securis	Xenostrobus securis	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Limnoperna	Xenostrobus securis	0						
+Xenostrobus securis	Xenostrobus securis	Metazoa	Mollusca	Bivalvia	Mytiloida	Mytilidae	Limnoperna	Xenostrobus securis	1						
 Xenosyllis scabra	Xenosyllis scabra	Metazoa	Annelida	Errantia	Phyllodocida	Syllidae	Xenosyllis	Xenosyllis scabra	2						1
-Xenoturbella bocki	Xenoturbella bocki	Metazoa	Xenacoelomorpha	__	__	Xenoturbellidae	Xenoturbella	Xenoturbella bocki	0						
+Xenoturbella bocki	Xenoturbella bocki	Metazoa	Xenacoelomorpha	__	__	Xenoturbellidae	Xenoturbella	Xenoturbella bocki	1						
 Yoldia amygdalea	Yoldia amygdalea	Metazoa	Bivalvia	Bivalvia	Nuculanida	Yoldiidae	Yoldia	Yoldia amygdalea	1						
 Yoldia hyperborea	Yoldia hyperborea	Metazoa	Bivalvia	Bivalvia	Nuculanida	Yoldiidae	Yoldia	Yoldia hyperborea	1						
 Yoldia similis	Yoldia similis	Metazoa	Bivalvia	Bivalvia	Nuculanida	Yoldiidae	Yoldia	Yoldia similis	1						
