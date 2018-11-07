@@ -8,6 +8,10 @@ These BBI values can be used to calculate the normalized Ecological Quality Rati
 
 The composition can be derived from morpho-taxonomy or DNA based assignements.
 
+
+[![](https://cranlogs.r-pkg.org/badges/grand-total/BBI)
+
+
 ## Requirements
 
 To be able to use the BBI package, the following is required:
@@ -32,6 +36,7 @@ install.packages("devtools")
 library(devtools)
 install_github("trtcrd/BBI")
 ```
+
 
 
 ## An example of composition data adequate for BBI
