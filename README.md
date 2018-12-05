@@ -29,7 +29,7 @@ It can be installed using the following command within R :
 install.packages("BBI")
 ```
 
-Alternatively, the developpement versino can be installed by typing these commands in R :
+Alternatively, the developpement version can be installed by typing these commands in R :
 
 ```
 install.packages("devtools")
@@ -110,6 +110,7 @@ Sample4 "0.496913603640647" "moderate"
 ## Paper and citation
 
 Cordier T., Pawlowski J. BBI: an R package for the computation of Benthic Biotic Indices from composition data. Metabarcoding and Metagenomics 2: e25649, doi: 10.3897/mbmg.2.25649
+[PDF](http://tristan.cordier.free.fr/files/cordier-pawlowski2018bbi-an-r-package-for-the-computation-of-benthic-biotic-indices-from-composition-data.pdf)
 
 ## Version history
 
