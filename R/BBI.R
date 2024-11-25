@@ -46,7 +46,9 @@ BBI <- function(data, log=FALSE) {
   cpt_found <- 0
   cpt_not <- 0
   found_index <- c()
-
+  
+  lc_index = tolower(eco_index[,"query"])
+  
   # need to convert each comumns into numeric (WEIRD behaviour : check http://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-an-integer-numeric-without-a-loss-of-information)
   if (is.factor(data[,2]) == T) for (i in 2:dim(data)[2]) data[,i] <- as.numeric(levels(data[,i])[data[,i]])
 
@@ -110,7 +112,10 @@ BBI <- function(data, log=FALSE) {
     queries[i,"cleaned"] <- sp
 
     # check if there a value in reference eco values
-    y <- grep(sp, eco_index[,"species"], ignore.case = TRUE)
+    # This allows partial matches which is not good (fixed 20241125 by Anders)
+    y <- grep(sp, eco_index[,"species"], ignore.case = TRUE) 
+    
+    
     message(paste("Processing : ", sp, " - ", length(y), " match in database so far", sep=""))
     if(log) cat(paste("Processing : ", sp, " - ", length(y), " match in database so far", sep=""), file=log_file, fill=T, append=T)
     # if the "exact" species is not matching and there a value for genus level
@@ -134,7 +139,7 @@ BBI <- function(data, log=FALSE) {
           if(log) cat(paste("   Found ", length(y), " match for ", sp, ". Taking the median values of ", length(y), " multiple values", sep = ""), file=log_file, fill=T, append=T)
           ambi <- eco_index[y,"AMBI"]
           iti  <- eco_index[y,"Iti_group"]
-          isi  <- eco_index[y,"ISI.2012"]
+          isi  <- eco_index[y,"ISI.2018"]
           nsi  <- eco_index[y,"NSI.value"]
           nsi_g  <- eco_index[y,"NSI.group"]
           ben  <- eco_index[y,"bentix"]
@@ -160,7 +165,7 @@ BBI <- function(data, log=FALSE) {
         if(log) cat(paste("   Found ", length(y), " match for ", sp, ". Taking the median values of ", length(y), " multiple values", sep = ""), file=log_file, fill=T, append=T)
         ambi <- eco_index[y,"AMBI"]
         iti  <- eco_index[y,"Iti_group"]
-        isi  <- eco_index[y,"ISI.2012"]
+        isi  <- eco_index[y,"ISI.2018"]
         nsi  <- eco_index[y,"NSI.value"]
         nsi_g  <- eco_index[y,"NSI.group"]
         ben  <- eco_index[y,"bentix"]
@@ -201,7 +206,7 @@ BBI <- function(data, log=FALSE) {
         {
           ambi <- eco_index[y,"AMBI"]
           iti  <- eco_index[y,"Iti_group"]
-          isi  <- eco_index[y,"ISI.2012"]
+          isi  <- eco_index[y,"ISI.2018"]
           nsi  <- eco_index[y,"NSI.value"]
           nsi_g  <- eco_index[y,"NSI.group"]
           ben  <- eco_index[y,"bentix"]
@@ -220,7 +225,7 @@ BBI <- function(data, log=FALSE) {
           if(log) cat(paste("   Taking median of the ", length(y), " match for ", sp, sep=""), file=log_file, fill=T, append=T)
           ambi <- eco_index[y,"AMBI"]
           iti  <- eco_index[y,"Iti_group"]
-          isi  <- eco_index[y,"ISI.2012"]
+          isi  <- eco_index[y,"ISI.2018"]
           nsi  <- eco_index[y,"NSI.value"]
           nsi_g  <- eco_index[y,"NSI.group"]
           ben  <- eco_index[y,"bentix"]
@@ -239,8 +244,8 @@ BBI <- function(data, log=FALSE) {
         # if it is a genus only (deeper assignments might or not have a value)
         if (length(unlist(strsplit(sp, split=" "))) == 1 & is.na(out[i,"AMBI"]) == T)
         {
-          message(paste("   ", sp, " is is a genus query. Making the query : ", sp, " sp.", sep=""))
-          if(log) cat(paste("   ", sp, " is is a genus query. Making the query : ", sp, " sp.", sep=""), file=log_file, fill=T, append=T)
+          message(paste("   ", sp, " is a genus query. Making the query : ", sp, " sp.", sep=""))
+          if(log) cat(paste("   ", sp, " is a genus query. Making the query : ", sp, " sp.", sep=""), file=log_file, fill=T, append=T)
           # make the query "query sp."
           sp <- paste(sp,"sp.", sep=" ")
           y  <- grep(sp, eco_index[,"species"], fixed=TRUE)
@@ -252,7 +257,7 @@ BBI <- function(data, log=FALSE) {
             tmp <- eco_index[y,]
             ambi <- eco_index[y,"AMBI"]
             iti  <- eco_index[y,"Iti_group"]
-            isi  <- eco_index[y,"ISI.2012"]
+            isi  <- eco_index[y,"ISI.2018"]
             nsi  <- eco_index[y,"NSI.value"]
             nsi_g  <- eco_index[y,"NSI.group"]
             ben  <- eco_index[y,"bentix"]
@@ -268,12 +273,14 @@ BBI <- function(data, log=FALSE) {
             found_index <- c(found_index, 1)
           }
         }
-      } else {
-        message(paste("   Found ", length(y), " matche for ", sp, sep=""))
-        if(log) cat(paste("   Found ", length(y), " matche for ", sp, sep=""), file=log_file, fill=T, append=T)
+      } else { ## y==1
+        message(paste("   Found ", length(y), " match for ", sp, sep=""))
+        if(log) cat(paste("   Found ", length(y), " match for ", sp, sep=""), file=log_file, fill=T, append=T)
+        
         ambi <- eco_index[y,"AMBI"]
         iti  <- eco_index[y,"Iti_group"]
-        isi  <- eco_index[y,"ISI.2012"]
+        
+        isi  <- eco_index[y,"ISI.2018"]
         nsi  <- eco_index[y,"NSI.value"]
         nsi_g  <- eco_index[y,"NSI.group"]
         ben  <- eco_index[y,"bentix"]
@@ -283,6 +290,7 @@ BBI <- function(data, log=FALSE) {
         out[i,"NSI"] <- as.numeric(as.vector(nsi))
         out[i,"NSI.group"] <- as.vector(nsi_g)
         out[i,"Bentix"] <- as.numeric(as.vector(ben))
+        print(out[i,])
         message(paste("   Done - ", sp, " AMBI: ", eco_index[y,"AMBI"], sep=""))
         if(log) cat(paste("   Done - ", sp, " AMBI: ", eco_index[y,"AMBI"], sep=""), file=log_file, fill=T, append=T)
         cpt_found <- cpt_found + 1
@@ -379,7 +387,7 @@ BBI <- function(data, log=FALSE) {
     nsi <- subset(nsi, nsi$NSI > 0)
     nsi <- sum(as.numeric(nsi[,i]) * nsi[,"NSI"])/sum(as.numeric(nsi[,i]))
 
-    # ISI 2012
+    # ISI 2018
     isi <- subset(data_, data_[,i] !=0)
     isi <- subset(isi, isi$ISI_value > 0)
     isi <- sum(isi[,"ISI_value"])/dim(isi)[1]
