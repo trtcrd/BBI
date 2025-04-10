@@ -1,14 +1,13 @@
 TAXA	query	kingdom	phylum	class	order	family	genus	species	AMBI	Iti_group	AMBI.value	ISI.2018	NSI.value	NSI.group	bentix
 Aartsenia candida	Aartsenia candida	NA	NA	NA	NA	NA	NA	Aartsenia candida	1						
-Abarenicola affinis	Abarenicola affinis	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola affinis	1						
+Abarenicola affinis	Abarenicola affinis	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola affinis	1
 Abarenicola affinis affinis	Abarenicola affinis affinis	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola affinis affinis	1						
 Abarenicola affinis chilensis	Abarenicola affinis chilensis	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola affinis chilensis	3						
 Abarenicola claparedei	Abarenicola claparedei	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola claparedei	1						
 Abarenicola claparedi	Abarenicola claparedi	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola claparedi	1						1
 Abarenicola sp.	Abarenicola	Metazoa	Annelida 	Polychaeta	Sedentaria	Arenicolidae	Abarenicola	Abarenicola sp.	1						
 Abietinaria abietina	Abietinaria abietina	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria abietina	2	1					
-Abietinaria pulchra	Abietinaria pulchra	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria pulchra	2						
-Abietinaria sp.	Abietinaria	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria sp.	2						
+Abietinaria pulchra	Abietinaria pulchra	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria pulchra	2		Abietinaria sp.	Abietinaria	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria sp.	2						
 Ablabesmyia annulata	Ablabesmyia annulata	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Ablabesmyia	Ablabesmyia annulata	4						
 Ablabesmyia mallochi	Ablabesmyia mallochi	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Ablabesmyia	Ablabesmyia mallochi	4						
 Ablabesmyia monilis	Ablabesmyia monilis	Metazoa	Arthropoda	Insecta	Diptera	Chironomidae	Ablabesmyia	Ablabesmyia monilis	4						
