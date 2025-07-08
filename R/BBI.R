@@ -12,8 +12,9 @@
 #' is given until a hit is found. Genera for species that agree can be put in
 #' index instead (as it should be done) 
 #'
-#' @param data A data frame containing samples as columns and taxa as rows, with
-#'   taxonomic path (or best taxon) in the first column \code{data}
+#' @param data A data frame containing samples as columns and taxa as rows by default, with
+#'   taxonomic path (or best taxon) in the first column of \code{data}. Optionally the row.names 
+#'   if the first column is numeric
 #'
 #' @return Function \code{BBI} returns a list of containing:
 #'   \enumerate{
@@ -89,6 +90,13 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
   # if data is not a data.frame
   data <- as.data.frame(data)
   
+  # If the first column is not numeric use it as names and remove
+  if(!is.numeric(data[,1])) {
+    queries=data[,1]
+    data = data[,-1]
+  }
+  else queries = row.names(data)
+  
   # Logging the search?
   if(log) log_file <- file(paste("Log_BBI_", format(Sys.time(), "%Y_%a_%b_%dth-%H.%M.%S"), ".txt", sep=""),open="a")
   
@@ -96,13 +104,11 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
   message("Removing OTUs with zero total abundance across samples:")
   if(log) cat("Removing OTUs with zero total abundance across samples:", 
               file=log_file, fill=T, append=T)
-  otus_positive = data[rowSums(data[,-1])>0,]
+  otus_positive = data[rowSums(data)>0,]
+  queries = queries[rowSums(data)>0]
   message(paste(dim(otus_positive)[1],"out of",dim(data)[1],"OTUs kept."))
   if(log) cat(paste(dim(otus_positive)[1],"out of",dim(data)[1],"OTUs kept."), 
                       file=log_file, fill=T, append=T)
-  
-  # Queries are the first column of the submitted table
-  queries = otus_positive[,1]
   
   ## import the reference BI table
   message("Reading reference table")
@@ -161,7 +167,7 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
 
   # bind all taxa, eco-weights, and composition data
   #output <- cbind(tax_n, out, dat)
-  found_otus = otus_positive[query_results$found,-1]
+  found_otus = otus_positive[query_results$found,]
   found_results = query_results[query_results$found,]
   
   ## Create taxon table summing OTU abundances and corresponding results table
@@ -222,15 +228,16 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
   
   # ISI 2018 (ignores counts and looks at p/a)
   ftt_pa = vegan::decostand(found_taxa_table, method="pa")
-  nsiN = colSums(ftt_pa[!is.na(found_results_u$NSI),])
+  isiN = colSums(ftt_pa[!is.na(found_results_u$ISI_value),])
+  #print(isiN)
   partial_isi = matrix(nrow = dim(found_taxa_table)[1], ncol=dim(found_taxa_table)[2])
   
   for (j in 1:totalTaxa) {
     # if there is a sensitivity value for NSI
-    if (!is.na(found_results_u$NSI[j])) 
-      partial_isi[j,] <- t(found_results_u$NSI[j] * ftt_pa[j,])
+    if (!is.na(found_results_u$ISI_value[j])) 
+      partial_isi[j,] <- t(found_results_u$ISI_value[j] * ftt_pa[j,])
   }
-  isi = colSums(partial_isi, na.rm=T) / nsiN
+  isi = colSums(partial_isi, na.rm=T) / isiN
   indices[2,] = isi
   
   # ITI index
