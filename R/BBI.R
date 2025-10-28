@@ -114,6 +114,7 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
   message("Reading reference table")
   if(log) cat("Reading reference table", file=log_file, fill=T, append=T)
   
+  #print(paste(system.file(package="BBI"), "/TABLE_REF.Rd", sep="")) #DEBUG
   eco_index <- read.table(paste(system.file(package="BBI"), "/TABLE_REF.Rd", sep=""), header=TRUE, sep="\t", dec=".")
   
   # Make data frame with all quieries with columns for best hit found and its index values
