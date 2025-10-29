@@ -1,10 +1,11 @@
 Package: BBI
 Type: Package
 Title: Benthic Biotic Indices Calculation from Composition Data
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: person("Tristan", "Cordier", email = "tristan.cordier@gmail.com",
-    role = c("aut", "cre"))
-Author: Tristan Cordier [aut, cre]
+    role = c("aut", "cre")), person("Anders", "Lanzén", email = "alanzen@azti.es",
+    role = c("aut"))
+Author: Tristan Cordier [aut, cre], Anders Lanzén [aut]
 Maintainer: Tristan Cordier <tristan.cordier@gmail.com>
 Depends: vegan
 Description: Set of functions to calculate Benthic Biotic Indices from
