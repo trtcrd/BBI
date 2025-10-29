@@ -115,6 +115,10 @@ Cordier T., Pawlowski J. BBI: an R package for the computation of Benthic Biotic
 
 ## Version history
 
+### version 0.4.0 ###
+
+Updated the BBI reference table, re-inserting genus rank entries that were removed from the official NSI as part of the 2018 update. Because their removal appears to significantly worsen the annotation of metabarcoding data that can often not be assigned to a species, these were re-introduced to the BBI version of NSI. The main NSI developers at NIVA have also been informed and consent. Further, a bug fix merged duplicate taxon entries.
+
 ### version 0.3.0 ###
 
 Updated the BBI reference table
