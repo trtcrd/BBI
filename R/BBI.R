@@ -2,7 +2,7 @@
 #'
 #' @description The \code{BBI} package is meant to calculate Benthic Biotic Indices from
 #' composition data, obtained whether from morphotaxonomic inventories or
-#' sequencing data. Based on reference ecological weights publicly available for
+#' seBI_metab <- BBI(metab)quencing data. Based on reference ecological weights publicly available for
 #' a set of commonly used marine biotic indices, such as AMBI (Borja et al., 2000)
 #' NSI and ISI indices (Rygg 2013).
 #'
@@ -293,6 +293,7 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
   ## Convert indices to deataframe
   idf = as.data.frame(t(indices))
   names(idf) = indexNames
+  row.names(idf) = names(found_taxa_table)
   #summary(idf)
   
   ## now we can return the dicrete assessment for each BBI

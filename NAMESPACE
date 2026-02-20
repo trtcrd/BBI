@@ -1,5 +1,6 @@
 export(BBI)
 export(nEQR)
 import(vegan)
+import(stringdist)
 importFrom("stats", "median")
 importFrom("utils", "read.table", "tail")
