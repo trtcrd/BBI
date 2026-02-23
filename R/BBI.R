@@ -324,5 +324,6 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
                  "BBIclass" = idf[,c(8:12)],
                  "table" = query_results,
                  "taxa" = queries)
+		 
   return(output)
 }
