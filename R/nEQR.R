@@ -122,7 +122,7 @@ e$nEQR.shannon <- function(z){
 nEQR <- function (data) {
   ## if bentix indices is given (it is not included in the nEQR assessment..)
   message("Bentix and ITI are being removed (if any), because not included in the nEQR assessment regulations")
-  BI_val <- data[,!(colnames(data)) %in% c("Bentix", "ITI")]
+  BI_val <- data[,(colnames(data)) %in% c("AMBI", "ISI","NSI","NQI1","Shannon")]
   ## now compute nEQR
   # preparing the output
   out_n <- cbind(BI_val, EQR = rep(0, nrow(BI_val)))
@@ -144,9 +144,10 @@ nEQR <- function (data) {
   # getting the status
   for (i in 1:length(neqr_class)) neqr_class[i] <- e$status.nEQR(out_n[i,"nEQR"])
 
+  value_and_class = data.frame(row.names = row.names(out_n), nEQR = as.numeric(out_n[,"nEQR"]), nEQR_class = neqr_class)
+
   ## preparing the output
-  output <- list("nEQR" = out_n,
-                 "nEQRclass" = cbind(nEQR = as.numeric(out_n[,"nEQR"]), nEQR_class = neqr_class))
+  output <- list("nEQR" = out_n, "nEQRclass" = value_and_class)
 
   return(output)
 }

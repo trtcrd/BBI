@@ -43,18 +43,20 @@ install_github("trtcrd/BBI")
 
 taxa|Sample1|Sample2|Sample3|Sample4|...
 --- | --- | --- | --- | ---  | ---
-Capitella capitata|11|204|100|299|...
-Paramphinome jeffreysii|3|2201|100|388|...
+Annelida;Polychaeta Capitellidae;Capitellidae;Capitella;Capitella capitata|3|2201|100|388|...
+Mollusca;Bivalvia;Adapedonta;Hiatellidae;Hiatella;Hiatella arctica|11|204|100|299|...
 Nematoda sp.|0|20|130|10|...
 Glycera alba|147|0|0|9|...
 Nemertea indet.|17|0|110|15|...
 ...|...|...|...|...
 
+Preferably taxonomic paths (taxa separated by ";","/" or ",") in order to match higher rank matches. Space rather than "_" separation is expected in species names.
 
 ## Usage example
 
-There is two functions:
+There are two functions:
 BBI calculates and return for each sample the biotic indices values and their ecological quality status.
+
 nEQR calculates and return for each sample the nEQR values and the associated normalized ecological quality status.
 
 ```
@@ -100,10 +102,10 @@ Sample4 0.3204526 0.6874270 0.6368945 0.3192493 0.5205447 0.4969136
 
 > my_nEQR$nEQR_class
         nEQR                nEQR_class
-Sample1 "0.58935817792461"  "moderate"
-Sample2 "0.570960301407608" "moderate"
-Sample3 "0.552275367599034" "moderate"
-Sample4 "0.496913603640647" "moderate"
+Sample1 0.58935817792461  "moderate"
+Sample2 0.570960301407608 "moderate"
+Sample3 0.552275367599034 "moderate"
+Sample4 0.496913603640647 "moderate"
 
 ```
 
@@ -115,7 +117,11 @@ Cordier T., Pawlowski J. BBI: an R package for the computation of Benthic Biotic
 
 ## Version history
 
-### version 0.4.1 ###
+### version 0.5.0 ###
+
+In specific queries without taxonomic path, genus is now used as query when species is unmatched. Major bugfix affecting the ability to match misspelled names. 
+
+### version 0.4.3 ###
 
 Minor bugfix to handle the new stringdist requirement and to re-introduce missing row names in returned BBI dataframe.
 

@@ -45,8 +45,9 @@ matchTaxon = function(taxText, bi_taxa, maxDist=1){
   
   # Text to substitute - trim to only taxon (after semicolon, comma or slash)
   # and remove any occurence of sp. or spp.
-  tf = tolower(as.character(taxText))
   
+  tf = as.character(taxText)
+
   if(grepl("sp",tf)) {
     tf = gsub(" sp.$","",tf)
     tf = gsub(" sp$","",tf)
@@ -69,6 +70,10 @@ matchTaxon = function(taxText, bi_taxa, maxDist=1){
   else if(grepl(",",tf)) {
     taxpath = unlist(strsplit(tf, split=",", fixed=TRUE))
   }
+  else if(grepl(" ",tf)){
+    ## Making genus rank
+    taxpath = c(unlist(strsplit(tf, split=" ",fixed=TRUE))[1],tf)
+  }
   else taxpath = tf
   
   
@@ -78,7 +83,7 @@ matchTaxon = function(taxText, bi_taxa, maxDist=1){
   while(i<length(taxpath) & is.na(bestMatch)){
     i = i+1
     searchTaxon = tail(taxpath,i)[1]
-    if(nchar(searchTaxon)>1) bestMatch = amatch(searchTaxon, bi_taxa, maxDist=maxDist)
+    if(nchar(searchTaxon)>1) bestMatch = amatch(searchTaxon, bi_taxa, method="osa", maxDist=maxDist)
   }
   
   # Return the index of the best hit
@@ -126,6 +131,7 @@ BBI <- function(data, log=FALSE, maxMatchErrors=1) {
   for (i in 1:length(queries)){
     
     # Try to match to biotic indices table
+    
     y = matchTaxon(queries[i], eco_index$query, maxDist = maxMatchErrors)
     
     if(!is.na(y)){
